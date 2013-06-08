@@ -1,0 +1,32 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName "Buff_PlanetShieldSelf"
+		mediumEffectName "Buff_PlanetShieldSelf"
+		largeEffectName "Buff_PlanetShieldSelf"
+		soundID "EFFECT_SHIELDGENERATOR_LOOP"
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 1
+entityBoolModifier "DisableAbilities"
+numFinishConditions 2
+finishCondition
+	finishConditionType "LastSpawnerNoLongerHasBuff"
+	buffTypeToQuery "BuffPlanetShieldOnPlanet"
+finishCondition
+	finishConditionType "OwnerChanged"

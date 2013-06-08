@@ -1,0 +1,114 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 3
+instantAction
+	buffInstantActionType "DoDamage"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	damage
+	Level:0 300.000000
+	Level:1 600.000000
+	Level:2 900.000000
+	Level:3 900.000000
+	damageAffectType "AFFECTS_ONLY_HULL"
+	damageType "ENERGY"
+	isDamageShared FALSE
+instantAction
+	buffInstantActionType "RemoveAntiMatter"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	antiMatter
+	Level:0 80.000000
+	Level:1 160.000000
+	Level:2 240.000000
+	Level:3 240.000000
+instantAction
+	buffInstantActionType "ApplyBuffToTargetsInRadiusWithTravel"
+	instantActionTriggerType "OnDelay"
+	delayTime 4.000000
+	buffType "Buff_E4X_SpiritChainBlastTarget"
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 5
+		object "CapitalShip"
+		object "Frigate"
+		object "PlanetModule"
+		object "StarBase"
+		object "Titan"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	range
+		Level:0 2000.000000
+		Level:1 2500.000000
+		Level:2 3000.000000
+		Level:3 3000.000000
+	maxTargetCount
+		Level:0 -1.000000
+		Level:1 -1.000000
+		Level:2 -1.000000
+		Level:3 -1.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+	travelSpeed 1000.000000
+	effectStaggerDelay 0.000000
+	hasWeaponEffects TRUE
+	weaponEffectOriginType "Targetter"
+	weaponEffectAttachInfo
+		attachType "Center"
+	weaponEffectImpactOffsetType "Center"
+	canWeaponEffectHitHull FALSE
+	canWeaponEffectHitShields FALSE
+	weaponEffectsDef
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 0.300000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PsiSpirit_Muzzle"
+		muzzleSoundMinRespawnTime 0.500000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_PSICAPITALSPIRIT_MUZZLE"
+		hitEffectName "Weapon_PsiSpirit_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPON_PSICAPITALSPIRIT_IMPACT"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPON_PSICAPITALSPIRIT_IMPACT"
+		missileTravelEffectName "Weapon_PsiSpirit_Travel"
+		missileStartTurningDistance 250.000000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 6.000000
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "AbilityCooldownRate"
+	value
+		Level:0 -0.166666
+		Level:1 -0.333333
+		Level:2 -0.500000
+		Level:3 -0.500000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 20.000000
+		Level:1 20.000000
+		Level:2 20.000000
+		Level:3 20.000000

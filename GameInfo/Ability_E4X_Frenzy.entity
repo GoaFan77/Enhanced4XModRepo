@@ -1,0 +1,36 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_FrenzySelf"
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchStartsAt0"
+improveSourceResearchSubject "RESEARCHSUBJECT_ABILITYACCESS_CLUSTERWARHEADS"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_Frenzy_NAME"
+descStringID "IDS_Ability_E4X_Frenzy_DESC"
+hudIcon "HUDICON_ABILITY_BOOSTMORALE"
+smallHudIcon "HUDICON_ABILITY_BOOSTMORALE"
+infoCardIcon ""

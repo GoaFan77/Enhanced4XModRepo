@@ -1,0 +1,60 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_DespoilPlanet"
+targetFilter
+	numOwnerships 1
+	ownership "NoOwner"
+	numObjects 1
+	object "Planet"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 10000.000000
+	Level:1 10000.000000
+	Level:2 10000.000000
+	Level:3 10000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 2
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCH_E4X_ABILITYACCESS_DespoilPlanet"
+aiUseTime "OnlyWhenEnemyFleetWillPrevail"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 40.000000
+	Level:1 40.000000
+	Level:2 40.000000
+	Level:3 40.000000
+cooldownTime
+	Level:0 180.000000
+	Level:1 180.000000
+	Level:2 180.000000
+	Level:3 180.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_DespoilPlanet_Name"
+descStringID "IDS_Ability_E4X_DespoilPlanet_DESC"
+hudIcon "HUDICON_E4X_DespoilPlanet"
+smallHudIcon "HUDICON_E4X_DespoilPlanet"
+infoCardIcon ""

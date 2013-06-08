@@ -1,0 +1,73 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 3
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	buffType "BuffUnyieldingWillInvis"
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName "TitanAbility_Cherubim_UnyieldingWill"
+		mediumEffectName "TitanAbility_Cherubim_UnyieldingWill"
+		largeEffectName "TitanAbility_Cherubim_UnyieldingWill"
+		soundID "EFFECT_UNYIELDINGWILL"
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	buffType "BuffUnyieldingWillBlock"	
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+numPeriodicActions 0
+numOverTimeActions 1
+overTimeAction
+	buffOverTimeActionType "RestoreAntiMatter"
+	antiMatterRestoreRate
+		Level:0 5.000000
+		Level:1 10.000000
+		Level:2 10.000000
+		Level:3 10.000000
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "AbilityCooldownRate"
+	value
+		Level:0 0.750000
+		Level:1 1.500000
+		Level:2 0.000000
+		Level:3 0.000000
+numEntityBoolModifiers 2
+entityBoolModifier "CannotBeDamaged"
+entityBoolModifier "DisableRegeneration"
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 90.000000
+		Level:1 180.000000
+		Level:2 0.000000
+		Level:3 0.000000

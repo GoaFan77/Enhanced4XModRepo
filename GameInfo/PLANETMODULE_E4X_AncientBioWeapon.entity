@@ -1,0 +1,72 @@
+﻿TXT
+entityType "PlanetModuleStandard"
+minZoomDistanceMult 1.750000
+ability:0 "Ability_E4X_BioWeaponStructure"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 "Ability_REQ_NeutralStructure"
+MaxAntiMatter 500.000000
+AntiMatterRestoreRate 0.400000
+numRandomDebrisLarge 4
+numRandomDebrisSmall 16
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_E4X_AncientBioWeaponStructure"
+smallHudIcon "HUDICONSMALL_E4X_AncientBioWeaponStructure"
+infoCardIcon "HUDICONSMALL_E4X_AncientBioWeaponStructure"
+planetUpgradeSlotType "Tactical"
+planetUpgradeSlotCount 0.000000
+basePrice
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+NameStringID "IDS_Frigate_E4X_BioWeaponStructure_NAME"
+DescriptionStringID "IDS_Frigate_E4X_BioWeaponStructure_DESC"
+planetModuleRoleType "CANNON"
+statCountType "ModuleCannon"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MaxHullPoints 3000.000000
+HullPointRestoreRate 2.000000
+BaseArmorPoints 5.000000
+MaxShieldPoints 0.000000
+ShieldPointRestoreRate 0.000000
+maxShieldMitigation 0.000000
+ExperiencePointsForDestroying 0.000000
+resourceExtractionType "Invalid"
+cultureSpreadRate 0.000000
+isAffectedBySimilarModuleCostResearch FALSE
+placementRadius 1700.000000
+nearPlacementDistOffset 0.000000
+farPlacementDistOffset 8000.000000
+spawnCount 1
+swapMineType ""
+angularSpeed 0.750000
+rotateSoundName "WEAPON_TECHORBITALCANNONROTATE_LOOP"
+rotateFacingType "None"
+rotateConstantly FALSE
+ShieldMeshName ""
+renderShield TRUE
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "E4X_AncientStarBaseSelect"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "PlanetModule_AncientBioWeapon"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExplosionName "PlanetModuleLarge"
+mainViewIcon "HUDICONSMALL_E4X_AncientBioWeaponStructure"
+picture "Picture_E4X_AncientBioWeaponStructure"
+minShadow 0.000000
+maxShadow 0.600000
+formationRank 3
+baseBuildTime 150.000000
+buildEffectName ""

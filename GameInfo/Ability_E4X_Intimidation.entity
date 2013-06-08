@@ -1,0 +1,73 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetsInRadius"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_Intimidation"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 4
+	object "CapitalShip"
+	object "Frigate"
+	object "PlanetModule"
+	object "StarBase"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "HasAntiMatterPool"
+range
+	Level:0 6000.000000
+	Level:1 6500.000000
+	Level:2 7000.000000
+	Level:3 7000.000000
+maxTargetCount
+	Level:0 -1.000000
+	Level:1 -1.000000
+	Level:2 -1.000000
+	Level:3 -1.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 1.000000
+	Level:1 4.000000
+	Level:2 8.000000
+	Level:3 8.000000
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 90.000000
+	Level:1 90.000000
+	Level:2 90.000000
+	Level:3 90.000000
+cooldownTime
+	Level:0 60.000000
+	Level:1 60.000000
+	Level:2 60.000000
+	Level:3 60.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_Intimidation_NAME"
+descStringID "IDS_Ability_E4X_Intimidation_DESC"
+hudIcon "HUDICON_E4X_Intimidation"
+smallHudIcon "HUDICON_E4X_Intimidation"
+infoCardIcon ""

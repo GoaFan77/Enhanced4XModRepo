@@ -1,0 +1,37 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusivePerPlayer"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "ApplyBuffToLocalOrbitBody"
+	instantActionTriggerType "OnHyperspaceExit"
+	buffType "Buff_E4X_PlanetAgriculturalPlanet"
+	targetFilter
+		numOwnerships 1
+		ownership "Player"
+		numObjects 1
+		object "Planet"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "FirstSpawnerNoLongerHasBuff"
+	buffTypeToQuery "Buff_E4X_PlanetAgriculturalSpawn"

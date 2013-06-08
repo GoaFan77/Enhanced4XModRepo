@@ -1,0 +1,70 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_AllOutAttack"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 5
+	object "Frigate"
+	object "CapitalShip"
+	object "StarBase"
+	object "PlanetModule"
+	object "Titan"
+	numSpaces 1
+	space "Normal"
+	numConstraints 2
+	constraint "NotInvulnerable"
+	constraint "HasWeapons"	
+range
+	Level:0 9000.000000
+	Level:1 9000.000000
+	Level:2 9000.000000
+	Level:3 9000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget TRUE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility TRUE
+maxNumLevels 1
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 5.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+aiUseTime "OnlyWhenEnemyFleetWillPrevail"
+aiUseTargetCondition "IsCapitalShipOrStarbaseOrTitan"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 180.000000
+	Level:1 180.000000
+	Level:2 180.000000
+	Level:3 180.000000
+cooldownTime
+	Level:0 200.000000
+	Level:1 200.000000
+	Level:2 200.000000
+	Level:3 200.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_AllOutAttack_NAME"
+descStringID "IDS_Ability_E4X_AllOutAttack_DESC"
+hudIcon "HUDICON_E4X_AllOutAttack"
+smallHudIcon "HUDICON_E4X_AllOutAttack"
+infoCardIcon ""

@@ -1,0 +1,588 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 117
+brush
+	name "HUDICON_PLANETBONUS_WEAPONSTESTGROUNDS"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 27 , 75 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_HOLLOW"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 77 , 99 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_PLAGUE"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 102 , 99 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_MOON"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 127 , 99 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_MOON+1"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 2 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SLAVES"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 102 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SEISMIC"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 2 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_LIONS"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 52 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_BIGASS"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 77 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_STONES"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 102 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_HARDASS"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 127 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REVOLT"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 152 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REVOLT+1"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 177 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_WARTORN"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 202 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_IMPUREC"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 227 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_IMPUREM"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 2 , 195 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_CONSTRUCTO"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 27 , 195 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_CONSTRUCTP"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 52 , 195 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_MILITARY"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 77 , 195 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_BLACK"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 102 , 195 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_COMM"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 127 , 195 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_GAMEOVER"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 152 , 195 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_O1"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 177 , 195 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_O2"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 202 , 195 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SMELL+"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 227 , 195 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SMELL-"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 2 , 219 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_DESIGN1"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 27 , 219 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_DESIGN2"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 52 , 219 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_RADIATION"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 77 , 219 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_FRESHWATER"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 102 , 219 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_DENSEJ"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 127 , 219 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_DENSEC"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 152 , 219 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_GALTRADE"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 177 , 219 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_CORROA"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 202 , 219 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_GRAV+"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 227 , 219 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_GRAV-"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 2 , 243 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SUBT"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 27 , 243 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SUBM"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 52 , 243 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_FLOOD"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 77 , 243 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_RESIN"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 102 , 243 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_WOOD"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 127 , 243 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SHIELD1"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 152 , 243 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SHIELD2"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 177 , 243 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_PLANTC"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 202 , 243 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_PLANTM"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 227 , 243 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_STORM"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 2 , 267 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SMUG+"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 27 , 267 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SMUG-"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 52 , 267 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_RELIGION+"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 77 , 267 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_RELIGION-"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 102 , 267 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_HOLIDAY"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 127 , 267 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_OVERGROWN"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 152 , 267 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_ATMO+"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 177 , 267 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_WOOD+"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 202 , 267 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_WOOD++"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 227 , 267 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_LOOKS+"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 2 , 291 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_LOOKS-"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 27 , 291 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_FROZEN"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 52 , 291 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_HERD"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 77 , 291 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_OUTPOST"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 102 , 291 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_PUREC"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 127 , 291 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_PUREM"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 152 , 291 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_ROBOTS+"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 177 , 291 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_ROBOTS-"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 202 , 291 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_UNSTABLE"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 227 , 291 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_RODENT+"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 2 , 315 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_RODENT-"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 27 , 315 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_ACIDATMOSPHERE"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 27 , 51 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_CAVERNSYSTEM"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 2 , 123 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_CONDUCTIVEINTERIOR"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 2 , 51 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_CRYSTALMINERS"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 27 , 123 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_DUSTSTORMS"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 127 , 3 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_GEOTHERMALHEATSOURCE"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 77 , 99 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_HELIUMATMOSPHERE"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 127 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_HIGHGRAVITY"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 52 , 123 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_HUGEGLACIERS"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 77 , 123 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_INDUSTRIALWASTELAND"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 102 , 99 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_IONICSTORMS"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 2 , 52 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_LOWGRAVITY"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 102 , 123 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_MEDICINALPLANTS"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 127 , 123 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_MEGAFAUNA"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 102 , 51 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_METALMINERS"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 27 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_METEORITECRATERS"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 127 , 99 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_PENALCOLONY"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 2 , 99 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_PIRATETREASURE"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 27 , 99 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_RAREMETALDEPOSITS0"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 52 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SALVAGEROUTPOST"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 102 , 75 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_SATELLITEINFRASTRUCTURE"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 127 , 51 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_SIGNALABSORPTION"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 52 , 195 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_SOLARENERGYRESERVES"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 52 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SPACEPONY"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 27 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SPICETRADE"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 27 , 27 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_STABLEDEBRISFIELD"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 2 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_STRICTSECURITY"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 52 , 99 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SURPLUSFOODSTUFFS"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 77 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_THAWCELLS"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 2 , 3 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_THERMALLIFT"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 2 , 27 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_TOXICFALLOUT"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 77 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_TUNDRAFARMS"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 52 , 3 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_VACATIONCENTER"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 127 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_VolcanicStablePower"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 52 , 315 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_DesertTreasure"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 77 , 315 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_DeadCommandCenter"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 102 , 315 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_IceCrystalCaverns"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 127 , 315 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_AsteroidMiningCenter"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 152 , 315 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_TerranGalacticCenter"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 77 , 51 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_SwampSuperAlgae"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 177 , 315 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_IgneousLavaTubes"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 202 , 315 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_CyroSecretLab"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 227 , 315 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_IndustrialUnderCity"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 2 , 339 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_OceanicHe3"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 27 , 339 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_GasGiantProcessingPlant"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 52 , 339 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_DesolateFactory"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 77 , 339 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_CarbonCompounds"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 127 , 339 , 22 , 22 ]
+brush
+	name "Axeldude_PLANETBONUS_FIRSTSCAN"
+	content "Simple"
+	fileName "Axeldude_PLANETBONUS_FIRSTSCAN"
+	pixelBox [ 0 , 0 , 22 , 20 ]
+brush
+	name "Axeldude_PLANETBONUS_SURVEY"
+	content "Simple"
+	fileName "Axeldude_PLANETBONUS_SURVEY"
+	pixelBox [ 0 , 0 , 22 , 20 ]
+brush
+	name "Axeldude_PLANETBONUS_DEPOSIT"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 102 , 339 , 22 , 22 ]

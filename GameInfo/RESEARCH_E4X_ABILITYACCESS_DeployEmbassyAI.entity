@@ -1,0 +1,34 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_CULTURAL_ASSISTANCE"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_CULTURAL_ASSISTANCE"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_ABILITYACCESS_CULTURALASSISTANCE_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_ABILITYACCESS_CULTURALASSISTANCE_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 0 , 20 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 0.000000
+PerLevelUpgradeTime 0.000000
+BaseCost
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+PerLevelCostIncrease
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+Tier 0
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush ""

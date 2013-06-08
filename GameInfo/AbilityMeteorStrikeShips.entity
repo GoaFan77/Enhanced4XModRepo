@@ -1,0 +1,64 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyTargettedBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffMeteorStrikeShipsSpawn"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 5
+	object "CapitalShip"
+	object "Frigate"
+	object "PlanetModule"
+	object "StarBase"
+	object "Titan"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 10000.000000
+	Level:1 10000.000000
+	Level:2 10000.000000
+	Level:3 10000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "Ability_MeteorStorm_Self"
+	mediumEffectName "Ability_MeteorStorm_Self"
+	largeEffectName "Ability_MeteorStorm_Self"
+	soundID "EFFECT_METEORATTACK"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 2
+levelSourceType "StarBaseUpgradeLevel"
+sourcePropertyType "AbilityBLevel"
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 125.000000
+	Level:1 125.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 30.000000
+	Level:1 30.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_METEORSTRIKESHIPS_NAME"
+descStringID "IDS_ABILITY_METEORSTRIKESHIPS_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_METEORSTRIKESHIPS"
+smallHudIcon "HUDICON_ABILITY_METEORSTRIKESHIPS"
+infoCardIcon ""

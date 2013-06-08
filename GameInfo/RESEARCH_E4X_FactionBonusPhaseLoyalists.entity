@@ -1,0 +1,65 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_CHARYDBISDARKFLEET"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_CHARYDBISDARKFLEET"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_E4X_FactionBonusPhaseLoyals_NAME"
+DescriptionStringID "IDS_RESEARCH_E4X_FactionBonusPhaseLoyals_DESC"
+researchWindowLocation
+	block 0
+	pos [ 0 , 1 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 0.000000
+PerLevelUpgradeTime 0.000000
+BaseCost
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+PerLevelCostIncrease
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+Tier 0
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 7
+researchModifier
+	modifierType "CapitalShipAccelerationAdjustment"
+	baseValue 0.200000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "SalvageWreckagePercent"
+	baseValue 0.150000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "ExtractionRateMetalAdjustment"
+	baseValue 0.100000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "ExtractionRateCrystalAdjustment"
+	baseValue 0.100000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "WeaponRangeAdjustment"
+	baseValue 0.150000
+	perLevelValue 0.000000
+	linkedWeaponClass "FLASHBEAM"
+researchModifier
+	modifierType "WeaponRangeAdjustment"
+	baseValue 0.150000
+	perLevelValue 0.000000
+	linkedWeaponClass "PULSEGUN"
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.100000
+	perLevelValue 0.000000
+	linkedWeaponClass "WAVE"
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"

@@ -1,0 +1,239 @@
+﻿TXT
+entityType "StarBase"
+ability:0 ""
+ability:1 ""
+ability:2 "Ability_E4X_RespawnAncientStarbaseConstructor"
+ability:3 "Ability_E4X_DestabilizeHyperspaceAncient"
+ability:4 ""
+defaultAutoAttackRange "None"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+numRandomDebrisLarge 12
+numRandomDebrisSmall 24
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_STARBASE_TECH"
+smallHudIcon "HUDICONSMALL_STARBASE_TECH"
+infoCardIcon "INFOCARDICON_STARBASE_TECH"
+minZoomDistanceMult 1.000000
+NumWeapons 3
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "GAUSS"
+	DamagePerBank:FRONT 200.000000
+	DamagePerBank:BACK 200.000000
+	DamagePerBank:LEFT 200.000000
+	DamagePerBank:RIGHT 200.000000
+	Range 9000.000000
+	PreBuffCooldownTime 6.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.350000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "Research"
+	researchPrerequisites
+			 	NumResearchPrerequisites 1
+			 	ResearchPrerequisite
+					Subject "RESEARCH_E4X_ArtifactStarBase"
+					Level 1
+				RequiredFactionNameID ""
+				RequiredCompletedResearchSubjects 0
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Tech_OrbitalDefense_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "E4X_AncientStarbaseGaussFire"
+		hitEffectName "Weapon_Tech_OrbitalDefense_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHYSICALHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Tech_OrbitalDefense_Bullet"
+Weapon
+	WeaponType "Beam"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "OVERTIME"
+		DamageType "ENERGY"
+		WeaponClassType "BEAM"
+	DamagePerBank:FRONT 312.000000
+	DamagePerBank:BACK 312.000000
+	DamagePerBank:LEFT 312.000000
+	DamagePerBank:RIGHT 312.000000
+	Range 9000.000000
+	PreBuffCooldownTime 7.750000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.250000
+	TravelSpeed 0.000000
+	Duration 3.250000
+	fireConstraintType "Research"
+	researchPrerequisites
+			 	NumResearchPrerequisites 1
+			 	ResearchPrerequisite
+					Subject "RESEARCH_E4X_ArtifactStarBase"
+					Level 1
+				RequiredFactionNameID ""
+				RequiredCompletedResearchSubjects 0
+	WeaponEffects
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_TechCapitalBeamHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound ""
+		hitEffectName "Weapon_TechCapitalBeamHeavy_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound ""
+		hitShieldsEffectSounds
+			soundCount 1
+			sound ""
+		beamEffectSounds
+			soundCount 1
+			sound "E4X_AncientStarbaseBeam"
+		beamGlowTextureName "TechStarBaseBeam_Glow"
+		beamCoreTextureName "TechStarBaseBeam_Core"
+		beamWidth 80.000000
+		beamGlowColor ffffffff
+		beamCoreColor ffffffff
+		beamTilingRate 8.000000
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "PHASEMISSILE"
+	DamagePerBank:FRONT 350.000000
+	DamagePerBank:BACK 350.000000
+	DamagePerBank:LEFT 350.000000
+	DamagePerBank:RIGHT 350.000000
+	Range 11500.000000
+	PreBuffCooldownTime 10.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.250000
+	TravelSpeed 1500.000000
+	Duration 0.000000
+	fireConstraintType "Research"
+	researchPrerequisites
+			 	NumResearchPrerequisites 1
+			 	ResearchPrerequisite
+					Subject "RESEARCH_E4X_ArtifactStarBase"
+					Level 1
+				RequiredFactionNameID ""
+				RequiredCompletedResearchSubjects 0
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 2
+		burstDelay 1.500000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PhaseCapitalMissileHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE_ALT1"
+		hitEffectName "Weapon_PhaseCapitalMissileHeavy_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_PhaseCapitalMissileHeavy_Travel"
+		missileStartTurningDistance 100.000000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 6.000000
+m_weaponIndexForRange 2
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 5
+TargetCountPerBank:BACK 5
+TargetCountPerBank:LEFT 5
+TargetCountPerBank:RIGHT 5
+canOnlyTargetStructures FALSE
+ShieldMeshName "Shield_TechStarBase"
+renderShield TRUE
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+mainViewIcon "MainViewIconStarBaseTech"
+experiencePointsForDestroying 2000.000000
+nameStringID "IDS_StarBase_E4X_Ancient_NAME"
+picture "PICTURE_STARBASETECH"
+statCountType "StarBase"
+creationSourceAbility "Ability_E4X_DeployAncientStarBase"
+maxUpgradeLevelCount 1
+UpgradeTypeCount 3
+UpgradeType "StarBaseUpgrade_E4X_Toughness"
+UpgradeType "StarBaseUpgrade_E4X_BlockColonize"
+UpgradeType "StarBaseUpgrade_E4X_TradePort"
+MeshNameInfoCount 2
+MeshNameInfo
+	meshName "StarBaseTech-Weapon2"
+	criteriaType "None"
+MeshNameInfo
+	meshName "StarBaseTech-TradeWeapon2"
+	criteriaType "StarBaseUpgradeLevel"
+	levelRequirements
+		levelRequirementCount 1
+		levelRequirement
+			upgradePropertyType "TradePortMeshLevel"
+			upgradeLevel 1
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "E4X_AncientStarBaseSelect"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+ExplosionName "StarBase0"
+formationRank 3
+minShadow 0.000000
+maxShadow 0.300000
+cargoShipType "FrigateTechTradeShip"
+maxCargoShipCount 5
+cargoShipRespawnTime 25.000000
+baseBuildTime 1.000000
+buildEffectName ""
+angularSpeed 0.500000
+rotateSoundName ""
+rotateFacingType "AwayFromOrbitBody"
+rotateConstantly FALSE
+maxAccelerationLinear 2.000000
+maxAccelerationStrafe 1.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 1.000000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 5.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+mass 10000.000000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"

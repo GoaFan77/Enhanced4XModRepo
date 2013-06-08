@@ -1,0 +1,8 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 1
+brush
+	name "Axeldude_FarStar"
+	content "Simple"
+	fileName "Axeldude_FarStar_Icon"
+	pixelBox [ 1 , 1 , 50 , 50 ]

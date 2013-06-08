@@ -1,0 +1,60 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit -1
+buffExclusivityForAIType "NotExclusive"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 2
+instantAction
+	buffInstantActionType "DoDamage"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	damage
+		Level:0 400.000000
+		Level:1 700.000000
+		Level:2 1000.000000
+		Level:3 1300.000000
+	damageAffectType "AFFECTS_SHIELDS_AND_HULL"
+	damageType "PHYSICAL"
+	isDamageShared TRUE
+instantAction
+	buffInstantActionType "PlayAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID "EFFECT_GAUSSBLAST"
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 2
+entityModifier
+	buffEntityModifierType "LinearMaxSpeed"
+	value
+		Level:0 -1.000000
+		Level:1 -1.000000
+		Level:2 -1.000000
+		Level:3 -1.000000
+entityModifier
+	buffEntityModifierType "HullPointRestoration"
+	value
+		Level:0 -0.250000
+		Level:1 -0.500000
+		Level:2 -0.750000
+		Level:3 -1.000000
+numEntityBoolModifiers 0
+numFinishConditions 2
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 10.000000
+		Level:1 10.000000
+		Level:2 10.000000
+		Level:3 10.000000
+finishCondition
+	finishConditionType "OwnerChanged"

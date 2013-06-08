@@ -1,0 +1,75 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetsInRadius"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_PhysicalDamagePlus"
+targetFilter
+	numOwnerships 1
+	ownership "Friendly"
+	numObjects 6
+	object "Fighter"
+	object "CapitalShip"
+	object "Frigate"
+	object "PlanetModule"
+	object "StarBase"
+	object "Titan"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "HasWeapons"
+range
+	Level:0 5500.000000
+	Level:1 6000.000000
+	Level:2 6500.000000
+	Level:3 6500.000000
+maxTargetCount
+	Level:0 -1.000000
+	Level:1 -1.000000
+	Level:2 -1.000000
+	Level:3 -1.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 4.000000
+	Level:2 8.000000
+	Level:3 8.000000
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "IsNotWeaponDisabled"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 85.000000
+	Level:1 85.000000
+	Level:2 85.000000
+	Level:3 85.000000
+cooldownTime
+	Level:0 60.000000
+	Level:1 60.000000
+	Level:2 60.000000
+	Level:3 60.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_PhysicalDamagePlus_NAME"
+descStringID "IDS_Ability_E4X_PhysicalDamagePlus_DESC"
+hudIcon "HUDICON_E4X_PhysicalDamagePlus"
+smallHudIcon "HUDICON_E4X_PhysicalDamagePlus"
+infoCardIcon ""

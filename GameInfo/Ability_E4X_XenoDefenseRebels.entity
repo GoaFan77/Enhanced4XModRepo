@@ -1,0 +1,40 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffXenoDefenseSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 2
+levelSourceType "ResearchWithBase"
+baseSourceResearchSubject "RESEARCHSUBJECT_ABILITYACCESS_XENODEFENSE"
+improveSourceResearchSubject "RESEARCH_E4X_EnhancedEmbassies"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ABILITYACCESS_XENODEFENSE"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_XENODEFENSE_NAME"
+descStringID "IDS_ABILITY_XENODEFENSE_DESCRIPTION"
+hudIcon "HUDICON_RESEARCHSUBJECT_GRANT_AMNESTY"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_GRANT_AMNESTY"
+infoCardIcon ""

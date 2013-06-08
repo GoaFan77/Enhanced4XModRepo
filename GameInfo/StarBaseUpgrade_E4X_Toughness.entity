@@ -1,0 +1,39 @@
+﻿TXT
+entityType "StarBaseUpgrade"
+stageCount 1
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADETECHTOUGHNESS_NAME"
+	descStringID "IDS_STARBASEUPGRADETECHTOUGHNESS_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechToughness0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechToughness0"
+	infoCardIcon ""
+	upgradePropertyCount 6
+	upgradeProperty
+		propertyType "MaxHullPoints"
+		value 25000.000000
+	upgradeProperty
+		propertyType "HullPointRestoreRate"
+		value 10.500000
+	upgradeProperty
+		propertyType "MaxShieldPoints"
+		value 20000.000000
+	upgradeProperty
+		propertyType "ShieldPointRestoreRate"
+		value 20.000000
+	upgradeProperty
+		propertyType "MaxShieldMitigation"
+		value 0.650000
+	upgradeProperty
+		propertyType "BaseArmorPoints"
+		value 20.000000
+	upgradeBoolPropertyCount 0
+xpModifier 75.000000

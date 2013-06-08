@@ -1,0 +1,43 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 10
+allowFirstSpawnerToStack TRUE
+buffExclusivityForAIType "ExclusivePerPlayer"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "DoDamage"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	damage
+	Level:0 15.000000
+	Level:1 15.000000
+	Level:2 15.000000
+	Level:3 15.000000
+	damageAffectType "AFFECTS_ONLY_HULL"
+	damageType "PHYSICAL"
+	isDamageShared FALSE
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "HullPointRestoreRate"
+	value
+		Level:0 -0.100000
+		Level:1 -0.100000
+		Level:2 -0.100000
+		Level:3 -0.100000
+numEntityBoolModifiers 0
+numFinishConditions 2
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 30.000000
+		Level:1 30.000000
+		Level:2 30.000000
+		Level:3 30.000000
+finishCondition
+	finishConditionType "OwnerChanged"

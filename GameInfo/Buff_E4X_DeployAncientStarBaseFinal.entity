@@ -1,0 +1,44 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusivePerPlayer"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 2
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName "Buff_StealAntiMatter"
+		mediumEffectName "Buff_StealAntiMatter"
+		largeEffectName "Buff_StealAntiMatter"
+		soundID "E4X_AncientAmbience2"
+instantAction
+	buffInstantActionType "CreateFrigate"
+	instantActionTriggerType "OnOwnerDeath"
+	frigateType "Frigate_E4X_AncientStarBase"
+	numFrigates
+		Level:0 1.000000
+		Level:1 1.000000
+		Level:2 1.000000
+		Level:3 1.000000
+	matchOwnerDamageState FALSE
+	impulse 350000.000000
+	expiryTime
+		Level:0 -1.000000
+		Level:1 180.000000
+		Level:2 180.000000
+		Level:3 180.000000
+	spawnFrigateSoundID ""
+	postSpawnBuff "Buff_E4X_ConstructorDisable"
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 0

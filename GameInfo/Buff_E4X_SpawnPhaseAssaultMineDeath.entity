@@ -1,0 +1,46 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "PerPlayer"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusivePerPlayer"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 4
+instantAction
+	buffInstantActionType "ApplyBuffToLastSpawnerNoFilterNoRange"
+	instantActionTriggerType "OnCondition"
+	instantActionConditionType "IfOwnerHasBuff"
+	conditionBuffType "BuffPhaseExplosiveMineDetonateTarget"
+	conditionBuffShortName ""
+	buffType "Buff_E4X_SpawnPhaseAssaultMineRemove"
+instantAction
+	buffInstantActionType "ApplyBuffToLastSpawnerNoFilterNoRange"
+	instantActionTriggerType "OnCondition"
+	instantActionConditionType "IfOwnerHasBuff"
+	conditionBuffType "BuffPsiSpaceMineDetonateTarget"
+	conditionBuffShortName ""
+	buffType "Buff_E4X_SpawnPhaseAssaultMineRemove"
+instantAction
+	buffInstantActionType "ApplyBuffToLastSpawnerNoFilterNoRange"
+	instantActionTriggerType "OnCondition"
+	instantActionConditionType "IfOwnerHasBuff"
+	conditionBuffType "BuffTechSpaceMineDetonateTarget"
+	conditionBuffShortName ""
+	buffType "Buff_E4X_SpawnPhaseAssaultMineRemove"
+instantAction
+	buffInstantActionType "MakeDead"
+	instantActionTriggerType "OnBuffFinish"
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 3
+finishCondition
+	finishConditionType "OwnerChanged"
+finishCondition
+	finishConditionType "AnyOnConditionInstantActionDone"
+finishCondition
+	finishConditionType "LastSpawnerNoLongerHasBuff"
+	buffTypeToQuery "Buff_E4X_SpawnPhaseAssaultMine"

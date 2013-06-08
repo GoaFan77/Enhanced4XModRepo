@@ -1,0 +1,29 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 2
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "RemoveBuffOfType"
+	instantActionTriggerType "OnBuffFinish"
+	buffTypeToRemove "Buff_E4X_TechCivicLabSpawner"
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "TradeIncome"
+	value
+		Level:0 0.025000
+		Level:1 0.025000
+		Level:2 0.025000
+		Level:3 0.025000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "FirstSpawnerNoLongerHasBuff"
+	buffTypeToQuery "Buff_E4X_TechCivicLabSelf"

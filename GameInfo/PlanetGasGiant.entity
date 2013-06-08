@@ -1,0 +1,219 @@
+﻿TXT
+entityType "Planet"
+meshInfoCount 5
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_ICEGIANT"
+	asteroidTemplate "Empty"
+	dustCloudTemplate "Empty"
+	meshName "Axeldude_PLANET_IceGiant_0"
+	cloudColor 0
+	nullMeshRadius 0.000000
+	nullMeshParticleEffect ""
+	hudIcon "Axeldude_PLANET_IceGiant_0"
+	smallHudIcon "Axeldude_PLANET_IceGiant_0"
+	infoCardIcon "Axeldude_PLANET_IceGiant_0"
+	mainViewIcon "Axeldude_PLANET_IceGiant_0"
+	undetectedMainViewIcon "Axeldude_PLANET_IceGiant_0_Unknown"
+	picture ""
+	shouldPrefer FALSE
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_GASGIANT"
+	asteroidTemplate "Empty"
+	dustCloudTemplate "Empty"
+	meshName "Axeldude_PLANET_GasGiant_0"
+	cloudColor 0
+	nullMeshRadius 0.000000
+	nullMeshParticleEffect ""
+	hudIcon "Axeldude_PLANET_GasGiant_0"
+	smallHudIcon "Axeldude_PLANET_GasGiant_0"
+	infoCardIcon "Axeldude_PLANET_GasGiant_0"
+	mainViewIcon "Axeldude_PLANET_GasGiant_0"
+	undetectedMainViewIcon "Axeldude_PLANET_GasGiant_0_Unknown"
+	picture ""
+	shouldPrefer FALSE
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_ICEGIANT"
+	asteroidTemplate "Ring"
+	dustCloudTemplate "GrittyDense"
+	meshName "Planet_Gas_4"
+	cloudColor 0
+	nullMeshRadius 0.000000
+	nullMeshParticleEffect ""
+	hudIcon "HUDICON_PLANET_GASGIANT4"
+	smallHudIcon "HUDICONSMALL_PLANET_GASGIANT4"
+	infoCardIcon "INFOCARDICON_PLANET_GASGIANT4"
+	mainViewIcon "MAINVIEWICON_PLANET_GASGIANT4"
+	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_GASGIANT4"
+	picture "PICTURE_PLANET_GASGIANT4"
+	shouldPrefer FALSE
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_GASGIANT"
+	asteroidTemplate "Empty"
+	dustCloudTemplate "Empty"
+	meshName "Axeldude_PLANET_GasGiant_3"
+	cloudColor 0
+	nullMeshRadius 0.000000
+	nullMeshParticleEffect ""
+	hudIcon "Axeldude_PLANET_GasGiant_3"
+	smallHudIcon "Axeldude_PLANET_GasGiant_3"
+	infoCardIcon "Axeldude_PLANET_GasGiant_3"
+	mainViewIcon "Axeldude_PLANET_GasGiant_3"
+	undetectedMainViewIcon "Axeldude_PLANET_GasGiant_3_Unknown"
+	picture ""
+	shouldPrefer FALSE
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_GASGIANT"
+	asteroidTemplate "Empty"
+	dustCloudTemplate "Empty"
+	meshName "Axeldude_PLANET_GasGiant_2"
+	cloudColor 0
+	nullMeshRadius 0.000000
+	nullMeshParticleEffect ""
+	hudIcon "Axeldude_PLANET_GasGiant_2"
+	smallHudIcon "Axeldude_PLANET_GasGiant_2"
+	infoCardIcon "Axeldude_PLANET_GasGiant_2"
+	mainViewIcon "Axeldude_PLANET_GasGiant_2"
+	undetectedMainViewIcon "Axeldude_PLANET_GasGiant_2_Unknown"
+	picture ""
+	shouldPrefer FALSE
+minZoomDistanceMult 2.000000
+glowColor 55ffffff
+ringColor ffffffff
+cloudLayerTextureName ""
+planetResourceSetupInfo
+	asteroidSpawnAngleVariance 3.141593
+	totalMaxResourceAsteroids 4
+	metalResourceAsteroidSetup
+		minCount 0
+		maxCount 0
+		extractionRate 0.000000
+		refineryRate 0.000000
+		maxRefineryCount 0
+	crystalResourceAsteroidSetup
+		minCount 0
+		maxCount 0
+		extractionRate 0.000000
+		refineryRate 0.000000
+		maxRefineryCount 0
+	neutralMetalResourceAsteroidSetup
+		minCount 0
+		maxCount 2
+		extractionRate 0.533333
+		refineryRate 0.080000
+		maxRefineryCount 4
+	neutralCrystalResourceAsteroidSetup
+		minCount 1
+		maxCount 2
+		extractionRate 0.533333
+		refineryRate 0.080000
+		maxRefineryCount 4
+isAsteroid FALSE
+healthRegenRate 6.000000
+planetUpgradeDef
+	path:Population
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 5.000000
+			populationGrowthRate 0.000000
+			developmentTaxPenalty 0.000000
+	path:CivilianModules
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxModuleSlotCount:Civilian 4.000000
+			maxModuleConstructorCount 0
+	path:TacticalModules
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxModuleSlotCount:Tactical 8.000000
+			maxModuleConstructorCount 1
+	path:Home
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			isHomePlanet FALSE
+			homePlanetTaxRateBonus 0.000000
+			homePlanetMetalIncomeBonus 0.000000
+			homePlanetCrystalIncomeBonus 0.000000
+	path:ArtifactLevel
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+	path:Infrastructure
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxHealth 1.000000
+ringsChance 0.150000
+isColonizable TRUE
+planetTypeForResearch "Uncolonizable"
+skyboxScalarsCount 5
+skyboxScalars
+	diffuseScalar 0.910000
+	ambientScalar 0.150000
+skyboxScalars
+	diffuseScalar 0.670000
+	ambientScalar 0.400000
+skyboxScalars
+	diffuseScalar 0.800000
+	ambientScalar 0.400000
+skyboxScalars
+	diffuseScalar 0.550000
+	ambientScalar 0.600000
+skyboxScalars
+	diffuseScalar 0.720000
+	ambientScalar 0.800000
+requiredPlanetBonusesCount 0
+possibleRandomPlanetBonusesCount 0
+ambienceSoundID ""
+renderAsVolcanic FALSE
+planetRuinDef
+	ruinPlanetType "PlanetGasGiant"
+	attachType "Center"
+	effectName "StripToTheCore_Planet_TerranHome"
+	startTime 9.000000
+	soundID "EFFECT_STRIPPEDTOTHECORE"
+	creditsOnStrippedToTheCore 0.000000
+	metalOnStrippedToTheCore 0.000000
+	crystalOnStrippedToTheCore 0.000000
+	extraScuttleTimeOnStrip 60.000000
+ShieldMeshName "Shield_PlanetSmall"
+renderShield TRUE
+moveAreaRadius 48000.000000
+hyperspaceExitRadius 40000.000000
+isWormhole FALSE
+maxStarBaseCountPerPlayer 1
+maxSpaceMineCountPerPlayer 15
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 "AbilityUnstableGas"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

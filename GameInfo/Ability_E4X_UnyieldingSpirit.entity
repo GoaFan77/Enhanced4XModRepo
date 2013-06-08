@@ -1,0 +1,56 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_UnyieldingSpirit"
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "Ability_LastStandActivate"
+	mediumEffectName "Ability_LastStandActivate"
+	largeEffectName "Ability_LastStandActivate"
+	soundID "EFFECT_LASTSTAND"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility TRUE
+maxNumLevels 1
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 5.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+aiUseTime "OnlyWhenEnemyFleetWillPrevail"
+aiUseTargetCondition "HullDamageExceedsAmount"
+onlyAutoCastWhenTargetHullDamageExceedsAmount
+	Level:0 1000.000000
+	Level:1 1000.000000
+	Level:2 1000.000000
+	Level:3 1000.000000
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 125.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 120.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_UnyieldingSpirit_NAME"
+descStringID "IDS_Ability_E4X_UnyieldingSpirit_DESC"
+hudIcon "HUDICON_E4X_UnyieldingSpirit"
+smallHudIcon "HUDICON_E4X_UnyieldingSpirit"
+infoCardIcon ""

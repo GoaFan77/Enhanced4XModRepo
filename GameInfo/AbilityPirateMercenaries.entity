@@ -1,0 +1,67 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffPirateMercinaries"
+targetFilter
+	numOwnerships 1
+	ownership "Player"
+	numObjects 1
+	object "Planet"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 -1.000000
+	Level:1 -1.000000
+	Level:2 -1.000000
+	Level:3 -1.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCHSUBJECT_PIRATE_MERCENARIES"
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "ResourcesAndMustHaveShipSlots"
+resourceCost
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+requiredShipSlots
+	Level:0 75.000000
+	Level:1 75.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 600.000000
+	Level:1 600.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_PIRATE_MERCENARIES"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_PIRATEMERCENARIES_NAME"
+descStringID "IDS_ABILTIY_PIRATEMERCENARIES_DESCRIPTION"
+hudIcon "HUDICON_RESEARCHSUBJECT_PIRATEMERCENARIES"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_PIRATEMERCENARIES"
+infoCardIcon ""

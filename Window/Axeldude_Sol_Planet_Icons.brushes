@@ -1,0 +1,148 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 29
+brush
+	name "Axeldude_SOL_System_Saturn_Unknown"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 157 , 274 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Saturn"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 157 , 219 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Uranus"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 105 , 121 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Uranus_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 105 , 181 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Neptune"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 157 , 121 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Neptune_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 157 , 181 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Jupiter_Unknown"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 1 , 274 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Jupiter"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 1 , 219 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Mercury_Unknown"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 157 , 164 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Mercury"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 157 , 109 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Venus_Unknown"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 105 , 164 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Venus"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 105 , 109 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Mars_Unknown"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 53 , 164 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Mars"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 53 , 109 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Terra_Unknown"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 1 , 164 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Terra"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 1 , 109 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Titan_Unknown"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 261 , 54 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Titan"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 261 , 0 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Io_Unknown"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 209 , 54 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Io"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 209 , 0 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Callisto_Unknown"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 157 , 54 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Callisto"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 157 , 0 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Europa_Unknown"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 105 , 54 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Europa"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 105 , 0 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Ganymede_Unknown"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 53 , 54 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Ganymede"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 53 , 0 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Luna_Unknown"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 1 , 54 , 50 , 50 ]
+brush
+	name "Axeldude_SOL_System_Luna"
+	content "Simple"
+	fileName "Axeldude_SOL_System_Icons"
+	pixelBox [ 1 , 0 , 50 , 50 ]
+brush
+	name "HUDICON_RESOURCEASTEROIDMETAL"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 969 , 902 , 29 , 29 ]

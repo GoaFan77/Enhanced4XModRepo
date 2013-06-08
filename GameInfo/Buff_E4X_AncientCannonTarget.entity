@@ -1,0 +1,97 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit -1
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 3
+instantAction
+	buffInstantActionType "DoDamageToPlanet"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	damage
+		Level:0 4000.000000
+		Level:1 0.000000
+		Level:2 0.000000
+		Level:3 0.000000
+	populationKilled
+		Level:0 70.000000
+		Level:1 0.000000
+		Level:2 0.000000
+		Level:3 0.000000
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	buffType "Buff_E4X_AncientCannonPlanet"
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	buffType "Buff_E4X_AncientCannonPlanetSound"
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+numPeriodicActions 1
+periodicAction
+	actionCountType "Infinite"
+	actionIntervalTime
+		Level:0 2.500000
+		Level:1 2.500000
+		Level:2 2.500000
+		Level:3 2.500000
+	buffInstantActionType "ApplyBuffToTargetsAtOrbitBody"
+	instantActionTriggerType "AlwaysPerform"
+	buffType "Buff_E4X_AncientCannonExtractors"
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 1
+		object "PlanetModule"
+		numSpaces 1
+		space "Normal"
+		numConstraints 1
+		constraint "IsResourceExtractor"
+	maxTargetCount
+		Level:0 -1.000000
+		Level:1 -1.000000
+		Level:2 -1.000000
+		Level:3 -1.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+numOverTimeActions 0
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "PlanetBombingDamageAbsorption"
+	value
+		Level:0 -0.200000
+		Level:1 0.000000
+		Level:2 0.000000
+		Level:3 0.000000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 180.000000
+		Level:1 0.000000
+		Level:2 0.000000
+		Level:3 0.000000

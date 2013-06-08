@@ -1,0 +1,74 @@
+TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetsInRadius"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_SeedFightersTarget"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 1
+	object "Fighter"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 4000.000000
+	Level:1 4000.000000
+	Level:2 4000.000000
+	Level:3 4000.000000
+maxTargetCount
+	Level:0 -1.000000
+	Level:1 -1.000000
+	Level:2 -1.000000
+	Level:3 -1.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName "CapitalAbility_NanoHullRepairActivate"
+	mediumEffectName "CapitalAbility_NanoHullRepairActivate"
+	largeEffectName "CapitalAbility_NanoHullRepairActivate"
+	soundID "EFFECT_NANOHULLREPAIR"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 2.000000
+	Level:1 5.000000
+	Level:2 8.000000
+	Level:3 8.000000
+aiUseTime "OnlyWhenManyTargetsInRange"
+onlyAutoCastWhenTargetCountExceedsAmount
+	Level:0 5.000000
+	Level:1 5.000000
+	Level:2 5.000000
+	Level:3 5.000000
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 90.000000
+	Level:1 90.000000
+	Level:2 90.000000
+	Level:3 90.000000
+cooldownTime
+	Level:0 30.000000
+	Level:1 30.000000
+	Level:2 30.000000
+	Level:3 30.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_SeedFighter_NAME"
+descStringID "IDS_Ability_E4X_SeedFighter_DESC"
+hudIcon "HUDICON_E4X_SeedFighers"
+smallHudIcon "HUDICON_E4X_SeedFighers"
+infoCardIcon ""

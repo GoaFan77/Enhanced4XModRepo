@@ -1,0 +1,78 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 3
+instantAction
+	buffInstantActionType "ApplyBuffToTargetWithTravelNoFilterNoRange"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	buffType "Buff_E4X_SpiritChainBlastSpawn"
+	travelSpeed 1000.000000
+	hasWeaponEffects TRUE
+	weaponEffectOriginType "Targetter"
+	weaponEffectAttachInfo
+		attachType "Ability"
+		abilityIndex 2
+	weaponEffectImpactOffsetType "Center"
+	canWeaponEffectHitHull FALSE
+	canWeaponEffectHitShields FALSE
+	weaponEffectsDef
+		weaponType "Missile"
+		burstCount 4
+		burstDelay 0.600000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PsiSpirit_Muzzle"
+		muzzleSoundMinRespawnTime 0.500000
+		muzzleSounds
+			soundCount 1
+			sound "WEAPON_PSICAPITALSPIRIT_MUZZLE"
+		hitEffectName "Weapon_PsiSpirit_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPON_PSICAPITALSPIRIT_IMPACT"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPON_PSICAPITALSPIRIT_IMPACT"
+		missileTravelEffectName "Weapon_PsiSpirit_Travel"
+		missileStartTurningDistance 250.000000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 6.000000
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.300000
+	buffType "Buff_E4X_SpiritChainBlastCosmetic"
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.600000
+	buffType "Buff_E4X_SpiritChainBlastCosmetic"
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 2
+finishCondition
+	finishConditionType "AllOnDelayInstantActionsDone"
+finishCondition
+	finishConditionType "OwnerChanged"

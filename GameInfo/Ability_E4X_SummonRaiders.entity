@@ -1,0 +1,96 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "SpawnShipsAtPlanet"
+instantActionTriggerType "AlwaysPerform"
+spawnShipsLevelCount 2
+spawnShips
+	minFleetPoints 0.000000
+	maxFleetPoints 100.000000
+	requiredShipCount 5
+	requiredShip
+		type "Frigate_E4X_PhaseLightSpawn"
+		minCount 2
+		maxCount 4
+	requiredShip
+		type "Frigate_E4X_PhaseAntiFighterSpawn"
+		minCount 2
+		maxCount 3
+	requiredShip
+		type "Frigate_E4X_PhaseLongRangeSpawn"
+		minCount 2
+		maxCount 3
+	requiredShip
+		type "Frigate_E4X_PhaseSiegeSpawn"
+		minCount 1
+		maxCount 1
+	requiredShip
+		type "Frigate_E4X_PhaseHeavySpawn"
+		minCount 2
+		maxCount 2
+	randomShipCount 0
+spawnShips
+	minFleetPoints 0.000000
+	maxFleetPoints 100.000000
+	requiredShipCount 5
+	requiredShip
+		type "Frigate_E4X_PhaseLightSpawn"
+		minCount 2
+		maxCount 4
+	requiredShip
+		type "Frigate_E4X_PhaseAntiFighterSpawn"
+		minCount 2
+		maxCount 3
+	requiredShip
+		type "Frigate_E4X_PhaseLongRangeSpawn"
+		minCount 2
+		maxCount 3
+	requiredShip
+		type "Frigate_E4X_PhaseSiegeSpawn"
+		minCount 1
+		maxCount 1
+	requiredShip
+		type "Frigate_E4X_PhaseHeavySpawn"
+		minCount 2
+		maxCount 2
+	randomShipCount 0
+spawnShipsArrivalDelayTime 10.000000
+spawnShipsHyperspaceSpawnType "FleetBeacon"	
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility TRUE
+maxNumLevels 2
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 3.000000
+	Level:1 8.000000
+	Level:2 9.000000
+	Level:3 9.000000
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 250.000000
+	Level:1 250.000000
+	Level:2 250.000000
+	Level:3 250.000000
+cooldownTime
+	Level:0 300.000000
+	Level:1 150.000000
+	Level:2 150.000000
+	Level:3 150.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_SummonRaiders_NAME"
+descStringID "IDS_Ability_E4X_SummonRaiders_DESC"
+hudIcon "HUDICON_E4X_SummonRaiders"
+smallHudIcon "HUDICON_E4X_SummonRaiders"
+infoCardIcon ""

@@ -1,0 +1,44 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusivePerPlayer"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "SpawnShipsAtPlanet"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	spawnShipsLevelCount 1
+	spawnShips
+		minFleetPoints 75.000000
+		maxFleetPoints 125.000000
+		requiredShipCount 0
+		randomShipCount 5
+		randomShip
+			type "FrigatePirateScout"
+			weight 4
+		randomShip
+			type "FrigatePirateSiege"
+			weight 2
+		randomShip
+			type "FrigatePirateHeavy"
+			weight 5
+		randomShip
+			type "FrigatePirateAntiFighter"
+			weight 3
+		randomShip
+			type "FrigatePirateMedium"
+			weight 6
+	spawnShipsArrivalDelayTime 7.000000
+	spawnShipsHyperspaceSpawnType "PirateRaid"
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "AllOnDelayInstantActionsDone"

@@ -1,0 +1,111 @@
+﻿TXT
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn FALSE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault FALSE
+canBomb FALSE
+typeCount 1
+frigateRoleType "Envoy"
+statCountType "FrigateEnvoy"
+mainViewIcon "HUDICONSMALL_FRIGATE_PHASEENVOY"
+picture "PICTURE_FRIGATE_PHASEENVOY"
+NameStringID "IDS_FRIGATE_PHASEENVOY_NAME"
+DescriptionStringID "IDS_FRIGATE_PHASEENVOY_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
+basePrice
+	credits 550.000000
+	metal 70.000000
+	crystal 10.000000
+slotCount 8.000000
+BuildTime 63.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 8.000000
+MaxHullPoints 850.000000
+MaxShieldPoints 500.000000
+HullPointRestoreRate 1.000000
+ShieldPointRestoreRate 1.000000
+BaseArmorPoints 0.000000
+maxMitigation 0.600000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ENVOY_PROTOTYPE_VASARI"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 4
+numSpecificDebris 0
+armorType "Light"
+hudIcon "HUDICON_FRIGATE_PHASEENVOY"
+smallHudIcon "HUDICONSMALL_FRIGATE_PHASEENVOY"
+infoCardIcon "INFOCARDICON_FRIGATE_PHASEENVOY"
+minZoomDistanceMult 4.000000
+NumWeapons 0
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 0
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 10000.000000
+ShieldMeshName "Shield_PhaseEnvoy"
+renderShield TRUE
+maxAccelerationLinear 340.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 13.000000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 500.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_PHASEENVOY_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "FRIGATE_PHASEENVOY_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_PHASEENVOY_ONGENERALORDERISSUED_1"
+SoundID "FRIGATE_PHASEENVOY_ONGENERALORDERISSUED_2"
+NumSoundsFor:ONSELECTED 3
+SoundID "FRIGATE_PHASEENVOY_ONSELECTED_0"
+SoundID "FRIGATE_PHASEENVOY_ONSELECTED_1"
+SoundID "FRIGATE_PHASEENVOY_ONSELECTED_2"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "FRIGATE_PHASEENVOY_ONSTARTPHASEJUMP"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Frigate_PhaseEnvoy"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_FrigatePhaseLight"
+ExplosionName "Frigate1"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_TECHSUPPORTSHIP"
+ability:0 "AbilityDiplomaticImmunity"
+ability:1 "Ability_E4X_DeployEmbassyPhaseRebels"
+ability:2 "Ability_E4X_DeployProbeMine"
+ability:3 "Ability_E4X_MetalNanites"
+ability:4 "Ability_E4X_FreezePopulation"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 2
+minShadow 0.000000
+maxShadow 0.600000
+allegianceDecreasePerRoundtrip 0.050000

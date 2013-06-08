@@ -1,0 +1,158 @@
+﻿TXT
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 1
+frigateRoleType "Lrm"
+statCountType "FrigateLongRange"
+mainViewIcon "MAINVIEWICON_FRIGATE_TECHLONGRANGE"
+picture "PICTURE_FRIGATE_TECHLONGRANGE"
+NameStringID "IDS_FRIGATE_TECHLONGRANGE_NAME"
+DescriptionStringID "IDS_FRIGATE_TECHLONGRANGE_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_LONGRANGE"
+basePrice
+	credits 275.000000
+	metal 45.000000
+	crystal 25.000000
+slotCount 4.000000
+BuildTime 25.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 30.000000
+MaxHullPoints 500.000000
+MaxShieldPoints 280.000000
+HullPointRestoreRate 1.000000
+ShieldPointRestoreRate 1.000000
+BaseArmorPoints 1.000000
+maxMitigation 0.600000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_FRIGATEACCESS_LONGRANGETECH"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 5
+numSpecificDebris 0
+armorType "Light"
+hudIcon "HUDICON_FRIGATE_TECHLONGRANGE"
+smallHudIcon "HUDICONSMALL_FRIGATE_TECHLONGRANGE"
+infoCardIcon "INFOCARDICON_FRIGATE_TECHLONGRANGE"
+minZoomDistanceMult 5.000000
+NumWeapons 1
+Weapon
+	WeaponType "Missile"
+	damageEnums
+		AttackType "ANTIMEDIUM"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 71.500000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 9800.000000
+	PreBuffCooldownTime 6.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.150000
+	TravelSpeed 1000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 0.600000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Tech_MissileFrigate_Muzzle"
+		muzzleSoundMinRespawnTime 0.500000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
+		hitEffectName "Weapon_Tech_MissileFrigate_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_Tech_MissileFrigate_Travel"
+		missileStartTurningDistance 250.000000
+		missileSlowTurnRate 0.708997
+		missileMaxSlowTurnTime 6.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName "Shield_FrigateTechLongRange"
+renderShield TRUE
+maxAccelerationLinear 150.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 3.300000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 500.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "FRIGATE_TECHLONGRANGE_ONATTACKORDERISSUED_0"
+SoundID "FRIGATE_TECHLONGRANGE_ONATTACKORDERISSUED_1"
+SoundID "FRIGATE_TECHLONGRANGE_ONATTACKORDERISSUED_2"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_TECHLONGRANGE_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "FRIGATE_TECHLONGRANGE_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_TECHLONGRANGE_ONGENERALORDERISSUED_1"
+SoundID "FRIGATE_TECHLONGRANGE_ONGENERALORDERISSUED_2"
+NumSoundsFor:ONSELECTED 4
+SoundID "FRIGATE_TECHLONGRANGE_ONSELECTED_0"
+SoundID "FRIGATE_TECHLONGRANGE_ONSELECTED_1"
+SoundID "FRIGATE_TECHLONGRANGE_ONSELECTED_2"
+SoundID "FRIGATE_TECHLONGRANGE_ONSELECTED_3"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "FRIGATE_TECHLONGRANGE_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Frigate_TechLongRange"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_FrigateTechLongRange"
+ExplosionName "Frigate1"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_TECHCAPITALSHIP"
+ability:0 "AbilityClusterWarheads"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 "Ability_E4X_Frenzy"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 2
+minShadow 0.100000
+maxShadow 0.800000
+allegianceDecreasePerRoundtrip 0.000000

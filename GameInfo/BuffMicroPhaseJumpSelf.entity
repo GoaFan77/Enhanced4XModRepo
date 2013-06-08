@@ -1,0 +1,40 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable TRUE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "TeleportTowardsArbitraryTarget"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 2
+entityModifier
+	buffEntityModifierType "AngularThrust"
+	value
+		Level:0 0.333333
+		Level:1 0.666666
+		Level:2 1.000000
+		Level:3 1.333333
+entityModifier
+	buffEntityModifierType "HyperspaceChargeUpRate"
+	value
+		Level:0 0.150000
+		Level:1 0.300000
+		Level:2 0.450000
+		Level:3 0.600000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 30.000000
+		Level:1 30.000000
+		Level:2 30.000000
+		Level:3 30.000000

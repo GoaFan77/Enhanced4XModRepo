@@ -1,0 +1,59 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_ABILITY_FLEETBEACON"
+smallHudIcon "HUDICON_ABILITY_FLEETBEACON"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_E4X_FactionBonusPhaseRebels_NAME"
+DescriptionStringID "IDS_RESEARCH_E4X_FactionBonusPhaseRebels_DESC"
+researchWindowLocation
+	block 0
+	pos [ 0 , 1 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 0.000000
+PerLevelUpgradeTime 0.000000
+BaseCost
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+PerLevelCostIncrease
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+Tier 0
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 6
+researchModifier
+	modifierType "HyperspaceInSystemSpeedAdjustment"
+	baseValue 0.150000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "SelfRelationshipBonus"
+	baseValue 1.000000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "RelationshipBonus"
+	baseValue 1.000000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "StarBaseArmorAdjustment"
+	baseValue 1.000000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "StarBaseWeaponDamageAdjustment"
+	baseValue 0.050000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "WeaponRangeAdjustment"
+	baseValue 0.150000
+	perLevelValue 0.000000
+	linkedWeaponClass "PHASEMISSILE"
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"

@@ -1,0 +1,16 @@
+TXT
+starWidth 3.0
+starHeight 3.0
+starDistance 175.0
+starBlinksPerSecond 0.0
+starFadeDuration 0.0
+starTextureName:0 "StarscapeStar0"
+starTextureName:1 "StarscapeStar1"
+starTextureName:2 "StarscapeStar2"
+starTextureName:3 "StarscapeStar1"
+starTextureName:4 "StarscapeStar0"
+starTextureName:5 "StarscapeStar2"
+starTextureName:6 "StarscapeStar0"
+starTextureName:7 "StarscapeStar2"
+starTextureName:8 "StarscapeStar0"
+starTextureName:9 "StarscapeStar0"

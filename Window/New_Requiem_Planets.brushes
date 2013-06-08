@@ -1,0 +1,1123 @@
+TXT
+onlyLoadOnDemand FALSE
+brushCount 224
+brush
+	name "HUDICON_PLANET_IGNEOUS1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 2 , 77 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_IGNEOUS1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 55 , 79 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_IGNEOUS1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 89 , 79 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_IGNEOUS1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 2 , 77 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_IGNEOUS1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 119 , 77 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_IGNEOUS1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 2 , 1 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_DESOLATE3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 171 , 77 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_DESOLATE3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 224 , 79 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_DESOLATE3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 258 , 79 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_DESOLATE3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 171 , 77 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_DESOLATE3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 288 , 77 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_DESOLATE3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 171 , 1 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_IGNEOUS2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 340 , 77 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_IGNEOUS2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 393 , 79 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_IGNEOUS2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 427 , 79 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_IGNEOUS2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 340 , 77 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_IGNEOUS2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 457 , 77 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_IGNEOUS2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 340 , 1 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_GASGIANT3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 509 , 77 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_GASGIANT3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 562 , 79 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_GASGIANT3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 596 , 79 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_GASGIANT3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 509 , 77 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_GASGIANT3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 626 , 77 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_GASGIANT3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 509 , 1 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_DESOLATE2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 678 , 77 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_DESOLATE2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 731 , 79 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_DESOLATE2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 765 , 79 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_DESOLATE2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 678 , 77 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_DESOLATE2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 795 , 77 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_DESOLATE2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 678 , 1 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_NEW06"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 847 , 77 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_NEW06"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 900 , 79 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_NEW06"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 934 , 79 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_NEW06"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 847 , 77 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_NEW06"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 964 , 77 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_NEW06"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 847 , 1 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_GASGIANT2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 2 , 205 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_GASGIANT2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 55 , 207 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_GASGIANT2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 89 , 207 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_GASGIANT2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 2 , 205 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_GASGIANT2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 119 , 205 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_GASGIANT2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 2 , 129 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_CYRO2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 171 , 205 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_CYRO2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 224 , 207 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_CYRO2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 258 , 207 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_CYRO2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 171 , 205 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_CYRO2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 288 , 205 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_CYRO2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 171 , 129 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_CYRO1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 340 , 205 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_CYRO1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 393 , 207 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_CYRO1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 427 , 207 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_CYRO1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 340 , 205 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_CYRO1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 457 , 205 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_CYRO1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 340 , 129 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_NEW10"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 509 , 205 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_NEW10"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 562 , 207 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_NEW10"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 596 , 207 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_NEW10"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 509 , 205 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_NEW10"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 626 , 205 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_NEW10"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 509 , 129 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_NEW11"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 678 , 205 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_NEW11"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 731 , 207 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_NEW11"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 765 , 207 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_NEW11"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 678 , 205 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_NEW11"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 795 , 205 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_NEW11"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 678 , 129 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_NEW12"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 847 , 205 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_NEW12"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 900 , 207 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_NEW12"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 934 , 207 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_NEW12"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 847 , 205 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_NEW12"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 964 , 205 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_NEW12"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 847 , 129 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_IGNEOUS3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 2 , 333 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_IGNEOUS3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 55 , 335 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_IGNEOUS3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 89 , 335 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_IGNEOUS3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 2 , 333 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_IGNEOUS3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 119 , 333 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_IGNEOUS3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 2 , 257 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_GASGIANT4"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 171 , 333 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_GASGIANT4"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 224 , 335 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_GASGIANT4"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 258 , 335 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_GASGIANT4"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 171 , 333 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_GASGIANT4"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 288 , 333 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_GASGIANT4"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 171 , 257 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_SWAMP2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 340 , 333 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_SWAMP2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 393 , 335 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_SWAMP2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 427 , 335 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_SWAMP2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 340 , 333 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_SWAMP2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 457 , 333 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_SWAMP2"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 340 , 257 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_NEW16"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 509 , 333 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_NEW16"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 562 , 335 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_NEW16"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 596 , 335 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_NEW16"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 509 , 333 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_NEW16"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 626 , 333 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_NEW16"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 509 , 257 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_NEW17"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 678 , 333 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_NEW17"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 731 , 335 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_NEW17"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 765 , 335 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_NEW17"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 678 , 333 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_NEW17"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 795 , 333 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_NEW17"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 678 , 257 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_NEW18"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 847 , 333 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_NEW18"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 900 , 335 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_NEW18"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 934 , 335 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_NEW18"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 847 , 333 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_NEW18"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 964 , 333 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_NEW18"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 847 , 257 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_CYRO3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 2 , 461 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_CYRO3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 55 , 463 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_CYRO3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 89 , 463 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_CYRO3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 2 , 461 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_CYRO3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 119 , 461 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_CYRO3"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 2 , 385 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_DESOLATE1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 171 , 461 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_DESOLATE1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 224 , 463 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_DESOLATE1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 258 , 463 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_DESOLATE1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 171 , 461 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_DESOLATE1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 288 , 461 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_DESOLATE1"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 171 , 385 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_DESOLATE4"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 340 , 461 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_DESOLATE4"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 393 , 463 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_DESOLATE4"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 427 , 463 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_DESOLATE4"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 340 , 461 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_DESOLATE4"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 457 , 461 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_DESOLATE4"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 340 , 385 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_NEW22"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 509 , 461 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_NEW22"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 562 , 463 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_NEW22"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 596 , 463 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_NEW22"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 509 , 461 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_NEW22"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 626 , 461 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_NEW22"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 509 , 385 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_NEW23"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 678 , 461 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_NEW23"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 731 , 463 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_NEW23"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 765 , 463 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_NEW23"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 678 , 461 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_NEW23"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 795 , 461 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_NEW23"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 678 , 385 , 167 , 75 ]
+brush
+	name "HUDICON_PLANET_NEW24"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 847 , 461 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_NEW24"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 900 , 463 , 28 , 23 ]
+brush
+	name "INFOCARDICON_PLANET_NEW24"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 934 , 463 , 22 , 22 ]
+brush
+	name "MAINVIEWICON_PLANET_NEW24"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 847 , 461 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_NEW24"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 964 , 461 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_NEW24"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 847 , 385 , 167 , 75 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_BactaOcean"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 27 , 2 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_BothanNet"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 52 , 220 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_CarbonDep"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 102 , 124 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_Carnivores"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 27 , 172 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_Comm"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 2 , 196 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_CONDUCTIVEINTERIOR"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 2 , 123 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_CorroA"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 2 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_DenseCore"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 127 , 147 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_DenseJungle"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 102 , 52 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_EnviroSynergy"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 102 , 52 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_Flood"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 77 , 243 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_FreshWater"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 27 , 4 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_ForceCrystal"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 27 , 124 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_Frozen"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 102 , 220 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_Herd"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 177 , 220 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_Hutt"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 102 , 196 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_IMPUREC"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 27 , 196 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_IMPUREM"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 27 , 28 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_ImpResist"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 102 , 196 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_Kuat"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 2 , 100 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_Military"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 77 , 220 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_O2"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 127 , 172 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_Overgrown"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 2 , 4 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_Penal"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 126 , 220 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_PLAGUE"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 127 , 196 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_PLANTM"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 27 , 76 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_PRISTINEORBIT"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 152 , 195 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_PureCrystal"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 2 , 220 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_PureMetal"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 27 , 220 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_Radiation"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 77 , 172 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_RESIN"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 77 , 148 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_RESORTS"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 153 , 196 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_Seismic"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 127 , 4 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_Separatist"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 102 , 196 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_SHIELD1"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 153 , 220 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_SHIELD2"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 153 , 220 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_SlaveColony"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 127 , 220 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_Sith"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 77 , 220 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_SubmergedColony"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 102 , 100 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_StableOrbit"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 2 , 196 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_Storm"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 2 , 52 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_THICKATMOS"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 127 , 171 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_TradeFed"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 27 , 100 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_WarTorn"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 177 , 196 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_REQ_Wood"
+	content "Simple"
+	fileName "PlanetBonuses"
+	pixelBox [ 77 , 148 , 22 , 22 ]
+brush
+	name "HUDICONSMALL_PLANET_LOWATMOS1"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 171 , 1259 , 28 , 23 ]
+brush
+	name "HUDICON_PLANET_LOWATMOS1"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 171 , 1207 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_LOWATMOS2"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 447 , 1259 , 28 , 23 ]
+brush
+	name "HUDICON_PLANET_LOWATMOS2"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 447 , 1207 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_INDUSTRIAL1"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 171 , 1180 , 28 , 23 ]
+brush
+	name "HUDICON_PLANET_INDUSTRIAL1"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 171 , 1129 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_INDUSTRIAL2"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 447 , 1181 , 28 , 23 ]
+brush
+	name "HUDICON_PLANET_INDUSTRIAL2"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 447 , 1129 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_OCEANIC1"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 171 , 1103 , 28 , 23 ]
+brush
+	name "HUDICON_PLANET_OCEANIC1"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 171 , 1051 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_OCEANIC2"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 447 , 1103 , 28 , 23 ]
+brush
+	name "HUDICON_PLANET_OCEANIC2"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 447 , 1051 , 50 , 50 ]
+brush
+	name "HUDICONSMALL_PLANET_SWAMP"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 224 , 1285 , 28 , 23 ]
+brush
+	name "HUDICON_PLANET_SWAMP"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 171 , 1285 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_LOWATMOS1"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 171 , 1207 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_LOWATMOS1"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 224 , 1207 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_LOWATMOS2"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 447 , 1207 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_LOWATMOS2"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 500 , 1207 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_INDUSTRIAL1"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 171 , 1129 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_INDUSTRIAL1"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 224 , 1129 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_INDUSTRIAL2"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 447 , 1129 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_INDUSTRIAL2"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 500 , 1129 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_OCEANIC1"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 171 , 1051 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_OCEANIC1"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 224 , 1051 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_OCEANIC2"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 447 , 1051 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_OCEANIC2"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 500 , 1051 , 50 , 50 ]
+brush
+	name "MAINVIEWICON_PLANET_SWAMP"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 171 , 1285 , 50 , 50 ]
+brush
+	name "MAINVIEWUNDETECTEDICON_PLANET_SWAMP"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 224 , 1285 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_LOWATMOS1"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 1 , 1207 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_LOWATMOS2"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 277 , 1207 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_INDUSTRIAL1"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 1 , 1129 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_INDUSTRIAL2"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 277 , 1129 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_OCEANIC1"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 2 , 1052 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_OCEANIC2"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 255 , 1052 , 167 , 75 ]
+brush
+	name "PICTURE_PLANET_SWAMP"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 1 , 1285 , 167 , 75 ]

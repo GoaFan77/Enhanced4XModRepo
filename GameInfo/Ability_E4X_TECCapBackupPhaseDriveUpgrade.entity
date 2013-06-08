@@ -1,0 +1,55 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_TECCapBackupPhaseDriveUpgrade"
+targetFilter
+	numOwnerships 1
+	ownership "Player"
+	numObjects 1
+	object "CapitalShip"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 5000.000000
+	Level:1 5000.000000
+	Level:2 5000.000000
+	Level:3 5000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCH_E4X_ABILITYACCESS_UnlockUpgradesTEC"
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 120.000000
+	Level:1 120.000000
+	Level:2 120.000000
+	Level:3 120.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_TECCapBackupPhaseDriveUpgrade_NAME"
+descStringID "IDS_Ability_E4X_TECCapBackupPhaseDriveUpgrade_DESC"
+hudIcon "HUDICON_E4X_UpgradeBackupPhaseDrive"
+smallHudIcon "HUDICON_E4X_UpgradeBackupPhaseDrive"
+infoCardIcon ""

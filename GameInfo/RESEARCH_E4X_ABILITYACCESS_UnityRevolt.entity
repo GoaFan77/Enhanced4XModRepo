@@ -1,0 +1,37 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_E4X_UnityRevolt"
+smallHudIcon "HUDICON_E4X_UnityRevolt"
+infoCardIcon ""
+NameStringID "IDS_Ability_E4X_UnityRevolt_NAME"
+DescriptionStringID "IDS_RESEARCH_E4X_ABILITYACCESS_UnityRevolt_DESC"
+researchWindowLocation
+	block 0
+	pos [ 5 , 5 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ENVOY_PROTOTYPE_ADVENT"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 90.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1400.000000
+	metal 250.000000
+	crystal 400.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 5
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush ""

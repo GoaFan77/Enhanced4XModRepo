@@ -1,0 +1,56 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetsAtOrbitBody"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_SpawnTradeStationFlagSelf"
+targetFilter
+	numOwnerships 3
+	ownership "Enemy"
+	ownership "NoOwner"
+	ownership "Friendly"
+	numObjects 1
+	object "Frigate"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+maxTargetCount
+		Level:0 1.000000
+		Level:1 1.000000
+		Level:2 1.000000
+		Level:3 1.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 600.000000
+	Level:1 600.000000
+	Level:2 600.000000
+	Level:3 600.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_TradeIncrease_NAME"
+descStringID "IDS_Ability_E4X_TradeIncrease_DESC"
+hudIcon "HUDICON_RESEARCHSUBJECT_ARBITRATETARIFF"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_ARBITRATETARIFF"
+infoCardIcon ""

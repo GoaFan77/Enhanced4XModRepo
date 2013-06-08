@@ -1,0 +1,54 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "CreateSpaceMine"
+instantActionTriggerType "AlwaysPerform"
+spaceMineType "SpaceMinePsi"
+numMines
+	Level:0 1.000000
+	Level:1 1.000000
+	Level:2 1.000000
+	Level:3 1.000000
+impulse 1000.000000
+angleVariance 180.000000
+expiryTime
+	Level:0 -1.000000
+	Level:1 -1.000000
+	Level:2 -1.000000
+	Level:3 -1.000000
+spawnMineSoundID "EFFECT_LAYMINEPHASE"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "OnlyWithNoOrder"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Resources"
+resourceCost
+	credits 530.000000
+	metal 120.000000
+	crystal 65.000000
+cooldownTime
+	Level:0 15.000000
+	Level:1 15.000000
+	Level:2 15.000000
+	Level:3 15.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_SQUADACCESS_MINELAYER"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_SpaceMinePsi_NAME"
+descStringID "IDS_Ability_E4X_SpaceMinePsi_DESC"
+hudIcon "HUDICON_ABILITY_CONVERTFIGHTERSTOMINES"
+smallHudIcon "HUDICON_ABILITY_CONVERTFIGHTERSTOMINES"
+infoCardIcon ""

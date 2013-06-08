@@ -1,0 +1,55 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_PLANETBOMBING_DAMAGE"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_PLANETBOMBING_DAMAGE"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_E4X_FactionBonusTECRebels_NAME"
+DescriptionStringID "IDS_RESEARCH_E4X_FactionBonusTECRebels_DESC"
+researchWindowLocation
+	block 0
+	pos [ 0 , 4 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 0.000000
+PerLevelUpgradeTime 0.000000
+BaseCost
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+PerLevelCostIncrease
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+Tier 0
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 5
+researchModifier
+	modifierType "WeaponRateOfFireAdjustment"
+	baseValue 0.050000
+	perLevelValue 0.000000
+	linkedWeaponClass "Invalid"
+researchModifier
+	modifierType "ShipBuildRateAdjustment"
+	baseValue 0.150000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "BombingCooldownDecrease"
+	baseValue 0.100000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "BombingPopulationKilledAsDamageDealerAdjustment"
+	baseValue 0.250000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "BombingRangeAdjustment"
+	baseValue 0.333333
+	perLevelValue 0.000000
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"

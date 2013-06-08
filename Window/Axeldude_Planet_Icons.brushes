@@ -1,0 +1,143 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 28
+brush
+	name "Axeldude_DWARF_3"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 209 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_DWARF_3_Unknown"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 261 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_DWARF_2"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 313 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_DWARF_2_Unknown"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 365 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_DWARF_1"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 105 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_DWARF_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 157 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_DWARF_0"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 1 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_DWARF_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 53 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Gas_0"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 1 , 165 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Gas_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 1 , 220 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Gas_1"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 53 , 165 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Gas_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 53 , 220 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Ice_0"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 313 , 55 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Ice_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 313 , 110 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Ice_1"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 365 , 55 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Ice_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 365 , 110 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Volcanic_0"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 261 , 55 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Volcanic_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 261 , 110 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Volcanic_1"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 209 , 55 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Volcanic_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 209 , 110 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Terran_0"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 53 , 55 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Terran_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 53 , 110 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Terran_1"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 105 , 55 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Terran_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 105 , 110 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Desert_0"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 157 , 55 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Desert_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 157 , 110 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Desert_1"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 1 , 55 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Desert_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Planet_Icons"
+	pixelBox [ 1 , 110 , 50 , 50 ]

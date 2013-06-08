@@ -1,0 +1,41 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "ApplyBuffToLastSpawnerNoFilterNoRange"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	buffType "Buff_E4X_TECLoyalistTitanDrainingBeamUpgradeRestore"
+numPeriodicActions 0
+numOverTimeActions 1
+overTimeAction
+	buffOverTimeActionType "DoDamage"
+	damageRate
+		Level:0 5.000000
+		Level:1 5.000000
+		Level:2 5.000000
+		Level:3 5.000000
+	damageAffectType "AFFECTS_ONLY_SHIELDS"
+	damageType "ENERGY"
+	isDamageShared TRUE
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 3
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 5.000000
+		Level:1 5.000000
+		Level:2 5.000000
+		Level:3 5.000000
+finishCondition
+	finishConditionType "ShieldFailure"
+finishCondition
+	finishConditionType "OwnerChanged"

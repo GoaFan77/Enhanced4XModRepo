@@ -1,0 +1,61 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 3
+instantAction
+	buffInstantActionType "ApplyBuffToLocalOrbitBody"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	buffType "Buff_E4X_TECMilitiaFlagPlanetFriendly"
+	targetFilter
+		numOwnerships 1
+		ownership "Friendly"
+		numObjects 1
+		object "Planet"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+instantAction
+	buffInstantActionType "ApplyBuffToLocalOrbitBody"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	buffType "Buff_E4X_TECMilitiaFlagPlanetNeutral"
+	targetFilter
+		numOwnerships 1
+		ownership "NoOwner"
+		numObjects 1
+		object "Planet"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+instantAction
+	buffInstantActionType "MakeDead"
+	instantActionTriggerType "OnDelay"
+	delayTime 1.000000
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "AllOnDelayInstantActionsDone"

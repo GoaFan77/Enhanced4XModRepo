@@ -1,0 +1,40 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_AntimatterRegenSelf"
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "ResearchWithBase"
+baseSourceResearchSubject "RESEARCHSUBJECT_PLANETMODULEACCESS_PSIANTIMATTERRECHARGER"
+improveSourceResearchSubject "RESEARCHSUBJECT_PLANETMODULEIMPROVEMENT_PSIANTIMATTERRECHARGER"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_PLANETMODULEACCESS_PSIANTIMATTERRECHARGER"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_AntimatterRegen_Name"
+descStringID "IDS_Ability_E4X_AntimatterRegen_DESC"
+hudIcon "HUDICON_RESEARCHSUBJECT_ANTIMATTERPSI0"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_ANTIMATTERPSI0"
+infoCardIcon ""

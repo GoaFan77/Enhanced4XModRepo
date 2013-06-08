@@ -1,0 +1,26 @@
+TXT
+entityType "PlanetBonus"
+minUpgradeLevelNeeded 3
+maxUpgradeLevelNeeded 4
+nameStringID "IDS_PLANETBONUS_SHIELD2_NAME"
+descStringID "IDS_PLANETBONUS_SHIELD2_DESC"
+floatBonus:AdditiveCultureSpreadPerc 0.000000
+floatBonus:AdditivePopulation 0.000000
+floatBonus:AdditivePlanetHealth 2000.000000
+floatBonus:AdditiveSlotsCivilian 0.000000
+floatBonus:AdditiveSlotsTactical 0.000000
+floatBonus:AdditiveTaxIncome 0.000000
+floatBonus:AdditiveTradeIncomePerc 0.000000
+floatBonus:MetalIncomePerc 0.000000
+floatBonus:CrystalIncomePerc 0.000000
+floatBonus:GravityWellRadiusPerc 0.000000
+floatBonus:ModuleBuildCostPerc 0.000000
+floatBonus:ModuleBuildRatePerc 0.000000
+floatBonus:PlanetUpgradeBuildCostPerc 0.0
+floatBonus:PlanetUpgradeBuildRatePerc 0.00
+floatBonus:PopulationGrowthPerc 0.0000
+intBonus:ModuleConstructors 0
+intBonus:SpacePonies 0
+hudIcon "HUDICON_PLANETBONUS_SHIELD2"
+smallHudIcon "HUDICON_PLANETBONUS_SHIELD2"
+infoCardIcon "HUDICON_PLANETBONUS_SHIELD2"

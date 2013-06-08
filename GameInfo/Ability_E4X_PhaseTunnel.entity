@@ -1,0 +1,55 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetNoRange"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_PhaseTunnelTarget"
+targetFilter
+	numOwnerships 3
+	ownership "Friendly"
+	ownership "Enemy"
+	ownership "NoOwner"
+	numObjects 1
+	object "Planet"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "IsExplored"
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget TRUE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1 
+levelSourceType "FixedLevel0"
+aiUseTime "NotInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget TRUE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 300.000000
+	Level:1 120.000000
+	Level:2 120.000000
+	Level:3 120.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ARTIFACT_HYPERSPACESPEED"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_PhaseTunnel_NAME"
+descStringID "IDS_Ability_E4X_PhaseTunnel_DESC"
+hudIcon "HUDICON_ABILITY_FARSIGHT"
+smallHudIcon "HUDICON_ABILITY_FARSIGHT"
+infoCardIcon ""

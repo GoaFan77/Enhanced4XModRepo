@@ -1,0 +1,2480 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 173
+brush
+	name "Planet_E4X_CyberFortressNormal"
+	content "Simple"
+	fileName "E4X_Icons_Planets"
+	pixelBox [ 0 , 0 , 22 , 22 ]
+brush
+	name "Planet_E4X_CyberFortressUndetected"
+	content "Simple"
+	fileName "E4X_Icons_Planets"
+	pixelBox [ 0 , 23 , 22 , 22 ]
+brush
+	name "HUDICONSMALL_E4X_CyberDefenseFortress"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 62 , 91 , 28 , 28 ]		
+brush
+	name "HeroResearchOverlay"
+	content "Simple"
+	fileName "HeroUnitOverlay"
+	pixelBox [ 0 , 0 , 74 , 62 ]
+brush
+	name "HUDICON_E4X_WorkersRevolt"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 0 , 1 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 0 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 0 , 1 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 1 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_Sanctions"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 51 , 1 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 51 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 51 , 1 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 1 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_FreezePopulation"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 0 , 38 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 0 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 0 , 38 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 38 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_MetalNanites"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 51 , 38 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 51 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 51 , 38 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 38 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UnityRevolt"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 0 , 75 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 0 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 0 , 75 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 75 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_PsychicInterference"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 51 , 75 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 51 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 51 , 75 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 75 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_PhaseProbeSpy"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 0 , 112 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 0 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 0 , 112 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 112 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_DeployPhaseProbe"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 51 , 112 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 51 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 51 , 112 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 112 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_HeroCommandTech"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 0 , 223 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 0 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 0 , 223 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 223 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_HeroLeaderTech"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 51 , 223 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 51 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 51 , 223 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 223 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_HeroCombatTech"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 102 , 223 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 102 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 102 , 223 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 223 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_HeroCombatPsi"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 153 , 223 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 153 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 153 , 223 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 223 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_HeroLeaderPsi"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 204 , 223 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 204 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 204 , 223 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 223 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_HeroTransPsi"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 255 , 223 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 255 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 255 , 223 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 223 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_HeroScientistPhase"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 306 , 223 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 306 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 306 , 223 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 223 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_HeroCombatPhase"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 357 , 223 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 357 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 357 , 223 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 223 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_HeroLeaderPhase"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 408 , 223 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 408 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 408 , 223 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 223 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_PhysicalDamagePlus"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 0 , 149 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 0 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 0 , 149 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 149 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_ReserveSquadrons"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 51 , 149 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 51 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 51 , 149 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 149 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_Resolve"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 102 , 149 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 102 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 102 , 149 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 149 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_AllOutAttack"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 153 , 149 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 153 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 153 , 149 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 149 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_ShieldPiercingProjectiles"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 0 , 186 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 0 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 0 , 186 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 186 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_Maraud"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 51 , 186 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 51 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 51 , 186 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 186 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_ShrapnelBlast"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 102 , 186 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 102 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 102 , 186 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 186 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_SuperNuke"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 153 , 186 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 153 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 153 , 186 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 186 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UnyieldingSpirit"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 102 , 1 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 102 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 102 , 1 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 1 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_DecisiveAction"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 102 , 38 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 102 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 102 , 38 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 38 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_FlakZone"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 102 , 75 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 102 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 102 , 75 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 75 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_EMPRailgun"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 102 , 112 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 102 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 102 , 112 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 112 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_InvincibleHeal"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 153 , 1 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 153 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 153 , 1 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 1 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_StopFighters"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 153 , 38 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 153 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 153 , 38 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 38 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_SpiritChainBlast"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 153 , 75 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 153 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 153 , 75 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 75 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_NeuronicPossession"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 153 , 112 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 153 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 153 , 112 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 112 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_JointPrecognition"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 204 , 1 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 204 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 204 , 1 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 1 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UnitysBulwark"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 204 , 38 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 204 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 204 , 38 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 38 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_SubconsciousGuidence"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 204 , 75 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 204 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 204 , 75 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 75 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_Inspire"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 204 , 112 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 204 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 204 , 112 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 112 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_DrainingArmor"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 255 , 1 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 255 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 255 , 1 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 1 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_ReflectiveAura"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 255 , 38 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 255 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 255 , 38 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 38 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_DisruptionCrystal"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 255 , 75 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 255 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 255 , 75 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 75 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_AbsorbtionBeam"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 255 , 112 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 255 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 255 , 112 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 112 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_Assimulation"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 306 , 1 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 306 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 306 , 1 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 1 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_NanoCloud"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 306 , 38 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 306 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 306 , 38 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 38 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_SeedFighers"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 306 , 75 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 306 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 306 , 75 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 75 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_Horde"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 357 , 1 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 357 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 357 , 1 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 1 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_IsolatePlanet"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 357 , 38 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 357 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 357 , 38 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 38 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_FleetingWill"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 357 , 75 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 357 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 357 , 75 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 75 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_SummonRaiders"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 357 , 112 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 357 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 357 , 112 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 112 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_Preservation"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 408 , 1 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 408 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 408 , 1 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 1 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_Intimidation"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 408 , 38 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 408 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 408 , 38 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 38 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_Cease"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 408 , 75 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 408 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 408 , 75 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 75 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_Authority"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 408 , 112 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 408 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 408 , 112 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 112 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 112 , 47 , 33 ]
+brush
+	name "Picture_E4X_HeroCombatTech"
+	content "Simple"
+	fileName "Player_Portrait_Window"
+	pixelBox [ 341 , 1 , 167 , 75 ]
+brush
+	name "Picture_E4X_HeroLeaderTech"
+	content "Simple"
+	fileName "Player_Portrait_Window"
+	pixelBox [ 511 , 1 , 167 , 75 ]
+brush
+	name "Picture_E4X_HeroCommanderTech"
+	content "Simple"
+	fileName "Player_Portrait_Window"
+	pixelBox [ 681 , 1 , 167 , 75 ]
+brush
+	name "Picture_E4X_HeroLeaderPsi"
+	content "Simple"
+	fileName "Player_Portrait_Window"
+	pixelBox [ 171 , 79 , 167 , 75 ]
+brush
+	name "Picture_E4X_HeroCombatPsi"
+	content "Simple"
+	fileName "Player_Portrait_Window"
+	pixelBox [ 681 , 79 , 167 , 75 ]
+brush
+	name "Picture_E4X_HeroTransPsi"
+	content "Simple"
+	fileName "Player_Portrait_Window"
+	pixelBox [ 1021 , 79 , 167 , 75 ]
+brush
+	name "Picture_E4X_HeroCombatPhase"
+	content "Simple"
+	fileName "Player_Portrait_Window"
+	pixelBox [ 341 , 157 , 167 , 75 ]
+brush
+	name "Picture_E4X_HeroLeaderPhase"
+	content "Simple"
+	fileName "Player_Portrait_Window"
+	pixelBox [ 681 , 157 , 167 , 75 ]
+brush
+	name "Picture_E4X_HeroScientistPhase"
+	content "Simple"
+	fileName "Player_Portrait_Window"
+	pixelBox [ 1191 , 157 , 167 , 75 ]
+brush
+	name "HUDICON_E4X_TechCommandCenter"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 204 , 186 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 204 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 204 , 186 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 186 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_PsiCommandCenter"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 204 , 149 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 204 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 204 , 149 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 149 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_PhaseCommandCenter"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 255 , 149 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 255 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 255 , 149 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 149 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_AncientEnergyHarvesterStructure"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 255 , 186 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 255 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 255 , 186 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 186 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_AncientBioWeaponStructure"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 306 , 186 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 306 , 186 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 306 , 186 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 186 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 186 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_NovalithSupercharge"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 0 , 260 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 0 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 0 , 260 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 260 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_SpiritsOfTheAssended"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 51 , 260 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 51 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 51 , 260 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 260 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_Frenzy"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 102 , 260 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 102 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 102 , 260 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 260 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_GenocidalIndoctrination"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 153 , 260 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 153 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 153 , 260 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 260 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_PlanetaryDefensesAccess"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 204 , 260 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 204 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 204 , 260 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 260 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_PsychicPossession"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 255 , 260 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 255 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 255 , 260 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 260 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_HolyPilgrimage"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 306 , 260 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 306 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 306 , 260 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 260 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_EternalIllumination"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 357 , 260 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 357 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 357 , 260 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 260 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UltimateTrancendence"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 408 , 260 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 408 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 408 , 260 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 260 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_DespoilPlanet"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 459 , 260 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 459 , 260 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 459 , 260 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 260 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 260 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_SummonAllies"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 0 , 297 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 0 , 297 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 0 , 297 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 297 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 297 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_PhasicImmunity"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 51 , 297 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 51 , 297 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 51 , 297 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 297 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 297 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_ShieldRedistribution"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 102 , 297 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 102 , 297 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 102 , 297 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 297 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 297 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_EnhancedEmbassies"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 153 , 297 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 153 , 297 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 153 , 297 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 297 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 297 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_SiegeMode"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 204 , 297 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 204 , 297 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 204 , 297 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 297 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 297 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_PhaseAntiModuleSwarm"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 255 , 297 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 255 , 297 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 255 , 297 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 297 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 297 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_WeaponDamageDisruptors"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 306 , 297 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 306 , 297 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 306 , 297 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 297 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 297 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_PhaseAntiStructureDebuff"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 357 , 297 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 357 , 297 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 357 , 297 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 297 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 297 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_DarkColonyShip"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 408 , 297 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 408 , 297 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 408 , 297 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 297 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 297 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_RacialBonusPhase"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 459 , 297 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 459 , 297 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 459 , 297 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 297 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 297 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_RacialBonusPsi"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 459 , 223 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 459 , 223 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 459 , 223 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 223 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 223 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_TechAntiStructureDebuff"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 617 , 179 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 617 , 179 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 617 , 179 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 617 , 179 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 617 , 179 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_PsiAntiStructureDebuff"
+	content "States"
+	Disabled
+		fileName "Buttons_Research_Disabled"
+		pixelBox [ 770 , 327 , 47 , 33 ]
+	Pressed
+		fileName "Buttons_Research_Pressed"
+		pixelBox [ 770 , 327 , 47 , 33 ]
+	CursorOver
+		fileName "Buttons_Research_CursorOver"
+		pixelBox [ 770 , 327 , 47 , 33 ]
+	Focused
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 770 , 327 , 47 , 33 ]
+	Normal
+		fileName "Buttons_Research_Normal"
+		pixelBox [ 770 , 327 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_AbilityAgriculturalPlanet"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 459 , 1 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 459 , 1 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 459 , 1 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 1 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 1 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_HeroicValor"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 459 , 38 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 459 , 38 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 459 , 38 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 38 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 38 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_StarshipModification"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 0 , 334 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 0 , 334 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 0 , 334 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 334 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 334 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeCoreArmor"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 51 , 334 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 51 , 334 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 51 , 334 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 334 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 334 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeNukes"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 102 , 334 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 102 , 334 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 102 , 334 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 334 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 334 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeBackupPhaseDrive"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 153 , 334 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 153 , 334 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 153 , 334 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 334 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 334 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeFluctuatingShields"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 204 , 334 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 204 , 334 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 204 , 334 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 334 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 334 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeDisableOnDeath"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 255 , 334 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 255 , 334 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 255 , 334 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 334 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 334 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeStreamlinedPropulsion"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 306 , 334 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 306 , 334 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 306 , 334 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 334 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 334 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeCheaperAbilities"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 357 , 334 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 357 , 334 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 357 , 334 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 334 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 334 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeShieldInterference"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 408 , 334 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 408 , 334 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 408 , 334 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 334 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 334 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeJumpShieldRestore"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 459 , 334 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 459 , 334 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 459 , 334 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 334 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 334 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeUnityMassCripple"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 0 , 371 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 0 , 371 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 0 , 371 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 371 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 371 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeHealingBonus"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 51 , 371 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 51 , 371 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 51 , 371 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 371 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 371 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeAntimatterRegeneration"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 102 , 371 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 102 , 371 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 102 , 371 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 371 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 371 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeStrikecraftRetaliation"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 153 , 371 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 153 , 371 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 153 , 371 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 371 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 371 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeDrainingBeams"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 0 , 408 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 0 , 408 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 0 , 408 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 408 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 408 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeRailgunDisable"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 51 , 408 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 51 , 408 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 51 , 408 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 408 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 408 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeMaintenanceDrones"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 102 , 408 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 102 , 408 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 102 , 408 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 408 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 408 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeFlak"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 153 , 408 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 153 , 408 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 153 , 408 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 408 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 408 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeStunShots"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 0 , 445 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 0 , 445 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 0 , 445 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 445 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 445 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeVoodooAura"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 51 , 445 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 51 , 445 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 51 , 445 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 445 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 445 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeInfernalHull"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 102 , 445 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 102 , 445 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 102 , 445 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 445 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 445 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UpgradeIntenseBeam"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 153 , 445 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 153 , 445 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 153 , 445 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 445 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 153 , 445 , 47 , 33 ]
+brush
+	name "Picture_E4X_TechCommandCenter"
+	content "Simple"
+	fileName "E4X_Unit_Picture"
+	pixelBox [ 1 , 1 , 167 , 75 ]
+brush
+	name "Picture_E4X_PsiCommandCenter"
+	content "Simple"
+	fileName "E4X_Unit_Picture"
+	pixelBox [ 169 , 1 , 167 , 75 ]
+brush
+	name "Picture_E4X_PhaseCommandCenter"
+	content "Simple"
+	fileName "E4X_Unit_Picture"
+	pixelBox [ 337 , 1 , 167 , 75 ]
+brush
+	name "Picture_E4X_AncientBioWeaponStructure"
+	content "Simple"
+	fileName "E4X_Unit_Picture"
+	pixelBox [ 1 , 77 , 167 , 75 ]
+brush
+	name "Picture_E4X_AncientEnergyHarvesterStructure"
+	content "Simple"
+	fileName "E4X_Unit_Picture"
+	pixelBox [ 169 , 77 , 167 , 75 ]
+brush
+	name "Artifact_E4X_PictureUnknown"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 0 , 0 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureGalaxyTravel"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 309 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 232 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 232 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 232 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 232 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureWormHoleTravel"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 154 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 77 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 77 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 77 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 77 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureWeaponBoost"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 463 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 386 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 386 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 386 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 386 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureStrongCulture"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 309 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 232 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 232 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 232 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 232 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureResearchArchive"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 154 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 77 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 77 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 77 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 77 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PicturePassiveRegenAntiMatter"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 463 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 386 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 386 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 386 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 386 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureShipBuildTimeReduction"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 309 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 232 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 232 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 232 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 232 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureHyperspaceSpeed"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 155 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 77 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 77 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 77 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 77 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureHullRepairOverTimeIncrease"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 463 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 386 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 386 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 386 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 386 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureTradeIncome"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 628 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 541 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 541 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 541 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 300 , 541 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PicturePlanetBombingShield"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 628 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 541 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 541 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 541 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 150 , 541 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureOrganicAI"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 628 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 541 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 541 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 541 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 0 , 541 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureMindReading"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 154 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 77 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 77 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 77 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 77 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureImprovedLogistics"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 154 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 77 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 77 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 77 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 77 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureOrbitalSlots"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 309 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 232 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 232 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 232 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 232 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureCostReduction"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 309 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 232 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 232 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 232 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 232 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureShields"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 463 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 386 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 386 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 386 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 386 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureResourceIncome"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 463 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 386 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 386 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 386 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 386 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureStarBase"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 628 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 541 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 541 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 541 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 450 , 541 , 149 , 75 ]
+brush
+	name "Artifact_E4X_PictureExperienceBonus"
+	content "States"
+	Disabled
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 628 , 149 , 75 ]
+	Pressed
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 541 , 149 , 75 ]
+	CursorOver
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 541 , 149 , 75 ]
+	Focused
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 541 , 149 , 75 ]
+	Normal
+		fileName "E4X_New_Artifacts"
+		pixelBox [ 600 , 541 , 149 , 75 ]
+brush
+	name "HUDICON_E4X_ARTIFACT_MindReading"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 450 , 30 , 56 , 42 ]
+brush
+	name "HUDICON_E4X_ARTIFACT_ImprovedLogistics"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 507 , 30 , 56 , 42 ]
+brush
+	name "HUDICON_E4X_ARTIFACT_OrbitalSlots"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 564 , 30 , 56 , 42 ]
+brush
+	name "HUDICON_E4X_ARTIFACT_CostReduction"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 621 , 30 , 56 , 42 ]
+brush
+	name "HUDICON_E4X_ARTIFACT_Shields"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 678 , 30 , 56 , 42 ]
+brush
+	name "HUDICON_E4X_ARTIFACT_ResourceIncome"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 735 , 30 , 56 , 42 ]
+brush
+	name "HUDICON_E4X_ARTIFACT_StarBase"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 792 , 30 , 56 , 42 ]
+brush
+	name "HUDICON_E4X_ARTIFACT_ExperienceBonus"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 849 , 30 , 56 , 42 ]
+brush
+	name "HUDICONSMALL_E4X_ARTIFACT_MindReading"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 450 , 9 , 20 , 18 ]
+brush
+	name "HUDICONSMALL_E4X_ARTIFACT_ImprovedLogistics"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 473 , 9 , 20 , 18 ]
+brush
+	name "HUDICONSMALL_E4X_ARTIFACT_OrbitalSlots"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 496 , 9 , 20 , 18 ]
+brush
+	name "HUDICONSMALL_E4X_ARTIFACT_CostReduction"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 519 , 9 , 20 , 18 ]
+brush
+	name "HUDICONSMALL_E4X_ARTIFACT_Shields"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 542 , 9 , 20 , 18 ]
+brush
+	name "HUDICONSMALL_E4X_ARTIFACT_ResourceIncome"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 565 , 9 , 20 , 18 ]
+brush
+	name "HUDICONSMALL_E4X_ARTIFACT_StarBase"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 588 , 9 , 20 , 18 ]
+brush
+	name "HUDICONSMALL_E4X_ARTIFACT_ExperienceBonus"
+	content "Simple"
+	fileName "E4X_New_Artifacts"
+	pixelBox [ 611 , 9 , 20 , 18 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_E4X_HeroLeaderTech"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 1 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_E4X_HeroCombatTech"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 31 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_E4X_HeroCommanderTech"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 61 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_E4X_TechCommandCenter"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 91 , 1 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_E4X_HeroTransPsi"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 1 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_E4X_HeroLeaderPsi"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 31 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_E4X_HeroCombatPsi"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 61 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_E4X_PsiCommandCenter"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 91 , 31 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_E4X_HeroCombatPhase"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 1 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_E4X_HeroLeaderPhase"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 31 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_CAPITALSHIP_E4X_HeroScientistPhase"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 61 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_PLANETMODULE_E4X_PhaseCommandCenter"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 91 , 61 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_E4X_AncientEnergyHarvesterStructure"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 1 , 91 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_E4X_AncientBioWeaponStructure"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 31 , 91 , 28 , 28 ]	

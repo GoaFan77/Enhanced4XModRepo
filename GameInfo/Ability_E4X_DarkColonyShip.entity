@@ -1,0 +1,58 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "SpawnShipsAtPlanet"
+instantActionTriggerType "AlwaysPerform"
+spawnShipsLevelCount 1
+spawnShips
+	minFleetPoints 6.000000
+	maxFleetPoints 6.000000
+	requiredShipCount 1
+	requiredShip
+		type "Frigate_E4X_PhaseLoyalsColony"
+		minCount 1
+		maxCount 1	
+	randomShipCount 0
+spawnShipsArrivalDelayTime 7.000000
+spawnShipsHyperspaceSpawnType "FleetBeacon"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCHSUBJECT_ABILITYACCESS_DARKFLEET"
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "ResourcesAndMustHaveShipSlots"
+resourceCost
+	credits 500.000000
+	metal 140.000000
+	crystal 50.000000
+requiredShipSlots
+	Level:0 6.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 60.000000
+	Level:1 60.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ABILITYACCESS_DARKFLEET"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_DarkColonyShip_NAME"
+descStringID "IDS_Ability_E4X_DarkColonyShip_DESC"
+hudIcon "HUDICON_FRIGATE_PHASECOLONY"
+smallHudIcon "HUDICON_FRIGATE_PHASECOLONY"
+infoCardIcon ""

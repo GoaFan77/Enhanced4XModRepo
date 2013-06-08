@@ -1,0 +1,161 @@
+﻿TXT
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn FALSE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault FALSE
+canBomb FALSE
+typeCount 2
+frigateRoleType "Colony"
+frigateRoleType "StarBaseConstructor"
+statCountType "FrigateColony"
+mainViewIcon "MAINVIEWICON_FRIGATE_PHASECOLONY"
+picture "PICTURE_FRIGATE_PHASECOLONY"
+NameStringID "IDS_FRIGATE_PHASECOLONY_NAME"
+DescriptionStringID "IDS_FRIGATE_PHASECOLONY_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
+basePrice
+	credits 425.000000
+	metal 140.000000
+	crystal 50.000000
+slotCount 6.000000
+BuildTime 40.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 6.000000
+MaxHullPoints 1000.000000
+MaxShieldPoints 225.000000
+HullPointRestoreRate 1.000000
+ShieldPointRestoreRate 0.500000
+BaseArmorPoints 0.000000
+maxMitigation 0.600000
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 1
+numRandomDebrisSmall 9
+numSpecificDebris 0
+armorType "Light"
+hudIcon "HUDICON_FRIGATE_PHASECOLONY"
+smallHudIcon "HUDICONSMALL_FRIGATE_PHASECOLONY"
+infoCardIcon "INFOCARDICON_FRIGATE_PHASECOLONY"
+minZoomDistanceMult 5.000000
+NumWeapons 1
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTILIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "PULSEGUN"
+	DamagePerBank:FRONT 45.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 2500.000000
+	PreBuffCooldownTime 9.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.200000
+	TravelSpeed 3600.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 3
+		burstDelay 0.350000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PhaseCapitalPulseGunLight_Muzzle"
+		muzzleSoundMinRespawnTime 1.000000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PHASECAPITALPULSEGUNLIGHT_MUZZLE"
+			sound "WEAPON_PHASECAPITALPULSEGUNLIGHT_MUZZLE_ALT1"
+		hitEffectName "Weapon_PhaseCapitalPulseGunLight_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "Weapon_PhaseCapitalPulseGunLight_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName "Shield_FrigatePhaseColony"
+renderShield TRUE
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 1.650000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 500.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "FRIGATE_PHASECOLONY_ONATTACKORDERISSUED_0"
+SoundID "FRIGATE_PHASECOLONY_ONATTACKORDERISSUED_1"
+SoundID "FRIGATE_PHASECOLONY_ONATTACKORDERISSUED_2"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_PHASECOLONY_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "FRIGATE_PHASECOLONY_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_PHASECOLONY_ONGENERALORDERISSUED_1"
+SoundID "FRIGATE_PHASECOLONY_ONGENERALORDERISSUED_2"
+NumSoundsFor:ONSELECTED 3
+SoundID "FRIGATE_PHASECOLONY_ONSELECTED_0"
+SoundID "FRIGATE_PHASECOLONY_ONSELECTED_1"
+SoundID "FRIGATE_PHASECOLONY_ONSELECTED_2"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "FRIGATE_PHASECOLONY_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 2
+MeshNameInfo
+	meshName "Frigate_PhaseColony"
+	criteriaType "None"
+MeshNameInfo
+	meshName "Frigate_PhaseColonyUpgrade"
+	criteriaType "Research"
+	prerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCHSUBJECT_ABILITYACCESS_DEPLOYSTARBASEPHASE"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_FrigatePhaseColony"
+ExplosionName "Frigate0"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_PHASECAPITALSHIP"
+ability:0 "AbilityPhaseFrigateColonize"
+ability:1 "AbilityDeployStarBasePhase"
+ability:2 "Ability_E4X_CaptureNeutralFrigate"
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 225.000000
+AntiMatterRestoreRate 0.500000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 2
+minShadow 0.000000
+maxShadow 1.200000
+allegianceDecreasePerRoundtrip 0.000000

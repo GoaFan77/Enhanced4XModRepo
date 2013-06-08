@@ -1,0 +1,74 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_Resolve"
+targetFilter
+	numOwnerships 1
+	ownership "Friendly"
+	numObjects 5
+	object "Frigate"
+	object "CapitalShip"
+	object "StarBase"
+	object "PlanetModule"
+	object "Titan"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 6500.000000
+	Level:1 6500.000000
+	Level:2 6500.000000
+	Level:3 6500.000000
+effectInfo
+	effectAttachInfo
+		attachType "Ability"
+		abilityIndex 0
+	smallEffectName "Ability_BoostMoraleActivate"
+	mediumEffectName "Ability_BoostMoraleActivate"
+	largeEffectName "Ability_BoostMoraleActivate"
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 2.000000
+	Level:1 7.000000
+	Level:2 9.000000
+	Level:3 9.000000
+aiUseTime "Anytime"
+aiUseTargetCondition "HullDamageExceedsAmount"
+onlyAutoCastWhenTargetHullDamageExceedsAmount
+	Level:0 120.000000
+	Level:1 180.000000
+	Level:2 240.000000
+	Level:3 240.000000
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 80.000000
+	Level:1 80.000000
+	Level:2 80.000000
+	Level:3 80.000000
+cooldownTime
+	Level:0 45.000000
+	Level:1 45.000000
+	Level:2 45.000000
+	Level:3 45.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_Resolve_NAME"
+descStringID "IDS_Ability_E4X_Resolve_DESC"
+hudIcon "HUDICON_E4X_Resolve"
+smallHudIcon "HUDICON_E4X_Resolve"
+infoCardIcon ""

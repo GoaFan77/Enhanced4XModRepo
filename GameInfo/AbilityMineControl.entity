@@ -1,0 +1,56 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyTargettedBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffMineControlSelf"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 1
+	object "SpaceMine"
+	numSpaces 2
+	space "Normal"
+	space "Phase"
+	numConstraints 0
+range
+	Level:0 8000.000000
+	Level:1 8000.000000
+	Level:2 8000.000000
+	Level:3 8000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "ResearchWithoutBase"
+improveSourceResearchSubject "RESEARCHSUBJECT_MINE_CONTROL"
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 35.000000
+	Level:1 35.000000
+	Level:2 35.000000
+	Level:3 35.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_MINE_CONTROL_NAME"
+descStringID "IDS_ABILITY_MINE_CONTROL_DESCRIPTION"
+hudIcon "HUDICON_RESEARCHSUBJECT_MINECONTROL"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_MINECONTROL"
+infoCardIcon ""

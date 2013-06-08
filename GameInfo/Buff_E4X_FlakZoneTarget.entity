@@ -1,0 +1,41 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "PerPlayer"
+stackingLimit 2
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusivePerPlayer"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 0
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 3
+entityModifier
+	buffEntityModifierType "LinearMaxSpeed"
+	value
+		Level:0 -0.166666
+		Level:1 -0.333333
+		Level:2 -0.500000
+		Level:3 -0.500000
+entityModifier
+	buffEntityModifierType "LinearThrust"
+	value
+		Level:0 -0.166666
+		Level:1 -0.333333
+		Level:2 -0.500000
+		Level:3 -0.500000
+entityModifier
+	buffEntityModifierType "ChanceToHitAsDamageTarget"
+	value
+		Level:0 0.050000
+		Level:1 0.100000
+		Level:2 0.150000
+		Level:3 0.150000
+numEntityBoolModifiers 0
+numFinishConditions 2
+finishCondition
+	finishConditionType "LastSpawnerNoLongerHasBuff"
+	buffTypeToQuery "Buff_E4X_FlakZoneSelf"
+finishCondition
+	finishConditionType "OutOfRange"

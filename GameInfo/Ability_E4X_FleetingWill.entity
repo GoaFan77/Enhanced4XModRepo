@@ -1,0 +1,89 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetWithTravel"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_FleetingWillSpawner"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 5
+	object "CapitalShip"
+	object "Frigate"
+	object "PlanetModule"
+	object "StarBase"
+	object "Titan"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "HasWeapons"
+range
+	Level:0 5000.000000
+	Level:1 5000.000000
+	Level:2 5000.000000
+	Level:3 5000.000000
+travelSpeed 4000.000000
+hasWeaponEffects TRUE
+weaponEffectOriginType "Targetter"
+weaponEffectAttachInfo
+	attachType "Ability"
+	abilityIndex 0
+weaponEffectImpactOffsetType "Center"
+canWeaponEffectHitHull FALSE
+canWeaponEffectHitShields FALSE
+weaponEffectsDef
+	weaponType "Projectile"
+	burstCount 1
+	burstDelay 0.000000
+	fireDelay 0.000000
+	muzzleEffectName "CapitalAbility_GravityWarheadMuzzle"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 1
+		sound "WEAPON_GENERICFIRE"
+	hitEffectName "CapitalAbility_GravityWarheadDetonate"
+	hitHullEffectSounds
+		soundCount 1
+		sound ""
+	hitShieldsEffectSounds
+		soundCount 1
+		sound ""
+	projectileTravelEffectName "CapitalAbility_GravityWarheadTravel"
+needsToFaceTarget TRUE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 5.000000
+	Level:2 9.000000
+	Level:3 9.000000
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 125.000000
+	Level:1 125.000000
+	Level:2 125.000000
+	Level:3 125.000000
+cooldownTime
+	Level:0 70.000000
+	Level:1 70.000000
+	Level:2 70.000000
+	Level:3 70.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_FleetingWill_NAME"
+descStringID "IDS_Ability_E4X_FleetingWill_DESC"
+hudIcon "HUDICON_E4X_FleetingWill"
+smallHudIcon "HUDICON_E4X_FleetingWill"
+infoCardIcon ""

@@ -1,0 +1,64 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_ABILITYACCESS_REINFORCEDARMOR"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_ABILITYACCESS_REINFORCEDARMOR"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_E4X_FactionBonusTECLoyals_NAME"
+DescriptionStringID "IDS_RESEARCH_E4X_FactionBonusTECLoyals_DESC"
+researchWindowLocation
+	block 0
+	pos [ 0 , 4 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 0.000000
+PerLevelUpgradeTime 0.000000
+BaseCost
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+PerLevelCostIncrease
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+Tier 0
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 7
+researchModifier
+	modifierType "PlanetSlotsTacticalIncrease"
+	baseValue 3.000000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "PlanetUpgradeCostAdjustment"
+	baseValue 0.150000
+	perLevelValue 0.000000
+	linkedPlanetUpgradeType "TacticalModules"
+researchModifier
+	modifierType "PlanetUpgradeBuildRateAdjustment"
+	baseValue 0.250000
+	perLevelValue 0.000000
+	linkedPlanetUpgradeType "TacticalModules"
+researchModifier
+	modifierType "TacticalStructureWeaponDamageAdjustment"
+	baseValue 0.100000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "TacticalStructureHullPointsMaxAdjustment"
+	baseValue 0.100000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "StarBaseBuildRateAtEnemyOrbitBodyAdjustment"
+	baseValue 0.250000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "ArmorBaseAdjustment"
+	baseValue 1.000000
+	perLevelValue 0.000000
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"

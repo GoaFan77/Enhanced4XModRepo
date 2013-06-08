@@ -1,0 +1,97 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusivePerPlayer"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 0
+numPeriodicActions 1
+periodicAction
+	actionCountType "Infinite"
+	actionIntervalTime
+		Level:0 60.000000
+		Level:1 60.000000
+		Level:2 60.000000
+		Level:3 60.000000
+	buffInstantActionType "ApplyBuffToTargetsInRadiusWithTravel"
+	instantActionTriggerType "AlwaysPerform"
+	buffType "Buff_E4X_PlanetaryDefensesNukeSpawn"
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 5
+		object "Titan"
+		object "CapitalShip"
+		object "Frigate"
+		object "PlanetModule"
+		object "StarBase"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	range
+		Level:0 18000.000000
+		Level:1 18000.000000
+		Level:2 18000.000000
+		Level:3 18000.000000
+	maxTargetCount
+		Level:0 1.000000
+		Level:1 1.000000
+		Level:2 1.000000
+		Level:3 1.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+	travelSpeed 1200.000000
+	effectStaggerDelay 0.000000
+	hasWeaponEffects TRUE
+	weaponEffectOriginType "Targetter"
+	weaponEffectAttachInfo
+		attachType "Center"
+	weaponEffectImpactOffsetType "RandomMesh"
+	canWeaponEffectHitHull TRUE
+	canWeaponEffectHitShields TRUE
+	weaponEffectsDef
+		weaponType "Missile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Ability_AntiModuleTorpedoesMuzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "EFFECT_NEUTRONTORPEDO_MUZZLE"
+		hitEffectName "Ability_AntiModuleTorpedoesImpact"
+		hitHullEffectSounds
+			soundCount 6
+			sound "EXPLOSION_SUB0"
+			sound "EXPLOSION_SUB1"
+			sound "EXPLOSION_SUB2"
+			sound "EXPLOSION_SUB3"
+			sound "EXPLOSION_SUB4"
+			sound "EXPLOSION_SUB5"
+		hitShieldsEffectSounds
+			soundCount 6
+			sound "EXPLOSION_SUB0"
+			sound "EXPLOSION_SUB1"
+			sound "EXPLOSION_SUB2"
+			sound "EXPLOSION_SUB3"
+			sound "EXPLOSION_SUB4"
+			sound "EXPLOSION_SUB5"
+		missileTravelEffectName "Ability_AntiModuleTorpedoesTravel"
+		missileStartTurningDistance 350.000000
+		missileSlowTurnRate 0.508997
+		missileMaxSlowTurnTime 10.000000
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "OwnerChanged"
+	

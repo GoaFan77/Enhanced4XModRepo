@@ -1,0 +1,26 @@
+TXT
+entityType "PlanetBonus"
+minUpgradeLevelNeeded 4
+maxUpgradeLevelNeeded 4
+nameStringID "IDS_PLANETBONUS_SUBT_NAME"
+descStringID "IDS_PLANETBONUS_SUBT_DESC"
+floatBonus:AdditiveCultureSpreadPerc 0.000000
+floatBonus:AdditivePopulation 50.000000
+floatBonus:AdditivePlanetHealth 500.000000
+floatBonus:AdditiveSlotsCivilian 0.000000
+floatBonus:AdditiveSlotsTactical 0.000000
+floatBonus:AdditiveTaxIncome 0.000000
+floatBonus:AdditiveTradeIncomePerc 0.000000
+floatBonus:MetalIncomePerc 0.000000
+floatBonus:CrystalIncomePerc 0.000000
+floatBonus:GravityWellRadiusPerc 0.000000
+floatBonus:ModuleBuildCostPerc 0.000000
+floatBonus:ModuleBuildRatePerc 0.000000
+floatBonus:PlanetUpgradeBuildCostPerc 0.0
+floatBonus:PlanetUpgradeBuildRatePerc 0.00
+floatBonus:PopulationGrowthPerc 0.0000
+intBonus:ModuleConstructors 0
+intBonus:SpacePonies 0
+hudIcon "HUDICON_PLANETBONUS_SUBT"
+smallHudIcon "HUDICON_PLANETBONUS_SUBT"
+infoCardIcon "HUDICON_PLANETBONUS_SUBT"

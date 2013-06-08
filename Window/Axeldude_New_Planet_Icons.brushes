@@ -1,0 +1,523 @@
+﻿TXT
+onlyLoadOnDemand FALSE
+brushCount 104
+brush
+	name "Axeldude_PLANET_Normal_Carbon_3"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 365 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Carbon_3_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 365 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Carbon_2"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 313 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Carbon_2_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 313 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Carbon_1"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 261 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Carbon_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 261 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Hydrocarbon_4"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 209 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Hydrocarbon_4_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 209 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Hydrocarbon_3"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 157 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Hydrocarbon_3_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 157 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Terran_6"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 105 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Terran_6_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 105 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Terran_5"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 53 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Terran_5_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 53 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_TerranHome_0"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 1 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_TerranHome_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 1 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_IceGiant_1"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 53 , 121 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_IceGiant_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 53 , 181 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_IceGiant_0"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 1 , 121 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_IceGiant_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 1 , 181 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_GasGiant_5"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 261 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_GasGiant_5_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 261 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_GasGiant_4"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 209 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_GasGiant_4_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 209 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_GasGiant_3"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 157 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_GasGiant_3_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 157 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_GasGiant_2"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 105 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_GasGiant_2_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 105 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_GasGiant_1"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 53 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_GasGiant_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 53 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_GasGiant_0"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 1 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_GasGiant_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_GasGiants_Icons"
+	pixelBox [ 1 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Rock_4"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 313 , 361 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Rock_4_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 313 , 421 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Rock_3"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 261 , 361 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Rock_3_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 261 , 421 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Rock_2"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 209 , 361 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Rock_2_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 209 , 421 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Rock_1"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 157 , 361 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Rock_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 157 , 421 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Rock_0"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 105 , 361 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Rock_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 105 , 421 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Carbon_0"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 417 , 361 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Carbon_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 417 , 421 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Forest_4"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 1 , 361 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Forest_4_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 1 , 421 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Forest_3"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 417 , 241 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Forest_3_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 417 , 301 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Forest_2"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 365 , 241 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Forest_2_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 365 , 301 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Forest_1"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 313 , 241 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Forest_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 313 , 301 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Forest_0"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 261 , 241 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Forest_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 261 , 301 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Desert_6"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 209 , 241 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Desert_6_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 209 , 301 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Desert_5"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 157 , 241 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Desert_5_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 157 , 301 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Desert_4"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 105 , 241 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Desert_4_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 105 , 301 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Desert_3"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 53 , 241 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Desert_3_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 53 , 301 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Desert_2"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 1 , 241 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Desert_2_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 1 , 301 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Desert_1"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 417 , 121 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Desert_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 417 , 181 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Desert_0"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 365 , 121 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Desert_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 365 , 181 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Terran_5"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 261 , 121 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Terran_5_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 261 , 181 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Terran_4"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 209 , 121 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Terran_4_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 209 , 181 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Terran_3"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 157 , 121 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Terran_3_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 157 , 181 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Terran_2"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 105 , 121 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Terran_2_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 105 , 181 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Terran_1"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 53 , 121 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Terran_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 53 , 181 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Terran_0"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 1 , 121 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Terran_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 1 , 181 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Ice_3"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 365 , 361 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Ice_3_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 365 , 421 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Ice_2"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 417 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Ice_2_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 417 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Ice_1"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 365 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Ice_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 365 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Ice_0"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 313 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Ice_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 313 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Oceanic_1"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 209 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Oceanic_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 209 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Oceanic_0"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 261 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Oceanic_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 261 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Volcanic_2"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 53 , 361 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Volcanic_2_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 53 , 421 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Volcanic_1"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 313 , 121 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Volcanic_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 313 , 181 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Volcanic_0"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 157 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Volcanic_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 157 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Hydrocarbon_2"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 105 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Hydrocarbon_2_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 105 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Hydrocarbon_1"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 53 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Hydrocarbon_1_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 53 , 61 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Hydrocarbon_0"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 1 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Normal_Hydrocarbon_0_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons"
+	pixelBox [ 1 , 61 , 50 , 50 ]

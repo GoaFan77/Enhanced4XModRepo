@@ -1,0 +1,216 @@
+﻿TXT
+entityType "CapitalShip"
+ability:0 "Ability_E4X_Assimulation"
+ability:1 "Ability_E4X_NanoCloud"
+ability:2 "Ability_E4X_SeedFighters"
+ability:3 ""
+ability:4 "Ability_E4X_HeroScientistPhase"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+mainViewIcon "HUDICONSMALL_CAPITALSHIP_E4X_HeroScientistPhase"
+basePrice
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+slotCount 50.000000
+BuildTime 75.000000
+MaxHullPoints
+	StartValue 1180.000000
+	ValueIncreasePerLevel 50.000000
+MaxShieldPoints
+	StartValue 700.000000
+	ValueIncreasePerLevel 50.000000
+HullPointRestoreRate
+	StartValue 1.500000
+	ValueIncreasePerLevel 0.100000
+ShieldPointRestoreRate
+	StartValue 2.000000
+	ValueIncreasePerLevel 0.100000
+ArmorPointsFromExperience
+	StartValue 4.500000
+	ValueIncreasePerLevel 0.200000
+maxMitigation
+	StartValue 0.700000
+	ValueIncreasePerLevel 0.011110
+MaxAntiMatter
+	StartValue 450.000000
+	ValueIncreasePerLevel 30.000000
+AntiMatterRestoreRate
+	StartValue 1.750000
+	ValueIncreasePerLevel 0.180000
+CultureProtectRate
+	StartValue 0.300000
+	ValueIncreasePerLevel 0.050000
+NameStringID "IDS_Capitalship_E4X_HeroScientistPhase_NAME"
+DescriptionStringID "IDS_Capitalship_E4X_HeroScientistPhase_DESC"
+picture "Picture_E4X_HeroScientistPhase"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+roleType "Invalid"
+statCountType "CapitalShipUtility1"
+numRandomDebrisLarge 2
+numRandomDebrisSmall 8
+numSpecificDebris 0
+armorType "CapitalShip"
+hudIcon "HUDICON_E4X_HeroScientistPhase"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_E4X_HeroScientistPhase"
+infoCardIcon "HUDICONSMALL_CAPITALSHIP_E4X_HeroScientistPhase"
+minZoomDistanceMult 5.000000
+NumWeapons 2
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "WAVE"
+	DamagePerBank:FRONT 103.500000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 4000.000000
+	PreBuffCooldownTime 4.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.000000
+	TravelSpeed 3600.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 3
+		burstDelay 0.300000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PhaseCapitalWaveMedium_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PHASECAPITALWAVEMEDIUM_MUZZLE"
+			sound "WEAPON_PHASECAPITALWAVEMEDIUM_MUZZLE_ALT1"
+		hitEffectName "Weapon_PhaseWaveCannon_Frigate_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYMEDIUM_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICMEDIUM_HITSHIELDS"
+		projectileTravelEffectName "Weapon_PhaseWaveCannon_Frigate_Travel"
+Weapon
+	WeaponType "Beam"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "OVERTIME"
+		DamageType "ENERGY"
+		WeaponClassType "FLASHBEAM"
+	DamagePerBank:FRONT 26.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 5000.000000
+	PreBuffCooldownTime 6.500000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.000000
+	TravelSpeed 0.000000
+	Duration 0.250000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Beam"
+		burstCount 4
+		burstDelay 0.800000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PhaseCapitalFlashBeamMedium_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound ""
+		hitEffectName "Weapon_PhaseCapitalFlashBeamMedium_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound ""
+		hitShieldsEffectSounds
+			soundCount 1
+			sound ""
+		beamEffectSounds
+			soundCount 2
+			sound "WEAPON_PHASECAPITALFLASHBEAMMEDIUM_TRAVEL"
+			sound "WEAPON_PHASECAPITALFLASHBEAMMEDIUM_TRAVEL_ALT1"
+		beamGlowTextureName "PhaseCapitalBeam_Glow"
+		beamCoreTextureName "PhaseCapitalBeam_Core_Medium"
+		beamWidth 20.000000
+		beamGlowColor ffaa00bb
+		beamCoreColor ffee00ff
+		beamTilingRate 3.000000
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+mass 2000.000000
+ShieldMeshName "Shield_FrigatePhaseHeavy"
+renderShield TRUE
+maxAccelerationLinear 125.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 2.300000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 600.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "FRIGATE_PHASEHEAVY_ONATTACKORDERISSUED_0"
+SoundID "FRIGATE_PHASEHEAVY_ONATTACKORDERISSUED_1"
+SoundID "FRIGATE_PHASEHEAVY_ONATTACKORDERISSUED_2"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_PHASEHEAVY_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "FRIGATE_PHASEHEAVY_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_PHASEHEAVY_ONGENERALORDERISSUED_1"
+SoundID "FRIGATE_PHASEHEAVY_ONGENERALORDERISSUED_2"
+NumSoundsFor:ONSELECTED 3
+SoundID "FRIGATE_PHASEHEAVY_ONSELECTED_0"
+SoundID "FRIGATE_PHASEHEAVY_ONSELECTED_1"
+SoundID "FRIGATE_PHASEHEAVY_ONSELECTED_2"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "FRIGATE_PHASEHEAVY_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Frigate_HeroScientistPhase"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_FrigatePhaseHeavy"
+ExplosionName "Frigate0"
+CommandPoints
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.000000
+weaponCooldownDecreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.030000
+weaponDamageIncreasePerc
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.050000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_PHASECAPITALSHIP"
+formationRank 1
+minShadow 0.300000
+maxShadow 1.000000

@@ -1,0 +1,31 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 2
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "RemoveBuffOfType"
+	instantActionTriggerType "OnBuffFinish"
+	buffTypeToRemove "Buff_E4X_PhaseCivicLabSpawner"
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "PlanetHealthMaxAdjustment"
+	value
+		Level:0 250.000000
+		Level:1 250.000000
+		Level:2 250.000000
+		Level:3 250.000000
+numEntityBoolModifiers 0
+numFinishConditions 2
+finishCondition
+	finishConditionType "FirstSpawnerNoLongerHasBuff"
+	buffTypeToQuery "Buff_E4X_PhaseCivicLabSelf"
+finishCondition
+	finishConditionType "OwnerChanged"

@@ -1,0 +1,88 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 4
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName "Ability_LastStandActivate"
+		mediumEffectName "Ability_LastStandActivate"
+		largeEffectName "Ability_LastStandActivate"
+		soundID "EFFECT_LASTSTAND"
+instantAction
+	buffInstantActionType "RestoreShieldPoints"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	shields
+		Level:0 75.000000
+		Level:1 150.000000
+		Level:2 225.000000
+		Level:3 225.000000
+instantAction
+	buffInstantActionType "RestoreHullPoints"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	hull
+		Level:0 75.000000
+		Level:1 150.000000
+		Level:2 225.000000
+		Level:3 225.000000
+instantAction
+	buffInstantActionType "RestoreAntiMatter"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	antiMatter
+		Level:0 25.000000
+		Level:1 35.000000
+		Level:2 45.000000
+		Level:3 45.000000
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 4
+entityModifier
+	buffEntityModifierType "LinearMaxSpeed"
+	value
+		Level:0 0.200000
+		Level:1 0.400000
+		Level:2 0.600000
+		Level:3 0.600000
+entityModifier
+	buffEntityModifierType "LinearThrust"
+	value
+		Level:0 0.200000
+		Level:1 0.400000
+		Level:2 0.600000
+		Level:3 0.600000
+entityModifier
+	buffEntityModifierType "AngularThrust"
+	value
+		Level:0 0.200000
+		Level:1 0.400000
+		Level:2 0.600000
+		Level:3 0.600000
+entityModifier
+	buffEntityModifierType "WeaponCooldown"
+	value
+		Level:0 -0.050000
+		Level:1 -0.100000
+		Level:2 -0.150000
+		Level:3 -0.150000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 30.000000
+		Level:1 35.000000
+		Level:2 40.000000
+		Level:3 40.000000

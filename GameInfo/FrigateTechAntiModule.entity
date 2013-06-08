@@ -1,0 +1,162 @@
+﻿TXT
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault FALSE
+canBomb FALSE
+typeCount 1
+frigateRoleType "AntiModule"
+statCountType "FrigateAntiModule"
+mainViewIcon "MAINVIEWICON_FRIGATE_TECHANTIMODULE"
+picture "PICTURE_FRIGATE_TECHANTIMODULE"
+NameStringID "IDS_FRIGATE_TECHANTIMODULE_NAME"
+DescriptionStringID "IDS_FRIGATE_TECHANTIMODULE_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_ANTIMODULE"
+basePrice
+	credits 620.000000
+	metal 130.000000
+	crystal 95.000000
+slotCount 12.000000
+BuildTime 50.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 36.000000
+MaxHullPoints 610.000000
+MaxShieldPoints 295.000000
+HullPointRestoreRate 1.000000
+ShieldPointRestoreRate 1.000000
+BaseArmorPoints 1.000000
+maxMitigation 0.600000
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_FRIGATEACCESS_ANTIMODULETECH"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 1
+numRandomDebrisSmall 9
+numSpecificDebris 0
+armorType "Heavy"
+hudIcon "HUDICON_FRIGATE_TECHANTIMODULE"
+smallHudIcon "HUDICONSMALL_FRIGATE_TECHANTIMODULE"
+infoCardIcon "INFOCARDICON_FRIGATE_TECHANTIMODULE"
+minZoomDistanceMult 3.000000
+NumWeapons 1
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIMODULE"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "PHYSICAL"
+		WeaponClassType "MISSILE"
+	DamagePerBank:FRONT 450.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 12000.000000
+	PreBuffCooldownTime 20.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.900000
+	TravelSpeed 1100.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Ability_AntiModuleTorpedoesMuzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "EFFECT_NEUTRONTORPEDO_MUZZLE"
+		hitEffectName "Ability_AntiModuleTorpedoesImpact"
+		hitHullEffectSounds
+			soundCount 6
+			sound "EXPLOSION_SUB0"
+			sound "EXPLOSION_SUB1"
+			sound "EXPLOSION_SUB2"
+			sound "EXPLOSION_SUB3"
+			sound "EXPLOSION_SUB4"
+			sound "EXPLOSION_SUB5"
+		hitShieldsEffectSounds
+			soundCount 6
+			sound "EXPLOSION_SUB0"
+			sound "EXPLOSION_SUB1"
+			sound "EXPLOSION_SUB2"
+			sound "EXPLOSION_SUB3"
+			sound "EXPLOSION_SUB4"
+			sound "EXPLOSION_SUB5"
+		projectileTravelEffectName "Ability_AntiModuleTorpedoesTravel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures TRUE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName "Shield_FrigateTechAntiModule"
+renderShield TRUE
+maxAccelerationLinear 100.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 1.650000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 500.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "FRIGATE_TECHANTIMODULE_ONATTACKORDERISSUED_0"
+SoundID "FRIGATE_TECHANTIMODULE_ONATTACKORDERISSUED_1"
+SoundID "FRIGATE_TECHANTIMODULE_ONATTACKORDERISSUED_2"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_TECHANTIMODULE_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "FRIGATE_TECHANTIMODULE_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_TECHANTIMODULE_ONGENERALORDERISSUED_1"
+SoundID "FRIGATE_TECHANTIMODULE_ONGENERALORDERISSUED_2"
+NumSoundsFor:ONSELECTED 3
+SoundID "FRIGATE_TECHANTIMODULE_ONSELECTED_0"
+SoundID "FRIGATE_TECHANTIMODULE_ONSELECTED_1"
+SoundID "FRIGATE_TECHANTIMODULE_ONSELECTED_2"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "FRIGATE_TECHANTIMODULE_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Frigate_TechAntiModule"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_FrigateTechAntiModule"
+ExplosionName "Frigate0"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_TECHCAPITALSHIP"
+ability:0 "Ability_E4X_TechAntiStructureDebuff"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 2
+minShadow 0.000000
+maxShadow 0.400000
+allegianceDecreasePerRoundtrip 0.000000

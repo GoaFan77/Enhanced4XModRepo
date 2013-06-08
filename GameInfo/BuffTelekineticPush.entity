@@ -1,0 +1,64 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 3
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Aura"
+		smallEffectName "CapitalBuff_TelekineticPush"
+		mediumEffectName "CapitalBuff_TelekineticPush"
+		largeEffectName "CapitalBuff_TelekineticPush"
+		soundID ""
+instantAction
+	buffInstantActionType "DoDamage"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	damage
+		Level:0 40.000000
+		Level:1 50.669998
+		Level:2 60.330002
+		Level:3 70.000000
+	damageAffectType "AFFECTS_SHIELDS_AND_HULL"
+	damageType "PHYSICAL"
+	isDamageShared TRUE
+instantAction
+	buffInstantActionType "ApplyImpulseFromSpawner"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	impulse 450000.000000
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 2
+entityModifier
+	buffEntityModifierType "LinearMaxSpeed"
+	value
+		Level:0 -0.250000
+		Level:1 -0.450000
+		Level:2 -0.660000
+		Level:3 -0.863000
+entityModifier
+	buffEntityModifierType "LinearThrust"
+	value
+		Level:0 -0.250000
+		Level:1 -0.450000
+		Level:2 -0.660000
+		Level:3 -0.863000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 15.000000
+		Level:1 15.000000
+		Level:2 15.000000
+		Level:3 15.000000

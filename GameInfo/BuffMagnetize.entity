@@ -1,0 +1,85 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 3
+instantAction
+	buffInstantActionType "DoInterrupt"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+instantAction
+	buffInstantActionType "PlayAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName "CapitalAbility_MagnetizeRadiusEffect"
+		mediumEffectName "CapitalAbility_MagnetizeRadiusEffect"
+		largeEffectName "CapitalAbility_MagnetizeRadiusEffect"
+		soundID ""
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Above"
+		smallEffectName "CapitalBuff_Magnetize"
+		mediumEffectName "CapitalBuff_Magnetize"
+		largeEffectName "CapitalBuff_Magnetize"
+		soundID "EFFECT_MAGNETIZE_LOOP"
+numPeriodicActions 0
+numOverTimeActions 1
+overTimeAction
+	buffOverTimeActionType "Magnetize"
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 2
+		object "Fighter"
+		object "Corvette"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	range
+		Level:0 5000.000000
+		Level:1 6000.000000
+		Level:2 7000.000000
+		Level:3 8000.000000
+	maxNumTargets
+		Level:0 -1.000000
+		Level:1 -1.000000
+		Level:2 -1.000000
+		Level:3 -1.000000
+	damagePerImpact
+		Level:0 25.000000
+		Level:1 25.000000
+		Level:2 25.000000
+		Level:3 25.000000
+	pullForceMagnitude 450000.000000
+numEntityModifiers 0
+numEntityBoolModifiers 1
+entityBoolModifier "DisableAbilities"
+numFinishConditions 3
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 10.000000
+		Level:1 12.000000
+		Level:2 15.000000
+		Level:3 17.000000
+finishCondition
+	finishConditionType "FightersKilled"
+	fightersKilled
+		Level:0 16.000000
+		Level:1 24.000000
+		Level:2 32.000000
+		Level:3 40.000000
+finishCondition
+	finishConditionType "OwnerChanged"

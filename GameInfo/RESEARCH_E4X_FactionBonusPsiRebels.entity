@@ -1,0 +1,58 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_E4X_SubconsciousGuidence"
+smallHudIcon "HUDICON_E4X_SubconsciousGuidence"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_E4X_FactionBonusPsiRebels_NAME"
+DescriptionStringID "IDS_RESEARCH_E4X_FactionBonusPsiRebels_DESC"
+researchWindowLocation
+	block 0
+	pos [ 0 , 4 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 0.000000
+PerLevelUpgradeTime 0.000000
+BaseCost
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+PerLevelCostIncrease
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+Tier 0
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 6
+researchModifier
+	modifierType "CultureShieldRegenAmount"
+	baseValue 0.500000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "AntimatterCapacityAdjustment"
+	baseValue 0.150000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "ResourceCostAdjustment"
+	baseValue 0.150000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "ChanceToRespawnFrigateAtHomeworldUponDeath"
+	baseValue 0.050000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "ChanceToTemporarilyCloneEnemyFrigateWhenKilled"
+	baseValue 0.050000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "ChanceToTemporarilyCloneEnemyFrigateWhenKilledDuration"
+	baseValue 60.000000
+	perLevelValue 0.000000
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"

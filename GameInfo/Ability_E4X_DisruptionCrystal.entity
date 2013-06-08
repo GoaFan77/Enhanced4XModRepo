@@ -1,0 +1,88 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetWithTravel"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_DisruptionCrystalSpawner"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 5
+	object "CapitalShip"
+	object "Frigate"
+	object "PlanetModule"
+	object "StarBase"
+	object "Titan"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "HasAbilityWithCooldown"
+range
+	Level:0 5000.000000
+	Level:1 5000.000000
+	Level:2 5000.000000
+	Level:3 5000.000000
+travelSpeed 3000.000000
+hasWeaponEffects TRUE
+weaponEffectOriginType "Targetter"
+weaponEffectAttachInfo
+	attachType "Ability"
+	abilityIndex 0
+weaponEffectImpactOffsetType "RandomMesh"
+canWeaponEffectHitHull TRUE
+canWeaponEffectHitShields TRUE
+weaponEffectsDef
+	weaponType "Projectile"
+	burstCount 1
+	burstDelay 0.000000
+	fireDelay 0.000000
+	muzzleEffectName "CapitalAbility_IonBlastMuzzle"
+	muzzleSoundMinRespawnTime 0.100000
+	muzzleSounds
+		soundCount 1
+		sound "EFFECT_IONBLAST"
+	hitEffectName ""
+	hitHullEffectSounds
+		soundCount 1
+		sound ""
+	hitShieldsEffectSounds
+		soundCount 1
+		sound ""
+	projectileTravelEffectName "CapitalAbility_IonBlastTravel"
+needsToFaceTarget TRUE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 2.000000
+	Level:1 5.000000
+	Level:2 9.000000
+	Level:3 9.000000
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "IsCapitalShipOrStarbase"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Resources"
+resourceCost
+	credits 0.000000
+	metal 0.000000
+	crystal 200.000000
+cooldownTime
+	Level:0 70.000000
+	Level:1 70.000000
+	Level:2 70.000000
+	Level:3 70.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_DisruptionCrystal_NAME"
+descStringID "IDS_Ability_E4X_DisruptionCrystal_DESC"
+hudIcon "HUDICON_E4X_DisruptionCrystal"
+smallHudIcon "HUDICON_E4X_DisruptionCrystal"
+infoCardIcon ""

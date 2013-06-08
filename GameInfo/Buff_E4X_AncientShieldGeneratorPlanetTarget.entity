@@ -1,0 +1,29 @@
+TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 0
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "PlanetBombingDamageAbsorption"
+	value
+		Level:0 1.000000
+		Level:1 1.000000
+		Level:2 1.000000
+		Level:3 1.000000
+numEntityBoolModifiers 2
+entityBoolModifier "HasShieldMeshEffect"
+entityBoolModifier "CannotBeDamaged"
+numFinishConditions 2
+finishCondition
+	finishConditionType "FirstSpawnerNoLongerHasBuff"
+	buffTypeToQuery "Buff_E4X_AncientShieldGeneratorPlanetSelf"
+finishCondition
+	finishConditionType "OwnerChanged"

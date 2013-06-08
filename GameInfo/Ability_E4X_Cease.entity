@@ -1,0 +1,68 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyTargettedBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_CeaseSelf"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 5
+	object "Frigate"
+	object "CapitalShip"
+	object "StarBase"
+	object "PlanetModule"
+	object "Titan"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 5000.000000
+	Level:1 5000.000000
+	Level:2 5000.000000
+	Level:3 5000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget TRUE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 2.000000
+	Level:1 5.000000
+	Level:2 9.000000
+	Level:3 9.000000
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "HasAbilityInCooldown"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 120.000000
+	Level:1 120.000000
+	Level:2 120.000000
+	Level:3 120.000000
+cooldownTime
+	Level:0 30.000000
+	Level:1 30.000000
+	Level:2 30.000000
+	Level:3 30.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_Cease_NAME"
+descStringID "IDS_Ability_E4X_Cease_DESC"
+hudIcon "HUDICON_E4X_Cease"
+smallHudIcon "HUDICON_E4X_Cease"
+infoCardIcon ""

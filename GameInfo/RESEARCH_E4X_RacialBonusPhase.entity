@@ -1,0 +1,51 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_E4X_RacialBonusPhase"
+smallHudIcon "HUDICON_E4X_RacialBonusPhase"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_E4X_RacialBonusPhase_NAME"
+DescriptionStringID "IDS_RESEARCH_E4X_RacialBonusPhase_DESC"
+researchWindowLocation
+	block 0
+	pos [ 0 , 2 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 0.000000
+PerLevelUpgradeTime 0.000000
+BaseCost
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+PerLevelCostIncrease
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+Tier 0
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 4
+researchModifier
+	modifierType "PopulationTaxRateAdjustment"
+	baseValue 0.100000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "ScuttleValueAdjustment"
+	baseValue 0.300000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.450000
+	perLevelValue 0.000000
+	linkedPlanetType "Volcanic"
+researchModifier
+	modifierType "BombingDamageAsDamageDealerAdjustment"
+	baseValue 0.150000
+	perLevelValue 0.000000
+artifactPicture ""
+uniqueOverlayBrush ""

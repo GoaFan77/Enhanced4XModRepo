@@ -1,0 +1,35 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit -1
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "ApplyBuffToLastSpawnerNoFilterNoRange"
+	instantActionTriggerType "OnBuffFinish"
+	buffType "Buff_E4X_EnergyAbsorbtionRemove"
+numPeriodicActions 0
+numOverTimeActions 1
+overTimeAction
+	buffOverTimeActionType "DoDamage"
+	damageRate
+		Level:0 10.000000
+		Level:1 10.000000
+		Level:2 10.000000
+		Level:3 10.000000
+	damageAffectType "AFFECTS_ONLY_SHIELDS"
+	damageType "ENERGY"
+	isDamageShared TRUE
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 3
+finishCondition
+	finishConditionType "FirstSpawnerNoLongerHasBuff"
+	buffTypeToQuery "Buff_E4X_EnergyAbsorbtionSelf"
+finishCondition
+	finishConditionType "OwnerChanged"
+finishCondition
+	finishConditionType "ShieldFailure"

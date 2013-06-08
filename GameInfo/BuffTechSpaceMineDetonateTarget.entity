@@ -1,0 +1,37 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "NotExclusive"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 0
+numPeriodicActions 0
+numOverTimeActions 1
+overTimeAction
+	buffOverTimeActionType "DoDamage"
+	damageRate
+		Level:0 30.000000
+		Level:1 40.000000
+		Level:2 40.000000
+		Level:3 40.000000
+	damageAffectType "AFFECTS_SHIELDS_AND_HULL"
+	damageType "PHYSICAL"
+	isDamageShared FALSE
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "ChanceToHitAsDamageDealer"
+	value
+		Level:0 -0.150000
+		Level:1 -0.150000
+		Level:2 -0.150000
+		Level:3 -0.150000
+numEntityBoolModifiers 0
+numFinishConditions 2
+finishCondition
+	finishConditionType "LastSpawnerNoLongerHasBuff"
+	buffTypeToQuery "BuffTechSpaceMineDetonateSelf"
+finishCondition
+	finishConditionType "OutOfRange"

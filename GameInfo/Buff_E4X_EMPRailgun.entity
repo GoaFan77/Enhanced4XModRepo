@@ -1,0 +1,61 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit -1
+buffExclusivityForAIType "NotExclusive"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 4
+instantAction
+	buffInstantActionType "DoDamage"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	damage
+	Level:0 300.000000
+	Level:1 450.000000
+	Level:2 600.000000
+	Level:3 600.000000
+	damageAffectType "AFFECTS_ONLY_HULL"
+	damageType "PHYSICAL"
+	isDamageShared FALSE
+instantAction
+	buffInstantActionType "DoDamage"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	damage
+	Level:0 300.000000
+	Level:1 450.000000
+	Level:2 600.000000
+	Level:3 600.000000
+	damageAffectType "AFFECTS_ONLY_SHIELDS"
+	damageType "ENERGY"
+	isDamageShared TRUE
+instantAction
+	buffInstantActionType "DoInterrupt"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Above"
+		smallEffectName "CapitalBuff_IonDisableSmall"
+		mediumEffectName "CapitalBuff_IonDisableLarge"
+		largeEffectName "CapitalBuff_IonDisableLarge"
+		soundID ""
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 1
+entityBoolModifier "DisableAbilities"
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 25.000000
+		Level:1 35.000000
+		Level:2 45.000000
+		Level:3 45.000000

@@ -1,0 +1,76 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetsInRadius"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffWeaponBombingJam"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 3
+	object "CapitalShip"
+	object "Frigate"
+	object "Titan"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 25000.000000
+	Level:1 25000.000000
+	Level:2 25000.000000
+	Level:3 25000.000000
+maxTargetCount
+	Level:0 20.000000
+	Level:1 30.000000
+	Level:2 40.000000
+	Level:3 50.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID "EFFECT_NANOWEAPONJAM"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "ResearchWithBase"
+baseSourceResearchSubject "RESEARCHSUBJECT_PLANETMODULEACCESS_PHASENANOWEAPONJAMMER"
+improveSourceResearchSubject "RESEARCHSUBJECT_PLANETMODULEIMPROVEMENT_PHASENANOWEAPONJAMMER"
+aiUseTime "OnlyWhenManyTargetsInRange"
+onlyAutoCastWhenTargetCountExceedsAmount
+	Level:0 5.000000
+	Level:1 5.000000
+	Level:2 5.000000
+	Level:3 5.000000
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 40.000000
+	Level:1 40.000000
+	Level:2 40.000000
+	Level:3 40.000000
+cooldownTime
+	Level:0 10.000000
+	Level:1 10.000000
+	Level:2 10.000000
+	Level:3 10.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_PLANETMODULEACCESS_PHASENANOWEAPONJAMMER"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_SUPPORTABILITY_WEAPONJAM_NAME"
+descStringID "IDS_SUPPORTABILITY_WEAPONJAM_DESCRIPTION"
+hudIcon "HUDICON_SUPPORTABILITY_WEAPONJAM"
+smallHudIcon "HUDICON_SUPPORTABILITY_WEAPONJAM"
+infoCardIcon ""

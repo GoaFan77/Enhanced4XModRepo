@@ -1,0 +1,48 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 2
+instantAction
+	buffInstantActionType "MakeDead"
+	instantActionTriggerType "OnDelay"
+	delayTime 5.000000
+instantAction
+	buffInstantActionType "GiveCreditsToPlayer"
+	instantActionTriggerType "OnDelay"
+	delayTime 5.000000
+	credits
+		Level:0 755.000000
+		Level:1 755.000000
+		Level:2 755.000000
+		Level:3 755.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 3
+finishCondition
+	finishConditionType "AllOnDelayInstantActionsDone"
+finishCondition
+	finishConditionType "OwnerChanged"
+finishCondition
+	finishConditionType "ResearchNotMet"
+	researchPrerequisites
+		NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCH_E4X_ABILITYACCESS_DeployEmbassyAI"
+			Level 1
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0

@@ -1,0 +1,37 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_E4X_NovalithSupercharge"
+smallHudIcon "HUDICON_E4X_NovalithSupercharge"
+infoCardIcon ""
+NameStringID "IDS_Ability_E4X_NovalithSupercharge_NAME"
+DescriptionStringID "IDS_Ability_E4X_NovalithSupercharge_DESC"
+researchWindowLocation
+	block 2
+	pos [ 7 , 1 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_NOVALITH_DEREGULATION"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 120.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1800.000000
+	metal 350.000000
+	crystal 550.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 7
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 2
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"

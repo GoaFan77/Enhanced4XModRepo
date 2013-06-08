@@ -1,0 +1,29 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "DoInterrupt"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 3
+entityBoolModifier "DisableAbilities"
+entityBoolModifier "DisableLinearEngines"
+entityBoolModifier "DisableWeapons"
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 5.0000000
+		Level:1 5.0000000
+		Level:2 5.0000000
+		Level:3 5.0000000

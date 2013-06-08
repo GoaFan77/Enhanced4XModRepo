@@ -1,0 +1,66 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_AncientEnergyHarvesterAntimatter"
+targetFilter
+	numOwnerships 1
+	ownership "Friendly"
+	numObjects 5
+	object "Frigate"
+	object "CapitalShip"
+	object "StarBase"
+	object "PlanetModule"
+	object "Titan"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 25000.000000
+	Level:1 25000.000000
+	Level:2 25000.000000
+	Level:3 25000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "Anytime"
+aiUseTargetCondition "HasAbilityInCooldown"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 120.000000
+	Level:1 120.000000
+	Level:2 120.000000
+	Level:3 120.000000
+cooldownTime
+	Level:0 40.000000
+	Level:1 40.000000
+	Level:2 40.000000
+	Level:3 40.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCHSUBJECT_ARTIFACT_PASSIVEREGENANTIMATTER"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_AncientEnergyHarvesterAntimatter_NAME"
+descStringID "IDS_Ability_E4X_AncientEnergyHarvesterAntimatter_DESC"
+hudIcon "HUDICON_ABILITY_ANTIMATTERRESTORE"
+smallHudIcon "HUDICON_ABILITY_ANTIMATTERRESTORE"
+infoCardIcon ""

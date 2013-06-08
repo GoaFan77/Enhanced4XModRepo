@@ -1,0 +1,61 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName "Buff_MoraleBoost"
+		mediumEffectName "Buff_MoraleBoostLarge"
+		largeEffectName "Buff_MoraleBoostLarge"
+		soundID ""
+numPeriodicActions 0
+numOverTimeActions 2
+overTimeAction
+	buffOverTimeActionType "RestoreShields"
+	shieldRestoreRate
+		Level:0 10.000000
+		Level:1 12.500000
+		Level:2 15.000000
+		Level:3 15.000000
+overTimeAction
+	buffOverTimeActionType "RestoreHull"
+	hullRestoreRate
+		Level:0 10.000000
+		Level:1 12.500000
+		Level:2 15.000000
+		Level:3 15.000000
+numEntityModifiers 2
+entityModifier
+	buffEntityModifierType "DamageAsDamageTarget"
+	value
+		Level:0 -0.500000
+		Level:1 -0.500000
+		Level:2 -0.500000
+		Level:3 -0.500000
+entityModifier
+	buffEntityModifierType "DamageAsDamageDealer"
+	value
+		Level:0 0.300000
+		Level:1 0.300000
+		Level:2 0.300000
+		Level:3 0.300000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 12.000000
+		Level:1 18.000000
+		Level:2 24.000000
+		Level:3 24.000000

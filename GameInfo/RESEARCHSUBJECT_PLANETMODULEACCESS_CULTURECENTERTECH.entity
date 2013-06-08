@@ -1,0 +1,50 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_PLANETMODULEACCESS_CULTURECENTERTECH"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_PLANETMODULEACCESS_CULTURECENTERTECH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_PLANETMODULEACCESS_CULTURECENTERTECH_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_PLANETMODULEACCESS_CULTURECENTERTECH_DESCRIPTION"
+researchWindowLocation
+	block 2
+	pos [ 2 , 0 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 50.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 800.000000
+	metal 100.000000
+	crystal 175.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 2
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 4
+researchModifier
+	modifierType "CultureWeaponDamageAdjustment"
+	baseValue 0.037500
+	perLevelValue 0.000000
+researchModifier
+	modifierType "CultureShieldMitigationAdjustment"
+	baseValue 0.010000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "CultureAntimatterRegenAmount"
+	baseValue 0.375000
+	perLevelValue 0.000000
+researchModifier
+	modifierType "CultureEnemyBuildRateAdjustment"
+	baseValue -1.000000
+	perLevelValue 0.000000
+artifactPicture ""
+uniqueOverlayBrush ""

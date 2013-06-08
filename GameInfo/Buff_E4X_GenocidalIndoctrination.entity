@@ -1,0 +1,54 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 2
+instantAction
+	buffInstantActionType "RestoreShieldPoints"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	shields
+		Level:0 250.000000
+		Level:1 150.000000
+		Level:2 225.000000
+		Level:3 225.000000
+instantAction
+	buffInstantActionType "RestoreHullPoints"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	hull
+		Level:0 400.000000
+		Level:1 150.000000
+		Level:2 225.000000
+		Level:3 225.000000
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 2
+entityModifier
+	buffEntityModifierType "DamageAsDamageDealer"
+	value
+		Level:0 0.150000
+		Level:1 0.400000
+		Level:2 0.600000
+		Level:3 0.600000
+entityModifier
+	buffEntityModifierType "PlanetBombingCooldown"
+	value
+		Level:0 -0.150000
+		Level:1 -0.400000
+		Level:2 -0.600000
+		Level:3 -0.600000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 180.000000
+		Level:1 180.000000
+		Level:2 180.000000
+		Level:3 180.000000

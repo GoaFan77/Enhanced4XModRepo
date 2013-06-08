@@ -1,0 +1,43 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToLocalOrbitBody"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_PsiLoyalsSpawnCultureCenterSelf"
+targetFilter
+	numOwnerships 1
+	ownership "Player"
+	numObjects 1
+	object "Planet"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget FALSE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_SPAWNPHASESTABILIZER_NAME"
+descStringID "IDS_ABILITY_SPAWNPHASESTABILIZER_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_SPAWNPHASESTABILIZER"
+smallHudIcon "HUDICON_ABILITY_SPAWNPHASESTABILIZER"
+infoCardIcon ""

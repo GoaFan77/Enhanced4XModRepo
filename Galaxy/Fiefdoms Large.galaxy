@@ -1,0 +1,476 @@
+TXT
+versionNumber 4
+isBrowsable TRUE
+browsePictureName "ScenarioPicture-Fiefdoms"
+browseName "Random Fiefdoms Large"
+browseDescription "In a large globular cluster, each faction has managed to grab a stronghold in a small solar system all by themselves. You may have the space to develop, but the fight for the core will begin soon enough."
+isFirstCapitalShipIsFlagship TRUE
+randomizeStartingPositions TRUE
+planetArtifactDensity 0.35
+planetBonusDensity 0.7
+normalStartHomePlanetUpgradeLevel:Population 3
+normalStartHomePlanetUpgradeLevel:CivilianModules 1
+normalStartHomePlanetUpgradeLevel:TacticalModules 0
+normalStartHomePlanetUpgradeLevel:Home 1
+normalStartHomePlanetUpgradeLevel:ArtifactLevel 10
+normalStartHomePlanetUpgradeLevel:Infrastructure 2
+quickStartHomePlanetUpgradeLevel:Population 4
+quickStartHomePlanetUpgradeLevel:CivilianModules 1
+quickStartHomePlanetUpgradeLevel:TacticalModules 0
+quickStartHomePlanetUpgradeLevel:Home 1
+quickStartHomePlanetUpgradeLevel:ArtifactLevel 10
+quickStartHomePlanetUpgradeLevel:Infrastructure 2
+recommendedGameTypeCount 1
+recommendedGameType "FFA"
+metersPerGalaxyUnit 25000.000000
+pixelsPerGalaxyUnit 1
+useRandomGenerator TRUE
+randomizerParams
+	starPosOffsetRange
+		minPercentage 25.0
+		maxPercentage 35.0
+	playerParams
+		startingCredits 3000
+		startingMetal 800
+		startingCrystal 250	
+		homePlanetType "TerranHome"
+		homePlanetStarRadiusRange
+			minPercentage 0.5
+			maxPercentage 0.65		
+		areExtraPlanetsColonized FALSE	
+		extraPlanetsMaxRadius 15
+		extraPlanetsRadiusRange
+			minPercentage 0.9
+			maxPercentage 1.1		
+		extraPlanetGroupCount 1
+		extraPlanetGroup
+			minCount 1
+			maxCount 1
+			planetTypeCount 1
+			planetType "Moon"
+starCount 9
+	star
+		type "RandomStar"
+		radius 65
+		moveAreaRadius 60000.000000
+		hyperspaceExitRadius 50000.000000
+		connectionStarRadiusRange .6
+		connectionChance .85
+		maxPlayerCount 1
+		ringCount 2
+		ring
+			starRadiusRange
+				minPercentage 0.2
+				maxPercentage 0.4
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomTrue"				
+		ring
+			starRadiusRange
+				minPercentage 0.4
+				maxPercentage 0.8
+			militiaColonizationPerc 0
+			planetGroupCount 4
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "Asteroid"
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomCrystal"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomMetal"
+	star
+		type "RandomStar"
+		radius 65
+		moveAreaRadius 60000.000000
+		hyperspaceExitRadius 50000.000000
+		connectionStarRadiusRange .6
+		connectionChance .85
+		maxPlayerCount 1
+		ringCount 2
+		ring
+			starRadiusRange
+				minPercentage 0.2
+				maxPercentage 0.4
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomTrue"				
+		ring
+			starRadiusRange
+				minPercentage 0.4
+				maxPercentage 0.8
+			militiaColonizationPerc 0
+			planetGroupCount 4
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "Asteroid"
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomCrystal"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomMetal"
+	star
+		type "RandomStar"
+		radius 65
+		moveAreaRadius 60000.000000
+		hyperspaceExitRadius 50000.000000
+		connectionStarRadiusRange .6
+		connectionChance .85
+		maxPlayerCount 1
+		ringCount 2
+		ring
+			starRadiusRange
+				minPercentage 0.2
+				maxPercentage 0.4
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomTrue"				
+		ring
+			starRadiusRange
+				minPercentage 0.4
+				maxPercentage 0.8
+			militiaColonizationPerc 0
+			planetGroupCount 4
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "Asteroid"
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomCrystal"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomMetal"
+	star
+		type "RandomStar"
+		radius 65
+		moveAreaRadius 60000.000000
+		hyperspaceExitRadius 50000.000000
+		connectionStarRadiusRange .6
+		connectionChance .85
+		maxPlayerCount 1
+		ringCount 2
+		ring
+			starRadiusRange
+				minPercentage 0.2
+				maxPercentage 0.4
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomTrue"				
+		ring
+			starRadiusRange
+				minPercentage 0.4
+				maxPercentage 0.8
+			militiaColonizationPerc 0
+			planetGroupCount 4
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "Asteroid"
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomCrystal"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomMetal"
+	star
+		type "RandomStar"
+		radius 65
+		moveAreaRadius 60000.000000
+		hyperspaceExitRadius 50000.000000
+		connectionStarRadiusRange .6
+		connectionChance .85
+		maxPlayerCount 1
+		ringCount 2
+		ring
+			starRadiusRange
+				minPercentage 0.2
+				maxPercentage 0.4
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomTrue"				
+		ring
+			starRadiusRange
+				minPercentage 0.4
+				maxPercentage 0.8
+			militiaColonizationPerc 0
+			planetGroupCount 4
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "Asteroid"
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomCrystal"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomMetal"
+	star
+		type "RandomStar"
+		radius 100
+		moveAreaRadius 60000.000000
+		hyperspaceExitRadius 50000.000000
+		connectionStarRadiusRange .75
+		connectionChance .7		
+		maxPlayerCount 0
+		ringCount 3
+		ring
+			starRadiusRange
+				minPercentage 0.2
+				maxPercentage 0.3
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "PirateBase"
+		ring
+			starRadiusRange
+				minPercentage 0.3
+				maxPercentage 0.5
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "SecretRandomEncounters"				
+		ring
+			starRadiusRange
+				minPercentage 0.3
+				maxPercentage 1.1
+			militiaColonizationPerc 0
+			planetGroupCount 4
+			planetGroup
+				minCount 6
+				maxCount 7
+				planetTypeCount 1
+				planetType "RandomTrue"
+			planetGroup
+				minCount 6
+				maxCount 6
+				planetTypeCount 1
+				planetType "AsteroidOrMoon"
+			planetGroup
+				minCount 4
+				maxCount 6
+				planetTypeCount 1
+				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 6
+				maxCount 6
+				planetTypeCount 1
+				planetType "Random"
+	star
+		type "RandomStar"
+		radius 65
+		moveAreaRadius 60000.000000
+		hyperspaceExitRadius 50000.000000
+		connectionStarRadiusRange .6
+		connectionChance .85
+		maxPlayerCount 1
+		ringCount 2
+		ring
+			starRadiusRange
+				minPercentage 0.2
+				maxPercentage 0.4
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomTrue"				
+		ring
+			starRadiusRange
+				minPercentage 0.4
+				maxPercentage 0.8
+			militiaColonizationPerc 0
+			planetGroupCount 4
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "Asteroid"
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomCrystal"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomMetal"
+	star
+		type "RandomStar"
+		radius 65
+		moveAreaRadius 60000.000000
+		hyperspaceExitRadius 50000.000000
+		connectionStarRadiusRange .6
+		connectionChance .85
+		maxPlayerCount 1
+		ringCount 2
+		ring
+			starRadiusRange
+				minPercentage 0.2
+				maxPercentage 0.4
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomTrue"				
+		ring
+			starRadiusRange
+				minPercentage 0.4
+				maxPercentage 0.8
+			militiaColonizationPerc 0
+			planetGroupCount 4
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "Asteroid"
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomCrystal"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomMetal"
+	star
+		type "RandomStar"
+		radius 65
+		moveAreaRadius 60000.000000
+		hyperspaceExitRadius 50000.000000
+		connectionStarRadiusRange .6
+		connectionChance .85
+		maxPlayerCount 1
+		ringCount 2
+		ring
+			starRadiusRange
+				minPercentage 0.2
+				maxPercentage 0.4
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomTrue"				
+		ring
+			starRadiusRange
+				minPercentage 0.4
+				maxPercentage 0.8
+			militiaColonizationPerc 0
+			planetGroupCount 4
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "Asteroid"
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomCrystal"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomMetal"

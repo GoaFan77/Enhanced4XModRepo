@@ -1,0 +1,67 @@
+TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_FrigateFactoryRepair"
+targetFilter
+	numOwnerships 1
+	ownership "Friendly"
+	numObjects 6
+	object "CapitalShip"
+	object "Frigate"
+	object "PlanetModule"
+	object "StarBase"
+	object "Titan"
+	object "Corvette"
+	numSpaces 1
+	space "Normal"
+	numConstraints 2
+	constraint "NotSelf"
+	constraint "HasHullDamage"
+range
+	Level:0 6000.000000
+	Level:1 6000.000000
+	Level:2 6000.000000
+	Level:3 6000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Ability"
+		abilityIndex 0
+	smallEffectName "Ability_RepairPlatformTechActivate"
+	mediumEffectName "Ability_RepairPlatformTechActivate"
+	largeEffectName "Ability_RepairPlatformTechActivate"
+	soundID "EFFECT_REPAIR_TECH"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "HullDamageExceedsAmount"
+onlyAutoCastWhenTargetHullDamageExceedsAmount
+	Level:0 200.000000
+	Level:1 200.000000
+	Level:2 200.000000
+	Level:3 200.000000
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 30.000000
+	Level:1 30.000000
+	Level:2 30.000000
+	Level:3 30.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_FrigateFactoryRepair_NAME"
+descStringID "IDS_Ability_E4X_FrigateFactoryRepair_DESC"
+hudIcon "HUDICON_SUPPORTABILITY_REPAIRTECHPLANETMODULE"
+smallHudIcon "HUDICON_SUPPORTABILITY_REPAIRTECHPLANETMODULE"
+infoCardIcon ""

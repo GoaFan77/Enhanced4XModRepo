@@ -1,0 +1,67 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_AssimulationEffect"
+targetFilter
+	numOwnerships 1
+	ownership "Enemy"
+	numObjects 2
+	object "Frigate"
+	object "PlanetModule"
+	numSpaces 1
+	space "Normal"
+	numConstraints 2
+	constraint "NotInvulnerable"
+	constraint "NotFlagship"
+range
+	Level:0 4000.000000
+	Level:1 4000.000000
+	Level:2 4000.000000
+	Level:3 4000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget TRUE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 3.000000
+	Level:2 7.000000
+	Level:3 9.000000
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 100.000000
+	Level:1 100.000000
+	Level:2 100.000000
+	Level:3 100.000000
+cooldownTime
+	Level:0 30.000000
+	Level:1 30.000000
+	Level:2 30.000000
+	Level:3 30.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_Assimulation_NAME"
+descStringID "IDS_Ability_E4X_Assimulation_DESC"
+hudIcon "HUDICON_E4X_Assimulation"
+smallHudIcon "HUDICON_E4X_Assimulation"
+infoCardIcon ""

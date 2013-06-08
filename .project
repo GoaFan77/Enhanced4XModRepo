@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Enhanced 4X Mod Rebellion Dev</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.zombiesrus5.plugin.sose.entityBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.zombiesrus5.plugin.sose.entityNature</nature>
+	</natures>
+</projectDescription>

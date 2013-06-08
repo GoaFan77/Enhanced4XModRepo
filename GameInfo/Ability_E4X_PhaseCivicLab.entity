@@ -1,0 +1,54 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_PhaseCivicLabSpawner"
+targetFilter
+	numOwnerships 1
+	ownership "Player"
+	numObjects 1
+	object "Planet"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+range
+	Level:0 30000.000000
+	Level:1 30000.000000
+	Level:2 30000.000000
+	Level:3 30000.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 45.000000
+	Level:1 45.000000
+	Level:2 45.000000
+	Level:3 45.000000
+orderAcknowledgementType "Invalid"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_PhaseCivicLab_Name"
+descStringID "IDS_Ability_E4X_PhaseCivicLab_DESC"
+hudIcon "HUDICON_RESEARCHSUBJECT_PLANETBOMBING_REDUCEDPOPULATIONKILLED"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_PLANETBOMBING_REDUCEDPOPULATIONKILLED"
+infoCardIcon ""

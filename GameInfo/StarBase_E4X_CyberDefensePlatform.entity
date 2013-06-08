@@ -1,0 +1,207 @@
+﻿TXT
+entityType "StarBase"
+ability:0 "Ability_E4X_CyberDefensePlatformSpawnNanites"
+ability:1 ""
+ability:2 ""
+ability:3 "Ability_E4X_CyberDefensePlatformPassives"
+ability:4 ""
+defaultAutoAttackRange "None"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+numRandomDebrisLarge 12
+numRandomDebrisSmall 24
+numSpecificDebris 0
+armorType "Module"
+hudIcon "HUDICON_STARBASE_TECH"
+smallHudIcon "HUDICONSMALL_E4X_CyberDefenseFortress"
+infoCardIcon "HUDICONSMALL_E4X_CyberDefenseFortress"
+minZoomDistanceMult 1.000000
+NumWeapons 3
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "LASERPSI"
+	DamagePerBank:FRONT 120.000000
+	DamagePerBank:BACK 120.000000
+	DamagePerBank:LEFT 120.000000
+	DamagePerBank:RIGHT 120.000000
+	Range 8500.000000
+	PreBuffCooldownTime 4.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.350000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 2
+		burstDelay 0.500000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Psi_LaserCapital_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PSICAPITALLASERHEAVY_MUZZLE"
+			sound "WEAPON_PSICAPITALLASERHEAVY_MUZZLE_ALT1"
+		hitEffectName "Weapon_Psi_LaserCapital_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYHEAVY_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Psi_LaserCapital_Travel"
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "ION"
+	DamagePerBank:FRONT 138.000000
+	DamagePerBank:BACK 138.000000
+	DamagePerBank:LEFT 138.000000
+	DamagePerBank:RIGHT 138.000000
+	Range 10000.000000
+	PreBuffCooldownTime 8.50000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.250000
+	TravelSpeed 9001.000000
+	Duration 3.250000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+			weaponType "Projectile"
+			burstCount 2
+			burstDelay 2.000000
+			fireDelay 1.000000
+			muzzleEffectName "Ability_SabotageAntiMatterMuzzle"
+			muzzleSoundMinRespawnTime 0.100000
+			muzzleSounds
+				soundCount 1
+				sound "WEAPON_GENERICFIRE"
+			hitEffectName ""
+			hitHullEffectSounds
+				soundCount 1
+				sound ""
+			hitShieldsEffectSounds
+				soundCount 1
+				sound ""
+			projectileTravelEffectName "Ability_SabotageAntiMatterTravel"
+Weapon
+	WeaponType "Beam"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "OVERTIME"
+		DamageType "ENERGY"
+		WeaponClassType "BEAM"
+	DamagePerBank:FRONT 256.000000
+	DamagePerBank:BACK 256.000000
+	DamagePerBank:LEFT 256.000000
+	DamagePerBank:RIGHT 256.000000
+	Range 9000.000000
+	PreBuffCooldownTime 8.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.250000
+	TravelSpeed 0.000000
+	Duration 4.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Tech_CapitalBeam_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound ""
+		hitEffectName "Weapon_Tech_CapitalBeam_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound ""
+		hitShieldsEffectSounds
+			soundCount 1
+			sound ""
+		beamEffectSounds
+			soundCount 1
+			sound "WEAPON_TECHCAPITALBEAMHEAVY_TRAVEL"
+		beamGlowTextureName "TechCapitalBeam_Glow"
+		beamCoreTextureName "TechCapitalBeam_Core"
+		beamWidth 50.000000
+		beamGlowColor ff60dddf
+		beamCoreColor ff93cccf
+		beamTilingRate 4.000000
+m_weaponIndexForRange 2
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 2
+TargetCountPerBank:BACK 2
+TargetCountPerBank:LEFT 2
+TargetCountPerBank:RIGHT 2
+canOnlyTargetStructures FALSE
+ShieldMeshName ""
+renderShield FALSE
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+mainViewIcon "HUDICONSMALL_E4X_CyberDefenseFortress"
+experiencePointsForDestroying 2000.000000
+nameStringID "IDS_Starbase_E4X_CyberDefensePlatform_NAME"
+picture "PICTURE_STARBASETECH"
+statCountType "StarBase"
+creationSourceAbility "Ability_E4X_DeployAncientStarBase"
+maxUpgradeLevelCount 1
+UpgradeTypeCount 3
+UpgradeType "StarBaseUpgrade_E4X_CyberDefensePlatformToughness"
+UpgradeType "StarBaseUpgrade_E4X_BlockColonize"
+UpgradeType "StarBaseUpgrade_E4X_TradePort"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "E4X_CyberDefensePlatform"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 1
+SoundID "E4X_AncientStarBaseSelect"
+NumSoundsFor:ONSTARTPHASEJUMP 0
+ExplosionName "StarBase0"
+formationRank 3
+minShadow 0.000000
+maxShadow 0.300000
+cargoShipType "FrigatePsiTradeShip"
+maxCargoShipCount 5
+cargoShipRespawnTime 25.000000
+baseBuildTime 1.000000
+buildEffectName ""
+angularSpeed 0.500000
+rotateSoundName ""
+rotateFacingType "AwayFromOrbitBody"
+rotateConstantly FALSE
+maxAccelerationLinear 2.000000
+maxAccelerationStrafe 1.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 1.000000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 5.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+mass 10000.000000
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
