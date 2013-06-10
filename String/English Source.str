@@ -1,5 +1,5 @@
 TXT
-NumStrings 7350
+NumStrings 7507
 StringInfo
 	ID "IDSPlayerAINameTech0"
 	Value "Nitheim Rebels"
@@ -3139,8 +3139,23 @@ StringInfo
 	ID "IDSPlanetBonusValuePopulationGrowthPerc"
 	Value "Population Growth"
 StringInfo
+	ID "IDSPlanetBonusValueBombingDamage"
+	Value "Bombing Damage"
+StringInfo
+	ID "IDSPlanetBonusValueShipCost"
+	Value "Ship Build Cost"
+StringInfo
+	ID "IDSPlanetBonusValueWeaponDamage"
+	Value "Weapon Damage At This Gravity Well"
+StringInfo
 	ID "IDSPlanetBonusValueModuleConstructors"
 	Value "Extra Constructors"
+StringInfo
+	ID "IDSPlanetBonusValueMaxSpaceMines"
+	Value "Extra Space Mines"
+StringInfo
+	ID "IDSPlanetBonusValueMaxStarbases"
+	Value "Extra Starbases"
 StringInfo
 	ID "IDSBottomEntityInfoWindowInfo"
 	Value "*VALUE0*"
@@ -3694,6 +3709,18 @@ StringInfo
 	ID "IDS_INFOCARD_PLANETCLOSEUPGRADEMANAGEMENT_DESC"
 	Value "Return to the main menu."
 StringInfo
+	ID "IDS_INFOCARD_PLANETUPGRADESOCIAL_NAME"
+	Value "Social Specialization"
+StringInfo
+	ID "IDS_INFOCARD_PLANETUPGRADESOCIAL_DESC"
+	Value "Dedicate this planet towards greater population and cultural influence at the cost of trade and industry. Choosing this path locks out Industry Specialization."
+StringInfo
+	ID "IDS_INFOCARD_PLANETUPGRADEINDUSTRY_NAME"
+	Value "Industry Specialization"
+StringInfo
+	ID "IDS_INFOCARD_PLANETUPGRADEINDUSTRY_DESC"
+	Value "Dedicate this planet towards trade income and ship building at the cost of culture and population. Choosing this path locks out Social Specialization."
+StringInfo
 	ID "IDS_INFOCARD_PLANETUPGRADEPOPULATION_NAME"
 	Value "Civilian Infrastructure"
 StringInfo
@@ -4167,6 +4194,12 @@ StringInfo
 StringInfo
 	ID "IDS_GAMEMESSAGE_PLANETUPGRADEALREADYMAXLEVEL"
 	Value "%s is already fully developed."
+StringInfo
+	ID "IDS_GAMEMESSAGE_SOCIALALREADYCHOSEN"
+	Value "Already specialized in Social"
+StringInfo
+	ID "IDS_GAMEMESSAGE_INDUSTRYALREADYCHOSEN"
+	Value "Already specialized in Industry"
 StringInfo
 	ID "IDS_GAMEMESSAGE_PLANETUPGRADECOMPLETE"
 	Value "Planet development complete: %s."
@@ -5173,17 +5206,65 @@ StringInfo
 	ID "IDS_PLAYERFACTIONNAME_REBEL"
 	Value "Rebel"
 StringInfo
+	ID "IDS_PLANETBONUS_ABANDNANITEFACTORY_NAME"
+	Value "Abandoned Nanite Factory"
+StringInfo
+	ID "IDS_PLANETBONUS_ABANDNANITEFACTORY_DESC"
+	Value "Exploration teams locate an old nanite factory from a prior Vasari occupation, making it cheaper to construct ships at this planet."
+StringInfo
+	ID "IDS_PLANETBONUS_ABLATIVECRUST_NAME"
+	Value "Ablative Crust"
+StringInfo
+	ID "IDS_PLANETBONUS_ABLATIVECRUST_DESC"
+	Value "The surface of this world is pockmarked by evidence of devastating battles from the distant past. The only reason why the planet itself wasn't shattered is due to its unique crust which is highly resistant to bombardment."
+StringInfo
 	ID "IDS_PLANETBONUS_ACIDATMOSPHERE_NAME"
 	Value "Caustic Atmosphere"
 StringInfo
 	ID "IDS_PLANETBONUS_ACIDATMOSPHERE_DESC"
 	Value "Concentrated sulphurous gases make planet development more expensive and reduce the maximum population."
 StringInfo
+	ID "IDS_PLANETBONUS_ANCIENTARCOLOGY_NAME"
+	Value "Ancient Arcology"
+StringInfo
+	ID "IDS_PLANETBONUS_ANCIENTARCOLOGY_DESC"
+	Value "A massive hive complex is located, vastly expanding the potential population of the planet."
+StringInfo
+	ID "IDS_PLANETBONUS_ANCIENTMINEFACTORY_NAME"
+	Value "Ancient Mine Factory"
+StringInfo
+	ID "IDS_PLANETBONUS_ANCIENTMINEFACTORY_DESC"
+	Value "A long abandoned factory is located which contains distinctive elements of both modern Trader and Advent architecture, yet is clearly neither. The number of space mines this planet can field is increased."
+StringInfo
+	ID "IDS_PLANETBONUS_ANTIMATTERCORES_NAME"
+	Value "Energized Space"
+StringInfo
+	ID "IDS_PLANETBONUS_ANTIMATTERCORES_DESC"
+	Value "High energy particles are saturated around this planet, causing all weapons to do increased damage."
+StringInfo
+	ID "IDS_PLANETBONUS_AUTOMATEDFACTORIES_NAME"
+	Value "Automated Factories"
+StringInfo
+	ID "IDS_PLANETBONUS_AUTOMATEDFACTORIES_DESC"
+	Value "Explorers discover an automated factory complex run by a sophisticated AI. Module and ship costs are reduced and an extra constructor ship deployed."
+StringInfo
+	ID "IDS_PLANETBONUS_BOMBARDMENTSHELTERS_NAME"
+	Value "Bombardment Shelters"
+StringInfo
+	ID "IDS_PLANETBONUS_BOMBARDMENTSHELTERS_DESC"
+	Value "Explorers locate a system of shelters buried deep under the planet's surface, the walls of which contain a number of strange symbols that Traders find implicitly offensive. Damage sustained from bombardment is greatly reduced."
+StringInfo
 	ID "IDS_PLANETBONUS_CAVERNSYSTEM_NAME"
 	Value "Habitable Cavern System"
 StringInfo
 	ID "IDS_PLANETBONUS_CAVERNSYSTEM_DESC"
 	Value "Increases the maximum population and emergency infrastructure health."
+StringInfo
+	ID "IDS_PLANETBONUS_CHAOTICSOCIETY_NAME"
+	Value "Anarchic Society"
+StringInfo
+	ID "IDS_PLANETBONUS_CHAOTICSOCIETY_DESC"
+	Value "All order has broken down on this world. Trade income is reduced and construction costs are increased."
 StringInfo
 	ID "IDS_PLANETBONUS_CONDUCTIVEINTERIOR_NAME"
 	Value "Conductive Mantle"
@@ -5197,17 +5278,71 @@ StringInfo
 	ID "IDS_PLANETBONUS_CRYSTALMINERS_DESC"
 	Value "Increases the income rate of all this planet's Crystal Extractors."
 StringInfo
+	ID "IDS_PLANETBONUS_DEATHWORLD_NAME"
+	Value "Death World"
+StringInfo
+	ID "IDS_PLANETBONUS_DEATHWORLD_DESC"
+	Value "The atmosphere on this world contains strange, artificial biological molecules which threaten both the surface and near orbit. Population infrastructure and civilian orbital stations are limited, while build costs are increased."
+StringInfo
+	ID "IDS_PLANETBONUS_DENSEATMOSPHERE_NAME"
+	Value "Dense Atmosphere"
+StringInfo
+	ID "IDS_PLANETBONUS_DENSEATMOSPHERE_DESC"
+	Value "The atmosphere surround this world is extremely dense, limiting population due to the higher pressure. However, it also makes planetary bombardment difficult."
+StringInfo
+	ID "IDS_PLANETBONUS_DENSECORE_NAME"
+	Value "Dense Core"
+StringInfo
+	ID "IDS_PLANETBONUS_DENSECORE_DESC"
+	Value "The dense, iron core at the center of this planet vastly expands its gravity well."
+StringInfo
 	ID "IDS_PLANETBONUS_DUSTSTORMS_NAME"
 	Value "Persistent Dust Storms"
 StringInfo
 	ID "IDS_PLANETBONUS_DUSTSTORMS_DESC"
 	Value "Intense dust storms sweep across the planet, hindering farming which causes reduced population growth rates."
 StringInfo
+	ID "IDS_PLANETBONUS_FEUDALSOCIETY_NAME"
+	Value "Feudal Society"
+StringInfo
+	ID "IDS_PLANETBONUS_FEUDALSOCIETY_DESC"
+	Value "An aristocracy rules this planet making profitability difficult and labor cheap, if slow."
+StringInfo
+	ID "IDS_PLANETBONUS_FORTRESSWORLD_NAME"
+	Value "Fortress World"
+StringInfo
+	ID "IDS_PLANETBONUS_FORTRESSWORLD_DESC"
+	Value "Remains of cities that match early Aluxi Dynasty design patterns are found across the long deserted planet. These bastions are restored once again, turning this planet into a fortress. Defenses are increased and infrastructure added to host an additional starbase."
+StringInfo
+	ID "IDS_PLANETBONUS_FREEMARKETSOCIETY_NAME"
+	Value "Free Market Society"
+StringInfo
+	ID "IDS_PLANETBONUS_FREEMARKETSOCIETY_DESC"
+	Value "Megacorporations operate this planet, making the populace open to new cultures, trade, and cheap labor."
+StringInfo
+	ID "IDS_PLANETBONUS_FREQUENTRAIDERS_NAME"
+	Value "Frequent Raiders"
+StringInfo
+	ID "IDS_PLANETBONUS_FREQUENTRAIDERS_DESC"
+	Value "This world becomes the frequent destination for pirate raids, substantially reducing trade income."
+StringInfo
+	ID "IDS_PLANETBONUS_FUSIONPOWERCORE_NAME"
+	Value "Fusion Power Core"
+StringInfo
+	ID "IDS_PLANETBONUS_FUSIONPOWERCORE_DESC"
+	Value "A fusion power core facility is discovered, allowing for faster construction of orbital facilities."
+StringInfo
 	ID "IDS_PLANETBONUS_GEOTHERMALHEATSOURCE_NAME"
 	Value "Geothermal Hot Spots"
 StringInfo
 	ID "IDS_PLANETBONUS_GEOTHERMALHEATSOURCE_DESC"
 	Value "Many points of limited volcanic activity provide easy access to energy, allowing greater amounts of civilian development at this planet."
+StringInfo
+	ID "IDS_PLANETBONUS_HEALINGNANITES_NAME"
+	Value "Healing Nanites"
+StringInfo
+	ID "IDS_PLANETBONUS_HEALINGNANITES_DESC"
+	Value "A Vasari medical facility is discovered, improving population growth."
 StringInfo
 	ID "IDS_PLANETBONUS_HELIUMATMOSPHERE_NAME"
 	Value "Helium Rich Atmosphere"
@@ -5232,6 +5367,18 @@ StringInfo
 StringInfo
 	ID "IDS_PLANETBONUS_INDUSTRIALWASTELAND_DESC"
 	Value "Sprawling manufacturing facilities cover the surface, reducing culture spread but increasing resource mining rates."
+StringInfo
+	ID "IDS_PLANETBONUS_INTERSTELLAREXCHANGE_NAME"
+	Value "Interstellar Exchange"
+StringInfo
+	ID "IDS_PLANETBONUS_INTERSTELLAREXCHANGE_DESC"
+	Value "A commerce hub is established on this planet, generating increased trade and tax revenues."
+StringInfo
+	ID "IDS_PLANETBONUS_INTGRAVITYFIELD_NAME"
+	Value "Intense Gravity Field"
+StringInfo
+	ID "IDS_PLANETBONUS_INTGRAVITYFIELD_DESC"
+	Value "This planet has a higher gravitational field than its size would suggest, requiring ships to travel further out to perform a phase jump."
 StringInfo
 	ID "IDS_PLANETBONUS_IONICSTORMS_NAME"
 	Value "Ionic Storms"
@@ -5269,6 +5416,30 @@ StringInfo
 	ID "IDS_PLANETBONUS_METEORITECRATERS_DESC"
 	Value "Constant meteorite strikes make surface colonies impractical, but offer a source of valuable resources."
 StringInfo
+	ID "IDS_PLANETBONUS_MODERNSOCIETY_NAME"
+	Value "Modern Society"
+StringInfo
+	ID "IDS_PLANETBONUS_MODERNSOCIETY_DESC"
+	Value "This planet is ruled by the intellectual elite and is highly organized, increasing the number of orbital structures that can be maintained."
+StringInfo
+	ID "IDS_PLANETBONUS_OCEANICENERGYCONVERTER_NAME"
+	Value "Oceanic Energy Converter"
+StringInfo
+	ID "IDS_PLANETBONUS_OCEANICENERGYCONVERTER_DESC"
+	Value "Underwater surveys reveal a conversion system that translates ocean waves into power, boosting trade income."
+StringInfo
+	ID "IDS_PLANETBONUS_ORDEREDSOCIETY_NAME"
+	Value "Ordered Society"
+StringInfo
+	ID "IDS_PLANETBONUS_ORDEREDSOCIETY_DESC"
+	Value "This world operates under a tight set of laws where freedoms are curtailed. Culture spread is reduced and resource extraction rates increased."
+StringInfo
+	ID "IDS_PLANETBONUS_PACIFISTSOCIETY_NAME"
+	Value "Pacifist Society"
+StringInfo
+	ID "IDS_PLANETBONUS_PACIFISTSOCIETY_DESC"
+	Value "The inhabitants of this world have rejected all forms of violence, making them more vulnerable to hostile empires and more open to friendly ones."
+StringInfo
 	ID "IDS_PLANETBONUS_PENALCOLONY_NAME"
 	Value "Penal Colony"
 StringInfo
@@ -5281,11 +5452,41 @@ StringInfo
 	ID "IDS_PLANETBONUS_PIRATETREASURE_DESC"
 	Value "A vast hoard of ill-gotten riches is shipped back to your capital one cargo hold at a time. Grants a bonus to credit income."
 StringInfo
+	ID "IDS_PLANETBONUS_PLANETARYCORRUPTION_NAME"
+	Value "Planetary Corruption"
+StringInfo
+	ID "IDS_PLANETBONUS_PLANETARYCORRUPTION_DESC"
+	Value "Corrupt officials and black market traders have gained a foothold here, leading to reduced tax and trade income."
+StringInfo
+	ID "IDS_PLANETBONUS_POLLUTEDENVIRONMENT_NAME"
+	Value "Polluted Environment"
+StringInfo
+	ID "IDS_PLANETBONUS_POLLUTEDENVIRONMENT_DESC"
+	Value "Surface scans show this world to be heavily polluted by what could have been ancient weapons of war. Population and allegiance are reduced while trade income is increased."
+StringInfo
+	ID "IDS_PLANETBONUS_POPULATIONBOOM_NAME"
+	Value "Population Boom"
+StringInfo
+	ID "IDS_PLANETBONUS_POPULATIONBOOM_DESC"
+	Value "A baby boom begins on the planet, resulting in a huge increase to population growth."
+StringInfo
+	ID "IDS_PLANETBONUS_QUANTUMCOMMHUB_NAME"
+	Value "Quantum Communications Hub"
+StringInfo
+	ID "IDS_PLANETBONUS_QUANTUMCOMMHUB_DESC"
+	Value "A quantum communications system is discovered, boosting the spread of culture from this world."
+StringInfo
 	ID "IDS_PLANETBONUS_RAREMETALDEPOSITS0_NAME"
 	Value "Kalanite Deposits"
 StringInfo
 	ID "IDS_PLANETBONUS_RAREMETALDEPOSITS0_DESC"
 	Value "Used extensively in quantum electronics, Kalanite is a valuable trade export."
+StringInfo
+	ID "IDS_PLANETBONUS_RUSTEDCORE_NAME"
+	Value "Rusted Core"
+StringInfo
+	ID "IDS_PLANETBONUS_RUSTEDCORE_DESC"
+	Value "The core of this world has all but rotted away, reducing its gravity well and limiting the amount of metal left for extraction."
 StringInfo
 	ID "IDS_PLANETBONUS_SALVAGEROUTPOST_NAME"
 	Value "Roiders Outpost"
@@ -5304,6 +5505,12 @@ StringInfo
 StringInfo
 	ID "IDS_PLANETBONUS_SIGNALABSORPTION_DESC"
 	Value "High amounts of ambient radiation disrupt transmissions, resulting in reduced culture spread."
+StringInfo
+	ID "IDS_PLANETBONUS_SHIPFACTORIES_NAME"
+	Value "Efficient Ship Factories"
+StringInfo
+	ID "IDS_PLANETBONUS_SHIPFACTORIES_DESC"
+	Value "Miles upon miles of hastily constructed ship ports of unknown origin are located. Restoring them greatly improves the ability to construct new vessels here."
 StringInfo
 	ID "IDS_PLANETBONUS_SOLARENERGYRESERVES_NAME"
 	Value "Solar Energy Harvesting"
@@ -5335,6 +5542,30 @@ StringInfo
 	ID "IDS_PLANETBONUS_STRICTSECURITY_DESC"
 	Value "Tight security procedures increase the defensibility of this planet, but hampers any trade activity."
 StringInfo
+	ID "IDS_PLANETBONUS_STRONGMAGFIELD_NAME"
+	Value "Strong Magnetic Field"
+StringInfo
+	ID "IDS_PLANETBONUS_STRONGMAGFIELD_DESC"
+	Value "A powerful magnetic field surrounds this world, making it more resistent to planetary bombardment."
+StringInfo
+	ID "IDS_PLANETBONUS_SUBSURFACECRYSTAL_NAME"
+	Value "Subsurface Crystal Deposits"
+StringInfo
+	ID "IDS_PLANETBONUS_SUBSURFACECRYSTAL_DESC"
+	Value "High quantities of crystal have been located in this system, boost the amount that crystal miners are able to extract."
+StringInfo
+	ID "IDS_PLANETBONUS_SUBSURFACEMETAL_NAME"
+	Value "Subsurface Metal Deposits"
+StringInfo
+	ID "IDS_PLANETBONUS_SUBSURFACEMETAL_DESC"
+	Value "High quantities of valuable ore have been located in this system, boosting the amount that metal miners are able to extract."
+StringInfo
+	ID "IDS_PLANETBONUS_SUBZEROTWISTERS_NAME"
+	Value "Subzero Twisters"
+StringInfo
+	ID "IDS_PLANETBONUS_SUBZEROTWISTERS_DESC"
+	Value "This planet's atmosphere generates deadly tornadoes of ice and snow. Populations are limited and construction costs increased."
+StringInfo
 	ID "IDS_PLANETBONUS_SURPLUSFOODSTUFFS_NAME"
 	Value "Expert Agrarian Society"
 StringInfo
@@ -5359,17 +5590,59 @@ StringInfo
 	ID "IDS_PLANETBONUS_TOXICFALLOUT_DESC"
 	Value "Prolonged chemical warfare between regional factions on this planet has resulted in lingering atmospheric toxins, which reduces maximum population and growth rate."
 StringInfo
+	ID "IDS_PLANETBONUS_TRADERMINING_NAME"
+	Value "Trader Mining Operation"
+StringInfo
+	ID "IDS_PLANETBONUS_TRADERMINING_DESC"
+	Value "An abandoned Trade Order metal mine is located, bringing online an additional constructor and increased metal extractor yields."
+StringInfo
+	ID "IDS_PLANETBONUS_TRAININGACADEMY_NAME"
+	Value "Training Academy"
+StringInfo
+	ID "IDS_PLANETBONUS_TRAININGACADEMY_DESC"
+	Value "A military training academy is established, allowing for increased tactical defenses around this planet."
+StringInfo
+	ID "IDS_PLANETBONUS_TROPICALPARADISE_NAME"
+	Value "Tropical Paradise"
+StringInfo
+	ID "IDS_PLANETBONUS_TROPICALPARADISE_DESC"
+	Value "This world's unique axial tilt makes it a tropical garden, bringing in increased tourist trade income."
+StringInfo
 	ID "IDS_PLANETBONUS_TUNDRAFARMS_NAME"
 	Value "Tundra Farms"
 StringInfo
 	ID "IDS_PLANETBONUS_TUNDRAFARMS_DESC"
 	Value "Local expertise improves the yields in this planet's agriculture, allowing it to sustain a larger population."
 StringInfo
+	ID "IDS_PLANETBONUS_UNDERSEACAVERNS_NAME"
+	Value "Undersea Caverns"
+StringInfo
+	ID "IDS_PLANETBONUS_UNDERSEACAVERNS_DESC"
+	Value "Buried deep below the ocean's surface are vast caverns containing the timeworn remains of hundreds of phase inhibitors. Removing them frees up room for vast cities."
+StringInfo
+	ID "IDS_PLANETBONUS_UNITYNOMADS_NAME"
+	Value "Unity Nomads"
+StringInfo
+	ID "IDS_PLANETBONUS_UNITYNOMADS_DESC"
+	Value "The ruins of Advent like temples that far pre-date their arrival in Trader space are found. More significantly, culture from this planet is dramatically more influential with no clear explanation for the effect. Investigation into the temples is ongoing."
+StringInfo
 	ID "IDS_PLANETBONUS_VACATIONCENTER_NAME"
 	Value "Entertainment Hub"
 StringInfo
 	ID "IDS_PLANETBONUS_VACATIONCENTER_DESC"
 	Value "All manner of destination tourism thrives on this planet, granting increased tax income and culture spread."
+StringInfo
+	ID "IDS_PLANETBONUS_VIRTUALREALITYPARK_NAME"
+	Value "Virtual Reality Park"
+StringInfo
+	ID "IDS_PLANETBONUS_VIRTUALREALITYPARK_DESC"
+	Value "A vast entertainment center is established allowing tourists to experience anything they can imagine. Tax income and allegiance are increased."
+StringInfo
+	ID "IDS_PLANETBONUS_VIRULENTPLAGUE_NAME"
+	Value "Virulent Plague"
+StringInfo
+	ID "IDS_PLANETBONUS_VIRULENTPLAGUE_DESC"
+	Value "Orbital beacons warn that this planet is threatened by a lethal plague. Exploration teams discover mass graves of ancient human remains; many of the bodies show evidence of massive artificial reconstruction or manipulation."
 StringInfo
 	ID "IDS_PLANETBONUS_WEAPONSTESTGROUNDS_NAME"
 	Value "Weapons Test Facility"
@@ -5664,6 +5937,12 @@ StringInfo
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ABILITYACCESS_TIMEDCHARGES_DESCRIPTION"
 	Value "Grants the Timed Explosives ability to Arcova Scout Frigates, allow them to effectively assault structures."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_ABILITYACCESS_UNSTOPPABLEPHASEJUMPARTIFACT_NAME"
+	Value "Jump Inhibition Immunity"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_ABILITYACCESS_UNSTOPPABLEPHASEJUMPARTIFACT_DESCRIPTION"
+	Value "Makes the ships of the player who controls this artifact ignore the effect of Phase Jump Inhibitors."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ABILITYACCESS_UNSTOPPABLEPHASEJUMPPHASE_NAME"
 	Value "Jump Inhibition Immunity"
@@ -7027,6 +7306,24 @@ StringInfo
 	ID "IDS_RESEARCHSUBJECT_POLITICAL_KICKBACKS_DESCRIPTION"
 	Value "Our diplomats recieve bribery training, increasing the relations gained by giving Credits to other factions."
 StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPHASE_NAME"
+	Value "Greenhouse Occupation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPHASE_DESCRIPTION"
+	Value "Allows colonization of Greenhouse planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPSI_NAME"
+	Value "Greenhouse Evangelism"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPSI_DESCRIPTION"
+	Value "Allows colonization of Greenhouse planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSETECH_NAME"
+	Value "Greenhouse Exploitation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSETECH_DESCRIPTION"
+	Value "Allows colonization of Greenhouse planets."
+StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_ICETECH_NAME"
 	Value "Arctic Exploitation"
 StringInfo
@@ -7044,6 +7341,42 @@ StringInfo
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_ICEPHASE_DESCRIPTION"
 	Value "Allows colonization of Ice Planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONPHASE_NAME"
+	Value "Ferrous Occupation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONPHASE_DESCRIPTION"
+	Value "Allows colonization of Ferrous planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONPSI_NAME"
+	Value "Ferrous Evangelism"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONPSI_DESCRIPTION"
+	Value "Allows colonization of Ferrous planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONTECH_NAME"
+	Value "Ferrous Exploitation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONTECH_DESCRIPTION"
+	Value "Allows colonization of Ferrous planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPHASE_NAME"
+	Value "Oceanic Occupation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPHASE_DESCRIPTION"
+	Value "Allows colonization of Oceanic planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPSI_NAME"
+	Value "Oceanic Evangelism"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPSI_DESCRIPTION"
+	Value "Allows colonization of Oceanic planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICTECH_NAME"
+	Value "Oceanic Exploitation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICTECH_DESCRIPTION"
+	Value "Allows colonization of Oceanic planets."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_VOLCANICTECH_NAME"
 	Value "Volcanic Exploitation"
@@ -7297,6 +7630,18 @@ StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETUPGRADERATE_DESCRIPTION"
 	Value "Revised project management practices increase construction parallelism, increasing the build rate for all types of planet development. Additionally, logistics capacity costs are reduced."
 StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPBARRENPSI0_NAME"
+	Value "Shielded Architecture"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPBARRENPSI0_DESCRIPTION"
+	Value "Specialized atmospheric shields are added to colony structures, allowing for larger populations on Barren planets under your empire's control."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPBARRENPSI1_NAME"
+	Value "Subsurface Environments"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPBARRENPSI1_DESCRIPTION"
+	Value "By expanding cities under the surface, even larger populations on Barren planets under your empire's control can be sustained."
+StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPDESERTTECH0_NAME"
 	Value "Improved Arid Colonies"
 StringInfo
@@ -7327,6 +7672,18 @@ StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPICEPHASE0_DESCRIPTION"
 	Value "Genetic mutation to promote subdermal fat and other insulating traits is imposed on all inhabitants of Ice planets, increasing the population those planets can support."
 StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPIRONPHASE0_NAME"
+	Value "Metabolic Reclamation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPIRONPHASE0_DESCRIPTION"
+	Value "Inhabitants are genetically modified to slow their metabolisms to survive more easily in non-organic environements, increasing the population that Ferrous planets can support."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPIRONPHASE1_NAME"
+	Value "Ferric Transformation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPIRONPHASE1_DESCRIPTION"
+	Value "Organic life is introduced in an effort to terraform the planet, making the environment less hostile and increasing the population that Ferrous planets can support."
+StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANTECH0_NAME"
 	Value "High Density Zoning"
 StringInfo
@@ -7350,6 +7707,18 @@ StringInfo
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANPHASE0_DESCRIPTION"
 	Value "Imported labor to support the garrisoned occupation forces increases the population on Terran planets under your empire's control."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPOCEANICTECH0_NAME"
+	Value "High Pressure Domes"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPOCEANICTECH0_DESCRIPTION"
+	Value "New engineering techniques allow for the deployment of domes in the deep oceans of Oceanic planets under your empire's control."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPOCEANICTECH1_NAME"
+	Value "Underwater Cities"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPOCEANICTECH1_DESCRIPTION"
+	Value "By reinforcing the domes used in the deep oceans city sized areas can now be established, increasing the populations of Oceanic planets under your empire's control."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPVOLCANICPHASE0_NAME"
 	Value "Extreme Heat Metabolism"
@@ -7547,7 +7916,7 @@ StringInfo
 	Value "Starbase Mobilization"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STARBASE_MOBILIZATION_DESCRIPTION"
-	Value "Adds phase engines to the Orkulus starbase, giving it the ability to phase jump to adjacent gravity wells.  Jumping to a gravity well that already contains a starbase causes your other starbases to become disabled."
+	Value "Adds phase engines to the Orkulus starbase, giving it the ability to phase jump between planets with phase stabilizers. Jumping to a gravity well that already contains a starbase causes your other starbases to become disabled."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STARBASEHULLTECH_NAME"
 	Value "Unbreachable Hull"
@@ -7799,19 +8168,19 @@ StringInfo
 	Value "Kultorask Prototype I"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PHASEREBEL_1_DESCRIPTION"
-	Value "Grants access to the Titan Foundry and allows you to begin construction on the Kultorask Titan, a massive warship of immense power."
+	Value "Grants access to the Titan Foundry and allows you to begin summoning the Kultorask Titan, a massive warship of immense power. Improvements from the Dark Fleet increase the damage from all pulse beam weapons."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PHASEREBEL_2_NAME"
 	Value "Kultorask Prototype II"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PHASEREBEL_2_DESCRIPTION"
-	Value "Allows you to continue construction on the Kultorask Titan."
+	Value "Allows you to continue construction on the Kultorask Titan. Favorable overtures to other empires makes them more lenient to your cause, granting you additional time to complete missions."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PHASEREBEL_3_NAME"
 	Value "Kultorask Prototype III"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PHASEREBEL_3_DESCRIPTION"
-	Value "Allows you to continue construction on the Kultorask Titan."
+	Value "Allows you to continue construction on the Kultorask Titan. With the Kultorask nearly arrived from the Dark Fleet, your people become more accepting of other empires."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PHASEREBEL_4_NAME"
 	Value "Kultorask Prototype IV"
@@ -7823,43 +8192,43 @@ StringInfo
 	Value "Vorastra Prototype I"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PHASELOYALIST_1_DESCRIPTION"
-	Value "Grants access to the Titan Foundry and allows you to begin construction on the Vorastra Titan, a massive warship of immense power."
+	Value "Grants access to the Titan Foundry and allows you to begin summoning the Vorastra Titan, a massive warship of immense power. Recovery of the Vorastra's powerful planetary lasers leads to increased planet bombing damage across all ships."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PHASELOYALIST_2_NAME"
 	Value "Vorastra Prototype II"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PHASELOYALIST_2_DESCRIPTION"
-	Value "Allows you to continue construction on the Vorastra Titan."
+	Value "Allows you to continue summoning the Vorastra Titan. Improved wave dynamics recovered from the Vorastra are issued to all wave cannon equipped ships, increasing their damage output."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PHASELOYALIST_3_NAME"
 	Value "Vorastra Prototype III"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PHASELOYALIST_3_DESCRIPTION"
-	Value "Allows you to continue construction on the Vorastra Titan."
+	Value "Allows you to continue summoning the Vorastra Titan. Engine output is increased from the Vorastra's schematics, increasing acceleration for all capital ships."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PHASELOYALIST_4_NAME"
 	Value "Vorastra Prototype IV"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PHASELOYALIST_4_DESCRIPTION"
-	Value "Allows you to finish construction on the Vorastra Titan and launch it against your empire's enemies."
+	Value "Allows you to finish recovery of the Vorastra Titan and launch it against your empire's enemies."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PSILOYALIST_1_NAME"
 	Value "Coronata Prototype I"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PSILOYALIST_1_DESCRIPTION"
-	Value "Grants access to the Titan Foundry and allows you to begin construction on the Coronata Titan, a massive warship of immense power."
+	Value "Grants access to the Titan Foundry and allows you to begin construction on the Coronata Titan, a massive warship of immense power. Refinements to beam technology also yields a slight boost to weapons."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PSILOYALIST_2_NAME"
 	Value "Coronata Prototype II"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PSILOYALIST_2_DESCRIPTION"
-	Value "Allows you to continue construction on the Coronata Titan."
+	Value "Allows you to continue construction on the Coronata Titan. Improvements to PsiArmor technology yields an improvement to all ships and structures armor."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PSILOYALIST_3_NAME"
 	Value "Coronata Prototype III"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PSILOYALIST_3_DESCRIPTION"
-	Value "Allows you to continue construction on the Coronata Titan."
+	Value "Allows you to continue construction on the Coronata Titan. The awesome power of the nearly complete titan echos through your empire, making your people more resistant to enemy ideals."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PSILOYALIST_4_NAME"
 	Value "Coronata Prototype IV"
@@ -7871,19 +8240,19 @@ StringInfo
 	Value "Eradica Prototype I"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PSIREBEL_1_DESCRIPTION"
-	Value "Grants access to the Titan Foundry and allows you to begin construction on the Eradica Titan, a massive warship of immense power."
+	Value "Grants access to the Titan Foundry and allows you to begin construction on the Eradica Titan, a massive warship of immense power. Improvements to plasma chambering from this project also improve plasma weapon output."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PSIREBEL_2_NAME"
 	Value "Eradica Prototype II"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PSIREBEL_2_DESCRIPTION"
-	Value "Allows you to continue construction on the Eradica Titan."
+	Value "Allows you to continue construction on the Eradica Titan. Refinements to antimatter containment from the Eradica leads to greater capacity for all ships."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PSIREBEL_3_NAME"
 	Value "Eradica Prototype III"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PSIREBEL_3_DESCRIPTION"
-	Value "Allows you to continue construction on the Eradica Titan."
+	Value "Allows you to continue construction on the Eradica Titan. Anima drone capacity is improved from the development of the Eradica for all hangars."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_PSIREBEL_4_NAME"
 	Value "Eradica Prototype IV"
@@ -7895,19 +8264,19 @@ StringInfo
 	Value "Ankylon Prototype I"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_TECHLOYALIST_1_DESCRIPTION"
-	Value "Grants access to the Titan Foundry and allows you to begin construction on the Ankylon Titan, a massive warship of immense power."
+	Value "Grants access to the Titan Foundry and allows you to begin construction on the Ankylon Titan, a massive warship of immense power. Discoveries in shield harmonics from the Ankylon improve all ships' maximum shield capacity."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_TECHLOYALIST_2_NAME"
 	Value "Ankylon Prototype II"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_TECHLOYALIST_2_DESCRIPTION"
-	Value "Allows you to continue construction on the Ankylon Titan."
+	Value "Allows you to continue construction on the Ankylon Titan. Improvements to structural integrity fields from the Ankylon are retrofitted to all starbases, increasing their maximum hull."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_TECHLOYALIST_3_NAME"
 	Value "Ankylon Prototype III"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_TECHLOYALIST_3_DESCRIPTION"
-	Value "Allows you to continue construction on the Ankylon Titan."
+	Value "Allows you to continue construction on the Ankylon Titan. Refined crystals developed for the titan are put to use across all laser weapons, increasing their rate of fire."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_TECHLOYALIST_4_NAME"
 	Value "Ankylon Prototype IV"
@@ -7919,19 +8288,19 @@ StringInfo
 	Value "Ragnarov Prototype I"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_TECHREBEL_1_DESCRIPTION"
-	Value "Grants access to the Titan Foundry and allows you to begin construction on the Ragnarov Titan, a massive warship of immense power."
+	Value "Grants access to the Titan Foundry and allows you to begin construction on the Ragnarov Titan, a massive warship of immense power. Improved weapon barrels from this project increase the rate of fire from autocannons."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_TECHREBEL_2_NAME"
 	Value "Ragnarov Prototype II"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_TECHREBEL_2_DESCRIPTION"
-	Value "Allows you to continue construction on the Ragnarov Titan."
+	Value "Allows you to continue construction on the Ragnarov Titan. Refined planetary bombardment systems from the Ragnarov are deployed throughout the fleet, resulting in faster culling of enemy populations."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_TECHREBEL_3_NAME"
 	Value "Ragnarov Prototype III"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_TECHREBEL_3_DESCRIPTION"
-	Value "Allows you to continue construction on the Ragnarov Titan."
+	Value "Allows you to continue construction on the Ragnarov Titan. With the Ragnarov nearly complete, your empire becomes less susceptible to enemy cultures."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_TECHREBEL_4_NAME"
 	Value "Ragnarov Prototype IV"
@@ -8273,7 +8642,7 @@ StringInfo
 	Value "Resilient Metaloids"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_HULLREPAIROVERTIMEINCREASE_DESCRIPTION"
-	Value "A previously undiscovered compound grants quickened hull repair rates and increased armor when incorporated into hull plating."
+	Value "A previously undiscovered compound grants quickened hull repair rates and increased armor when incorporated into hull plating, and hardens planets from bombardment."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_HYPERSPACESPEED_NAME"
 	Value "Phase Accelerator"
@@ -8291,13 +8660,13 @@ StringInfo
 	Value "Ion Field Generator"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_PLANETBOMBINGSHIELD_DESCRIPTION"
-	Value "A large planetary energy system that emits charged particles into the upper atmosphere, creating a partial barrier to orbital bombardment."
+	Value "A large planetary energy system that emits charged particles into the upper atmosphere, creating a partial barrier to orbital bombardment. Also forces enemies to approach closer to the planet before beginning bombardment."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_ORGANICAI_NAME"
 	Value "Planetary Organic AI"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_ORGANICAI_DESCRIPTION"
-	Value "A sentient cybernetic artificial intelligence manages all aspects of population development on your empire's planets, yielding higher population growth and tax rates."
+	Value "A sentient cybernetic artificial intelligence manages all aspects of population development on your empire's planets, yielding higher populations, growth and tax rates."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_RESEARCHARCHIVE_NAME"
 	Value "Data Archive"
@@ -8309,13 +8678,13 @@ StringInfo
 	Value "Relativistic Factories"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_SHIPBUILDTIMEREDUCTION_DESCRIPTION"
-	Value "Uncovered factory designs allow ships and modules to be constructed in a relativistically accelerated frame of reference, making them build at a quicker rate."
+	Value "Uncovered factory designs allow ships and modules to be constructed in a relativistically accelerated frame of reference, making them build at a quicker rate. These advanced factories also allow you to support additional civilian structures."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_STRONGCULTURE_NAME"
 	Value "Manifest Dominion"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_STRONGCULTURE_DESCRIPTION"
-	Value "Holographic documents of unknown origin foretell your empire to become the galaxy's one true power. Culture spread rates, resistance to hostile culture, and relationship with other factions are increased."
+	Value "Holographic documents of unknown origin foretell your empire to become the galaxy's one true power. Culture spread rates, resistance to hostile culture, and relations with other factions are increased."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_TRADEINCOME_NAME"
 	Value "Matter Compressor"
@@ -8333,7 +8702,7 @@ StringInfo
 	Value "Jump Field Generator"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_WORMHOLETRAVEL_DESCRIPTION"
-	Value "Powerful jump stabilization technology protects your ships' antimatter reserves during Phase Jumps, reducing the amount wasted in transit. Also allows travel through Wormholes."
+	Value "Powerful jump stabilization technology protects your ships' antimatter reserves during Phase Jumps, reducing the amount wasted in transit. Also allows travel through Wormholes and for ships to exit closer to planets."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ENVOY_PROTOTYPE_NAME"
 	Value "Neruda Prototype"
@@ -10690,6 +11059,18 @@ StringInfo
 	ID "IDS_PLANETTYPE_MOON"
 	Value "Dwarf Planet"
 StringInfo
+	ID "IDS_PLANETTYPE_OCEANIC"
+	Value "Oceanic Planet"
+StringInfo
+	ID "IDS_PLANETTYPE_FERRUS"
+	Value "Ferrous Planet"
+StringInfo
+	ID "IDS_PLANETTYPE_GREENHOUSE"
+	Value "Greenhouse Planet"
+StringInfo
+	ID "IDS_PLANETTYPE_BARREN"
+	Value "Barren Planet"
+StringInfo
 	ID "IDS_PLANETMODULE_TECHORBITALFRIGATEFACTORY_NAME"
 	Value "Frigate Factory"
 StringInfo
@@ -12387,6 +12768,12 @@ StringInfo
 StringInfo
 	ID "IDS_UIMAPPINGNAME_PLANETUPGRADEARTIFACTLEVEL"
 	Value "Explore Planet"
+StringInfo
+	ID "IDS_UIMAPPINGNAME_PLANETUPGRADESOCIAL"
+	Value "Upgrade Social Specialization"
+StringInfo
+	ID "IDS_UIMAPPINGNAME_PLANETUPGRADEINDUSTRY"
+	Value "Upgrade Industry Specialization"
 StringInfo
 	ID "IDS_UIMAPPINGNAME_PLANETUPGRADECIVILIANMODULES"
 	Value "Upgrade Logistics Capacity"
@@ -15959,7 +16346,7 @@ StringInfo
 	Value "Go ahead and research the Raloz Prototype from the Defense tech tree."
 StringInfo
 	ID "IDS_TUTORIAL_ADVANCEDDEFENSE_STARBASEBUILD"
-	Value "As with mine fields, your starbase can be deployed anywhere within the gravity well, but it best kept near important structures. Go ahead and deploy a starbase now."
+	Value "As with mine fields, your starbase can be deployed anywhere within the gravity well, but it's best kept near important structures. Go ahead and deploy a starbase now."
 StringInfo
 	ID "IDS_TUTORIAL_ADVANCEDDEFENSE_STARBASEUPGRADES"
 	Value "Starbases can be upgraded for an additional cost to add new abilities, weapons or defenses. New abilities must first be researched via the Defense tech tree, while additional offensive systems are immediately available."
@@ -16186,6 +16573,12 @@ StringInfo
 	ID "IDS_PLANETUPGRADEPATHTYPE_INFRASTRUCTURE"
 	Value "Emergency Facilities"
 StringInfo
+	ID "IDS_PLANETUPGRADEPATHTYPE_SOCIAL"
+	Value "Social Specialization"
+StringInfo
+	ID "IDS_PLANETUPGRADEPATHTYPE_INDUSTRY"
+	Value "Industry Specialization"
+StringInfo
 	ID "IDS_PLANETUPGRADEPATHCANQUEUENEXTSTAGESTATUS_CANQUEUE"
 	Value "Available"
 StringInfo
@@ -16212,6 +16605,15 @@ StringInfo
 StringInfo
 	ID "IDS_PLANETUPGRADEPATHCANQUEUENEXTSTAGESTATUS_CANTCHANGEHOMEWORLDTOOCCUPATIONPLANET"
 	Value "You can't make an Occupation Victory planet your Capital."
+StringInfo
+	ID "IDS_PLANETUPGRADEPATHCANQUEUENEXTSTAGESTATUS_SOCIALALREADYCHOSEN"
+	Value "Social specialization chosen."
+StringInfo
+	ID "IDS_PLANETUPGRADEPATHCANQUEUENEXTSTAGESTATUS_INDUSTRYALREADYCHOSEN"
+	Value "Industry specialization chosen."
+StringInfo
+	ID "IDS_PLANETUPGRADEPATHCANQUEUENEXTSTAGESTATUS_DLCNOTAVAILABLE"
+	Value "DLC required for this upgrade."
 StringInfo
 	ID "IDS_PLANETUPGRADEINFOCARD_CANQUEUENEXTSTAGESTATUS"
 	Value "*VALUE0*"
@@ -16254,6 +16656,15 @@ StringInfo
 StringInfo
 	ID "IDS_PLANETUPGRADEINFOCARD_MAXHEALTH"
 	Value "Planet health"
+StringInfo
+	ID "IDS_PLANETUPGRADEINFOCARD_CULTURESPREADMODIFIER"
+	Value "Culture spread modifier"
+StringInfo
+	ID "IDS_PLANETUPGRADEINFOCARD_TRADEINCOMEMODIFIER"
+	Value "Trade income modifier"
+StringInfo
+	ID "IDS_PLANETUPGRADEINFOCARD_SHOPBUILDRATEMODIFIER"
+	Value "Ship build rate modifier"
 StringInfo
 	ID "IDS_ICOCREATECUSTOMGAMEFAILED"
 	Value "Failed to create game due to unknown error."
@@ -18523,8 +18934,14 @@ StringInfo
 	ID "IDSMainMenuScreenUpdateButton"
 	Value "Download Updates"
 StringInfo
+	ID "IDSMainMenuScreenRebellionButton"
+	Value "Sins: Rebellion Upgrade"
+StringInfo
 	ID "IDSMainMenuScreenQuitButton"
 	Value "Quit"
+StringInfo
+	ID "IDSMainMenuScreenDLCButton"
+	Value "New Content"
 StringInfo
 	ID "IDSSinglePlayerSetupScreenTitle"
 	Value "SINGLE PLAYER"
@@ -20365,6 +20782,30 @@ StringInfo
 	ID "IDSGalaxyScenarioTypeRandomIceVolcanicFair"
 	Value "Random Ice or Volcanic Fair"
 StringInfo
+	ID "IDSGalaxyScenarioTypePlanetBarren"
+	Value "Barren"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetFerrous"
+	Value "Ferrous"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetOceanic"
+	Value "Oceanic"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetGreenhouse"
+	Value "Greenhouse"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetBarrenFair"
+	Value "Barren Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetFerrousFair"
+	Value "Ferrous Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetOceanicFair"
+	Value "Oceanic Fair"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetGreenhouseFair"
+	Value "Greenhouse Fair"
+StringInfo
 	ID "IDSGalaxyScenarioTypePlanetOccupied"
 	Value "Occupied Planet"
 StringInfo
@@ -21318,6 +21759,36 @@ StringInfo
 StringInfo
 	ID "IDSAchievementDescHasPreviewedRandomGalaxy"
 	Value "Create your own custom galaxy and preview the results."
+StringInfo
+	ID "IDSAchievementNameHasAllPlanetTypes"
+	Value "Equal Opportunity"
+StringInfo
+	ID "IDSAchievementDescHasAllPlanetTypes"
+	Value "Occupy all of the 10 different planet types simultaneously."
+StringInfo
+	ID "IDSAchievementNameHasFerrusPlanetWithFullIndustry"
+	Value "Drill Baby Drill"
+StringInfo
+	ID "IDSAchievementDescHasFerrusPlanetWithFullIndustry"
+	Value "Fully specialize a Ferrous planet in Industry"
+StringInfo
+	ID "IDSAchievementNameHasOceanicPlanetWithFullSocial"
+	Value "Vacation Getaway"
+StringInfo
+	ID "IDSAchievementDescHasOceanicPlanetWithFullSocial"
+	Value "Fully specialize an Oceanic planet in Social"
+StringInfo
+	ID "IDSAchievementNameHasDestroyedPlanets"
+	Value "Destroyer of Worlds"
+StringInfo
+	ID "IDSAchievementDescHasDestroyedPlanets"
+	Value "Destroy 20 planets in a single game"
+StringInfo
+	ID "IDSAchievementNameHasDifferentPlanetBonuses"
+	Value "Intrepid Explorer"
+StringInfo
+	ID "IDSAchievementDescHasDifferentPlanetBonuses"
+	Value "Control 20 different planet bonuses in a single game."
 StringInfo
 	ID "IDSPlayerRankingString"
 	Value "*VALUE0*: *SPACING130* *VALUE1*"

@@ -39,3 +39,4 @@ researchModifier
 	perLevelValue 0.750000
 artifactPicture ""
 uniqueOverlayBrush "HeroResearchOverlay"
+dlcId 204880

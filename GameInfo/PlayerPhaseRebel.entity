@@ -72,7 +72,7 @@ entities
 			entityDefName "FrigatePhaseGreaterNaniteSwarm"
 			entityDefName "Frigate_E4X_PhaseEnvoyAI"
 	researchInfo
-		count 161
+		count 163
 		entityDefName "RESEARCH_E4X_RacialBonusPhase"
 		entityDefName "RESEARCH_E4X_FactionBonusPhaseRebels"
 		entityDefName "RESEARCH_E4X_HeroicValor"
@@ -234,6 +234,8 @@ entities
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_PHASEREBEL_2"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_PHASEREBEL_3"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_PHASEREBEL_4"
+		entityDefName "RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPHASE"
+		entityDefName "RESEARCHSUBJECT_PLANETACCESS_OCEANICPHASE"
 	starBaseInfo
 		count 2
 		entityDefName "StarBasePhase"
@@ -739,6 +741,8 @@ hudSkinData
 	UserActionIconUpgradePlanetHome "ActionIconPlanetUpgradeHome"
 	UserActionIconUpgradePlanetCivilianModules "ActionIconPlanetUpgradeCivilianModules"
 	UserActionIconUpgradePlanetTacticalModules "ActionIconPlanetUpgradeTacticalModules"
+	UserActionIconUpgradePlanetSocial "ActionIconPlanetUpgradeSocial"
+	UserActionIconUpgradePlanetIndustry "ActionIconPlanetUpgradeIndustry"
 	UserActionIconBuildResourceAsteroidExtractor "ActionIconBuildResourceAsteroidExtractor"
 	UserActionIconPing "BottomWindowButtonPing"
 	UserActionIconPingAllyAttack "ActionIconPingAllyAttack"

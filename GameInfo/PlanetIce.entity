@@ -61,7 +61,7 @@ meshInfo
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Ice_3_Unknown"
 	picture ""
 	shouldPrefer FALSE
-minZoomDistanceMult 2.000000
+minZoomDistanceMult 2.750000
 glowColor 7f52afe1
 ringColor ffdafcff
 cloudLayerTextureName "PlanetCloudLayer"
@@ -277,6 +277,95 @@ planetUpgradeDef
 				crystal 175.000000
 			upgradeTime 75.000000
 			maxHealth 6000.000000
+	path:Social
+		stageCount 5
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			populationGrowthRate 0.000000
+			tradeIncomeModifier 0.000000
+			shipBuildRateModifier 0.000000
+			cultureSpreadRateModifier 0.000000
+		stage
+			price
+				credits 450.000000
+				metal 150.000000
+				crystal 75.000000
+			upgradeTime 45.000000
+			maxPopulation 10.000000
+			populationGrowthRate 0.125000
+			tradeIncomeModifier -0.150000
+			shipBuildRateModifier -0.166667
+			cultureSpreadRateModifier 0.166667
+		stage
+			price
+				credits 550.000000
+				metal 175.000000
+				crystal 125.000000
+			upgradeTime 60.000000
+			maxPopulation 30.000000
+			populationGrowthRate 0.138000
+			tradeIncomeModifier -0.250000
+			shipBuildRateModifier -0.333334
+			cultureSpreadRateModifier 0.333334
+		stage
+			price
+				credits 650.000000
+				metal 200.000000
+				crystal 175.000000
+			upgradeTime 75.000000
+			maxPopulation 70.000000
+			populationGrowthRate 0.151000
+			tradeIncomeModifier -0.350000
+			shipBuildRateModifier -0.500001
+			cultureSpreadRateModifier 0.500001
+		stage
+			price
+				credits 750.000000
+				metal 225.000000
+				crystal 225.000000
+			upgradeTime 90.000000
+			maxPopulation 160.000000
+			populationGrowthRate 0.169000
+			tradeIncomeModifier -0.450000
+			shipBuildRateModifier -0.666668
+			cultureSpreadRateModifier 0.666668
+	path:Industry
+		stageCount 3
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			tradeIncomeModifier 0.000000
+			shipBuildRateModifier 0.000000
+			cultureSpreadRateModifier 0.000000
+		stage
+			price
+				credits 450.000000
+				metal 150.000000
+				crystal 75.000000
+			upgradeTime 45.000000
+			maxPopulation -3.000000
+			tradeIncomeModifier 0.100000
+			shipBuildRateModifier 0.166667
+			cultureSpreadRateModifier -0.166667
+		stage
+			price
+				credits 550.000000
+				metal 175.000000
+				crystal 125.000000
+			upgradeTime 60.000000
+			maxPopulation -9.000000
+			tradeIncomeModifier 0.200000
+			shipBuildRateModifier 0.333334
+			cultureSpreadRateModifier -0.333334
 ringsChance 0.050000
 isColonizable TRUE
 planetTypeForResearch "Ice"
@@ -297,7 +386,7 @@ skyboxScalars
 	diffuseScalar 0.720000
 	ambientScalar 0.800000
 requiredPlanetBonusesCount 0
-possibleRandomPlanetBonusesCount 70
+possibleRandomPlanetBonusesCount 92
 bonus "PlanetBonusCavernSystem"
 bonus "PlanetBonusCavernSystem"
 bonus "PlanetBonusGeothermalHeatSource"
@@ -368,6 +457,28 @@ bonus "Axeldude_PLANETBONUS_LVL0_Blizards"
 bonus "Axeldude_PLANETBONUS_LVL0_HazardousAtmosphere"
 bonus "Axeldude_PLANETBONUS_LVL0_MineralRichSoil"
 bonus "Axeldude_PLANETBONUS_LVL0_Ruins"
+bonus "PlanetBonusFortressWorld"
+bonus "PlanetBonusAbandonedNaniteFactory"
+bonus "PlanetBonusOrderedSociety"
+bonus "PlanetBonusFeudalSociety"
+bonus "PlanetBonusFreeMarketSociety"
+bonus "PlanetBonusChaoticSociety"
+bonus "PlanetBonusModernSociety"
+bonus "PlanetBonusPacifistSociety"
+bonus "PlanetBonusSubsurfaceCrystalDeposits"
+bonus "PlanetBonusFusionPowerCore"
+bonus "PlanetBonusVirtualRealityPark"
+bonus "PlanetBonusDenseAtmosphere"
+bonus "PlanetBonusHealingNanites"
+bonus "PlanetBonusQuantumCommHub"
+bonus "PlanetBonusDeathWorld"
+bonus "PlanetBonusSubzeroTwisters"
+bonus "PlanetBonusSubzeroTwisters"
+bonus "PlanetBonusPlanetaryCorruption"
+bonus "PlanetBonusFrequentRaiders"
+bonus "PlanetBonusTrainingAcademy"
+bonus "PlanetBonusShipFactories"
+bonus "PlanetBonusPopulationBoom"
 ambienceSoundID "EFFECT_PLANETAMBIENCE_LOOP"
 renderAsVolcanic FALSE
 planetRuinDef
@@ -380,6 +491,7 @@ planetRuinDef
 	metalOnStrippedToTheCore 500.000000
 	crystalOnStrippedToTheCore 5000.000000
 	extraScuttleTimeOnStrip 570.000000
+dlcId 204880
 ShieldMeshName "Shield_PlanetSmall"
 renderShield TRUE
 moveAreaRadius 40000.000000

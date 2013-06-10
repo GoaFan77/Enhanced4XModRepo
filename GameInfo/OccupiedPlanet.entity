@@ -231,6 +231,31 @@ planetUpgradeDef
 				crystal 175.000000
 			upgradeTime 75.000000
 			maxHealth 15000.000000
+	path:Social
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			populationGrowthRate 0.000000
+			tradeIncomeModifier 0.000000
+			shipBuildRateModifier 0.000000
+			cultureSpreadRateModifier 0.000000
+	path:Industry
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			tradeIncomeModifier 0.000000
+			shipBuildRateModifier 0.000000
+			cultureSpreadRateModifier 0.000000
 ringsChance 0.100000
 isColonizable TRUE
 planetTypeForResearch "Terran"
@@ -265,6 +290,7 @@ planetRuinDef
 	metalOnStrippedToTheCore 0.000000
 	crystalOnStrippedToTheCore 0.000000
 	extraScuttleTimeOnStrip -1.000000
+dlcId 204880
 ShieldMeshName "Shield_PlanetSmall"
 renderShield TRUE
 moveAreaRadius 45000.000000

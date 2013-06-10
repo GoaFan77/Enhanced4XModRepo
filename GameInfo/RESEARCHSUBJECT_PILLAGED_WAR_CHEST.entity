@@ -36,3 +36,4 @@ researchModifier
 	perLevelValue 1.000000
 artifactPicture ""
 uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

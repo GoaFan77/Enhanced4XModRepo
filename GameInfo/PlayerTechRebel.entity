@@ -69,7 +69,7 @@ entities
 			entityDefName "FrigateTechRefineryShip"
 			entityDefName "Frigate_E4X_TechEnvoyAI"
 	researchInfo
-		count 161
+		count 164
 		entityDefName "RESEARCH_E4X_RacialBonusTEC"
 		entityDefName "RESEARCH_E4X_FactionBonusTECRebels"
 		entityDefName "RESEARCH_E4X_HeroicValor"
@@ -231,6 +231,9 @@ entities
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_TECHREBEL_2"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_TECHREBEL_3"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_TECHREBEL_4"
+		entityDefName "RESEARCHSUBJECT_PLANETACCESS_GREENHOUSETECH"
+		entityDefName "RESEARCHSUBJECT_POPULATIONCAPOCEANICTECH0"
+		entityDefName "RESEARCHSUBJECT_POPULATIONCAPOCEANICTECH1"
 	starBaseInfo
 		count 2
 		entityDefName "StarBaseTech"
@@ -731,6 +734,8 @@ hudSkinData
 	UserActionIconUpgradePlanetHome "ActionIconPlanetUpgradeHome"
 	UserActionIconUpgradePlanetCivilianModules "ActionIconPlanetUpgradeCivilianModules"
 	UserActionIconUpgradePlanetTacticalModules "ActionIconPlanetUpgradeTacticalModules"
+	UserActionIconUpgradePlanetSocial "ActionIconPlanetUpgradeSocial"
+	UserActionIconUpgradePlanetIndustry "ActionIconPlanetUpgradeIndustry"
 	UserActionIconBuildResourceAsteroidExtractor "ActionIconBuildResourceAsteroidExtractor"
 	UserActionIconPing "BottomWindowButtonPing"
 	UserActionIconPingAllyAttack "ActionIconPingAllyAttack"

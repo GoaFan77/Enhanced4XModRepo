@@ -170,6 +170,31 @@ planetUpgradeDef
 				crystal 0.000000
 			upgradeTime 0.000000
 			maxHealth 1.000000
+	path:Social
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			populationGrowthRate 0.000000
+			tradeIncomeModifier 0.000000
+			shipBuildRateModifier 0.000000
+			cultureSpreadRateModifier 0.000000
+	path:Industry
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			tradeIncomeModifier 0.000000
+			shipBuildRateModifier 0.000000
+			cultureSpreadRateModifier 0.000000
 ringsChance 0.150000
 isColonizable TRUE
 planetTypeForResearch "Uncolonizable"
@@ -203,6 +228,7 @@ planetRuinDef
 	metalOnStrippedToTheCore 0.000000
 	crystalOnStrippedToTheCore 0.000000
 	extraScuttleTimeOnStrip 60.000000
+dlcId 204880
 ShieldMeshName "Shield_PlanetSmall"
 renderShield TRUE
 moveAreaRadius 48000.000000

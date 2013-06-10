@@ -60,7 +60,7 @@ meshInfo
 	mainViewIcon "Axeldude_PLANET_Normal_Ice_1"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Ice_1_Unknown"
 	picture ""
-	shouldPrefer FALSE	
+	shouldPrefer FALSE
 minZoomDistanceMult 1.250000
 glowColor 7f52afe1
 ringColor ffdafcff
@@ -260,6 +260,84 @@ planetUpgradeDef
 				crystal 150.000000
 			upgradeTime 75.000000
 			maxHealth 6000.000000
+	path:Social
+		stageCount 4
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			populationGrowthRate 0.000000
+			tradeIncomeModifier 0.000000
+			shipBuildRateModifier 0.000000
+			cultureSpreadRateModifier 0.000000
+		stage
+			price
+				credits 450.000000
+				metal 150.000000
+				crystal 75.000000
+			upgradeTime 45.000000
+			maxPopulation 10.000000
+			populationGrowthRate 0.125000
+			tradeIncomeModifier -0.150000
+			shipBuildRateModifier -0.120000
+			cultureSpreadRateModifier 0.083334
+		stage
+			price
+				credits 550.000000
+				metal 175.000000
+				crystal 125.000000
+			upgradeTime 60.000000
+			maxPopulation 30.000000
+			populationGrowthRate 0.138000
+			tradeIncomeModifier -0.250000
+			shipBuildRateModifier -0.240000
+			cultureSpreadRateModifier 0.166668
+		stage
+			price
+				credits 650.000000
+				metal 200.000000
+				crystal 175.000000
+			upgradeTime 75.000000
+			maxPopulation 50.000000
+			populationGrowthRate 0.151000
+			tradeIncomeModifier -0.350000
+			shipBuildRateModifier -0.480000
+			cultureSpreadRateModifier 0.250002
+	path:Industry
+		stageCount 3
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			tradeIncomeModifier 0.000000
+			shipBuildRateModifier 0.000000
+			cultureSpreadRateModifier 0.000000
+		stage
+			price
+				credits 450.000000
+				metal 150.000000
+				crystal 75.000000
+			upgradeTime 45.000000
+			maxPopulation -3.000000
+			tradeIncomeModifier 0.120000
+			shipBuildRateModifier 0.060000
+			cultureSpreadRateModifier -0.166667
+		stage
+			price
+				credits 550.000000
+				metal 175.000000
+				crystal 125.000000
+			upgradeTime 60.000000
+			maxPopulation -9.000000
+			tradeIncomeModifier 0.220000
+			shipBuildRateModifier 0.120000
+			cultureSpreadRateModifier -0.333334
 ringsChance 0.050000
 isColonizable TRUE
 planetTypeForResearch "Ice"
@@ -290,9 +368,10 @@ planetRuinDef
 	startTime 9.000000
 	soundID "EFFECT_STRIPPEDTOTHECORE"
 	creditsOnStrippedToTheCore 5865.000000
-	metalOnStrippedToTheCore 5025.000000
-	crystalOnStrippedToTheCore 500.000000
-	extraScuttleTimeOnStrip 570.000000
+	metalOnStrippedToTheCore 500.000000
+	crystalOnStrippedToTheCore 5000.000000
+	extraScuttleTimeOnStrip 180.000000
+dlcId 204880
 ShieldMeshName "Shield_PlanetSmall"
 renderShield TRUE
 moveAreaRadius 40000.000000

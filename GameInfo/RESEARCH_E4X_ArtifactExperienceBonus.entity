@@ -40,3 +40,4 @@ modifierType "CapitalShipMaxTrainableLevel"
 	perLevelValue 1.000000
 artifactPicture "Artifact_E4X_PictureExperienceBonus"
 uniqueOverlayBrush ""
+dlcId 204880

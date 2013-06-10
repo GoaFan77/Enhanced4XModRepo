@@ -42,3 +42,4 @@ researchModifier
 	perLevelValue 0.100000
 artifactPicture "Artifact_E4X_PictureGalaxyTravel"
 uniqueOverlayBrush ""
+dlcId 204880

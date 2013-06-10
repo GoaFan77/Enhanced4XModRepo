@@ -38,3 +38,4 @@ researchModifier
 	perLevelValue -0.500000
 artifactPicture "Artifact_E4X_PictureWormHoleTravel"
 uniqueOverlayBrush ""
+dlcId 204880

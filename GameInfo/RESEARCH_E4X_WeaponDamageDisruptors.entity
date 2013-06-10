@@ -42,3 +42,4 @@ researchModifier
 	linkedWeaponClass "CHAOSBOLT"
 artifactPicture ""
 uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

@@ -307,7 +307,8 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-TEC Loyalist planetary defenses range for missiles/Gauss/nuclear weapons increased to 12000/15000/18000.
 		-Ascended Advent's Eternal Illumination research now buffs all laser, beam, plasma weapons by 15%, from 10%.
 		
-1.6		-TEC (Loyalist) Update
+1.6		-Updated E4X for Sins of a Solar Empire Rebellion 1.5. Implemented most of its changes.
+		-TEC (Loyalist) Update
 			-New Tech: Blast Resistant Armor, increases armor (more for defensive structures) while increasing mass.
 			-TEC now start with a special starbase constructor on their homeworld that can build a free starbase with a max of 10 upgrades without research. This constructor may not phase jump.
 			-Planetary Defense access tech moved to a teir 3 research, with a prerequisite of Highly Conductive Rails.
@@ -319,5 +320,9 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Highly Conductive Rails tech moved from a tier 3 to teir 2 tech.
 		-Increased the Area of Effect of the TEC titan's flak upgrade to 1500.
 		-Wormholes now have the proper mine limit of 10 per player.
+		-Slashed Cryo planet's odd 10 minute strip to the core time, now gives mostly crystal instead of metal resources.
 		-The Advent's Fluxuating Shields capitalship upgrade now displays its proper description.
+		-Barren Planets now use the new Barren planet research type.
+		-Gas Gaints now use the new Greenhouse planet research type.
+		-Oceanic and Swamp planets now use the new Oceanic planet research type.
 		-Fixed an ice giant texture to not be rediculously reflective.

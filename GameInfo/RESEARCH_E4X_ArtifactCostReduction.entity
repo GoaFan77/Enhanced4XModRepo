@@ -40,3 +40,4 @@ researchModifier
 	perLevelValue 0.150000
 artifactPicture "Artifact_E4X_PictureCostReduction"
 uniqueOverlayBrush ""
+dlcId 204880

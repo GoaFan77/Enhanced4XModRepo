@@ -50,3 +50,4 @@ researchModifier
 	linkedWeaponClass "PLASMA"
 artifactPicture ""
 uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

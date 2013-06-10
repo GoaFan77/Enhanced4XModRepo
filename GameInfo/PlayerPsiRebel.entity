@@ -67,7 +67,7 @@ entities
 			entityDefName "FrigatePsiRefineryShip"
 			entityDefName "Frigate_E4X_PsiEnvoyAI"
 	researchInfo
-		count 156
+		count 160
 		entityDefName "RESEARCH_E4X_RacialBonusPsi"
 		entityDefName "RESEARCH_E4X_FactionBonusPsiRebels"
 		entityDefName "RESEARCH_E4X_HeroicValor"
@@ -224,6 +224,10 @@ entities
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_PSIREBEL_2"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_PSIREBEL_3"
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_PSIREBEL_4"
+		entityDefName "RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPSI"
+		entityDefName "RESEARCHSUBJECT_PLANETACCESS_OCEANICPSI"
+		entityDefName "RESEARCHSUBJECT_POPULATIONCAPBARRENPSI0"
+		entityDefName "RESEARCHSUBJECT_POPULATIONCAPBARRENPSI1"
 	starBaseInfo
 		count 2
 		entityDefName "StarBasePsi"
@@ -730,6 +734,8 @@ hudSkinData
 	UserActionIconUpgradePlanetHome "ActionIconPlanetUpgradeHome"
 	UserActionIconUpgradePlanetCivilianModules "ActionIconPlanetUpgradeCivilianModules"
 	UserActionIconUpgradePlanetTacticalModules "ActionIconPlanetUpgradeTacticalModules"
+	UserActionIconUpgradePlanetSocial "ActionIconPlanetUpgradeSocial"
+	UserActionIconUpgradePlanetIndustry "ActionIconPlanetUpgradeIndustry"
 	UserActionIconBuildResourceAsteroidExtractor "ActionIconBuildResourceAsteroidExtractor"
 	UserActionIconPing "BottomWindowButtonPing"
 	UserActionIconPingAllyAttack "ActionIconPingAllyAttack"
@@ -793,7 +799,7 @@ researchScreenData
 			title "IDSResearchScreenBlockTitleNonCombat1Psi"
 			picture "ResearchScreenBlockPictureNonCombat1Psi"
 		block
-			area [ 50 , 449 , 690 , 192 ]
+			area [ 50 , 449 , 690 , 232 ]
 			backdrop "ResearchScreenBlockBackdropNonCombat2Psi"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorNonCombat2Psi"
 			title "IDSResearchScreenBlockTitleNonCombat2Psi"

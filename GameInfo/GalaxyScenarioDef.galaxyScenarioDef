@@ -43,11 +43,11 @@ starType
 	designStringId "IDSGalaxyScenarioTypeStarGreen"
 	orbitBodyTypeCount 1
 	orbitBodyType "GreenStar"
-planetTypeCount 84
+planetTypeCount 88
 planetType
 	designName "WeightedNonIce"
 	designStringId "IDSGalaxyScenarioTypePlanetWeightedNonIce"
-	orbitBodyTypeCount 15
+	orbitBodyTypeCount 17
 	orbitBodyType "Terran"
 	orbitBodyType "Desert"
 	orbitBodyType "Volcanic"
@@ -63,10 +63,12 @@ planetType
 	orbitBodyType "Industrial"
 	orbitBodyType "LowAtmosphere"
 	orbitBodyType "Swamp"
+	orbitBodyType "Ferrus"
+	orbitBodyType "Greenhouse"
 planetType
 	designName "WeightedNonIceFair"
 	designStringId "IDSGalaxyScenarioTypePlanetWeightedNonIceFair"
-	orbitBodyTypeCount 15
+	orbitBodyTypeCount 17
 	orbitBodyType "TerranFair"
 	orbitBodyType "DesertFair"
 	orbitBodyType "VolcanicFair"
@@ -82,10 +84,12 @@ planetType
 	orbitBodyType "IndustrialFair"
 	orbitBodyType "LowAtmosphereFair"
 	orbitBodyType "SwampFair"
+	orbitBodyType "FerrusFair"
+	orbitBodyType "GreenhouseFair"
 planetType
 	designName "WeightedRandom"
 	designStringId "IDSGalaxyScenarioTypePlanetWeightedRandom"
-	orbitBodyTypeCount 46
+	orbitBodyTypeCount 50
 	orbitBodyType "Terran"
 	orbitBodyType "Terran"
 	orbitBodyType "Ice"
@@ -132,10 +136,14 @@ planetType
 	orbitBodyType "Agricultural"
 	orbitBodyType "Hydrocarbon"
 	orbitBodyType "Hydrocarbon"
+	orbitBodyType "Ferrus"
+	orbitBodyType "Greenhouse"
+	orbitBodyType "Greenhouse"
+	orbitBodyType "Greenhouse"
 planetType
 	designName "WeightedRandomFair"
 	designStringId "IDSGalaxyScenarioTypePlanetWeightedRandomFair"
-	orbitBodyTypeCount 46
+	orbitBodyTypeCount 50
 	orbitBodyType "TerranFair"
 	orbitBodyType "TerranFair"
 	orbitBodyType "IceFair"
@@ -182,10 +190,14 @@ planetType
 	orbitBodyType "AgriculturalFair"
 	orbitBodyType "HydrocarbonFair"
 	orbitBodyType "HydrocarbonFair"
+	orbitBodyType "FerrusFair"
+	orbitBodyType "GreenhouseFair"
+	orbitBodyType "GreenhouseFair"
+	orbitBodyType "GreenhouseFair"
 planetType
 	designName "WeightedColonizable"
 	designStringId "IDSGalaxyScenarioTypePlanetWeightedColonizable"
-	orbitBodyTypeCount 32
+	orbitBodyTypeCount 36
 	orbitBodyType "Terran"
 	orbitBodyType "Terran"
 	orbitBodyType "Ice"
@@ -218,10 +230,14 @@ planetType
 	orbitBodyType "Agricultural"
 	orbitBodyType "Hydrocarbon"
 	orbitBodyType "Hydrocarbon"
+	orbitBodyType "Ferrus"
+	orbitBodyType "Greenhouse"
+	orbitBodyType "Greenhouse"
+	orbitBodyType "Greenhouse"
 planetType
 	designName "WeightedColonizableFair"
 	designStringId "IDSGalaxyScenarioTypePlanetWeightedColonizableFair"
-	orbitBodyTypeCount 32
+	orbitBodyTypeCount 36
 	orbitBodyType "TerranFair"
 	orbitBodyType "TerranFair"
 	orbitBodyType "IceFair"
@@ -254,6 +270,10 @@ planetType
 	orbitBodyType "AgriculturalFair"
 	orbitBodyType "HydrocarbonFair"
 	orbitBodyType "HydrocarbonFair"
+	orbitBodyType "FerrusFair"
+	orbitBodyType "GreenhouseFair"
+	orbitBodyType "GreenhouseFair"
+	orbitBodyType "GreenhouseFair"
 planetType
 	designName "AsteroidOrDead"
 	designStringId "IDSGalaxyScenarioTypePlanetAsteroidOrDead"
@@ -287,7 +307,7 @@ planetType
 planetType
 	designName "Random"
 	designStringId "IDSGalaxyScenarioTypePlanetRandom"
-	orbitBodyTypeCount 20
+	orbitBodyTypeCount 22
 	orbitBodyType "Terran"
 	orbitBodyType "Ice"
 	orbitBodyType "Desert"
@@ -308,10 +328,12 @@ planetType
 	orbitBodyType "Swamp"
 	orbitBodyType "Agricultural"
 	orbitBodyType "Hydrocarbon"
+	orbitBodyType "Ferrus"
+	orbitBodyType "Greenhouse"
 planetType
 	designName "RandomFair"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomFair"
-	orbitBodyTypeCount 20
+	orbitBodyTypeCount 22
 	orbitBodyType "TerranFair"
 	orbitBodyType "IceFair"
 	orbitBodyType "DesertFair"
@@ -332,10 +354,12 @@ planetType
 	orbitBodyType "SwampFair"
 	orbitBodyType "AgriculturalFair"
 	orbitBodyType "HydrocarbonFair"
+	orbitBodyType "FerrusFair"
+	orbitBodyType "GreenhouseFair"
 planetType
 	designName "RandomTrue"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomTrue"
-	orbitBodyTypeCount 12
+	orbitBodyTypeCount 14
 	orbitBodyType "Terran"
 	orbitBodyType "Ice"
 	orbitBodyType "Desert"
@@ -348,10 +372,12 @@ planetType
 	orbitBodyType "Swamp"
 	orbitBodyType "Agricultural"
 	orbitBodyType "Hydrocarbon"
+	orbitBodyType "Ferrus"
+	orbitBodyType "Greenhouse"
 planetType
 	designName "RandomTrueFair"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomTrueFair"
-	orbitBodyTypeCount 12
+	orbitBodyTypeCount 14
 	orbitBodyType "TerranFair"
 	orbitBodyType "IceFair"
 	orbitBodyType "DesertFair"
@@ -364,10 +390,12 @@ planetType
 	orbitBodyType "SwampFair"
 	orbitBodyType "AgriculturalFair"
 	orbitBodyType "HydrocarbonFair"
+	orbitBodyType "FerrusFair"
+	orbitBodyType "GreenhouseFair"
 planetType
 	designName "RandomTrueNonIce"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomTrueNonIce"
-	orbitBodyTypeCount 9
+	orbitBodyTypeCount 11
 	orbitBodyType "Terran"
 	orbitBodyType "Desert"
 	orbitBodyType "Volcanic"
@@ -377,10 +405,12 @@ planetType
 	orbitBodyType "Swamp"
 	orbitBodyType "Agricultural"
 	orbitBodyType "Hydrocarbon"
+	orbitBodyType "Ferrus"
+	orbitBodyType "Greenhouse"
 planetType
 	designName "RandomTrueNonIceFair"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomTrueNonIceFair"
-	orbitBodyTypeCount 9
+	orbitBodyTypeCount 11
 	orbitBodyType "TerranFair"
 	orbitBodyType "DesertFair"
 	orbitBodyType "VolcanicFair"
@@ -390,10 +420,12 @@ planetType
 	orbitBodyType "SwampFair"
 	orbitBodyType "AgriculturalFair"
 	orbitBodyType "HydrocarbonFair"
+	orbitBodyType "FerrusFair"
+	orbitBodyType "GreenhouseFair"
 planetType
 	designName "RandomTrueNonTerran"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomTrueNonTerran"
-	orbitBodyTypeCount 9
+	orbitBodyTypeCount 11
 	orbitBodyType "Ice"
 	orbitBodyType "Desert"
 	orbitBodyType "Volcanic"
@@ -403,10 +435,12 @@ planetType
 	orbitBodyType "Oceanic"
 	orbitBodyType "Swamp"
 	orbitBodyType "Hydrocarbon"
+	orbitBodyType "Ferrus"
+	orbitBodyType "Greenhouse"
 planetType
 	designName "RandomTrueNonTerranFair"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomTrueNonTerranFair"
-	orbitBodyTypeCount 9
+	orbitBodyTypeCount 11
 	orbitBodyType "IceFair"
 	orbitBodyType "DesertFair"
 	orbitBodyType "VolcanicFair"
@@ -416,6 +450,8 @@ planetType
 	orbitBodyType "OceanicFair"
 	orbitBodyType "SwampFair"
 	orbitBodyType "HydrocarbonFair"
+	orbitBodyType "FerrusFair"
+	orbitBodyType "GreenhouseFair"
 planetType
 	designName "RandomSpecial"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomSpecial"
@@ -498,19 +534,27 @@ planetType
 planetType
 	designName "RandomMetal"
 	designStringId "IDSGalaxyScenarioTypeRandomMetal"
-	orbitBodyTypeCount 3
+	orbitBodyTypeCount 10
 	orbitBodyType "Volcanic"	
 	orbitBodyType "Swamp"
 	orbitBodyType "Desert"
+	orbitBodyType "Volcanic"	
+	orbitBodyType "Swamp"
+	orbitBodyType "Desert"
+	orbitBodyType "Volcanic"	
+	orbitBodyType "Swamp"
+	orbitBodyType "Desert"
+	orbitBodyType "Ferrus"
 planetType
 	designName "RandomMixed"
 	designStringId "IDSGalaxyScenarioTypeRandomMixed"
-	orbitBodyTypeCount 5
+	orbitBodyTypeCount 6
 	orbitBodyType "Igneous"
 	orbitBodyType "Desolate"
 	orbitBodyType "Terran"
 	orbitBodyType "LowAtmosphere"
 	orbitBodyType "Hydrocarbon"
+	orbitBodyType "Greenhouse"
 planetType
 	designName "RandomExtra"
 	designStringId "IDSGalaxyScenarioTypeRandomExtra"
@@ -536,10 +580,16 @@ planetType
 planetType
 	designName "RandomTier1"
 	designStringId "IDSGalaxyScenarioTypeRandomTier1"
-	orbitBodyTypeCount 3
+	orbitBodyTypeCount 9
 	orbitBodyType "Volcanic"	
 	orbitBodyType "Cyro"
 	orbitBodyType "Igneous"
+	orbitBodyType "Greenhouse"
+	orbitBodyType "Volcanic"	
+	orbitBodyType "Cyro"
+	orbitBodyType "Igneous"
+	orbitBodyType "Greenhouse"
+	orbitBodyType "Ferrus"
 planetType
 	designName "RandomTier2"
 	designStringId "IDSGalaxyScenarioTypeRandomTier2"
@@ -702,6 +752,26 @@ planetType
 	orbitBodyTypeCount 1
 	orbitBodyType "PirateBase"
 planetType
+	designName "Ferrus"
+	designStringId "IDSGalaxyScenarioTypePlanetFerrus"
+	orbitBodyTypeCount 1
+	orbitBodyType "Ferrus"
+planetType
+	designName "Greenhouse"
+	designStringId "IDSGalaxyScenarioTypePlanetGreenhouse"
+	orbitBodyTypeCount 1
+	orbitBodyType "Greenhouse"
+planetType
+	designName "FerrusFair"
+	designStringId "IDSGalaxyScenarioTypePlanetFerrusFair"
+	orbitBodyTypeCount 1
+	orbitBodyType "FerrusFair"
+planetType
+	designName "GreenhouseFair"
+	designStringId "IDSGalaxyScenarioTypePlanetGreenhouseFair"
+	orbitBodyTypeCount 1
+	orbitBodyType "GreenhouseFair"
+planetType
 	designName "Agricultural"
 	designStringId "IDS_PLANETTYPE_AGRICULTURAL"
 	orbitBodyTypeCount 1	
@@ -806,7 +876,7 @@ planetType
 	designStringId "IDS_PLANETTYPE_SWAMP"
 	orbitBodyTypeCount 1
 	orbitBodyType "SwampFair"
-orbitBodyTypeCount 53
+orbitBodyTypeCount 57
 orbitBodyType
 	typeName "BlueStar"
 	entityDefName "STAR_BLUE"
@@ -886,7 +956,23 @@ orbitBodyType
 orbitBodyType	
 	typeName "IceFair"
 	entityDefName "PlanetIceFair"
-	defaultTemplateName "Template:DefaultStart_IceFair"					
+	defaultTemplateName "Template:DefaultStart_IceFair"
+orbitBodyType	
+	typeName "FerrusFair"
+	entityDefName "PlanetFerrusFair"
+	defaultTemplateName "Template:DefaultStart_FerrusFair"
+orbitBodyType	
+	typeName "GreenhouseFair"
+	entityDefName "PlanetGreenhouseFair"
+	defaultTemplateName "Template:DefaultStart_GreenhouseFair"
+orbitBodyType	
+	typeName "Ferrus"
+	entityDefName "PlanetFerrus"
+	defaultTemplateName "Template:DefaultStart_Ferrus"
+orbitBodyType	
+	typeName "Greenhouse"
+	entityDefName "PlanetGreenhouse"
+	defaultTemplateName "Template:DefaultStart_Greenhouse"		
 orbitBodyType	
 	typeName "DeadAsteroid"
 	entityDefName "PlanetDeadAsteroid"
@@ -1954,7 +2040,7 @@ playerType
 playerType
 	designName "Pirate"
 	entityDefName "PlayerPirate"
-planetItemsTemplateCount 60
+planetItemsTemplateCount 64
 planetItemsTemplate
 	templateName "Empty"
 	subTemplates 0
@@ -1969,7 +2055,8 @@ planetItemsTemplate
 				param "TechLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 5
+			items 6
+				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"
@@ -1981,7 +2068,8 @@ planetItemsTemplate
 				param "TechRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 5
+			items 6
+				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"
@@ -1993,7 +2081,8 @@ planetItemsTemplate
 				param "PsiLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 5
+			items 6
+				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Frigate:Constructor"
 				item "Psi:Frigate:Constructor"
@@ -2005,7 +2094,8 @@ planetItemsTemplate
 				param "PsiRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 5		
+			items 6
+				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Frigate:Constructor"
 				item "Psi:Frigate:Constructor"
@@ -2017,7 +2107,8 @@ planetItemsTemplate
 				param "PhaseLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 6
+			items 7
+				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Frigate:Constructor"
 				item "Phase:Frigate:Constructor"
@@ -2030,7 +2121,8 @@ planetItemsTemplate
 				param "PhaseRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 5
+			items 6
+				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Frigate:Constructor"
 				item "Phase:Frigate:Constructor"
@@ -2042,7 +2134,8 @@ planetItemsTemplate
 				param "TechLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 11
+			items 12
+				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:MetalExtractor"
@@ -2060,7 +2153,8 @@ planetItemsTemplate
 				param "PsiLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 11
+			items 12
+				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
 				item "Psi:Module:MetalExtractor"
@@ -2078,7 +2172,8 @@ planetItemsTemplate
 				param "PhaseLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 12
+			items 13
+				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
 				item "Phase:Module:MetalExtractor"
@@ -2097,7 +2192,8 @@ planetItemsTemplate
 				param "TechRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 11
+			items 12
+				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:MetalExtractor"
@@ -2115,7 +2211,8 @@ planetItemsTemplate
 				param "PsiRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 11
+			items 12
+				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
 				item "Psi:Module:MetalExtractor"
@@ -2133,7 +2230,8 @@ planetItemsTemplate
 				param "PhaseRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 11
+			items 12
+				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
 				item "Phase:Module:MetalExtractor"
@@ -2325,6 +2423,30 @@ planetItemsTemplate
 	subTemplates 2
 		template "Template:DefaultHomePlanetSetup"
 		template "Template:LocalMilitia_IceFair"
+	groups 0
+planetItemsTemplate
+	templateName "Template:DefaultStart_FerrusFair"
+	subTemplates 2
+		template "Template:DefaultHomePlanetSetup"
+		template "Template:LocalMilitia_TerranFair"
+	groups 0
+planetItemsTemplate
+	templateName "Template:DefaultStart_GreenhouseFair"
+	subTemplates 2
+		template "Template:DefaultHomePlanetSetup"
+		template "Template:LocalMilitia_IceFair"
+	groups 0
+planetItemsTemplate
+	templateName "Template:DefaultStart_Ferrus"
+	subTemplates 2
+		template "Template:DefaultHomePlanetSetup"
+		template "Template:LocalMilitiaStrong"
+	groups 0
+planetItemsTemplate
+	templateName "Template:DefaultStart_Greenhouse"
+	subTemplates 2
+		template "Template:DefaultHomePlanetSetup"
+		template "Template:LocalMilitiaMedium"
 	groups 0
 planetItemsTemplate
 	templateName "Template:LightStart"

@@ -15,9 +15,9 @@ instantAction
 	effectInfo
 		effectAttachInfo
 			attachType "Center"
-		smallEffectName "Ability_E4X_CyberAntifighterNanite"
-		mediumEffectName "Ability_E4X_CyberAntifighterNanite"
-		largeEffectName "Ability_E4X_CyberAntifighterNanite"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
 		soundID ""
 numPeriodicActions 0
 numOverTimeActions 0

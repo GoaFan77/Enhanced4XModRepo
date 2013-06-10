@@ -7,7 +7,7 @@ NameStringID "IDS_Ability_E4X_PsychicPossession_NAME"
 DescriptionStringID "IDS_Ability_E4X_PsychicPossession_DESC"
 researchWindowLocation
 	block 2
-	pos [ 4 , 0 ]
+	pos [ 4 , 4 ]
 ResearchField "NonCombat"
 Prerequisites
 	NumResearchPrerequisites 0
@@ -32,3 +32,4 @@ researchBoolModifiers 0
 researchFloatModifiers 0
 artifactPicture ""
 uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

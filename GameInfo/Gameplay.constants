@@ -443,7 +443,7 @@ GameplayConstants
 		minSupply 10000
 		maxSupply 10000
 		strengthPerOwnedPlanet .02
-		strengthPerCargoShip .0
+		strengthPerCargoShip .0025
 		strengthPerBounty .00015
 		firstWarningTime 900
 		normalWarningTime 780
@@ -455,119 +455,119 @@ GameplayConstants
 		maxNumUpgradesPerRaid 2
 		juicyPlanetModuleThreshold 2
 		raidStrengthThreshold:0 0
-		raidStrengthThreshold:1 .20
-		raidStrengthThreshold:2 .40
-		raidStrengthThreshold:3 .7
-		raidStrengthThreshold:4 .9
+		raidStrengthThreshold:1 .25
+		raidStrengthThreshold:2 .50
+		raidStrengthThreshold:3 .75
+		raidStrengthThreshold:4 1.0
 		pirateRaidComposition:0
 			requiredShipCount 3
 			requiredShip
 				type "FrigatePirateAntiFighter"
-				minCount 2
-				maxCount 4
+				minCount 1
+				maxCount 2
 			requiredShip				
 				type "FrigatePirateScout"
 				minCount 5
-				maxCount 10
+				maxCount 6
 			requiredShip
 				type "FrigatePirateMedium"
-				minCount 6
-				maxCount 11
+				minCount 5
+				maxCount 6
 			randomShipCount 0
 		pirateRaidComposition:1
 			requiredShipCount 3
 			requiredShip
 				type "FrigatePirateScout"
-				minCount 7
-				maxCount 15
+				minCount 10
+				maxCount 11
 			requiredShip
 				type "FrigatePirateMedium"
-				minCount 7
-				maxCount 15
+				minCount 10
+				maxCount 11
 			requiredShip
 				type "FrigatePirateAntiFighter"
-				minCount 4
-				maxCount 8
+				minCount 2
+				maxCount 3
 			randomShipCount 0
 		pirateRaidComposition:2
 			requiredShipCount 5
 			requiredShip
 				type "FrigatePirateScout"
-				minCount 7
-				maxCount 15
+				minCount 12
+				maxCount 13
 			requiredShip
 				type "FrigatePirateMedium"
-				minCount 7
-				maxCount 15
+				minCount 11
+				maxCount 12
 			requiredShip
 				type "FrigatePirateHeavy"
-				minCount 1
-				maxCount 3
+				minCount 5
+				maxCount 6
 			requiredShip
 				type "FrigatePirateAntiFighter"
 				minCount 4
-				maxCount 8
+				maxCount 5
 			requiredShip
 				type "FrigatePirateSiege"
-				minCount 1
-				maxCount 3
+				minCount 3
+				maxCount 4
 			randomShipCount 0
 		pirateRaidComposition:3
 			requiredShipCount 5
 			requiredShip
 				type "FrigatePirateScout"
-				minCount 14
-				maxCount 18
+				minCount 18
+				maxCount 19
 			requiredShip
 				type "FrigatePirateMedium"
-				minCount 12
-				maxCount 15
+				minCount 15
+				maxCount 16
 			requiredShip
 				type "FrigatePirateHeavy"
-				minCount 4
-				maxCount 6
-			requiredShip
-				type "FrigatePirateAntiFighter"
-				minCount 6
+				minCount 7
 				maxCount 8
 			requiredShip
+				type "FrigatePirateAntiFighter"
+				minCount 8
+				maxCount 9
+			requiredShip
 				type "FrigatePirateSiege"
-				minCount 4
-				maxCount 5
+				minCount 5
+				maxCount 6
 			randomShipCount 0
 		pirateRaidComposition:4
 			requiredShipCount 5
 			requiredShip
 				type "FrigatePirateScout"
-				minCount 20
-				maxCount 26
+				minCount 18
+				maxCount 19
 			requiredShip
 				type "FrigatePirateMedium"
-				minCount 20
-				maxCount 25
+				minCount 19
+				maxCount 20
 			requiredShip
 				type "FrigatePirateHeavy"
-				minCount 13
-				maxCount 17
+				minCount 10
+				maxCount 11
 			requiredShip
 				type "FrigatePirateAntiFighter"
-				minCount 10
-				maxCount 12
+				minCount 12
+				maxCount 13
 			requiredShip
 				type "FrigatePirateSiege"
-				minCount 6
-				maxCount 8
+				minCount 8
+				maxCount 9
 			randomShipCount 0
 		fleetStrengthLevel:Weak 0
 		fleetStrengthLevel:Moderate 1500
 		fleetStrengthLevel:Strong 4000
 		fleetStrengthLevel:Massive 10000
 		fleetStrengthLevel:Overwhelming 20000
-		raidCost:0 3250
-		raidCost:1 4775
-		raidCost:2 6075
-		raidCost:3 13525
-		raidCost:4 25575
+		raidCost:0 1600
+		raidCost:1 3200
+		raidCost:2 6600
+		raidCost:3 10100
+		raidCost:4 13600
 	buildSpeedData-Slow
 		shipBuildRateGameSpeedScalar 0.0
 		moduleBuildRateGameSpeedScalar 0.0
@@ -662,7 +662,7 @@ GameplayConstants
 		netChangeForBoom 0.3
 	playerAISharedDef
 		table-Aggressive
-			BuildShip 18
+			BuildShip 27
 			BuildModuleTactical 2
 			BuildModuleCivilian 1
 			BuildModuleResearch 3
@@ -670,11 +670,13 @@ GameplayConstants
 			UpgradePlanetArtifactLevel 1
 			UpgradePlanetPopulation 1
 			UpgradePlanetInfastructure 1
+			UpgradePlanetSocial 1
+			UpgradePlanetIndustry 3
 			MaxBountyBidCount 3
 			UpgradeStarBase 2
 			BuildMines 1
 		table-Defensive
-			BuildShip 13
+			BuildShip 23
 			BuildModuleTactical 4
 			BuildModuleCivilian 2
 			BuildModuleResearch 2
@@ -682,11 +684,13 @@ GameplayConstants
 			UpgradePlanetArtifactLevel 0
 			UpgradePlanetPopulation 1
 			UpgradePlanetInfastructure 2
+			UpgradePlanetSocial 2
+			UpgradePlanetIndustry 2
 			MaxBountyBidCount 3
 			UpgradeStarBase 3
 			BuildMines 3
 		table-Research
-			BuildShip 13
+			BuildShip 23
 			BuildModuleTactical 2
 			BuildModuleCivilian 2
 			BuildModuleResearch 5
@@ -694,18 +698,22 @@ GameplayConstants
 			UpgradePlanetArtifactLevel 2
 			UpgradePlanetPopulation 1
 			UpgradePlanetInfastructure 1
+			UpgradePlanetSocial 2
+			UpgradePlanetIndustry 2
 			MaxBountyBidCount 3
 			UpgradeStarBase 1
 			BuildMines 1
 		table-Economic
-			BuildShip 10
+			BuildShip 24
 			BuildModuleTactical 2
-			BuildModuleCivilian 5
+			BuildModuleCivilian 3
 			BuildModuleResearch 2
 			UpgradeResearch 2
 			UpgradePlanetArtifactLevel 2
-			UpgradePlanetPopulation 4
-			UpgradePlanetInfastructure 4
+			UpgradePlanetPopulation 3
+			UpgradePlanetInfastructure 3
+			UpgradePlanetSocial 0
+			UpgradePlanetIndustry 3
 			MaxBountyBidCount 3
 			UpgradeStarBase 1
 			BuildMines 1

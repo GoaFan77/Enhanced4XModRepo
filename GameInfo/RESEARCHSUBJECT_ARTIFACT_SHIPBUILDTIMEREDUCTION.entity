@@ -40,3 +40,4 @@ researchModifier
 	perLevelValue 0.300000
 artifactPicture "Artifact_E4X_PictureShipBuildTimeReduction"
 uniqueOverlayBrush ""
+dlcId 204880
