@@ -7,7 +7,18 @@ allowFirstSpawnerToStack FALSE
 buffExclusivityForAIType "ExclusivePerPlayer"
 isInterruptable FALSE
 isChannelling FALSE
-numInstantActions 0
+numInstantActions 1
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Above"
+		smallEffectName "Buff_E4X_PlanetaryDefenses"
+		mediumEffectName "Buff_E4X_PlanetaryDefenses"
+		largeEffectName "Buff_E4X_PlanetaryDefenses"
+		soundID ""
 numPeriodicActions 1
 periodicAction
 	actionCountType "Infinite"

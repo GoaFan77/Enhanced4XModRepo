@@ -318,7 +318,7 @@ planetUpgradeDef
 			cultureSpreadRateModifier -0.333334
 ringsChance 0.000000
 isColonizable TRUE
-planetTypeForResearch "Barren"
+planetTypeForResearch "Asteroid"
 skyboxScalarsCount 5
 skyboxScalars
 	diffuseScalar 1.000000

@@ -30,6 +30,6 @@ researchPrerequisites
 	RequiredCompletedResearchSubjects 0
 nameStringID "IDS_Ability_E4X_DisablePhaseJump_NAME"
 descStringID "IDS_Ability_E4X_DisablePhaseJump_DESC"
-hudIcon "HUDICON_RESEARCHSUBJECT_DIPLOMATIC_IMMUNITY"
-smallHudIcon "HUDICON_RESEARCHSUBJECT_DIPLOMATIC_IMMUNITY"
+hudIcon "HUDICON_E4X_DisablePhaseJump"
+smallHudIcon "HUDICON_E4X_DisablePhaseJump"
 infoCardIcon ""

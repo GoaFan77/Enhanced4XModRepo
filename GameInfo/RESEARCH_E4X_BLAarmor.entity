@@ -1,7 +1,7 @@
 ﻿TXT
 entityType "ResearchSubject"
-hudIcon "HUDICON_E4X_NovalithSupercharge"
-smallHudIcon "HUDICON_E4X_NovalithSupercharge"
+hudIcon "HUDICON_E4X_BLAarmor"
+smallHudIcon "HUDICON_E4X_BLAarmor"
 infoCardIcon ""
 NameStringID "IDS_RESEARCH_E4X_BLAarmor_NAME"
 DescriptionStringID "IDS_RESEARCH_E4X_BLAarmor_DESC"

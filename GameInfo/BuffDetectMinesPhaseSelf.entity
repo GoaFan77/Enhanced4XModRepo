@@ -14,10 +14,17 @@ instantAction
 	delayTime 15.000000
     buffType "BuffDetectMinesPhaseTarget"
 instantAction
-	buffInstantActionType "ApplyBuffToTargetNoFilterNoRange"
+	buffInstantActionType "ApplyBuffToSelf"
 	instantActionTriggerType "OnDelay"
 	delayTime 0.000000
     buffType "BuffDetectMinesTechSelf"
+	effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0

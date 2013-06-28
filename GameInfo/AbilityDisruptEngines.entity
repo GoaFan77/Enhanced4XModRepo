@@ -30,6 +30,6 @@ researchPrerequisites
 	RequiredCompletedResearchSubjects 0
 nameStringID "IDS_Ability_E4X_DisruptRangefinders_NAME"
 descStringID "IDS_Ability_E4X_DisruptRangefinders_DESC"
-hudIcon "HUDICON_ABILITY_DISRUPENGINES"
-smallHudIcon "HUDICON_ABILITY_DISRUPENGINES"
+hudIcon "HUDICON_E4X_DisruptRangefinders"
+smallHudIcon "HUDICON_E4X_DisruptRangefinders"
 infoCardIcon ""

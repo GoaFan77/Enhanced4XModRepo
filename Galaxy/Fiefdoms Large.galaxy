@@ -2,7 +2,7 @@ TXT
 versionNumber 4
 isBrowsable TRUE
 browsePictureName "ScenarioPicture-Fiefdoms"
-browseName "Random Fiefdoms Large"
+browseName "Random - Large Fiefdoms"
 browseDescription "In a large globular cluster, each faction has managed to grab a stronghold in a small solar system all by themselves. You may have the space to develop, but the fight for the core will begin soon enough."
 isFirstCapitalShipIsFlagship TRUE
 randomizeStartingPositions TRUE

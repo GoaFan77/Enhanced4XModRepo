@@ -46,7 +46,7 @@ instantAction
 		object "Frigate"
 		object "Corvette"
 		object "CapitalShip"
-		object "Titan"
+		object "StarBase"
 		numSpaces 1
 		space "Normal"
 		numConstraints 0

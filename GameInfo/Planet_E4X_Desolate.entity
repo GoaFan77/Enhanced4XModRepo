@@ -301,7 +301,7 @@ planetUpgradeDef
 			upgradeTime 75.000000
 			maxHealth 6000.000000
 	path:Social
-		stageCount 4
+		stageCount 5
 		stage
 			price
 				credits 0.000000
@@ -322,8 +322,8 @@ planetUpgradeDef
 			maxPopulation 10.000000
 			populationGrowthRate 0.125000
 			tradeIncomeModifier -0.150000
-			shipBuildRateModifier -0.120000
-			cultureSpreadRateModifier 0.083334
+			shipBuildRateModifier -0.166667
+			cultureSpreadRateModifier 0.208335
 		stage
 			price
 				credits 550.000000
@@ -333,21 +333,32 @@ planetUpgradeDef
 			maxPopulation 30.000000
 			populationGrowthRate 0.138000
 			tradeIncomeModifier -0.250000
-			shipBuildRateModifier -0.240000
-			cultureSpreadRateModifier 0.166668
+			shipBuildRateModifier -0.333334
+			cultureSpreadRateModifier 0.312503
 		stage
 			price
 				credits 650.000000
 				metal 200.000000
 				crystal 175.000000
 			upgradeTime 75.000000
-			maxPopulation 50.000000
+			maxPopulation 100.000000
 			populationGrowthRate 0.151000
 			tradeIncomeModifier -0.350000
-			shipBuildRateModifier -0.480000
-			cultureSpreadRateModifier 0.250002
+			shipBuildRateModifier -0.500001
+			cultureSpreadRateModifier 0.468754
+		stage
+			price
+				credits 750.000000
+				metal 225.000000
+				crystal 225.000000
+			upgradeTime 90.000000
+			maxPopulation 190.000000
+			populationGrowthRate 0.169000
+			tradeIncomeModifier -0.450000
+			shipBuildRateModifier -0.666668
+			cultureSpreadRateModifier 0.703111
 	path:Industry
-		stageCount 3
+		stageCount 4
 		stage
 			price
 				credits 0.000000
@@ -365,8 +376,8 @@ planetUpgradeDef
 				crystal 75.000000
 			upgradeTime 45.000000
 			maxPopulation -3.000000
-			tradeIncomeModifier 0.120000
-			shipBuildRateModifier 0.060000
+			tradeIncomeModifier 0.100000
+			shipBuildRateModifier 0.083334
 			cultureSpreadRateModifier -0.166667
 		stage
 			price
@@ -375,12 +386,22 @@ planetUpgradeDef
 				crystal 125.000000
 			upgradeTime 60.000000
 			maxPopulation -9.000000
-			tradeIncomeModifier 0.220000
-			shipBuildRateModifier 0.120000
+			tradeIncomeModifier 0.200000
+			shipBuildRateModifier 0.166668
 			cultureSpreadRateModifier -0.333334
+		stage
+			price
+				credits 650.000000
+				metal 200.000000
+				crystal 175.000000
+			upgradeTime 75.000000
+			maxPopulation -30.000000
+			tradeIncomeModifier 0.300000
+			shipBuildRateModifier 0.250002
+			cultureSpreadRateModifier -0.500001
 ringsChance 0.050000
 isColonizable TRUE
-planetTypeForResearch "Desert"
+planetTypeForResearch "Barren"
 skyboxScalarsCount 5
 skyboxScalars
 	diffuseScalar 1.100000

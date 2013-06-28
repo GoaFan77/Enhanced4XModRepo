@@ -73,7 +73,7 @@ entities
 			entityDefName "Frigate_E4X_PhaseEnvoyAI"
 			entityDefName "Frigate_E4X_PhaseAntiModuleSwarm"
 	researchInfo
-		count 164
+		count 166
 		entityDefName "RESEARCH_E4X_RacialBonusPhase"
 		entityDefName "RESEARCH_E4X_FactionBonusPhaseLoyalists"
 		entityDefName "RESEARCH_E4X_HeroicValor"
@@ -238,6 +238,8 @@ entities
 		entityDefName "RESEARCHSUBJECT_TITANACCESS_PHASELOYALIST_4"
 		entityDefName "RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPHASE"
 		entityDefName "RESEARCHSUBJECT_PLANETACCESS_OCEANICPHASE"
+		entityDefName "RESEARCHSUBJECT_POPULATIONCAPIRONPHASE0"
+		entityDefName "RESEARCHSUBJECT_POPULATIONCAPIRONPHASE1"
 	starBaseInfo
 		count 2
 		entityDefName "StarBasePhase"

@@ -312,17 +312,35 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 			-New Tech: Blast Resistant Armor, increases armor (more for defensive structures) while increasing mass.
 			-TEC now start with a special starbase constructor on their homeworld that can build a free starbase with a max of 10 upgrades without research. This constructor may not phase jump.
 			-Planetary Defense access tech moved to a teir 3 research, with a prerequisite of Highly Conductive Rails.
+			-Planets with some sort of planetary weapon active now have a new particle effect above them.
 			-The Ankylon titan's beam weapons can now fire in all direction. Damage values rearranged a bit, resulting in slightly higher total DPS.
+			-The Ankylon titan is now 10% bigger (cosmetic change only).
 			-TEC corvettes now have a chance to debuff the range of the enemy's weapons, instead of damaging the engines.
+		-New Pirate Smuggler Random Encounter. Chance for a captureable pirate smuggling outpost and escorts to spawn at uncolonizeable gravity wells.
+			-Pirate bases now also have a captureable trading outpost as well.
+		-First of the new "Boss Fight" random encounters, the Cyber Fortress, added. A rare, powerful new planet type with defenses strong enough to repel medium sized fleets and a titan.
+		-New optional minimod, Expanded Research. Doubles the number of research levels of most stat increasing research.
 		-Vasari factions can now colonize volcanic and inhospitable planets without research.
+		-Trader factions can colonize Ocenaic and Swamp planets without research, Oceanic population upgrades now affect Swamps and are 1 tier lower.
 		-Techs that unlock a hero unit now have a special overlay to signify their significance.
+			-TEC's Admiral Kol now requires two levels of the Civil Ship Safety Act research to recruit.
 		-5 New "Fiefdom" series of random maps, with each player having their own solar system.
 		-Highly Conductive Rails tech moved from a tier 3 to teir 2 tech.
 		-Increased the Area of Effect of the TEC titan's flak upgrade to 1500.
 		-Wormholes now have the proper mine limit of 10 per player.
+		-HTS Genocidal Indoctrination bonuses and duration increased.
+		-HTS Frenzy ability will now trigger properly, and Corvettes can now be counted towards the kill bonus (thanks Womble).
+		-Ragnarov Titan's railgun upgrade no longer affects titans but now deals extra damage and gives a shield debuff to targets.
 		-Slashed Cryo planet's odd 10 minute strip to the core time, now gives mostly crystal instead of metal resources.
+		-Racial and Faction bonuses now start out researched (cosmetic change only, thanks Valephus).
+		-Orthodox Advent starting homeworld culture spread reduced.
+		-Vorastra Titan's stun shots upgrade no longer affects titans but can now affect Starbases.
 		-The Advent's Fluxuating Shields capitalship upgrade now displays its proper description.
-		-Barren Planets now use the new Barren planet research type.
-		-Gas Gaints now use the new Greenhouse planet research type.
+		-Desolate and Barren planets now use the new Barren planet research type.
+		-Gas Gaints now require research to colonize, and can now have a max of 4 research asteroids.
 		-Oceanic and Swamp planets now use the new Oceanic planet research type.
+		-Ferrous planets no longer require research to colonize, but now are rarer and have slightly slower max population.
+		-Vasari Ferrous planet population cap technologies now give their bonus to Aseroid and Moons as well.
+		-Most planet related techs have been moved around and in some case brought down a few research teirs.
+		-Replaced one of the Advent loadscreen pictures with a better one by Axxo.
 		-Fixed an ice giant texture to not be rediculously reflective.

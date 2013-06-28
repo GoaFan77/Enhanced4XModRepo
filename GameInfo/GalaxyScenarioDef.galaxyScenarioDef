@@ -753,7 +753,7 @@ planetType
 	orbitBodyType "PirateBase"
 planetType
 	designName "Ferrus"
-	designStringId "IDSGalaxyScenarioTypePlanetFerrus"
+	designStringId "IDSGalaxyScenarioTypePlanetFerrous"
 	orbitBodyTypeCount 1
 	orbitBodyType "Ferrus"
 planetType
@@ -763,7 +763,7 @@ planetType
 	orbitBodyType "Greenhouse"
 planetType
 	designName "FerrusFair"
-	designStringId "IDSGalaxyScenarioTypePlanetFerrusFair"
+	designStringId "IDSGalaxyScenarioTypePlanetFerrousFair"
 	orbitBodyTypeCount 1
 	orbitBodyType "FerrusFair"
 planetType

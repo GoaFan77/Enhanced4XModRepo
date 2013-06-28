@@ -13,10 +13,10 @@ numRandomDebrisLarge 12
 numRandomDebrisSmall 24
 numSpecificDebris 0
 armorType "Module"
-hudIcon "HUDICON_STARBASE_TECH"
+hudIcon "HUDICON_E4X_CyberDefensePlatform"
 smallHudIcon "HUDICONSMALL_E4X_CyberDefenseFortress"
 infoCardIcon "HUDICONSMALL_E4X_CyberDefenseFortress"
-minZoomDistanceMult 1.000000
+minZoomDistanceMult 3.000000
 NumWeapons 3
 Weapon
 	WeaponType "Projectile"
@@ -40,7 +40,7 @@ Weapon
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Projectile"
-		burstCount 2
+		burstCount 3
 		burstDelay 0.500000
 		fireDelay 0.000000
 		muzzleEffectName "Weapon_Psi_LaserCapital_Muzzle"
@@ -78,23 +78,23 @@ Weapon
 	Duration 3.250000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
-			weaponType "Projectile"
-			burstCount 2
-			burstDelay 2.000000
-			fireDelay 1.000000
-			muzzleEffectName "Ability_SabotageAntiMatterMuzzle"
-			muzzleSoundMinRespawnTime 0.100000
-			muzzleSounds
-				soundCount 1
-				sound "WEAPON_GENERICFIRE"
-			hitEffectName ""
-			hitHullEffectSounds
-				soundCount 1
-				sound ""
-			hitShieldsEffectSounds
-				soundCount 1
-				sound ""
-			projectileTravelEffectName "Ability_SabotageAntiMatterTravel"
+		weaponType "Projectile"
+		burstCount 2
+		burstDelay 2.000000
+		fireDelay 0.000000
+		muzzleEffectName "CapitalAbility_IonBlastMuzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound "EFFECT_IONBLAST"
+		hitEffectName ""
+		hitHullEffectSounds
+			soundCount 1
+			sound ""
+		hitShieldsEffectSounds
+			soundCount 1
+			sound ""
+		projectileTravelEffectName "CapitalAbility_IonBlastTravel"
 Weapon
 	WeaponType "Beam"
 	damageEnums
@@ -120,12 +120,12 @@ Weapon
 		burstCount 1
 		burstDelay 0.000000
 		fireDelay 0.000000
-		muzzleEffectName "Weapon_Tech_CapitalBeam_Muzzle"
+		muzzleEffectName "Weapon_Psi_BeamFrigate_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 1
 			sound ""
-		hitEffectName "Weapon_Tech_CapitalBeam_Hit"
+		hitEffectName "Weapon_Psi_BeamFrigate_Hit"
 		hitHullEffectSounds
 			soundCount 1
 			sound ""
@@ -134,13 +134,13 @@ Weapon
 			sound ""
 		beamEffectSounds
 			soundCount 1
-			sound "WEAPON_TECHCAPITALBEAMHEAVY_TRAVEL"
-		beamGlowTextureName "TechCapitalBeam_Glow"
-		beamCoreTextureName "TechCapitalBeam_Core"
-		beamWidth 50.000000
-		beamGlowColor ff60dddf
-		beamCoreColor ff93cccf
-		beamTilingRate 4.000000
+			sound "WEAPON_PSICAPITALBEAMMEDIUM_TRAVEL"
+		beamGlowTextureName "PsiCapitalBeam_Glow"
+		beamCoreTextureName "PsiCapitalBeam_Core"
+		beamWidth 88.000000
+		beamGlowColor ff22ff96
+		beamCoreColor ff22ff96
+		beamTilingRate 3.000000
 m_weaponIndexForRange 2
 firingAlignmentType "Default"
 TargetCountPerBank:FRONT 2
@@ -161,7 +161,7 @@ squadAntiMatterCost:3 0.000000
 mainViewIcon "HUDICONSMALL_E4X_CyberDefenseFortress"
 experiencePointsForDestroying 2000.000000
 nameStringID "IDS_Starbase_E4X_CyberDefensePlatform_NAME"
-picture "PICTURE_STARBASETECH"
+picture ""
 statCountType "StarBase"
 creationSourceAbility "Ability_E4X_DeployAncientStarBase"
 maxUpgradeLevelCount 1

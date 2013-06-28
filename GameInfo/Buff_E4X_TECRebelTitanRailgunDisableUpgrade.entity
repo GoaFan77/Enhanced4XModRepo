@@ -39,13 +39,12 @@ instantAction
 	targetFilter
 		numOwnerships 1
 		ownership "Enemy"
-		numObjects 6
+		numObjects 5
 		object "CapitalShip"
 		object "Frigate"
 		object "Corvette"
 		object "PlanetModule"
 		object "StarBase"
-		object "Titan"
 		numSpaces 1
 		space "Normal"
 		numConstraints 0

@@ -970,22 +970,22 @@ brush
 	name "HUDICONSMALL_PLANET_INDUSTRIAL1"
 	content "Simple"
 	fileName "Icons_planets"
-	pixelBox [ 171 , 1180 , 28 , 23 ]
+	pixelBox [ 66 , 1058 , 24 , 23 ]
 brush
 	name "HUDICON_PLANET_INDUSTRIAL1"
 	content "Simple"
 	fileName "Icons_planets"
-	pixelBox [ 171 , 1129 , 50 , 50 ]
+	pixelBox [ 66 , 1058 , 24 , 23 ]
 brush
 	name "HUDICONSMALL_PLANET_INDUSTRIAL2"
 	content "Simple"
 	fileName "Icons_planets"
-	pixelBox [ 447 , 1181 , 28 , 23 ]
+	pixelBox [ 68 , 1118 , 21 , 20 ]
 brush
 	name "HUDICON_PLANET_INDUSTRIAL2"
 	content "Simple"
 	fileName "Icons_planets"
-	pixelBox [ 447 , 1129 , 50 , 50 ]
+	pixelBox [ 68 , 1118 , 21 , 20 ]
 brush
 	name "HUDICONSMALL_PLANET_OCEANIC1"
 	content "Simple"
@@ -1040,22 +1040,22 @@ brush
 	name "MAINVIEWICON_PLANET_INDUSTRIAL1"
 	content "Simple"
 	fileName "Icons_planets"
-	pixelBox [ 171 , 1129 , 50 , 50 ]
+	pixelBox [ 66 , 1058 , 24 , 23 ]
 brush
 	name "MAINVIEWUNDETECTEDICON_PLANET_INDUSTRIAL1"
 	content "Simple"
 	fileName "Icons_planets"
-	pixelBox [ 224 , 1129 , 50 , 50 ]
+	pixelBox [ 120 , 1059 , 24 , 23 ]
 brush
 	name "MAINVIEWICON_PLANET_INDUSTRIAL2"
 	content "Simple"
 	fileName "Icons_planets"
-	pixelBox [ 447 , 1129 , 50 , 50 ]
+	pixelBox [ 68 , 1118 , 21 , 20 ]
 brush
 	name "MAINVIEWUNDETECTEDICON_PLANET_INDUSTRIAL2"
 	content "Simple"
 	fileName "Icons_planets"
-	pixelBox [ 500 , 1129 , 50 , 50 ]
+	pixelBox [ 122 , 1118 , 21 , 20 ]
 brush
 	name "MAINVIEWICON_PLANET_OCEANIC1"
 	content "Simple"

@@ -50,8 +50,8 @@ orderAcknowledgementType "ONGENERALORDERISSUED"
 researchPrerequisites
 	NumResearchPrerequisites 1
 		ResearchPrerequisite
-		Subject "RESEARCHSUBJECT_MAXCAPITALSHIPSTECH2"
-		Level 1
+		Subject "RESEARCHSUBJECT_ABILITYACCESS_REINFORCEDARMOR"
+		Level 2
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 nameStringID "IDS_Ability_E4X_SpawnHeroCommandTech_NAME"

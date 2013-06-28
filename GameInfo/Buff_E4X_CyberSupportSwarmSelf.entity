@@ -7,18 +7,7 @@ allowFirstSpawnerToStack FALSE
 buffExclusivityForAIType "ExclusiveForAllPlayers"
 isInterruptable FALSE
 isChannelling FALSE
-numInstantActions 1
-instantAction
-	buffInstantActionType "PlayPersistantAttachedEffect"
-	instantActionTriggerType "OnDelay"
-	delayTime 0.000000
-	effectInfo
-		effectAttachInfo
-			attachType "Center"
-		smallEffectName ""
-		mediumEffectName ""
-		largeEffectName ""
-		soundID ""
+numInstantActions 0
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0

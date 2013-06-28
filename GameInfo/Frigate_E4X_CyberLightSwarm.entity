@@ -36,7 +36,7 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 2
 numSpecificDebris 0
 armorType "Medium"
-hudIcon "HUDICON_E4X_PhaseAntiModuleSwarm"
+hudIcon "HUDICON_E4X_CyberAntiFighterSwarm"
 smallHudIcon "MAINVIEWICON_FRIGATE_PHASENANITE"
 infoCardIcon "INFOCARDICON_FRIGATE_PHASENANITE"
 minZoomDistanceMult 12.000000
@@ -116,7 +116,7 @@ NumSoundsFor:ONSELECTED 0
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "Frigate_PhaseAssaultNaniteSwarm"
+	meshName "Frigate_E4X_DefenseDrone"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
@@ -125,7 +125,7 @@ ExplosionName "Fighter0"
 HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
 HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_PHASECAPITALSHIP"
-ability:0 ""
+ability:0 "Ability_E4X_CyberLightSwarm"
 ability:1 ""
 ability:2 ""
 ability:3 ""

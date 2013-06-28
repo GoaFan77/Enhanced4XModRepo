@@ -204,7 +204,7 @@ planetUpgradeDef
 			cultureSpreadRateModifier 0.000000
 ringsChance 0.000000
 isColonizable TRUE
-planetTypeForResearch "Asteroid"
+planetTypeForResearch "Moon"
 skyboxScalarsCount 5
 skyboxScalars
 	diffuseScalar 1.000000
