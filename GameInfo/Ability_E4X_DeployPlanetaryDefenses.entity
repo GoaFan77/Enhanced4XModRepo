@@ -1,6 +1,6 @@
 ﻿TXT
 entityType "Ability"
-buffInstantActionType "ApplyTargettedBuffToSelf"
+buffInstantActionType "ApplyBuffToTarget"
 instantActionTriggerType "AlwaysPerform"
 buffType "Buff_E4X_PlanetaryDefensesBuildup"
 targetFilter

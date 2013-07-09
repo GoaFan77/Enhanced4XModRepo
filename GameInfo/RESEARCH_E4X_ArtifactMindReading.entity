@@ -29,11 +29,15 @@ onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
-researchFloatModifiers 1
+researchFloatModifiers 2
 researchModifier
 	modifierType "AllegianceFromCultureMaxPerc"
 	baseValue 0.000000
 	perLevelValue 0.100000
+researchModifier
+	modifierType "ChanceToConvertFrigatesHyperspacingFromPlanet"
+	baseValue 0.000000
+	perLevelValue 0.010000
 artifactPicture "Artifact_E4X_PictureMindReading"
 uniqueOverlayBrush ""
 dlcId 204880

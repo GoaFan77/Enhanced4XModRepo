@@ -33,7 +33,7 @@ researchFloatModifiers 2
 researchModifier
 	modifierType "ExperienceAwardedAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.250000
+	perLevelValue 0.350000
 	researchModifier
 modifierType "CapitalShipMaxTrainableLevel"
 	baseValue 0.000000

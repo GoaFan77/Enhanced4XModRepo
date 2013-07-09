@@ -29,13 +29,17 @@ onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
-researchFloatModifiers 2
+researchFloatModifiers 3
 researchModifier
 	modifierType "HyperspaceInSystemSpeedAdjustment"
 	baseValue 0.000000
 	perLevelValue 0.500000
 researchModifier
 	modifierType "HyperspaceChargeUpRateAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.330000
+researchModifier
+	modifierType "HyperspaceSpeedPhaseGateAdjustment"
 	baseValue 0.000000
 	perLevelValue 0.250000
 artifactPicture "Artifact_E4X_PictureHyperspaceSpeed"

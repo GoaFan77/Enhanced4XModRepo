@@ -9,8 +9,8 @@ canBomb FALSE
 typeCount 1
 frigateRoleType "Support"
 statCountType "FrigateSpawnedByAbility"
-mainViewIcon "MAINVIEWICON_FRIGATE_PHASENANITE"
-picture "FRIGATEPICTURE_PHASE_NANITE_SWARM"
+mainViewIcon "HUDICONSMALL_E4X_CyberRepairDrone"
+picture ""
 NameStringID "IDS_Frigate_E4X_CyberSupportSwarm_NAME"
 DescriptionStringID "IDS_Ability_E4X_SpawnPhaseAssaultMine_DESC"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_ANTIMODULE"
@@ -36,9 +36,9 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 2
 numSpecificDebris 0
 armorType "Heavy"
-hudIcon "HUDICON_E4X_CyberAntiFighterSwarm"
-smallHudIcon "MAINVIEWICON_FRIGATE_PHASENANITE"
-infoCardIcon "INFOCARDICON_FRIGATE_PHASENANITE"
+hudIcon "HUDICON_E4X_CyberRepairDrone"
+smallHudIcon "HUDICONSMALL_E4X_CyberRepairDrone"
+infoCardIcon "HUDICONSMALL_E4X_CyberRepairDrone"
 minZoomDistanceMult 12.000000
 NumWeapons 1
 Weapon
@@ -115,7 +115,7 @@ NumSoundsFor:ONSELECTED 0
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "Frigate_E4X_DefenseDrone"
+	meshName "E4X_CyberRepairDrone"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""

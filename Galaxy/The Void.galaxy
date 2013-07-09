@@ -7,7 +7,7 @@ browseDescription "IDS_CUSTOMGALAXY_DESCRIPTION_THEVOID"
 isFirstCapitalShipIsFlagship TRUE
 randomizeStartingPositions TRUE
 planetArtifactDensity 0.35
-planetBonusDensity 0.7
+planetBonusDensity 0.75
 normalStartHomePlanetUpgradeLevel:Population 1
 normalStartHomePlanetUpgradeLevel:CivilianModules 0
 normalStartHomePlanetUpgradeLevel:TacticalModules 0
@@ -461,7 +461,7 @@ template
 	group
 		condition
 			type "PlanetOwnerIsRaceQuickStart"
-			param "TechRebel"
+			param "TechLoyalist"
 		owner "PlanetOwner"
 		colonizeChance 0.000000
 		items 17

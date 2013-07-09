@@ -1,5 +1,17 @@
 TXT
-NumStrings 8172
+NumStrings 8176
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_ARTIFACT_TRADEINCOME_DESCRIPTION"
+	Value "An atomic scale scanning and reordering system, it allows all manner of products to be spatially compressed in order to make for more efficient transport through your empire's trade network. Also reduces the cost of logistics upgrades."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_ARTIFACT_SHIPBUILDTIMEREDUCTION_DESCRIPTION"
+	Value "Uncovered factory designs allow ships and modules to be constructed in a relativistically accelerated frame of reference, making them build at a quicker rate. These advanced factories also reduce the costs of Industry specialization on your planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_ARTIFACT_PLANETBOMBINGSHIELD_DESCRIPTION"
+	Value "A large planetary energy system that emits charged particles into the upper atmosphere, creating a partial barrier to orbital bombardment. Also reduces the cost of planetary infrustructure upgrades."
+StringInfo
+	ID "IDS_GAMEMESSAGE_RESEARCHNEEDPREREQUISITEONEPOINT"
+	Value "%d point of the research or artifact %s must be aquired first."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPHASE_NAME"
 	Value "Pressurized Occupation"
@@ -32,13 +44,13 @@ StringInfo
 	Value "Aquatic Occupation"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPHASE_DESCRIPTION"
-	Value "Allows colonization of Oceanic and Swamp planets."
+	Value "Allows colonization of Oceanic, Swamp and Rainforest planets."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPSI_NAME"
 	Value "Aquatic Evangelism"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPSI_DESCRIPTION"
-	Value "Allows colonization of Oceanic and Swamp planets."
+	Value "Allows colonization of Oceanic, Swamp and Rainforest planets."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_VOLCANICTECH_NAME"
 	Value "Thermal Exploitation"
@@ -281,7 +293,7 @@ StringInfo
         Value "Swamp Planet"
 StringInfo
         ID "IDS_PLANETTYPE_FOREST"
-        Value "Forest Planet"
+        Value "Rainforest Planet"
 StringInfo
         ID "IDS_PLANETTYPE_ICEGIANT"
         Value "Ice Giant Planet"
@@ -977,7 +989,7 @@ StringInfo
         Value "Advanced Neuro-Center"
 StringInfo
         ID "IDS_RESEARCH_E4X_ArtifactMindReading_DESC"
-        Value "An unknown experimental medical facility on this planet has developed a portable scanner that can read the minds of your populace, allowing dissidents to be quickly dealt with thus increasing maximum loyalty."
+        Value "An unknown experimental medical facility on this planet has developed a portable scanner that can read the minds of your populace, allowing dissidents to be quickly dealt with thus increasing maximum loyalty. Also gives a chance to take control of enemy ships when fleeing from your Empire."
 StringInfo
         ID "IDS_RESEARCH_E4X_ArtifactResourceIncome_NAME"
         Value "Separation Plant"

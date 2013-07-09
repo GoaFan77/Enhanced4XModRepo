@@ -7,7 +7,7 @@ browseDescription "In a huge globular cluster, each faction has managed to grab 
 isFirstCapitalShipIsFlagship TRUE
 randomizeStartingPositions TRUE
 planetArtifactDensity 0.35
-planetBonusDensity 0.7
+planetBonusDensity 0.75
 normalStartHomePlanetUpgradeLevel:Population 3
 normalStartHomePlanetUpgradeLevel:CivilianModules 1
 normalStartHomePlanetUpgradeLevel:TacticalModules 0

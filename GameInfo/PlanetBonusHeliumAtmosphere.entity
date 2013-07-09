@@ -1,7 +1,7 @@
 ﻿TXT
 entityType "PlanetBonus"
-minUpgradeLevelNeeded 0
-maxUpgradeLevelNeeded 0
+minUpgradeLevelNeeded -1
+maxUpgradeLevelNeeded -1
 nameStringID "IDS_PLANETBONUS_HELIUMATMOSPHERE_NAME"
 descStringID "IDS_PLANETBONUS_HELIUMATMOSPHERE_DESC"
 floatBonus:AdditiveCultureSpreadPerc 0.000000

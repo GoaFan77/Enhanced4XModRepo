@@ -111,7 +111,7 @@ isAsteroid FALSE
 healthRegenRate 6.000000
 planetUpgradeDef
 	path:Population
-		stageCount 4
+		stageCount 5
 		stage
 			price
 				credits 0.000000
@@ -146,6 +146,15 @@ planetUpgradeDef
 				crystal 175.000000
 			upgradeTime 75.000000
 			maxPopulation 190.000000
+			populationGrowthRate 0.125000
+			developmentTaxPenalty 0.000000
+		stage
+			price
+				credits 750.000000
+				metal 225.000000
+				crystal 225.000000
+			upgradeTime 90.000000
+			maxPopulation 240.000000
 			populationGrowthRate 0.125000
 			developmentTaxPenalty 0.000000
 	path:CivilianModules

@@ -28,9 +28,11 @@ Tier 0
 onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
-researchBoolModifiers 1
+researchBoolModifiers 2
 researchModifier
 	modifierType "AllowGalaxyTravel"
+researchModifier
+	modifierType "JumpBlockerImmune"
 researchFloatModifiers 2
 researchModifier
 	modifierType "HyperspaceBetweenSystemSpeedAdjustment"

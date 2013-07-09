@@ -380,7 +380,7 @@ planetUpgradeDef
 				crystal 225.000000
 			upgradeTime 90.000000
 			maxPopulation -90.000000
-			tradeIncomeModifier 060000
+			tradeIncomeModifier 0.60000
 			shipBuildRateModifier 0.60000
 			cultureSpreadRateModifier -0.703111
 ringsChance 0.050000

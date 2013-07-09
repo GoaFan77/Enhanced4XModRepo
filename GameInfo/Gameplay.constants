@@ -864,20 +864,34 @@ GameplayConstants
 			InternalVision -1.75
 			CeaseFire -1.5
 			PeaceTreaty -2.5
-		allyPactCountRelationshipChanges 6
+		allyPactCountRelationshipChanges 13
 			modifier 0.1
 			modifier 0.25
 			modifier 0.5
 			modifier 0.75
 			modifier 1.0
-			modifier 1.5
-		enemyPactCountRelationshipChanges 6
+			modifier 1.2
+			modifier 1.4
+			modifier 1.6
+			modifier 1.8
+			modifier 2.0
+			modifier 2.2
+			modifier 2.3
+			modifier 2.4
+		enemyPactCountRelationshipChanges 13
 			modifier 0.0
 			modifier -0.5
 			modifier -1.0
 			modifier -1.5
 			modifier -2.0
+			modifier -2.5
 			modifier -3.0
+			modifier -3.5
+			modifier -4.0
+			modifier -4.5
+			modifier -5.0
+			modifier -5.5
+			modifier -6.0
 		creditsGivenRelationshipRatio 0.001
 		metalGivenRelationshipRatio 0.0015
 		crystalGivenRelationshipRatio 0.002

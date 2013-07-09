@@ -29,7 +29,7 @@ onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
-researchFloatModifiers 2
+researchFloatModifiers 3
 researchModifier
 	modifierType "PopulationTaxRateAdjustment"
 	baseValue 0.000000
@@ -37,7 +37,12 @@ researchModifier
 researchModifier
 	modifierType "PopulationGrowthRateAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.400000
+	perLevelValue 0.600000
+researchModifier
+	modifierType "PlanetPopulationCapAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.250000
+	linkedPlanetType "Invalid"
 artifactPicture "Artifact_E4X_PictureOrganicAI"
 uniqueOverlayBrush ""
 dlcId 204880

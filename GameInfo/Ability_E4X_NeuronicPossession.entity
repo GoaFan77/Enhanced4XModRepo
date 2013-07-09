@@ -31,7 +31,7 @@ needsToFaceTarget TRUE
 canCollideWithTarget TRUE
 moveThruTarget FALSE
 isUltimateAbility TRUE
-maxNumLevels 3
+maxNumLevels 1
 levelSourceType "Intrinsic"
 minExperienceLevelRequired
 	Level:0 5.000000

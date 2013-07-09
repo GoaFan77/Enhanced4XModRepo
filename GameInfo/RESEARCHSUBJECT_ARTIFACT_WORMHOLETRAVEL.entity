@@ -31,11 +31,15 @@ priority 1.000000
 researchBoolModifiers 1
 researchModifier
 	modifierType "AllowWormHoleTravel"
-researchFloatModifiers 1
+researchFloatModifiers 2
 researchModifier
 	modifierType "HyperspaceAntimatterCostAdjustment"
 	baseValue 0.000000
-	perLevelValue -0.500000
+	perLevelValue -0.750000
+researchModifier
+	modifierType "HyperspaceExitDistanceAdjustment"
+	baseValue 0.000000
+	perLevelValue -0.030000
 artifactPicture "Artifact_E4X_PictureWormHoleTravel"
 uniqueOverlayBrush ""
 dlcId 204880

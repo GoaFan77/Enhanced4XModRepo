@@ -43,7 +43,7 @@ NumSoundsFor:ONGENERALORDERISSUED 0
 NumSoundsFor:ONSELECTED 1
 SoundID "MINE_PHASEEXPLOSIVE_ONSELECTED"
 NumSoundsFor:ONSTARTPHASEJUMP 0
-maxHullPoints 25.000000
+maxHullPoints 190.000000
 hullPointRestoreRate 0.000000
 maxShieldPoints 0.000000
 shieldPointRestoreRate 0.000000

@@ -29,11 +29,15 @@ onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
-researchFloatModifiers 3
+researchFloatModifiers 4
 researchModifier
 	modifierType "ShieldPointsRegenAdjustment"
 	baseValue 0.000000
 	perLevelValue 0.333333
+researchModifier
+	modifierType "ShieldPointsRegenAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000
 researchModifier
 	modifierType "ShieldMaxMitigationAdjustment"
 	baseValue 0.000000

@@ -57,6 +57,7 @@ The opening track is by Jaja (http://www.ektoplazm.com/free-music/jaja-oum). I d
 Sinperium - For making the phase probe mesh and good feedback.
 ZombieRus5 - For getting channeling abilities to work correctly (after we ironed out a few bugs) and for his many hours of "experimental" modding that lead the rest of us realizing more things are possible than we thought.
 Axel Dude - For letting the community use his excellent planet textures even before he released a mod with them (his mod is now available here).
+Genocyber - For his great looking Repair Drone model!
 IskatuMesk - For his awesome library of sound effects released to the community, a few of which are included in this mod.
 Seleucia - For his thoughtful analysis and for allowing me to use some of his rebalanced abilities.
 Ue_Carbon - Intelligent Feedback and for letting us use his teamspeak.
@@ -65,9 +66,8 @@ SZ0 - For letting his meshes be used by the community.
 ---Mods---
 
 Maelstrom - Awesome new planet module meshes
-Infinite Space - Axel's new Awesome planet mod.
+Infinite Space - Axel's fantastic planet mod.
 Uzi's Sins Plus - Several planet textures and bonuses have been incorporated from it.
-Celestial Bodies - For an additional source of planet textures.
 Project Equilibrium - For an awesome set of fun balance changes.
 
 ---------------------------
@@ -344,3 +344,28 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Most planet related techs have been moved around and in some case brought down a few research teirs.
 		-Replaced one of the Advent loadscreen pictures with a better one by Axxo.
 		-Fixed an ice giant texture to not be rediculously reflective.
+		
+1.601	
+		-New model for the repair drone in the Cybernetic planet random encounter by Genocyber!
+		-TEC Colony frigates will now properly allow planetary weapons to be built on planets instead of itself.
+		-Reset Desert planet max population back to 240 (somehow got reverted to 190).
+		-Added the Rebellion 1.5 patch artifact buffs, with the following exceptions.
+			-Releativistic factories does not add +4 logistic slots, but build rate bonus increased to 40% and added a 25% discount to Industry specializations.
+			-Planetary shield artifact does not increase your bombing range by 45% but instead gives a 25% discount on infrustructure upgrades.
+			-Buffed Hidden Archive's research rate bonus to +25%
+			-Culture artifact keeps all its previous bonuses and now doubles the relationship reward from completing missions for other players.
+			-Trade artifact does not benefit refineries, but reduces the cost of logistics upgrades by 25%.
+			-Hidden Academy's experience bonus increased to 35%.
+			-Mind control artifact now gives a 1% chance to capture enemy frigates jumping from your planets.
+			-Shield artifact now also increases total shield points by 10%.
+		-All antifighter frigates now have the buffed range of 4400.
+		-Added the fix for the Void map.
+		-Increased the chance of each planet having an artifact from 0.35 to 0.4.
+		-Increased the ratio of planets to planet bonuses from 0.7 to 0.75.
+		-Psintegrat Ayana now correctly has only one level of her Neuronic Possession ability.
+		-All Envoy cruisers now correctly use 4 fleet supply like in Vanilla Rebellion.
+		-Fixed a deleted decimal point that caused fully upgraded industry Hydrocarbon planets to give 600000% bonus to trade instead of 60%.
+		-The planets named "Forest" in the Swamp/Forest planet type have been rename to "Rainforest".
+		-Added another level to Swamp/Rainforest planet Social research, and slightly adjusted its values at all levels.
+		-The Black Market planet bonus now has the additional effect of reducing planet allegiance by 5%.
+		-Vasari Explosive mines hit points buffed to be close to the other factions' mines.

@@ -29,15 +29,20 @@ onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
-researchFloatModifiers 2
+researchFloatModifiers 3
 researchModifier
 	modifierType "ShipBuildRateAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.300000
+	perLevelValue 0.400000
 researchModifier
 	modifierType "ModuleBuildRateAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.300000
+	perLevelValue 0.400000
+researchModifier
+	modifierType "PlanetUpgradeCostAdjustment"
+	baseValue 0.250000
+	perLevelValue 0.000000
+	linkedPlanetUpgradeType "Industry"
 artifactPicture "Artifact_E4X_PictureShipBuildTimeReduction"
 uniqueOverlayBrush ""
 dlcId 204880

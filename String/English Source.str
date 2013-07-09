@@ -1,5 +1,5 @@
 TXT
-NumStrings 7507
+NumStrings 7511
 StringInfo
 	ID "IDSPlayerAINameTech0"
 	Value "Nitheim Rebels"
@@ -3114,6 +3114,9 @@ StringInfo
 StringInfo
 	ID "IDSPlanetBonusValueAdditiveTradeIncomePerc"
 	Value "Trade Income"
+StringInfo
+	ID "IDSPlanetBonusValueMaxAllegiancePercBonus"
+	Value "Max Allegiance"
 StringInfo
 	ID "IDSPlanetBonusValueMetalIncomePerc"
 	Value "Metal Extraction Rate"
@@ -22521,3 +22524,12 @@ StringInfo
 StringInfo
 	ID "IDS_ONGAMEWIN"
 	Value "You are victorious.""
+StringInfo
+	ID "IDSGalaxyInfoWindowScenarioMissingDLC"
+	Value "This map requires the following DLC to play: %s."
+StringInfo
+	ID "IDS_DLC_NAME_228601"
+	Value "Forbidden Worlds"
+StringInfo
+	ID "IDSGalaxyInfoWindowSaveFileMissingDLC"
+	Value "This save file requires the following DLC to play: %s."

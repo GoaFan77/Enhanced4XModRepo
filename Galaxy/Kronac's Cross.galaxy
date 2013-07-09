@@ -7,7 +7,7 @@ browseDescription "IDS_CUSTOMGALAXY_DESCRIPTION_KRONACSCROSS"
 isFirstCapitalShipIsFlagship TRUE
 randomizeStartingPositions TRUE
 planetArtifactDensity 0.35
-planetBonusDensity 0.7
+planetBonusDensity 0.75
 normalStartHomePlanetUpgradeLevel:Population 3
 normalStartHomePlanetUpgradeLevel:CivilianModules 1
 normalStartHomePlanetUpgradeLevel:TacticalModules 0

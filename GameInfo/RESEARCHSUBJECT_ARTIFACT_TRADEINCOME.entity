@@ -29,11 +29,16 @@ onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
-researchFloatModifiers 1
+researchFloatModifiers 2
 researchModifier
 	modifierType "TradeGoodsValueAdjustment"
 	baseValue 0.000000
 	perLevelValue 0.250000
+researchModifier
+	modifierType "PlanetUpgradeCostAdjustment"
+	baseValue 0.250000
+	perLevelValue 0.000000
+	linkedPlanetUpgradeType "CivilianModules"
 artifactPicture "Artifact_E4X_PictureTradeIncome"
 uniqueOverlayBrush ""
 dlcId 204880

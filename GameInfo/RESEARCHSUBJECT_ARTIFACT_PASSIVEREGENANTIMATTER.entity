@@ -29,13 +29,17 @@ onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
-researchFloatModifiers 2
+researchFloatModifiers 3
 researchModifier
 	modifierType "AntimatterRegenAdjustment"
 	baseValue 0.000000
 	perLevelValue 0.150000
 researchModifier
 	modifierType "AntimatterCapacityAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.200000
+researchModifier
+	modifierType "CultureAntimatterRegenAmount"
 	baseValue 0.000000
 	perLevelValue 0.100000
 artifactPicture "Artifact_E4X_PicturePassiveRegenAntiMatter"
