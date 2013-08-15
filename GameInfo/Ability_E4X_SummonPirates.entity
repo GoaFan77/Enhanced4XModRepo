@@ -1,0 +1,60 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "SpawnShipsAtPlanet"
+instantActionTriggerType "AlwaysPerform"
+spawnShipsLevelCount 1
+spawnShips
+	minFleetPoints 90.000000
+	maxFleetPoints 150.000000
+	requiredShipCount 0
+	randomShipCount 5
+	randomShip
+		type "FrigatePirateScout"
+		weight 4
+	randomShip
+		type "FrigatePirateSiege"
+		weight 2
+	randomShip
+		type "FrigatePirateHeavy"
+		weight 5
+	randomShip
+		type "FrigatePirateAntiFighter"
+		weight 3
+	randomShip
+		type "FrigatePirateMedium"
+		weight 6
+spawnShipsArrivalDelayTime 7.000000
+spawnShipsHyperspaceSpawnType "PirateRaid"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Resources"
+resourceCost
+	credits 5000.000000
+	metal 0.000000
+	crystal 0.000000
+cooldownTime
+	Level:0 300.000000
+	Level:1 300.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_SummonPirates_NAME"
+descStringID "IDS_Ability_E4X_SummonPirates_DESC"
+hudIcon "HUDICON_RESEARCHSUBJECT_PIRATEMERCENARIES"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_PIRATEMERCENARIES"
+infoCardIcon ""

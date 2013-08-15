@@ -284,7 +284,6 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		
 1.5		-Added the new Capitalship and Titan upgrade system! After research the tier 5 tech, your factories can now enhance the abilities of your caps and titan, for a cost.
 		-Frigate factories can now heal ships and structures, but will stop construction on new frigates.
-		-The Hero unit system has been optimized for Rebellion. Heroes now require 50 fleet supply to summon, but each race now has a new tech in the Diplomacy Tree, "Heroic Valor", that gives +3 capitalships slots and +150 fleet supply so that your max fleet size is the same size.
 		-Integrated most of the Infinite Space mod planets into the existing planet system, with some changes.
 			-Swamp planets have been converted into a Swamp/Forest planet catagory, a tier 1 planet with 3 metal extractors.
 			-Cryo planets have been switched to tier 0, now have 4 crystal asteroids.
@@ -369,3 +368,12 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Added another level to Swamp/Rainforest planet Social research, and slightly adjusted its values at all levels.
 		-The Black Market planet bonus now has the additional effect of reducing planet allegiance by 5%.
 		-Vasari Explosive mines hit points buffed to be close to the other factions' mines.
+		
+1.x
+		-Pirate bases now have a captureable "Pirate Outpost" structure that allows any player to recruit pirate ships.
+		-Pirate bases while owned by pirates are now more resistant to planetary and Novalith bombardment and have a defending "Pirate Captian" hero unit.
+		-Scientist Vasul's Assimulation ability now correctly has a 4th level available (thanks 5th Horsemen).
+		-Reduced the average number of frigates the Orthodox Advent's Psychic possession ability captures.
+		-Stars now have a space mine limit of 30, instead of the Vanilla 500. :-o
+		-The physical size of all Corvettes have been reduced to 60% their original size.
+		

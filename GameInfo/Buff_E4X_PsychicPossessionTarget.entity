@@ -24,10 +24,10 @@ periodicAction
 	buffInstantActionType "ChangePlayerIndexToFirstSpawner"
 	instantActionTriggerType "OnChance"
 	buffApplyChance
-		Level:0 0.666666
-		Level:1 0.666666
-		Level:2 0.666666
-		Level:3 0.666666
+		Level:0 0.500000
+		Level:1 0.500000
+		Level:2 0.500000
+		Level:3 0.500000
 	isPermanent TRUE
 	failIfNotEnoughShipSlots FALSE
 	experiencePercentageToAward 0.500000

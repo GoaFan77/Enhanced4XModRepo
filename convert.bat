@@ -1,1 +1,1 @@
-for %%a in (*.entity) do ConvertData_Rebellion entity %%a %%a txt
+for %%a in (*.mesh) do ConvertData_Rebellion mesh %%a %%a txt

@@ -1,5 +1,23 @@
 TXT
-NumStrings 8176
+NumStrings 8182
+StringInfo
+        ID "IDS_CAPITALSHIP_E4X_PirateLeader_NAME"
+        Value "Pirate Captain"
+StringInfo
+        ID "IDS_CAPITALSHIP_E4X_PirateLeader_DESC"
+        Value "Leadarrr of the Pirate Scum, he guarrds their base and their booty!"
+StringInfo
+        ID "IDS_Ability_E4X_SummonPirates_NAME"
+        Value "Hire Pirate Band"
+StringInfo
+        ID "IDS_Ability_E4X_SummonPirates_DESC"
+        Value "Contacts a band of pirates to serve under your command, for a pile of cold hard credits of course."
+StringInfo
+        ID "IDS_PLANETMODULE_E4X_PirateCommandCenter_NAME"
+        Value "Pirate Outpost"
+StringInfo
+        ID "IDS_PLANETMODULE_E4X_PirateCommandCenter_DESC"
+        Value "A pirate base of operations, if captured its communication systems can be used to obtain help from the criminal underworld... for a price."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_TRADEINCOME_DESCRIPTION"
 	Value "An atomic scale scanning and reordering system, it allows all manner of products to be spatially compressed in order to make for more efficient transport through your empire's trade network. Also reduces the cost of logistics upgrades."
@@ -212,7 +230,7 @@ StringInfo
 	Value "TEC"
 StringInfo
 	ID "IDS_RACESELECTDIALOG_TECHLOYALIST_DESCRIPTION"
-	Value "Weary from the long decades of war, the Trader Emergency Colalition seeks security from the hardship of war. Convinced that the war is impossible to win, the TEC have constructed massive fortifications to wait out the political chaos as the factions split amongst themselves. Yet while not hopeful about the prospect, many TEC Leaders also hope a diplomatic solution may be possible among their enemies outcasts to end the war once and for all."
+	Value "Weary from the long decades of war, the Trader Emergency Colalition seeks security from the hardship of war. Convinced that the war is impossible to win, the TEC have constructed massive fortifications to wait out the political chaos as the factions split amongst themselves. Yet while not hopeful about the prospect, many TEC Leaders also dream a diplomatic solution may be possible among their enemies outcasts to end the war once and for all."
 StringInfo
 	ID "IDS_RACESELECTDIALOG_TECHREBEL_DESCRIPTION"
 	Value "The great war has also created deep feelings of hatred among the Trader population, feelings so strong that hundreds of systems and entire fleet units of the TEC defected to take a more aggressive position in the war. These Rebels evnetually organized into the Human Trader State (HTS), and vowed total annihalation on the xenos and witches that killed so many friends and family. Maximum firepower and deception are the only tools fitting for the job."
@@ -497,7 +515,7 @@ StringInfo
 	Value "Don't forget to explore your planets. Not only will you find artifacts and bonuses more often in E4X, but some artifacts can be used to activate powerful ancient superweapons you may find orbitting planets."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip01"
-	Value "Heroes are powerful units that are free to summon, but you can only have one of each at a time, require research, and will take longer to return each time you request one. Use the summon abilities at your homeworld's command center to find out which techs you need to get to use them."
+	Value "Heroes are powerful units that are free to summon, but you can only have one of each at a time, require research, and will take longer to return each time you request one. Techs required to build them are highlighted in yellow and have a star above them."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip02"
 	Value "Be careful how you build your civilian infrustructure in E4X. Research labs, trade ports and refineries all give extra bonuses or penalties, and work best on specific types of planets."

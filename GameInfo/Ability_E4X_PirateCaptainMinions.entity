@@ -1,0 +1,121 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "SpawnShipsAtPlanet"
+instantActionTriggerType "AlwaysPerform"
+spawnShipsLevelCount 3
+spawnShips
+	minFleetPoints 0.000000
+	maxFleetPoints 1000.000000
+	requiredShipCount 5
+	requiredShip
+		type "FrigatePirateScout"
+		minCount 2
+		maxCount 4
+	requiredShip
+		type "FrigatePirateSiege"
+		minCount 0
+		maxCount 1
+	requiredShip
+		type "FrigatePirateHeavy"
+		minCount 2
+		maxCount 3
+	requiredShip
+		type "FrigatePirateAntiFighter"
+		minCount 3
+		maxCount 4
+	requiredShip
+		type "FrigatePirateMedium"
+		minCount 3
+		maxCount 4
+	randomShipCount 0
+spawnShips
+	minFleetPoints 0.000000
+	maxFleetPoints 1000.000000
+	requiredShipCount 5
+	requiredShip
+		type "FrigatePirateScout"
+		minCount 3
+		maxCount 5
+	requiredShip
+		type "FrigatePirateSiege"
+		minCount 0
+		maxCount 1
+	requiredShip
+		type "FrigatePirateHeavy"
+		minCount 2
+		maxCount 4
+	requiredShip
+		type "FrigatePirateAntiFighter"
+		minCount 3
+		maxCount 5
+	requiredShip
+		type "FrigatePirateMedium"
+		minCount 4
+		maxCount 5
+	randomShipCount 0
+spawnShips
+	minFleetPoints 0.000000
+	maxFleetPoints 1000.000000
+	requiredShipCount 5
+	requiredShip
+		type "FrigatePirateScout"
+		minCount 4
+		maxCount 5
+	requiredShip
+		type "FrigatePirateSiege"
+		minCount 1
+		maxCount 2
+	requiredShip
+		type "FrigatePirateHeavy"
+		minCount 4
+		maxCount 5
+	requiredShip
+		type "FrigatePirateAntiFighter"
+		minCount 4
+		maxCount 6
+	requiredShip
+		type "FrigatePirateMedium"
+		minCount 5
+		maxCount 6
+	randomShipCount 0
+spawnShipsArrivalDelayTime 10.000000
+spawnShipsHyperspaceSpawnType "FleetBeacon"	
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility TRUE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 0.000000
+	Level:1 4.000000
+	Level:2 9.000000
+	Level:3 9.000000
+aiUseTime "OnlyInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.900000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 50.000000
+	Level:1 50.000000
+	Level:2 50.000000
+	Level:3 50.000000
+cooldownTime
+	Level:0 300.000000
+	Level:1 300.000000
+	Level:2 300.000000
+	Level:3 300.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_SummonPirates_NAME"
+descStringID "IDS_Ability_E4X_SummonPirates_DESC"
+hudIcon "HUDICON_E4X_SummonRaiders"
+smallHudIcon "HUDICON_E4X_SummonRaiders"
+infoCardIcon ""

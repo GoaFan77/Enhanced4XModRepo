@@ -1105,7 +1105,7 @@ orbitBodyType
 	typeName "CyberFortress"
 	entityDefName "Planet_E4X_CyberFortress"
 	defaultTemplateName "Template:CyberFortress"	
-planetItemTypeCount 304
+planetItemTypeCount 307
 planetItemType
 	designName "Phase:Module:MineExplosive"
 	entityDefName "SpaceMinePhaseExplosive"
@@ -1547,6 +1547,9 @@ planetItemType
 planetItemType
 	designName "Pirate:Frigate:Medium"
 	entityDefName "FrigatePirateMedium"
+planetItemType
+	designName "Pirate:Capitalship:PirateLeader"
+	entityDefName "CAPITALSHIP_E4X_PirateLeader"
 planetItemType
 	designName "Pirate:Frigate:Scout"
 	entityDefName "FrigatePirateScout"
@@ -2004,6 +2007,9 @@ planetItemType
 	designName "Pirate:Module:RepairPlatform"
 	entityDefName "PLANETMODULE_TECHORBITALREPAIRPLATFORM"
 planetItemType
+	designName "Pirate:Module:PirateCommandCenter"
+	entityDefName "PLANETMODULE_E4X_PirateCommandCenter"
+planetItemType
 	designName "Other:Flag:TECMilitia"
 	entityDefName "SpaceMine_E4X_TECMilitiaFlag"
 planetItemType
@@ -2012,6 +2018,9 @@ planetItemType
 planetItemType
 	designName "Other:Flag:KillPlanet"
 	entityDefName "SpaceMine_E4X_KillPlanetFlag"
+planetItemType
+	designName "Other:Flag:Grant200XP"
+	entityDefName "SpaceMine_E4X_XP200"
 planetItemType
 	designName "Other:Flag:SpawnNeutralTradeStation"
 	entityDefName "Frigate_E4X_BioWeaponStructure"
@@ -3480,14 +3489,14 @@ planetItemsTemplate
 planetItemsTemplate
 	templateName "Template:PirateBase"
 	subTemplates 0
-	groups 1
+	groups 2
 		group
 			condition
 				type "Always"
 				param ""
 			owner "Pirate"
 			colonizeChance 1
-			items 82
+			items 84
 				item "Pirate:Frigate:Heavy"
 				item "Pirate:Frigate:Heavy"
 				item "Pirate:Frigate:Heavy"
@@ -3570,6 +3579,18 @@ planetItemsTemplate
 				item "Pirate:Module:RepairPlatform"
 				item "Pirate:Module:RepairPlatform"
 				item "Other:Module:NeutralTradePort"
+				item "Pirate:Module:PirateCommandCenter"
+				item "Pirate:Capitalship:PirateLeader"
+		group
+			condition
+				type "Always"
+				param ""
+			owner "RandomMilitia"
+			colonizeChance 0
+			items 3
+				item "Other:Flag:Grant200XP"
+				item "Other:Flag:Grant200XP"
+				item "Other:Flag:Grant200XP"
 planetItemsTemplate
 	templateName "Template:CyberFortress"
 	subTemplates 0
@@ -3746,7 +3767,7 @@ player
 	themeGroup "NPC"
 	themeIndex 0
 	pictureGroup "PlayerTech"
-	pictureIndex 0
+	pictureIndex 15
 player
 	designName "RandomEncounterPsi"
 	inGameName "IDS_E4X_PsiRandomEncounterPlayer"
@@ -3762,7 +3783,7 @@ player
 	themeGroup "NPC"
 	themeIndex 0
 	pictureGroup "PlayerPsi"
-	pictureIndex 0
+	pictureIndex 8
 player
 	designName "RandomEncounterPhase"
 	inGameName "IDS_E4X_PhaseRandomEncounterPlayer"
@@ -3778,7 +3799,7 @@ player
 	themeGroup "NPC"
 	themeIndex 0
 	pictureGroup "PlayerPhase"
-	pictureIndex 0
+	pictureIndex 5
 player
 	designName "Unknown"
 	inGameName "IDS_E4X_UnknownPlayer"

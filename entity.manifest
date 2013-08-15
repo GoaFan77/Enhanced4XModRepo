@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2480
+entityNameCount 2488
 entityName "BuffSuppressionChannelEnd.entity"
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
@@ -2480,3 +2480,11 @@ entityName "TITAN_PSILOYALIST2.entity"
 entityName "TITAN_PSIREBEL2.entity"
 entityName "TITAN_TECHLOYALIST2.entity"
 entityName "TITAN_TECHREBEL2.entity"
+entityName "Ability_E4X_PirateCaptainMinions.entity"
+entityName "Ability_E4X_PirateOutpost.entity"
+entityName "Ability_E4X_SummonPirates.entity"
+entityName "Buff_E4X_PirateOutpost.entity"
+entityName "Buff_E4X_PirateOutpostPlanet.entity"
+entityName "CAPITALSHIP_E4X_PirateLeader.entity"
+entityName "PLANETMODULE_E4X_PirateCommandCenter.entity"
+entityName "SpaceMine_E4X_XP200.entity"

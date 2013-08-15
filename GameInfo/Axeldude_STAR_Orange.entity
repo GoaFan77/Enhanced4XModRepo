@@ -48,7 +48,7 @@ moveAreaRadius 160000.000000
 hyperspaceExitRadius 140000.000000
 isWormhole FALSE
 maxStarBaseCountPerPlayer 4
-maxSpaceMineCountPerPlayer 500
+maxSpaceMineCountPerPlayer 30
 mainViewIcon "MAINVIEWICON_STAR_GREEN"
 picture ""
 MeshName "Axeldude_Star_Orange"
