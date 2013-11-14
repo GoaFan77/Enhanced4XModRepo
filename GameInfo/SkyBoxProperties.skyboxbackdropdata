@@ -13,6 +13,7 @@ properties
 	textureName "galaxyspiral2"
 	textureName "galaxyspiral3"
 	environmentMapName "skybox02environmentcube.dds"
+	environmentIlluminationMapName "skybox02irradiance.dds"
 properties
 	meshName "SkyboxBackdrop4"
 	diffuseLiteColor fffbefb5
@@ -26,6 +27,7 @@ properties
 	textureName "galaxyspiral_orange2"
 	textureName "galaxyspiral_orange"
 	environmentMapName "skybox03environmentcube.dds"
+	environmentIlluminationMapName "skybox06irradiance.dds"
 properties
 	meshName "SkyboxBackdrop5"
 	diffuseLiteColor fffff7e5
@@ -39,6 +41,7 @@ properties
 	textureName "galaxyspiral_red2"
 	textureName "galaxyspiral_red3"
 	environmentMapName "skybox05environmentcube.dds"
+	environmentIlluminationMapName "skybox05irradiance.dds"
 properties
 	meshName "SkyboxBackdrop6"
 	diffuseLiteColor ffededff
@@ -52,6 +55,7 @@ properties
 	textureName "galaxyspiral2"
 	textureName "galaxyspiral3"
 	environmentMapName "skybox06environmentcube.dds"
+	environmentIlluminationMapName "skybox06irradiance.dds"
 properties
 	meshName "SkyboxBackdrop7"
 	diffuseLiteColor ffd5f6f9
@@ -65,6 +69,7 @@ properties
 	textureName "galaxyspiral2"
 	textureName "galaxyspiral3"
 	environmentMapName "skybox07environmentcube.dds"
+	environmentIlluminationMapName "skybox07irradiance.dds"
 properties
 	meshName "SkyboxBackdrop8"
 	diffuseLiteColor ffded8ff
@@ -78,6 +83,7 @@ properties
 	textureName "galaxyspiral2"
 	textureName "galaxyspiral3"
 	environmentMapName "skybox08environmentcube.dds"
+	environmentIlluminationMapName "skybox08irradiance.dds"
 properties
 	meshName "Skybox_E4X_Backdrop2"
 	diffuseLiteColor ffdddadf
@@ -91,6 +97,7 @@ properties
 	textureName "galaxyspiral2"
 	textureName "galaxyspiral3"
 	environmentMapName "skybox02environmentcube.dds"
+	environmentIlluminationMapName "skybox02irradiance.dds"
 properties
 	meshName "Skybox_E4X_Backdrop3"
 	diffuseLiteColor ffab7f7f
@@ -104,6 +111,7 @@ properties
 	textureName "galaxyspiral_orange2"
 	textureName "galaxyspiral_orange"
 	environmentMapName "skybox03environmentcube.dds"
+	environmentIlluminationMapName "skybox06irradiance.dds"
 properties
 	meshName "Skybox_E4X_Backdrop4"
 	diffuseLiteColor ff9cb0c5
@@ -117,6 +125,7 @@ properties
 	textureName "galaxyspiral_red2"
 	textureName "galaxyspiral_red3"
 	environmentMapName "skybox_E4X_04environmentcube.dds"
+	environmentIlluminationMapName "skybox02irradiance.dds"
 properties
 	meshName "Skybox_E4X_Backdrop5"
 	diffuseLiteColor fffff7e5
@@ -130,6 +139,7 @@ properties
 	textureName "galaxyspiral_red2"
 	textureName "galaxyspiral_red3"
 	environmentMapName "skybox05environmentcube.dds"
+	environmentIlluminationMapName "skybox05irradiance.dds"
 properties
 	meshName "Skybox_E4X_Backdrop6"
 	diffuseLiteColor ffefeff5
@@ -143,6 +153,7 @@ properties
 	textureName "galaxyspiral2"
 	textureName "galaxyspiral3"
 	environmentMapName "skybox06environmentcube.dds"
+	environmentIlluminationMapName "skybox06irradiance.dds"
 properties
 	meshName "Skybox_E4X_Backdrop8"
 	diffuseLiteColor ff6c6070
@@ -156,3 +167,4 @@ properties
 	textureName "galaxyspiral2"
 	textureName "galaxyspiral3"
 	environmentMapName "skybox08environmentcube.dds"
+	environmentIlluminationMapName "skybox08irradiance.dds"

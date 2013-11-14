@@ -1,7 +1,7 @@
 ﻿TXT
 entityType "PlanetBonus"
-minUpgradeLevelNeeded 1
-maxUpgradeLevelNeeded 1
+minUpgradeLevelNeeded -1
+maxUpgradeLevelNeeded 0
 nameStringID "IDS_PLANETBONUS_CONDUCTIVEINTERIOR_NAME"
 descStringID "IDS_PLANETBONUS_CONDUCTIVEINTERIOR_DESC"
 floatBonus:AdditiveCultureSpreadPerc 0.250000

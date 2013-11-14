@@ -1,16 +1,16 @@
 ﻿TXT
 entityType "PlanetBonus"
 minUpgradeLevelNeeded 1
-maxUpgradeLevelNeeded 3
+maxUpgradeLevelNeeded 4
 nameStringID "IDS_PLANETBONUS_SPICETRADE_NAME"
 descStringID "IDS_PLANETBONUS_SPICETRADE_DESC"
-floatBonus:AdditiveCultureSpreadPerc 0.100000
+floatBonus:AdditiveCultureSpreadPerc 0.200000
 floatBonus:AdditivePopulation 0.000000
 floatBonus:AdditivePlanetHealth 0.000000
 floatBonus:AdditiveSlotsCivilian 0.000000
 floatBonus:AdditiveSlotsTactical 0.000000
 floatBonus:AdditiveTaxIncome 0.000000
-floatBonus:AdditiveTradeIncomePerc 0.100000
+floatBonus:AdditiveTradeIncomePerc 0.200000
 floatBonus:BombingDamageAsDamageTargetAdjustment 0.000000
 floatBonus:MaxAllegiancePercBonus 0.000000
 floatBonus:MetalIncomePerc 0.000000

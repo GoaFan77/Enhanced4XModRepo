@@ -1,6 +1,6 @@
 TXT
 onlyLoadOnDemand FALSE
-brushCount 117
+brushCount 118
 brush
 	name "HUDICON_PLANETBONUS_WEAPONSTESTGROUNDS"
 	content "Simple"
@@ -571,6 +571,11 @@ brush
 	content "Simple"
 	fileName "GalaxyModPlanetBonuses"
 	pixelBox [ 127 , 339 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_SpaceDebris"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 152 , 339 , 22 , 22 ]
 brush
 	name "Axeldude_PLANETBONUS_FIRSTSCAN"
 	content "Simple"

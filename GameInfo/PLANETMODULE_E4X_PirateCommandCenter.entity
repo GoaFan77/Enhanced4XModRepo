@@ -2,7 +2,7 @@
 entityType "PlanetModuleStandard"
 minZoomDistanceMult 2.000000
 ability:0 "Ability_E4X_SummonPirates"
-ability:1 ""
+ability:1 "Ability_E4X_SpawnHeroPirateCaptain"
 ability:2 ""
 ability:3 ""
 ability:4 "Ability_E4X_PirateOutpost"
@@ -12,9 +12,9 @@ numRandomDebrisLarge 4
 numRandomDebrisSmall 13
 numSpecificDebris 0
 armorType "Module"
-hudIcon "HUDICON_STARBASE_TECH"
+hudIcon "HUDICON_E4X_PirateCommandCenter"
 smallHudIcon "HUDICONSMALL_STARBASE_TECH"
-infoCardIcon "INFOCARDICON_STARBASE_TECH"
+infoCardIcon "HUDICONSMALL_STARBASE_TECH"
 planetUpgradeSlotType "Tactical"
 planetUpgradeSlotCount 0.000000
 basePrice
@@ -66,7 +66,7 @@ meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExplosionName "PlanetModuleSmall"
 mainViewIcon "MainViewIconStarBaseTech"
-picture ""
+picture "Picture_E4X_PirateCommandCenter"
 minShadow 0.000000
 maxShadow 0.600000
 formationRank 3

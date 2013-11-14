@@ -41,5 +41,5 @@ researchModifier
 	perLevelValue 0.150000
 	linkedWeaponClass "CHAOSBOLT"
 artifactPicture ""
-uniqueOverlayBrush "RebellionResearchOverlay"
+uniqueOverlayBrush "HeroResearchOverlay"
 dlcId 204880

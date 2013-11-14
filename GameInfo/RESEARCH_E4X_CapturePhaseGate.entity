@@ -1,0 +1,35 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_PLANETMODULEACCESS_PHASEGATE"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_PLANETMODULEACCESS_PHASEGATE"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_PLANETMODULEACCESS_PHASEGATE_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_PLANETMODULEACCESS_PHASEGATE_DESCRIPTION"
+researchWindowLocation
+	block 1
+	pos [ 7 , 2 ]
+ResearchField "NonCombat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 500.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 5000.000000
+	metal 1000.000000
+	crystal 1500.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 7
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "HeroResearchOverlay"
+dlcId 100000

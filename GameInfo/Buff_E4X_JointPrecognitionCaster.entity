@@ -6,7 +6,7 @@ stackingLimit 1
 allowFirstSpawnerToStack FALSE
 buffExclusivityForAIType "ExclusiveForAllPlayers"
 isInterruptable TRUE
-isChannelling TRUE
+isChannelling FALSE
 numInstantActions 0
 numPeriodicActions 1
 periodicAction

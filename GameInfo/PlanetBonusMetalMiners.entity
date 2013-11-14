@@ -1,7 +1,7 @@
 ﻿TXT
 entityType "PlanetBonus"
 minUpgradeLevelNeeded 1
-maxUpgradeLevelNeeded 4
+maxUpgradeLevelNeeded 3
 nameStringID "IDS_PLANETBONUS_METALMINERS_NAME"
 descStringID "IDS_PLANETBONUS_METALMINERS_DESC"
 floatBonus:AdditiveCultureSpreadPerc 0.000000

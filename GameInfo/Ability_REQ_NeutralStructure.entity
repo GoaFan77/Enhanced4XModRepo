@@ -2,7 +2,7 @@
 entityType "Ability"
 buffInstantActionType "ApplyBuffToSelf"
 instantActionTriggerType "AlwaysPerform"
-buffType "BuffNeutralCapturableEntity"
+buffType "Buff_E4X_NeutralCapturableEntity"
 effectInfo
 	effectAttachInfo
 		attachType "Invalid"

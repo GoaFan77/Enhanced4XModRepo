@@ -12,13 +12,13 @@ instantAction
 	instantActionTriggerType "OnDelay"
 	delayTime 0.000000
 	damage
-		Level:0 400.000000
-		Level:1 700.000000
-		Level:2 1000.000000
-		Level:3 1300.000000
-	damageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		Level:0 180.000000
+		Level:1 290.000000
+		Level:2 400.000000
+		Level:3 510.000000
+	damageAffectType "AFFECTS_ONLY_HULL"
 	damageType "PHYSICAL"
-	isDamageShared TRUE
+	isDamageShared FALSE
 instantAction
 	buffInstantActionType "PlayAttachedEffect"
 	instantActionTriggerType "OnDelay"
@@ -32,20 +32,13 @@ instantAction
 		soundID "EFFECT_GAUSSBLAST"
 numPeriodicActions 0
 numOverTimeActions 0
-numEntityModifiers 2
+numEntityModifiers 1
 entityModifier
 	buffEntityModifierType "LinearMaxSpeed"
 	value
 		Level:0 -1.000000
 		Level:1 -1.000000
 		Level:2 -1.000000
-		Level:3 -1.000000
-entityModifier
-	buffEntityModifierType "HullPointRestoration"
-	value
-		Level:0 -0.250000
-		Level:1 -0.500000
-		Level:2 -0.750000
 		Level:3 -1.000000
 numEntityBoolModifiers 0
 numFinishConditions 2

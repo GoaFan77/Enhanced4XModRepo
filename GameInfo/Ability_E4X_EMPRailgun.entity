@@ -6,12 +6,13 @@ buffType "Buff_E4X_EMPRailgun"
 targetFilter
 	numOwnerships 1
 	ownership "Enemy"
-	numObjects 5
+	numObjects 6
 	object "CapitalShip"
 	object "Frigate"
 	object "PlanetModule"
 	object "StarBase"
 	object "Titan"
+	object "Corvette"
 	numSpaces 1
 	space "Normal"
 	numConstraints 0
@@ -59,7 +60,7 @@ minExperienceLevelRequired
 	Level:2 8.000000
 	Level:3 8.000000
 aiUseTime "OnlyInCombat"
-aiUseTargetCondition "IsCapitalShipOrStarbase"
+aiUseTargetCondition "IsCapitalShipOrStarbaseOrTitan"
 isAutoCastAvailable TRUE
 isAutoCastOnByDefault TRUE
 pickRandomPlanetToExploreForAutoCastTarget FALSE

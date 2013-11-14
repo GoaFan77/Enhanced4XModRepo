@@ -50,8 +50,8 @@ orderAcknowledgementType "ONGENERALORDERISSUED"
 researchPrerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
-		Subject "RESEARCHSUBJECT_ARMORPSI1"
-		Level 2
+		Subject "RESEARCH_E4X_HeroTransPsiAccess"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 nameStringID "IDS_Ability_E4X_SpawnHeroTransPsi_NAME"

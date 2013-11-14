@@ -28,7 +28,7 @@ statCountType "ModuleUtility"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
-		Subject "RESEARCHSUBJECT_PLANETMODULEACCESS_PHASEGATE"
+		Subject "RESEARCH_E4X_CapturePhaseGate"
 		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0

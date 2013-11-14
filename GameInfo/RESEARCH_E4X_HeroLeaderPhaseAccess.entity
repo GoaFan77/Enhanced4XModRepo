@@ -1,0 +1,35 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_E4X_HeroLeaderPhase"
+smallHudIcon "HUDICON_E4X_HeroLeaderPhase"
+infoCardIcon ""
+NameStringID "IDS_Capitalship_E4X_HeroLeaderPhase_NAME"
+DescriptionStringID "IDS_Capitalship_E4X_HeroLeaderPhase_DESC"
+researchWindowLocation
+	block 0
+	pos [ 5 , 6 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 44
+MinimumArtifactLevel -1
+BaseUpgradeTime 0.000000
+PerLevelUpgradeTime 0.000000
+BaseCost
+	credits 00.000000
+	metal 0.000000
+	crystal 0.000000
+PerLevelCostIncrease
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+Tier 5
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "HeroResearchOverlay"
+dlcId 204880

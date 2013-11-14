@@ -432,7 +432,8 @@ skyboxScalars
 skyboxScalars
 	diffuseScalar 0.700000
 	ambientScalar 0.250000
-requiredPlanetBonusesCount 0
+requiredPlanetBonusesCount 1
+bonus "PlanetBonus_E4X_IndustrialPlanet"
 possibleRandomPlanetBonusesCount 0
 ambienceSoundID "EFFECT_PLANETAMBIENCE_LOOP"
 renderAsVolcanic FALSE

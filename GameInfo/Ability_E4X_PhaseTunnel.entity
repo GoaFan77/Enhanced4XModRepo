@@ -36,7 +36,7 @@ ignoreNonCombatShipsForAutoCastTarget TRUE
 onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
 useCostType "None"
 cooldownTime
-	Level:0 300.000000
+	Level:0 180.000000
 	Level:1 120.000000
 	Level:2 120.000000
 	Level:3 120.000000

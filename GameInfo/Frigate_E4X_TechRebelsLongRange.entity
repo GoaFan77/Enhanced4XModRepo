@@ -61,7 +61,7 @@ Weapon
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.150000
-	TravelSpeed 1000.000000
+	TravelSpeed 1300.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
@@ -85,7 +85,7 @@ Weapon
 			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
 		missileTravelEffectName "Weapon_Tech_MissileFrigate_Travel"
 		missileStartTurningDistance 250.000000
-		missileSlowTurnRate 0.708997
+		missileSlowTurnRate 1.208997
 		missileMaxSlowTurnTime 6.000000
 m_weaponIndexForRange 0
 firingAlignmentType "Default"

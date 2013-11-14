@@ -170,6 +170,7 @@ gameEventData
 	GameEventSound:BuyNoAvailableCapitalShipSlots "EVENTTECH_RESEARCHNEEDPREREQUISITE"
 	GameEventSound:BuyAlreadyHasTitan "UI_COMMON_DEFAULTERROR"
 	GameEventSound:CannonShellDetected "EVENTTECH_CANNONSHELLDETECTED"
+	GameEventSound:RandomEventDetected "Effect_RandomEventDetected"
 	GameEventSound:CannonUnderConstruction "UI_COMMON_CANNONBUILT"
 	GameEventSound:ColonizePlanetAlreadyOwned "UI_COMMON_DEFAULTERROR"
 	GameEventSound:ColonizePlanetNotColonizable "UI_COMMON_DEFAULTERROR"

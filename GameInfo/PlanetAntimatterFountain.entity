@@ -1,0 +1,197 @@
+﻿TXT
+entityType "Planet"
+meshInfoCount 1
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_ANTIMATTER_FOUNTAIN"
+	asteroidTemplate "Empty"
+	dustCloudTemplate "Empty"
+	meshName ""
+	cloudColor 0
+	nullMeshRadius 10000.000000
+	nullMeshParticleEffect "ParticleFountain_Particle"
+	hudIcon "MAINVIEWICON_PLANET_ANTIMATTER_FOUNTAIN"
+	smallHudIcon "HUDICONSMALL_PLANET_ANTIMATTER_FOUNTAIN"
+	infoCardIcon "HUDICONSMALL_PLANET_ANTIMATTER_FOUNTAIN"
+	mainViewIcon "MAINVIEWICON_PLANET_ANTIMATTER_FOUNTAIN"
+	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_ANTIMATTER_FOUNTAIN"
+	picture "PICTURE_PLANET_ANTIMATTER_FOUNTAIN"
+	shouldPrefer FALSE
+minZoomDistanceMult 3.200000
+glowColor 0
+ringColor 0
+cloudLayerTextureName ""
+planetResourceSetupInfo
+	asteroidSpawnAngleVariance 3.141593
+	totalMaxResourceAsteroids 3
+	metalResourceAsteroidSetup
+		minCount 0
+		maxCount 0
+		extractionRate 0.000000
+		refineryRate 0.000000
+		maxRefineryCount 0
+	crystalResourceAsteroidSetup
+		minCount 0
+		maxCount 0
+		extractionRate 0.000000
+		refineryRate 0.000000
+		maxRefineryCount 0
+	neutralMetalResourceAsteroidSetup
+		minCount 0
+		maxCount 0
+		extractionRate 0.000000
+		refineryRate 0.000000
+		maxRefineryCount 0
+	neutralCrystalResourceAsteroidSetup
+		minCount 3
+		maxCount 3
+		extractionRate 0.833333
+		refineryRate 0.080000
+		maxRefineryCount 4
+isAsteroid TRUE
+healthRegenRate 6.000000
+planetUpgradeDef
+	path:Population
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			populationGrowthRate 0.000000
+			developmentTaxPenalty 0.000000
+	path:CivilianModules
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxModuleSlotCount:Civilian 4.000000
+			maxModuleConstructorCount 0
+	path:TacticalModules
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxModuleSlotCount:Tactical 5.000000
+			maxModuleConstructorCount 1
+	path:Home
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			isHomePlanet FALSE
+			homePlanetTaxRateBonus 0.000000
+			homePlanetMetalIncomeBonus 0.000000
+			homePlanetCrystalIncomeBonus 0.000000
+	path:ArtifactLevel
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+	path:Infrastructure
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxHealth 1.000000
+	path:Social
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			populationGrowthRate 0.000000
+			tradeIncomeModifier 0.000000
+			shipBuildRateModifier 0.000000
+			cultureSpreadRateModifier 0.000000
+	path:Industry
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			tradeIncomeModifier 0.000000
+			shipBuildRateModifier 0.000000
+			cultureSpreadRateModifier 0.000000
+ringsChance 0.000000
+isColonizable TRUE
+planetTypeForResearch "Uncolonizable"
+skyboxScalarsCount 5
+skyboxScalars
+	diffuseScalar 1.000000
+	ambientScalar 1.000000
+skyboxScalars
+	diffuseScalar 1.000000
+	ambientScalar 1.000000
+skyboxScalars
+	diffuseScalar 1.000000
+	ambientScalar 1.000000
+skyboxScalars
+	diffuseScalar 1.000000
+	ambientScalar 1.000000
+skyboxScalars
+	diffuseScalar 1.000000
+	ambientScalar 1.000000
+requiredPlanetBonusesCount 0
+possibleRandomPlanetBonusesCount 12
+bonus "PlanetBonusAntimatterCores"
+bonus "PlanetBonusAntimatterCores"
+bonus "PlanetBonusAntimatterCores"
+bonus "PlanetBonusAntimatterCores"
+bonus "PlanetBonus_E4X_UncolRareCrystal"
+bonus "PlanetBonus_E4X_UncolRareCrystal"
+bonus "PlanetBonus_E4X_UncolTargetingInterference"
+bonus "PlanetBonus_E4X_UncolUnchartedNavigationRoute"
+bonus "PlanetBonus_E4X_UncolTargetingInterference"
+bonus "PlanetBonus_E4X_UncolUnchartedNavigationRoute"
+bonus "PlanetBonus_E4X_UncolTargetingInterference"
+bonus "PlanetBonus_E4X_UncolUnchartedNavigationRoute"
+ambienceSoundID ""
+renderAsVolcanic FALSE
+planetRuinDef
+	ruinPlanetType "PlanetDeadAsteroid"
+	attachType "Center"
+	effectName "StripToTheCore_Planet_Moon"
+	startTime 9.000000
+	soundID "EFFECT_STRIPPEDTOTHECORE"
+	creditsOnStrippedToTheCore 2000.000000
+	metalOnStrippedToTheCore 750.000000
+	crystalOnStrippedToTheCore 250.000000
+	extraScuttleTimeOnStrip 30.000000
+dlcId 255910
+ShieldMeshName "Shield_PlanetAsteroid"
+renderShield TRUE
+moveAreaRadius 35000.000000
+hyperspaceExitRadius 25000.000000
+isWormhole FALSE
+maxStarBaseCountPerPlayer 0
+maxSpaceMineCountPerPlayer 0
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 "AbilityAntimatterFountain"
+ability:4 ""

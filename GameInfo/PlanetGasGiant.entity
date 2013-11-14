@@ -82,7 +82,7 @@ ringColor ffffffff
 cloudLayerTextureName ""
 planetResourceSetupInfo
 	asteroidSpawnAngleVariance 3.141593
-	totalMaxResourceAsteroids 4
+	totalMaxResourceAsteroids 6
 	metalResourceAsteroidSetup
 		minCount 0
 		maxCount 0
@@ -96,16 +96,16 @@ planetResourceSetupInfo
 		refineryRate 0.000000
 		maxRefineryCount 0
 	neutralMetalResourceAsteroidSetup
-		minCount 0
-		maxCount 2
+		minCount 2
+		maxCount 3
 		extractionRate 0.533333
-		refineryRate 0.080000
+		refineryRate 0.160000
 		maxRefineryCount 4
 	neutralCrystalResourceAsteroidSetup
-		minCount 1
-		maxCount 2
+		minCount 2
+		maxCount 3
 		extractionRate 0.533333
-		refineryRate 0.080000
+		refineryRate 0.160000
 		maxRefineryCount 4
 isAsteroid FALSE
 healthRegenRate 6.000000
@@ -215,7 +215,18 @@ skyboxScalars
 	diffuseScalar 0.720000
 	ambientScalar 0.800000
 requiredPlanetBonusesCount 0
-possibleRandomPlanetBonusesCount 0
+possibleRandomPlanetBonusesCount 11
+bonus "PlanetBonusStableDebrisField"
+bonus "PlanetBonusAntimatterCores"
+bonus "PlanetBonusStableDebrisField"
+bonus "PlanetBonusAntimatterCores"
+bonus "PlanetBonusIntenseGravityField"
+bonus "PlanetBonus_E4X_UncolRareCrystal"
+bonus "PlanetBonus_E4X_UncolRareMetal"
+bonus "PlanetBonus_E4X_UncolTargetingInterference"
+bonus "PlanetBonus_E4X_UncolUnchartedNavigationRoute"
+bonus "PlanetBonus_E4X_UncolTargetingInterference"
+bonus "PlanetBonus_E4X_UncolUnchartedNavigationRoute"
 ambienceSoundID ""
 renderAsVolcanic FALSE
 planetRuinDef

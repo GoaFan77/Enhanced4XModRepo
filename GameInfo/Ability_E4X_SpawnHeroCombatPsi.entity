@@ -50,8 +50,8 @@ orderAcknowledgementType "ONGENERALORDERISSUED"
 researchPrerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
-		Subject "RESEARCHSUBJECT_ANTIMATTERPSI0"
-		Level 2
+		Subject "RESEARCH_E4X_HeroCombatPsiAccess"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 nameStringID "IDS_Ability_E4X_SpawnHeroCombatPsi_NAME"

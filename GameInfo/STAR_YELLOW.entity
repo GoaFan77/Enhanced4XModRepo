@@ -4,7 +4,7 @@ coronaStartColor ffffc600
 coronaEndColor fff74918
 coronaStartColorDistance 0.000000
 coronaEndColorDistance 1.000000
-farIcon "Axeldude_FarStar"
+farIcon "Axeldude_FarStar_Icon_Yellow"
 coloredSkyboxMeshInfoCount 9
 meshInfo
 	meshName "SkyboxBackdrop2"
@@ -41,21 +41,22 @@ meshInfo
 	meshName "Skybox_E4X_Backdrop4"
 	shouldPrefer TRUE
 iconTextureName "Axeldude_FarStar_Icon_Yellow"
+dlcID 204880
 ability:0 "AbilitySolarRegeneration"
 ability:1 "AbilitySolarFlares"
 ability:2 ""
 ability:3 ""
 ability:4 ""
-hudIcon "HUDICON_STAR_YELLOW"
-smallHudIcon "HUDICON_STAR_YELLOW"
-infoCardIcon "HUDICON_STAR_YELLOW"
+hudIcon "Axeldude_FarStar_Icon_Yellow"
+smallHudIcon "Axeldude_FarStar_Icon_Yellow"
+infoCardIcon "Axeldude_FarStar_Icon_Yellow"
 minZoomDistanceMult 2.000000
 moveAreaRadius 160000.000000
 hyperspaceExitRadius 140000.000000
 isWormhole FALSE
 maxStarBaseCountPerPlayer 4
 maxSpaceMineCountPerPlayer 30
-mainViewIcon "MAINVIEWICON_STAR_GREEN"
+mainViewIcon "Axeldude_MAINVIEWICON_STAR_YELLOW"
 picture ""
 MeshName "Star_Yellow"
 MaxMeshVisibilityDistanceToCamera -1.000000

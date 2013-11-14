@@ -7,7 +7,7 @@ browseDescription "IDS_CUSTOMGALAXY_DESCRIPTION_KABEL"
 isFirstCapitalShipIsFlagship TRUE
 randomizeStartingPositions TRUE
 planetArtifactDensity 0.35
-planetBonusDensity 0.75
+planetBonusDensity 0.8
 normalStartHomePlanetUpgradeLevel:Population 3
 normalStartHomePlanetUpgradeLevel:CivilianModules 1
 normalStartHomePlanetUpgradeLevel:TacticalModules 0
@@ -1831,6 +1831,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
@@ -1847,6 +1848,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
@@ -1863,6 +1865,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
@@ -1879,6 +1882,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
@@ -1895,6 +1899,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
@@ -1911,6 +1916,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
@@ -1927,6 +1933,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
@@ -1943,6 +1950,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
@@ -1959,6 +1967,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""
@@ -1975,6 +1984,7 @@ player
 	isRaidingPlayer FALSE
 	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
+	isMadVasariPlayer FALSE
 	themeGroup ""
 	themeIndex 0
 	pictureGroup ""

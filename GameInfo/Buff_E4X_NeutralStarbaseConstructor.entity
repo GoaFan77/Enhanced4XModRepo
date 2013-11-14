@@ -7,7 +7,13 @@ allowFirstSpawnerToStack FALSE
 buffExclusivityForAIType "ExclusiveForAllPlayers"
 isInterruptable FALSE
 isChannelling FALSE
-numInstantActions 0
+numInstantActions 1
+instantAction
+	buffInstantActionType "ChangePlayerIndexToFirstSpawner"
+	instantActionTriggerType "OnBuffFinish"
+	isPermanent TRUE
+	failIfNotEnoughShipSlots FALSE
+	experiencePercentageToAward 0.000000
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0

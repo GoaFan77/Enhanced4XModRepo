@@ -20,7 +20,7 @@ entities
 			entityDefName "PLANETMODULE_PSIORBITALCAPITALSHIPFACTORY"
 			entityDefName "PLANETMODULE_PSIORBITALNONCOMBATLABORATORY"
 		Page:1
-			count 7
+			count 8
 			entityDefName "PLANETMODULE_PSIORBITALBEAMDEFENSE"
 			entityDefName "PLANETMODULE_PSIORBITALHANGARDEFENSE"
 			entityDefName "PLANETMODULE_PSIORBITALREPAIRPLATFORM"
@@ -28,6 +28,7 @@ entities
 			entityDefName "PLANETMODULE_E4X_PsiRebelsOrbitalAntimatterRecharger"
 			entityDefName "PLANETMODULE_PSIORBITALCANNON"
 			entityDefName "PLANETMODULE_PSIREBELORBITALTITANFACTORY"
+			entityDefName "PLANETMODULE_E4X_CapturedPhaseGate"
 	titanInfo
 		Page:0
 			count 1
@@ -67,7 +68,11 @@ entities
 			entityDefName "FrigatePsiRefineryShip"
 			entityDefName "Frigate_E4X_PsiEnvoyAI"
 	researchInfo
-		count 160
+		count 164
+		entityDefName "RESEARCH_E4X_HeroTransPsiAccess"		
+		entityDefName "RESEARCH_E4X_HeroLeaderPsiAccess"
+		entityDefName "RESEARCH_E4X_HeroCombatPsiAccess"
+		entityDefName "RESEARCH_E4X_CapturePhaseGate"
 		entityDefName "RESEARCH_E4X_RacialBonusPsi"
 		entityDefName "RESEARCH_E4X_FactionBonusPsiRebels"
 		entityDefName "RESEARCH_E4X_HeroicValor"
@@ -332,6 +337,7 @@ gameEventData
 	GameEventSound:BuyNoAvailableCapitalShipSlots "EVENTPSI_RESEARCHNEEDPREREQUISITE"
 	GameEventSound:BuyAlreadyHasTitan "UI_COMMON_DEFAULTERROR"
 	GameEventSound:CannonShellDetected "EVENTPSI_CANNONSHELLDETECTED"
+	GameEventSound:RandomEventDetected "Effect_RandomEventDetected"
 	GameEventSound:CannonUnderConstruction "UI_COMMON_CANNONBUILT"
 	GameEventSound:ColonizePlanetAlreadyOwned "UI_COMMON_DEFAULTERROR"
 	GameEventSound:ColonizePlanetNotColonizable "UI_COMMON_DEFAULTERROR"
@@ -842,7 +848,7 @@ researchScreenData
 	Diplomacy
 		blockCount 1
 		block
-			area [ 50 , 93 , 690 , 280 ]
+			area [ 50 , 93 , 690 , 326 ]
 			backdrop "ResearchScreenBlockBackdropNonCombat0Psi"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorNonCombat0Psi"
 			title "IDSResearchScreenBlockTitleDiplomacy0Psi"

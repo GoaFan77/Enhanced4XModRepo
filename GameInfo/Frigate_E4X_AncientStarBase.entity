@@ -90,7 +90,7 @@ EngineSoundID "ENGINE_TECHCAPITALSHIP"
 ability:0 "Ability_E4X_DeployAncientStarBase"
 ability:1 ""
 ability:2 ""
-ability:3 ""
+ability:3 "Ability_E4X_AbandonStructure"
 ability:4 "Ability_E4X_NeutralStarBaseConstructor"
 MaxAntiMatter 0.000000
 AntiMatterRestoreRate 0.000000

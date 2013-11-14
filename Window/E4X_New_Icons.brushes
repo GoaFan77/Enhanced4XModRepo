@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 180
+brushCount 186
 brush
 	name "Planet_E4X_CyberFortressNormal"
 	content "Simple"
@@ -2052,6 +2052,78 @@ brush
 		fileName "E4X_Icons_Normal"
 		pixelBox [ 459 , 186 , 47 , 33 ]
 brush
+	name "HUDICON_E4X_PirateCommandCenter"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 408 , 149 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 408 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 408 , 149 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 149 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_PirateCaptain"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 459 , 149 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 459 , 149 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 459 , 149 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 149 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 149 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_PirateWrath"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 459 , 112 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 459 , 112 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 459 , 112 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 112 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 112 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_TakeNoPrisoners"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 459 , 75 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 459 , 75 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 459 , 75 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 75 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 75 , 47 , 33 ]
+brush
 	name "Picture_E4X_TechCommandCenter"
 	content "Simple"
 	fileName "E4X_Unit_Picture"
@@ -2076,6 +2148,16 @@ brush
 	content "Simple"
 	fileName "E4X_Unit_Picture"
 	pixelBox [ 169 , 77 , 167 , 75 ]
+brush
+	name "Picture_E4X_PirateCaptain"
+	content "Simple"
+	fileName "E4X_Unit_Picture"
+	pixelBox [ 337 , 77 , 167 , 75 ]
+brush
+	name "Picture_E4X_PirateCommandCenter"
+	content "Simple"
+	fileName "E4X_Unit_Picture"
+	pixelBox [ 1 , 153 , 167 , 75 ]
 brush
 	name "Artifact_E4X_PictureUnknown"
 	content "Simple"

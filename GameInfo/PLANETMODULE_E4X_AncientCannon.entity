@@ -4,7 +4,7 @@ minZoomDistanceMult 1.750000
 ability:0 "Ability_E4X_AncientCannon"
 ability:1 ""
 ability:2 ""
-ability:3 ""
+ability:3 "Ability_E4X_AbandonStructure"
 ability:4 "Ability_REQ_NeutralStructure"
 MaxAntiMatter 500.000000
 AntiMatterRestoreRate 0.400000

@@ -1,0 +1,210 @@
+﻿TXT
+entityType "Planet"
+meshInfoCount 2
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_SHATTERED_MOON"
+	asteroidTemplate "Shattered"
+	dustCloudTemplate "Empty"
+	meshName "brokenplanet"
+	cloudColor 0
+	nullMeshRadius 0.000000
+	nullMeshParticleEffect ""
+	hudIcon "MAINVIEWICON_PLANET_SHATTERED_MOON"
+	smallHudIcon "HUDICONSMALL_PLANET_SHATTERED_MOON"
+	infoCardIcon "INFOCARDICON_PLANET_SHATTERED_MOON"
+	mainViewIcon "MAINVIEWICON_PLANET_SHATTERED_MOON"
+	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_SHATTERED_MOON"
+	picture "PICTURE_PLANET_SHATTERED_MOON"
+	shouldPrefer FALSE
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_SHATTERED_MOON"
+	asteroidTemplate "Shattered"
+	dustCloudTemplate "Shattered"
+	meshName "brokenplanet"
+	cloudColor 0
+	nullMeshRadius 0.000000
+	nullMeshParticleEffect ""
+	hudIcon "MAINVIEWICON_PLANET_SHATTERED_MOON"
+	smallHudIcon "HUDICONSMALL_PLANET_SHIP_GRAVEYARD"
+	infoCardIcon "INFOCARDICON_PLANET_SHATTERED_MOON"
+	mainViewIcon "MAINVIEWICON_PLANET_SHATTERED_MOON"
+	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_SHATTERED_MOON"
+	picture "PICTURE_PLANET_SHATTERED_MOON"
+	shouldPrefer FALSE
+minZoomDistanceMult 3.200000
+glowColor 0
+ringColor 0
+cloudLayerTextureName ""
+planetResourceSetupInfo
+	asteroidSpawnAngleVariance 3.141593
+	totalMaxResourceAsteroids 4
+	metalResourceAsteroidSetup
+		minCount 0
+		maxCount 0
+		extractionRate 0.000000
+		refineryRate 0.000000
+		maxRefineryCount 0
+	crystalResourceAsteroidSetup
+		minCount 0
+		maxCount 0
+		extractionRate 0.000000
+		refineryRate 0.000000
+		maxRefineryCount 0
+	neutralMetalResourceAsteroidSetup
+		minCount 4
+		maxCount 4
+		extractionRate 0.533333
+		refineryRate 0.160000
+		maxRefineryCount 4
+	neutralCrystalResourceAsteroidSetup
+		minCount 0
+		maxCount 0
+		extractionRate 0.533333
+		refineryRate 0.160000
+		maxRefineryCount 4
+isAsteroid TRUE
+healthRegenRate 6.000000
+planetUpgradeDef
+	path:Population
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			populationGrowthRate 0.000000
+			developmentTaxPenalty 0.000000
+	path:CivilianModules
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxModuleSlotCount:Civilian 4.000000
+			maxModuleConstructorCount 0
+	path:TacticalModules
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxModuleSlotCount:Tactical 5.000000
+			maxModuleConstructorCount 1
+	path:Home
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			isHomePlanet FALSE
+			homePlanetTaxRateBonus 0.000000
+			homePlanetMetalIncomeBonus 0.000000
+			homePlanetCrystalIncomeBonus 0.000000
+	path:ArtifactLevel
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+	path:Infrastructure
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxHealth 1.000000
+	path:Social
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			populationGrowthRate 0.000000
+			tradeIncomeModifier 0.000000
+			shipBuildRateModifier 0.000000
+			cultureSpreadRateModifier 0.000000
+	path:Industry
+		stageCount 1
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			tradeIncomeModifier 0.000000
+			shipBuildRateModifier 0.000000
+			cultureSpreadRateModifier 0.000000
+ringsChance 0.000000
+isColonizable TRUE
+planetTypeForResearch "Uncolonizable"
+skyboxScalarsCount 5
+skyboxScalars
+	diffuseScalar 1.000000
+	ambientScalar 1.000000
+skyboxScalars
+	diffuseScalar 1.000000
+	ambientScalar 1.000000
+skyboxScalars
+	diffuseScalar 1.000000
+	ambientScalar 1.000000
+skyboxScalars
+	diffuseScalar 1.000000
+	ambientScalar 1.000000
+skyboxScalars
+	diffuseScalar 1.000000
+	ambientScalar 1.000000
+requiredPlanetBonusesCount 0
+possibleRandomPlanetBonusesCount 10
+bonus "PlanetBonusStableDebrisField"
+bonus "PlanetBonusStableDebrisField"
+bonus "PlanetBonusAntimatterCores"
+bonus "PlanetBonusStableDebrisField"
+bonus "PlanetBonusAntimatterCores"
+bonus "PlanetBonus_E4X_UncolRareMetal"
+bonus "PlanetBonus_E4X_UncolRareMetal"
+bonus "PlanetBonus_E4X_UncolTargetingInterference"
+bonus "PlanetBonus_E4X_UncolTargetingInterference"
+bonus "PlanetBonus_E4X_UncolUnchartedNavigationRoute"
+ambienceSoundID ""
+renderAsVolcanic FALSE
+planetRuinDef
+	ruinPlanetType "PlanetDeadAsteroid"
+	attachType "Center"
+	effectName "StripToTheCore_Planet_Moon"
+	startTime 9.000000
+	soundID "EFFECT_STRIPPEDTOTHECORE"
+	creditsOnStrippedToTheCore 2000.000000
+	metalOnStrippedToTheCore 750.000000
+	crystalOnStrippedToTheCore 250.000000
+	extraScuttleTimeOnStrip 30.000000
+dlcId 255910
+ShieldMeshName "Shield_PlanetAsteroid"
+renderShield TRUE
+moveAreaRadius 35000.000000
+hyperspaceExitRadius 25000.000000
+isWormhole FALSE
+maxStarBaseCountPerPlayer 1
+maxSpaceMineCountPerPlayer 150
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 "AbilityShatteredMoon"
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

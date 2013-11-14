@@ -1,4 +1,175 @@
 StringInfo
+	ID "IDS_PLANETMODULE_E4X_CapturedPhaseGate_NAME"
+	Value "Prototype Phase Stabilizer"
+StringInfo
+	ID "IDS_PLANETMODULE_E4X_CapturedPhaseGate_DESC"
+	Value "Creates a Phase Stabilizer Node which allows your empire's ships to travel directly between this planet and any other Phase Stabilizer in the star system. Requires Non-Vasari Phase Gate Minimod."
+StringInfo
+		ID "IDS_PlanetBonus_E4X_CyberPlanet_NAME"
+		Value "Automized Construction Protocols"
+StringInfo
+		ID "IDS_PlanetBonus_E4X_CyberPlanet_DESC"
+		Value "The massive drone construction facilities the rogue AI has built on this planet appear to be completely modular, allowing us to easily repurpose them for our war effort. Ship and Planet module cost and build times are dramatically reduced."
+StringInfo
+	ID "IDS_PLANETBONUS_SALVAGEROUTPOST_NAME"
+	Value "Salvager Outpost"
+StringInfo
+        ID "IDS_RESEARCH_E4X_CapturePhaseGate_NAME"
+        Value "Reverse Engineer Phase Gate"
+StringInfo
+        ID "IDS_RESEARCH_E4X_CapturePhaseGate_DESC"
+        Value "Funds a secret project to capture a Vasari Phase Gate and reverse engineer it, allowing you to construct prototype versions of these strucutures yourself. While the effort will be very expensive and time consuming, the ability to move forces between distant worlds should be worth the cost."
+StringInfo
+	ID "IDS_PLANETTYPE_GASGIANT"
+	Value "Uncolonizeable Gas Giant Planet"
+StringInfo
+        ID "IDS_CAPITALSHIP_E4X_PirateLeader_NAME"
+        Value "Pirate Captain"
+StringInfo
+        ID "IDS_CAPITALSHIP_E4X_PirateLeader_DESC"
+        Value "Leadarrr of the Pirate Scum, he guarrds their base and their booty, and leads his maties into battle!"
+StringInfo
+        ID "IDS_Ability_E4X_SummonPirates_NAME"
+        Value "Hire Pirate Band"
+StringInfo
+        ID "IDS_Ability_E4X_SummonPirates_DESC"
+        Value "Contacts a band of pirates to serve under your command, for a pile of cold hard credits of course."
+StringInfo
+        ID "IDS_Ability_E4X_PirateWrath_NAME"
+        Value "Pirate Wrath"
+StringInfo
+        ID "IDS_Ability_E4X_PirateWrath_DESC"
+        Value "Yarrr!!! We will take our enemy's credits from their cold dead hands and make them walk the airlock! Increases damage output and places bounty on enemies when your ships are attacked, but reduces passive regeneration."
+StringInfo
+        ID "IDS_PLANETMODULE_E4X_PirateCommandCenter_NAME"
+        Value "Pirate Outpost"
+StringInfo
+        ID "IDS_PLANETMODULE_E4X_PirateCommandCenter_DESC"
+        Value "A pirate base of operations, if captured its communication systems can be used to obtain help from the criminal underworld... for a price."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_ARTIFACT_TRADEINCOME_DESCRIPTION"
+	Value "An atomic scale scanning and reordering system, it allows all manner of products to be spatially compressed in order to make for more efficient transport through your empire's trade network. Also reduces the cost of logistics upgrades."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_ARTIFACT_SHIPBUILDTIMEREDUCTION_DESCRIPTION"
+	Value "Uncovered factory designs allow ships and modules to be constructed in a relativistically accelerated frame of reference, making them build at a quicker rate. These advanced factories also reduce the costs of Industry specialization on your planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_ARTIFACT_PLANETBOMBINGSHIELD_DESCRIPTION"
+	Value "A large planetary energy system that emits charged particles into the upper atmosphere, creating a partial barrier to orbital bombardment. Also reduces the cost of planetary infrustructure upgrades."
+StringInfo
+	ID "IDS_GAMEMESSAGE_RESEARCHNEEDPREREQUISITEONEPOINT"
+	Value "%d point of the research or artifact %s must be aquired first."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPHASE_NAME"
+	Value "Pressurized Occupation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPHASE_DESCRIPTION"
+	Value "Allows colonization of Greenhouse and Colonizeable Gas Giant planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPSI_NAME"
+	Value "Pressurized Evangelism"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPSI_DESCRIPTION"
+	Value "Allows colonization of Greenhouse and Colonizeable Gas Giant planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSETECH_NAME"
+	Value "Pressurized Exploitation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSETECH_DESCRIPTION"
+	Value "Allows colonization of Greenhouse and Colonizeable Gas Giant planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_ICETECH_DESCRIPTION"
+	Value "Allows colonization of Ice and Cryo Planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_ICEPSI_DESCRIPTION"
+	Value "Allows colonization of Ice and Cryo Planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_ICEPHASE_DESCRIPTION"
+	Value "Allows colonization of Ice and Cryo Planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPHASE_NAME"
+	Value "Aquatic Occupation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPHASE_DESCRIPTION"
+	Value "Allows colonization of Oceanic, Swamp and Rainforest planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPSI_NAME"
+	Value "Aquatic Evangelism"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPSI_DESCRIPTION"
+	Value "Allows colonization of Oceanic, Swamp and Rainforest planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_VOLCANICTECH_NAME"
+	Value "Thermal Exploitation"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_VOLCANICTECH_DESCRIPTION"
+	Value "Allows colonization of Volcanic and Inhospitable Planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_VOLCANICPSI_NAME"
+	Value "Thermal Evangelism"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_VOLCANICPSI_DESCRIPTION"
+	Value "Allows colonization of Volcanic and Inhospitable Planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPBARRENPSI0_DESCRIPTION"
+	Value "Specialized atmospheric shields are added to colony structures, allowing for larger populations on Barren and Desolate planets under your empire's control."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPBARRENPSI1_DESCRIPTION"
+	Value "By expanding cities under the surface, even larger populations on Barren and Desolate planets can be sustained."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPDESERTTECH0_DESCRIPTION"
+	Value "Adapting construction best practices to the dry and sandy climate increases the population cap on Desert and Hydrocarbon planets under your empire's control."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPDESERTPSI0_DESCRIPTION"
+	Value "Knowledge of your people's desert origins is rediscovered, inspiring many to flock to these types of planets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPDESERTPSI1_NAME"
+	Value "Thriving Arid Cities"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPDESERTPSI1_DESCRIPTION"
+	Value "Shared belief in the prophecy fosters communally built dwellings and water conservation, increasing the population cap on Desert and Hydrocarbon planets under your empire's control."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPICETECH0_DESCRIPTION"
+	Value "Improvements in the economies of scale of insulating construction materials leads to increases in the population cap on Ice and Cryo planets under your empire's control."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPICEPHASE0_DESCRIPTION"
+	Value "Genetic mutation to promote subdermal fat and other insulating traits is imposed on all inhabitants of Ice and Cryo planets, increasing the population those planets can support."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPIRONPHASE0_DESCRIPTION"
+	Value "Inhabitants are genetically modified to slow their metabolisms to survive more easily in non-organic environements, increasing the population that Asteroid, Dwarf, and Ferrous planets can support."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPIRONPHASE1_NAME"
+	Value "Carbon Monoxide Respiration"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPIRONPHASE1_DESCRIPTION"
+	Value "Genetically modifies the respiratory systems of residents of Asteroid, Dwarf and Ferrous planets to exhale Carbon Monoxide instead of Carbon Dioxide, which reduces wasted oxygen and allows these planets to support higher populations."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANTECH0_DESCRIPTION"
+	Value "Shifts in urban planning philosophies favor dense urban metropolises, increasing the population cap on Terran and Industrial planets under your empire's control."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANTECH1_DESCRIPTION"
+	Value "Breakthroughs in sustainable housing allow for increases of the population cap on Terran and Industrial planets under your empire's control."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANPSI0_DESCRIPTION"
+	Value "The grace of the Unity sparks new breakthroughs in civic design, increasing the population cap on Terran and Industrial planets under your empire's control."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANPHASE0_NAME"
+	Value "Slave Ghettos"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANPHASE0_DESCRIPTION"
+	Value "Imported labor to support the garrisoned occupation forces are thrown into compressed slave camps, increases the population on Terran and Industrial planets under your empire's control."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPOCEANICTECH0_DESCRIPTION"
+	Value "New engineering techniques allow for the deployment of housing domes under the waters of Oceanic and Swamp planets under your empire's control."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPOCEANICTECH1_DESCRIPTION"
+	Value "By reinforcing the domes used in underwater construction, city sized areas can now be established, increasing the populations of Oceanic and Swamp planets under your empire's control."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPVOLCANICPHASE0_DESCRIPTION"
+	Value "Basic metabolic processes of all inhabitants are re-engineered to catalyze at the extreme temperatures on Volcanic and Inhospitable planets, increasing the population those planets can support."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPVOLCANICPHASE1_DESCRIPTION"
+	Value "Genetic alteration granting the ability to breathe normally toxic atmospheric gases is imposed on all inhabitants of Volcanic and Inhospitable planets, thus raising the population cap."
+StringInfo
         ID "IDS_Ability_E4X_DeployPlanetaryDefenses_NAME"
         Value "Construct Planetary Defenses"
 StringInfo
@@ -87,7 +258,7 @@ StringInfo
 	Value "TEC"
 StringInfo
 	ID "IDS_RACESELECTDIALOG_TECHLOYALIST_DESCRIPTION"
-	Value "Weary from the long decades of war, the Trader Emergency Colalition seeks security from the hardship of war. Convinced that the war is impossible to win, the TEC have constructed massive fortifications to wait out the political chaos as the factions split amongst themselves. Yet while not hopeful about the prospect, many TEC Leaders also hope a diplomatic solution may be possible among their enemies outcasts to end the war once and for all."
+	Value "Weary from the long decades of war, the Trader Emergency Colalition seeks security from the hardship of war. Convinced that the war is impossible to win, the TEC have constructed massive fortifications to wait out the political chaos as the factions split amongst themselves. Yet while not hopeful about the prospect, many TEC Leaders also dream a diplomatic solution may be possible among their enemies outcasts to end the war once and for all."
 StringInfo
 	ID "IDS_RACESELECTDIALOG_TECHREBEL_DESCRIPTION"
 	Value "The great war has also created deep feelings of hatred among the Trader population, feelings so strong that hundreds of systems and entire fleet units of the TEC defected to take a more aggressive position in the war. These Rebels evnetually organized into the Human Trader State (HTS), and vowed total annihalation on the xenos and witches that killed so many friends and family. Maximum firepower and deception are the only tools fitting for the job."
@@ -168,10 +339,10 @@ StringInfo
         Value "Swamp Planet"
 StringInfo
         ID "IDS_PLANETTYPE_FOREST"
-        Value "Forest Planet"
+        Value "Rainforest Planet"
 StringInfo
         ID "IDS_PLANETTYPE_ICEGIANT"
-        Value "Ice Giant Planet"
+        Value "Uncolonizeable Ice Giant Planet"
 StringInfo
         ID "IDS_RESEARCH_E4X_UnlockUpgrades_NAME"
         Value "Starship Modification"
@@ -372,7 +543,7 @@ StringInfo
 	Value "Don't forget to explore your planets. Not only will you find artifacts and bonuses more often in E4X, but some artifacts can be used to activate powerful ancient superweapons you may find orbitting planets."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip01"
-	Value "Heroes are powerful units that are free to summon, but you can only have one of each at a time, require research, and will take longer to return each time you request one. Use the summon abilities at your homeworld's command center to find out which techs you need to get to use them."
+	Value "Heroes are powerful units that are free to summon, but you can only have one of each at a time, require research, and will take longer to return each time you request one. Techs required to build them are highlighted in yellow and have a star above them."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip02"
 	Value "Be careful how you build your civilian infrustructure in E4X. Research labs, trade ports and refineries all give extra bonuses or penalties, and work best on specific types of planets."
@@ -804,7 +975,7 @@ StringInfo
         Value "Teaches your envoy cruisers how to incite worker rebellions on enemy planets, preventing any new orbital structures from being constructed."
 StringInfo
         ID "IDS_RESEARCH_E4X_ABILITYACCESS_UnityRevolt_DESC"
-        Value "Allows your envoy cruisers to establish unity proselytizers on enemy planets, whose fateful will pay taxes to your Empire instead."
+        Value "Allows your envoy cruisers to establish unity proselytizers on enemy planets, whose faithful will pay taxes to your Empire instead."
 StringInfo
         ID "IDS_Ability_E4X_AntimatterRegen_Name"
         Value "Antimatter Clustering"
@@ -864,7 +1035,7 @@ StringInfo
         Value "Advanced Neuro-Center"
 StringInfo
         ID "IDS_RESEARCH_E4X_ArtifactMindReading_DESC"
-        Value "An unknown experimental medical facility on this planet has developed a portable scanner that can read the minds of your populace, allowing dissidents to be quickly dealt with thus increasing maximum loyalty."
+        Value "An unknown experimental medical facility on this planet has developed a portable scanner that can read the minds of your populace, allowing dissidents to be quickly dealt with thus increasing maximum loyalty. Also gives a chance to take control of enemy ships when fleeing from your Empire."
 StringInfo
         ID "IDS_RESEARCH_E4X_ArtifactResourceIncome_NAME"
         Value "Separation Plant"
@@ -1188,7 +1359,7 @@ StringInfo
         Value "Advanced Manufacturing"
 StringInfo
         ID "IDS_ABILITY_REQ_INDUSTRIAL_DESC"
-        Value "The large manufacturing base on this planet allows most components to be produced locally, reducing the build times for all ship production."
+        Value "The large manufacturing base on this planet allows most components to be produced locally, reducing the cost and build times for all ship production."
 StringInfo
         ID "IDSGalaxyScenarioTypeExplicitIceVolcanic"
         Value "Random - Only Ice or Volcanic"

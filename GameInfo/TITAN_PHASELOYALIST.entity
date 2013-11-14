@@ -53,11 +53,11 @@ basePrice
 slotCount 150.000000
 BuildTime 450.000000
 MaxHullPoints
-	StartValue 4802.076660
-	ValueIncreasePerLevel 459.375000
+	StartValue 5042.180176
+	ValueIncreasePerLevel 436.406311
 MaxShieldPoints
-	StartValue 2567.447021
-	ValueIncreasePerLevel 532.875000
+	StartValue 2695.819092
+	ValueIncreasePerLevel 506.531250
 HullPointRestoreRate
 	StartValue 2.700000
 	ValueIncreasePerLevel 0.330000
@@ -160,7 +160,7 @@ Weapon
 	DamagePerBank:LEFT 35.000000
 	DamagePerBank:RIGHT 35.000000
 	Range 4500.000000
-	PreBuffCooldownTime 5.500000
+	PreBuffCooldownTime 5.000000
 	CanFireAtFighter TRUE
 	SynchronizedTargeting TRUE
 	PointStaggerDelay 0.250000

@@ -50,7 +50,7 @@ orderAcknowledgementType "ONGENERALORDERISSUED"
 researchPrerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
-		Subject "RESEARCHSUBJECT_HYPERSPACE_DETECTIONPSI1"
+		Subject "RESEARCH_E4X_HeroLeaderPsiAccess"
 		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0

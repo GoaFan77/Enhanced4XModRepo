@@ -1,5 +1,5 @@
 TXT
-NumStrings 7511
+NumStrings 7570
 StringInfo
 	ID "IDSPlayerAINameTech0"
 	Value "Nitheim Rebels"
@@ -2614,6 +2614,9 @@ StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_CULTURESPREADRATEFOROWNER"
 	Value "Culture spread rate"
 StringInfo
+	ID "IDS_INFOCARD_BUFFADJUSTMENT_ENEMYCULTURESPREAD"
+	Value "Enemy culture spread rate"
+StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_UNDERCONSTRUCTIONRATE"
 	Value "Module construction rate"
 StringInfo
@@ -4047,6 +4050,21 @@ StringInfo
 StringInfo
 	ID "IDS_GAMEMESSAGE_CANNONSHELLDETECTED"
 	Value "An experimental weapon activation from %s detected!"
+StringInfo
+	ID "IDS_GAMEMESSAGE_RANDOMEVENTDETECTED"
+	Value "A %s heading toward %s!"
+StringInfo
+	ID "IDS_GAMEMESSAGE_RANDOMEVENTDETECTEDALLLOCATIONSRANDOMPLAYER"
+	Value "A %s heading toward all worlds belonging to %s!"
+StringInfo
+	ID "IDS_GAMEMESSAGE_RANDOMEVENTDETECTEDCULTURAL"
+	Value "A %s is taking place in %s territory!"
+StringInfo
+	ID "IDS_GAMEMESSAGE_RANDOMEVENTDETECTEDPIRATETITAN"
+	Value "A mad Vasari titan is marauding the system!"
+StringInfo
+	ID "IDS_GAMEMESSAGE_RANDOMEVENTDETECTEDECONOMICUPTURNDOWNTURN"
+	Value "The galaxy is undergoing an %s!"
 StringInfo
 	ID "IDS_GAMEMESSAGE_CANNONUNDERCONSTRUCTION"
 	Value "An experimental weapon is being constructed at %s!"
@@ -7919,7 +7937,7 @@ StringInfo
 	Value "Starbase Mobilization"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STARBASE_MOBILIZATION_DESCRIPTION"
-	Value "Adds phase engines to the Orkulus starbase, giving it the ability to phase jump between planets with phase stabilizers. Jumping to a gravity well that already contains a starbase causes your other starbases to become disabled."
+	Value "Adds phase engines to the Orkulus starbase, giving it the ability to phase jump between planets with phase stabilizers. Only one owned starbase may be deployed to a friendly gravity well at a time."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STARBASEHULLTECH_NAME"
 	Value "Unbreachable Hull"
@@ -9163,6 +9181,12 @@ StringInfo
 	ID "IDS_ABILITY_PHASEORBITALCANNON_DESC"
 	Value "Launches a powerful pulse of energy at a hostile empire's planet. An energy shockwave disables and damages all ships and orbital structures upon impact and also briefly makes the targeted planet a Phase Stabilizer Node."
 StringInfo
+	ID "IDS_ABILITY_ANTIMATTER_FOUNTAIN_NAME"
+	Value "Antimatter Fountain"
+StringInfo
+	ID "IDS_ABILITY_ANTIMATTER_FOUNTAIN_DESCRIPTION"
+	Value "Some unknown force has ripped a tear through space time to create this particle fountain. While dangerous, ships may recharge their antimatter reserves here very rapidly."
+StringInfo
 	ID "IDS_ABILITY_ABILITYGUIDANCE_NAME"
 	Value "Guidance"
 StringInfo
@@ -9327,6 +9351,12 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_COLONIZEFRIGATE_DESCRIPTION"
 	Value "Sends supplies and personnel down to the surface of the planet to create a new outpost."
+StringInfo
+	ID "IDS_ABILITY_COMET_NAME"
+	Value "Comet"
+StringInfo
+	ID "IDS_ABILITY_COMET_DESCRIPTION"
+	Value "This icy body from the outer rim of the solar system is beautiful to behold, but the clouds of debris it spews forth slows travel."
 StringInfo
 	ID "IDS_ABILITY_CONVERTFIGHTERSTOMINES_NAME"
 	Value "Deploy Fighter Mines"
@@ -9704,7 +9734,7 @@ StringInfo
 	Value "Gauss Rail Gun"
 StringInfo
 	ID "IDS_ABILITY_GAUSSBLAST_DESCRIPTION"
-	Value "Fires a high velocity armor piercing slug at the target, which deals a high amount of physical damage and cripples its engine systems."
+	Value "Fires a high velocity shield piercing slug at the target, which deals a high amount of physical damage and cripples its engine systems."
 StringInfo
 	ID "IDS_ABILITY_GAUSSDEFENSEMISSILEBURST_NAME"
 	Value "Burst Rockets"
@@ -9783,6 +9813,12 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_HYPERSPACEDISRUPTION_DESCRIPTION"
 	Value "Inteferes with the phase drives of enemy ships within range, causing them to require additional time to charge for a phase jump."
+StringInfo
+	ID "IDS_ABILITY_ICE_FIELD_NAME"
+	Value "Ice Field"
+StringInfo
+	ID "IDS_ABILITY_ICE_FIELD_DESCRIPTION"
+	Value "This ice field has drifted in from the system's Oort Cloud, creating a minor hazard to navigation. Warring vessels must take caution, however, as the many particles reflect weapon damage."
 StringInfo
 	ID "IDS_ABILITY_ILLUSIONSELFCOPY_NAME"
 	Value "Deceptive Illusion"
@@ -10046,7 +10082,7 @@ StringInfo
 	Value "Shifts the target into phase space, making it invulnerable but also preventing it from attacking."
 StringInfo
 	ID "IDS_ABILITY_PHASESTARBASESAMEORBITBODYDEBUFF_NAME"
-	Value "Starbases beyond one are disabled"
+	Value "Starbase phase jump engines enabled"
 StringInfo
 	ID "IDS_ABILITY_PLANETCRIPPLE_NAME"
 	Value "Induce Apathy"
@@ -10137,6 +10173,12 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_RADIATION_DESCRIPTION"
 	Value "A small nuclear explosion contaminates the target with radiation, causing it and nearby units to receive damage over time."
+StringInfo
+	ID "IDS_ABILITY_RADIATION_STORM_NAME"
+	Value "Radiation Field"
+StringInfo
+	ID "IDS_ABILITY_RADIATION_STORM_DESCRIPTION"
+	Value "This area of space is saturated with deadly radiation, which saps antimatter and hinders passive regeneration. Strike craft are also kept from launching due to potential lethal exposure."
 StringInfo
 	ID "IDS_ABILITY_RAZEPLANET_NAME"
 	Value "Raze Planet"
@@ -10270,6 +10312,12 @@ StringInfo
 	ID "IDS_ABILITY_SETTLERS_DESCRIPTION"
 	Value "Engineers aboard the envoy assist in constructing higher capacity cities for the planet, increasing maximum population."
 StringInfo
+	ID "IDS_ABILITY_SHATTERED_MOON_NAME"
+	Value "Shattered Dwarf Planet"
+StringInfo
+	ID "IDS_ABILITY_SHATTERED_MOON_DESCRIPTION"
+	Value "Some force has recently shattered this dwarf planet, making it uninhabitable. The resulting debris field causes additional damage to ships and armor."
+StringInfo
 	ID "IDS_ABILITY_SHIELDPROJECTION_NAME"
 	Value "Shield Projection"
 StringInfo
@@ -10335,6 +10383,24 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_SOLARREGENERATION_DESCRIPTION"
 	Value "Grants capital ships and frigates within the star's gravity well increased antimatter regeneration and makes them harder to detect when jumping to their next destination."
+StringInfo
+	ID "IDS_ABILITY_STAR_BLACKHOLE_NAME"
+	Value "Black Hole"
+StringInfo
+	ID "IDS_ABILITY_STAR_BLACKHOLE_DESCRIPTION"
+	Value "Somehow a black hole has formed in this system without destroying the planets orbiting it. The intense gravity makes phase jumps more difficult and the stresses from the singularity damages nearby ships."
+StringInfo
+	ID "IDS_ABILITY_STAR_PULSAR_NAME"
+	Value "Pulsar"
+StringInfo
+	ID "IDS_ABILITY_STAR_PULSAR_DESCRIPTION"
+	Value "This is the rapidly spinning core of a dead star which unleashes crippling waves of radiation. Ships around the Pulsar suffer more damage and targeting systems are jammed."
+StringInfo
+	ID "IDS_ABILITY_STAR_NEUTRON_NAME"
+	Value "Neutron Star"
+StringInfo
+	ID "IDS_ABILITY_STAR_NEUTRON_DESCRIPTION"
+	Value "This small stellar remnant contains incredible mass for its size. The high gravity impairs some ship abilities and destabilizes phase space around the star."
 StringInfo
 	ID "IDS_ABILITY_SOLARSTORM_NAME"
 	Value "Solar Storms"
@@ -11073,6 +11139,24 @@ StringInfo
 StringInfo
 	ID "IDS_PLANETTYPE_BARREN"
 	Value "Barren Planet"
+StringInfo
+	ID "IDS_PLANETTYPE_COMET"
+	Value "Comet"
+StringInfo
+	ID "IDS_PLANETTYPE_ANTIMATTER_FOUNTAIN"
+	Value "Antimatter Fountain"
+StringInfo
+	ID "IDS_PLANETTYPE_RADIATION_STORM"
+	Value "Radiation Storm"
+StringInfo
+	ID "IDS_PLANETTYPE_SHIP_GRAVEYARD"
+	Value "Ship Graveyard"
+StringInfo
+	ID "IDS_PLANETTYPE_SHATTERED_MOON"
+	Value "Shattered Moon"
+StringInfo
+	ID "IDS_PLANETTYPE_ICE_FIELD"
+	Value "Ice Field"
 StringInfo
 	ID "IDS_PLANETMODULE_TECHORBITALFRIGATEFACTORY_NAME"
 	Value "Frigate Factory"
@@ -18946,6 +19030,9 @@ StringInfo
 	ID "IDSMainMenuScreenDLCButton"
 	Value "New Content"
 StringInfo
+	ID "IDSMainMenuScreenSoundtrackDLC1Button"
+	Value "Soundtrack Available"
+StringInfo
 	ID "IDSSinglePlayerSetupScreenTitle"
 	Value "SINGLE PLAYER"
 StringInfo
@@ -20479,6 +20566,12 @@ StringInfo
 	ID "IDSGameOptionsUseQuickStartFalse"
 	Value "Normal Start"
 StringInfo
+	ID "IDSGameOptionsAreRandomEventsEnabledTrue"
+	Value "Random Events"
+StringInfo
+	ID "IDSGameOptionsAreRandomEventsEnabledFalse"
+	Value "No Random Events"
+StringInfo
 	ID "IDSGameOptionsVictorySpeedSlow"
 	Value "Slow Victory Speed"
 StringInfo
@@ -20707,6 +20800,9 @@ StringInfo
 	ID "IDSGalaxyScenarioTypeStarRandomNonGreen"
 	Value "Non Green Star"
 StringInfo
+	ID "IDSGalaxyScenarioTypeStarBlackHole"
+	Value "Black Hole"
+StringInfo
 	ID "IDSGalaxyScenarioTypeStarBlue"
 	Value "Blue Star"
 StringInfo
@@ -20718,6 +20814,12 @@ StringInfo
 StringInfo
 	ID "IDSGalaxyScenarioTypeStarGreen"
 	Value "Green Star"
+StringInfo
+	ID "IDSGalaxyScenarioTypeStarNeutron"
+	Value "Neutron Star"
+StringInfo
+	ID "IDSGalaxyScenarioTypeStarPulsar"
+	Value "Pulsar"
 StringInfo
 	ID "IDSGalaxyScenarioTypePlanetWeightedNonIce"
 	Value "Random - Non Ice"
@@ -20877,6 +20979,24 @@ StringInfo
 StringInfo
 	ID "IDSGalaxyScenarioTypePlanetPlasmaStorm"
 	Value "Plasma Storm"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetComet"
+	Value "Comet"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetIceField"
+	Value "Ice Field"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetAntimatterFountain"
+	Value "Antimatter Fountain"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetShatteredMoon"
+	Value "Shattered Moon"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetRadiationStorm"
+	Value "Radiation Storm"
+StringInfo
+	ID "IDSGalaxyScenarioTypePlanetShipGraveyard"
+	Value "Ship Graveyard"
 StringInfo
 	ID "IDSGalaxyScenarioTypePlanetPlasmaStormFair"
 	Value "Plasma Storm Fair"
@@ -21165,6 +21285,9 @@ StringInfo
 StringInfo
 	ID "IDSScenarioPlayerNameOccupation"
 	Value "Eta Sector Remnants"
+StringInfo
+	ID "IDSScenarioPlayerNameMadVasari"
+	Value "Mad Dark Fleet Remnants"
 StringInfo
 	ID "IDSScenarioPlayerNameMilitia0"
 	Value "Aluxian Refugees"
@@ -22339,6 +22462,12 @@ StringInfo
 	ID "IDS_GAMEOPTION_QUICKSTART_DESCRIPTION"
 	Value "Players will begin the game with a handful of frigates and planet modules at their Capital planet."
 StringInfo
+	ID "IDS_GAMEOPTION_RANDOMEVENTSENABLED_NAME"
+	Value "Random Events"
+StringInfo
+	ID "IDS_GAMEOPTION_RANDOMEVENTSENABLED_DESCRIPTION"
+	Value "Adds additional dangers and boons to the galaxy. Unexpected and devastating events can occur during gameplay."
+StringInfo
 	ID "IDS_GAMEOPTION_INCOMESPEED_NAME"
 	Value "Income Rate"
 StringInfo
@@ -22531,5 +22660,53 @@ StringInfo
 	ID "IDS_DLC_NAME_228601"
 	Value "Forbidden Worlds"
 StringInfo
+	ID "IDS_DLC_NAME_255910"
+	Value "Stellar Phenomena"
+StringInfo
 	ID "IDSGalaxyInfoWindowSaveFileMissingDLC"
 	Value "This save file requires the following DLC to play: %s."
+StringInfo
+	ID "IDS_RANDOMEVENT_CORONALMASSEJECTION_NAME"
+	Value "Coronal Mass Ejection"
+StringInfo
+	ID "IDS_RANDOMEVENT_CORONALMASSEJECTION_DESC"
+	Value "A highly energetic wave of particles ejected from the system's star. Weapons are disabled by the CME and planets affected must delay construction projects until it passes."
+StringInfo
+	ID "IDS_RANDOMEVENT_GAMMARAYBURST_NAME"
+	Value "Gamma Ray Burst"
+StringInfo
+	ID "IDS_RANDOMEVENT_GAMMARAYBURST_DESC"
+	Value "A deadly beam of intense radiation given off by a massive dying star. The beam damages shields and will destroy life on any planet it touches."
+StringInfo
+	ID "IDS_RANDOMEVENT_MAGNETICSTORM_NAME"
+	Value "Magnetic Storm"
+StringInfo
+	ID "IDS_RANDOMEVENT_MAGNETICSTORM_DESC"
+	Value "Strong magnetic radiation in this moving gaseous environment destabilizes all abilities."
+StringInfo
+	ID "IDS_RANDOMEVENT_PLASMASTORM_NAME"
+	Value "Plasma Storm"
+StringInfo
+	ID "IDS_RANDOMEVENT_PLASMASTORM_DESC"
+	Value "Violent fields of energy ebb and flow throughout this storm. Squadrons are grounded until more favorable conditions exist."
+StringInfo
+	ID "IDS_RANDOMEVENT_PIRATETITAN_NAME"
+	Value "Mad Dark Fleet Titan"
+StringInfo
+	ID "IDS_RANDOMEVENT_PARTISANS_NAME"
+	Value "Partisans"
+StringInfo
+	ID "IDS_RANDOMEVENT_ECONOMICDOWNTURN_NAME"
+	Value "Economic Downturn"
+StringInfo
+	ID "IDS_RANDOMEVENT_ECONOMICUPTURN_NAME"
+	Value "Economic Upturn"
+StringInfo
+	ID "IDS_RANDOMEVENT_CULTUREEXPLOSION_NAME"
+	Value "Cultural Explosion"
+StringInfo
+	ID "IDS_RANDOMEVENT_CULTUREIMPLOSION_NAME"
+	Value "Cultural Implosion"
+StringInfo
+	ID "IDS_RANDOMEVENT_OPENREBELLION_NAME"
+	Value "Open Rebellion"

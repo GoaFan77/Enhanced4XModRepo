@@ -4,7 +4,7 @@ minZoomDistanceMult 2.000000
 ability:0 ""
 ability:1 ""
 ability:2 ""
-ability:3 ""
+ability:3 "Ability_E4X_AbandonStructure"
 ability:4 "Ability_REQ_NeutralStructure"
 MaxAntiMatter 0.000000
 AntiMatterRestoreRate 0.000000

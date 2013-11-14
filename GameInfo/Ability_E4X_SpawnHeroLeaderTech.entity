@@ -50,8 +50,8 @@ orderAcknowledgementType "ONGENERALORDERISSUED"
 researchPrerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
-		Subject "RESEARCHSUBJECT_ARMORTECH3"
-		Level 2
+		Subject "RESEARCH_E4X_HeroLeaderTechAccess"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 nameStringID "IDS_Ability_E4X_SpawnHeroLeaderTech_NAME"

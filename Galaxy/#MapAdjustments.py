@@ -4,7 +4,7 @@
 import os, sys
 
 artifactChance = 0.350000
-bonusChance = 0.750000
+bonusChance = 0.800000
 
 def GetPath(): #gets the path of the current directory
   path = sys.argv[0]

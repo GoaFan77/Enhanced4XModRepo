@@ -21,7 +21,7 @@ entities
 			entityDefName "PLANETMODULE_TECHORBITALNONCOMBATLABORATORY"
 			entityDefName "PLANETMODULE_TECHORBITALREFINERY"
 		Page:1
-			count 8
+			count 9
 			entityDefName "PLANETMODULE_TECHORBITALGAUSSDEFENSE"
 			entityDefName "PLANETMODULE_TECHORBITALHANGARDEFENSE"
 			entityDefName "PLANETMODULE_TECHORBITALREPAIRPLATFORM"
@@ -30,6 +30,7 @@ entities
 			entityDefName "PLANETMODULE_TECHORBITALCANNON"
 			entityDefName "PLANETMODULE_TECHDEEPSPACEMINE"
 			entityDefName "PLANETMODULE_TECHREBELORBITALTITANFACTORY"
+			entityDefName "PLANETMODULE_E4X_CapturedPhaseGate"
 	titanInfo
 		Page:0
 			count 1
@@ -69,7 +70,11 @@ entities
 			entityDefName "FrigateTechRefineryShip"
 			entityDefName "Frigate_E4X_TechEnvoyAI"
 	researchInfo
-		count 164
+		count 168
+		entityDefName "RESEARCH_E4X_HeroLeaderTechAccess"
+		entityDefName "RESEARCH_E4X_HeroCommandTechAccess"
+		entityDefName "RESEARCH_E4X_HeroCombatTechAccess"
+		entityDefName "RESEARCH_E4X_CapturePhaseGate"
 		entityDefName "RESEARCH_E4X_RacialBonusTEC"
 		entityDefName "RESEARCH_E4X_FactionBonusTECRebels"
 		entityDefName "RESEARCH_E4X_HeroicValor"
@@ -333,6 +338,7 @@ gameEventData
 	GameEventSound:BuyNoAvailableCapitalShipSlots "EVENTTECH_RESEARCHNEEDPREREQUISITE"
 	GameEventSound:BuyAlreadyHasTitan "UI_COMMON_DEFAULTERROR"
 	GameEventSound:CannonShellDetected "EVENTTECH_CANNONSHELLDETECTED"
+	GameEventSound:RandomEventDetected "Effect_RandomEventDetected"
 	GameEventSound:CannonUnderConstruction "UI_COMMON_CANNONBUILT"
 	GameEventSound:ColonizePlanetAlreadyOwned "UI_COMMON_DEFAULTERROR"
 	GameEventSound:ColonizePlanetNotColonizable "UI_COMMON_DEFAULTERROR"
@@ -403,31 +409,31 @@ gameEventData
 	GameEventSound:PlayerQuestAdded ""
 	GameEventSound:PlayerQuestCompleted ""
 	GameEventSound:PlayerQuestFailed ""
-	GameEventSound:DiplomaticVictoryHalfway ""
-	GameEventSound:DiplomaticVictoryComplete ""
-	GameEventSound:AllyDiplomaticVictoryHalfway ""
-	GameEventSound:AllyDiplomaticVictoryComplete ""
-	GameEventSound:EnemyDiplomaticVictoryHalfway ""
-	GameEventSound:EnemyDiplomaticVictoryComplete ""
-	GameEventSound:OccupationVictoryStarted ""
-	GameEventSound:OccupationVictoryHalfway ""
-	GameEventSound:OccupationVictoryComplete ""
-	GameEventSound:AllyOccupationVictoryStarted ""
-	GameEventSound:AllyOccupationVictoryHalfway ""
-	GameEventSound:AllyOccupationVictoryComplete ""
-	GameEventSound:EnemyOccupationVictoryStarted ""
-	GameEventSound:EnemyOccupationVictoryHalfway ""
-	GameEventSound:EnemyOccupationVictoryComplete ""
+	GameEventSound:DiplomaticVictoryHalfway "EVENTTECH_DIPLOMATICVICTORYHALFWAY"
+	GameEventSound:DiplomaticVictoryComplete "EVENTTECH_DIPLOMATICVICTORYCOMPLETE"
+	GameEventSound:AllyDiplomaticVictoryHalfway "EVENTTECH_ALLYDIPLOMATICVICTORYHALFWAY"
+	GameEventSound:AllyDiplomaticVictoryComplete "EVENTTECH_ALLYDIPLOMATICVICTORYCOMPLETE"
+	GameEventSound:EnemyDiplomaticVictoryHalfway "EVENTTECH_ENEMYDIPLOMATICVICTORYHALFWAY"
+	GameEventSound:EnemyDiplomaticVictoryComplete "EVENTTECH_ENEMYDIPLOMATICVICTORYCOMPLETE"
+	GameEventSound:OccupationVictoryStarted "EVENTTECH_OCCUPATIONVICTORYSTARTED"
+	GameEventSound:OccupationVictoryHalfway "EVENTTECH_OCCUPATIONVICTORYHALFWAY"
+	GameEventSound:OccupationVictoryComplete "EVENTTECH_OCCUPATIONVICTORYCOMPLETE"
+	GameEventSound:AllyOccupationVictoryStarted "EVENTTECH_ALLYOCCUPATIONVICTORYSTARTED"
+	GameEventSound:AllyOccupationVictoryHalfway "EVENTTECH_ALLYOCCUPATIONVICTORYHALFWAY"
+	GameEventSound:AllyOccupationVictoryComplete "EVENTTECH_ALLYOCCUPATIONVICTORYCOMPLETE"
+	GameEventSound:EnemyOccupationVictoryStarted "EVENTTECH_ENEMYOCCUPATIONVICTORYSTARTED"
+	GameEventSound:EnemyOccupationVictoryHalfway "EVENTTECH_ENEMYOCCUPATIONVICTORYHALFWAY"
+	GameEventSound:EnemyOccupationVictoryComplete "EVENTTECH_ENEMYOCCUPATIONVICTORYCOMPLETE"
 	GameEventSound:ResearchVictoryStarted ""
-	GameEventSound:ResearchVictoryHalfway ""
-	GameEventSound:ResearchVictoryComplete ""
+	GameEventSound:ResearchVictoryHalfway "EVENTTECH_RESEARCHVICTORYHALFWAY"
+	GameEventSound:ResearchVictoryComplete "EVENTTECH_RESEARCHVICTORYCOMPLETE"
 	GameEventSound:ResearchComplete "EVENTTECH_RESEARCHCOMPLETE"
-	GameEventSound:AllyResearchVictoryStarted ""
-	GameEventSound:AllyResearchVictoryHalfway ""
-	GameEventSound:AllyResearchVictoryComplete ""
-	GameEventSound:EnemyResearchVictoryStarted ""
-	GameEventSound:EnemyResearchVictoryHalfway ""
-	GameEventSound:EnemyResearchVictoryComplete ""
+	GameEventSound:AllyResearchVictoryStarted "EVENTTECH_ALLYRESEARCHVICTORYSTARTED"
+	GameEventSound:AllyResearchVictoryHalfway "EVENTTECH_ALLYRESEARCHVICTORYHALFWAY"
+	GameEventSound:AllyResearchVictoryComplete "EVENTTECH_ALLYRESEARCHVICTORYCOMPLETE"
+	GameEventSound:EnemyResearchVictoryStarted "EVENTTECH_ENEMYRESEARCHVICTORYSTARTED"
+	GameEventSound:EnemyResearchVictoryHalfway "EVENTTECH_ENEMYRESEARCHVICTORYHALFWAY"
+	GameEventSound:EnemyResearchVictoryComplete "EVENTTECH_ENEMYRESEARCHVICTORYCOMPLETE"
 	GameEventSound:ResearchAlreadyMaxLevel "UI_COMMON_DEFAULTERROR"
 	GameEventSound:ResearchMaxLevelQueued "UI_COMMON_DEFAULTERROR"
 	GameEventSound:ResearchNotEnoughPointsInTier "UI_COMMON_DEFAULTERROR"
@@ -842,7 +848,7 @@ researchScreenData
 	Diplomacy
 		blockCount 1
 		block
-			area [ 50 , 93 , 690 , 280 ]
+			area [ 50 , 93 , 690 , 326 ]
 			backdrop "ResearchScreenBlockBackdropDefense0Tech"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorDefense0Tech"
 			title "IDSResearchScreenBlockTitleDiplomacy0Tech"

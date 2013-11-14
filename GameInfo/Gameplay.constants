@@ -443,8 +443,8 @@ GameplayConstants
 		minSupply 10000
 		maxSupply 10000
 		strengthPerOwnedPlanet .02
-		strengthPerCargoShip .0025
-		strengthPerBounty .00015
+		strengthPerCargoShip .003
+		strengthPerBounty .00085
 		firstWarningTime 900
 		normalWarningTime 780
 		minSendRaidTime 30
@@ -536,7 +536,7 @@ GameplayConstants
 				maxCount 6
 			randomShipCount 0
 		pirateRaidComposition:4
-			requiredShipCount 5
+			requiredShipCount 6
 			requiredShip
 				type "FrigatePirateScout"
 				minCount 18
@@ -557,6 +557,10 @@ GameplayConstants
 				type "FrigatePirateSiege"
 				minCount 8
 				maxCount 9
+			requiredShip
+				type "CAPITALSHIP_E4X_PirateLeader"
+				minCount 1
+				maxCount 1
 			randomShipCount 0
 		fleetStrengthLevel:Weak 0
 		fleetStrengthLevel:Moderate 1500

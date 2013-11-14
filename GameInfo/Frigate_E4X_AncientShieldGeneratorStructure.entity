@@ -89,7 +89,7 @@ EngineSoundID "E4X_AncientAmbience1"
 ability:0 "Ability_E4X_AncientShieldGeneratorPlanet"
 ability:1 "Ability_E4X_AncientShieldGeneratorShips"
 ability:2 ""
-ability:3 ""
+ability:3 "Ability_E4X_AbandonStructure"
 ability:4 "Ability_REQ_NeutralStructure"
 MaxAntiMatter 500.000000
 AntiMatterRestoreRate 0.400000

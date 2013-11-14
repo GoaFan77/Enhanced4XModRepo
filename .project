@@ -17,7 +17,7 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
-		<nature>com.zombiesrus5.plugin.sose.entityNature</nature>
 		<nature>org.python.pydev.pythonNature</nature>
+		<nature>com.zombiesrus5.plugin.sose.entityNature</nature>
 	</natures>
 </projectDescription>

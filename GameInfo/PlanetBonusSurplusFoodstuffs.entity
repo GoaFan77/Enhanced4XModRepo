@@ -1,7 +1,7 @@
 ﻿TXT
 entityType "PlanetBonus"
 minUpgradeLevelNeeded 1
-maxUpgradeLevelNeeded 1
+maxUpgradeLevelNeeded 2
 nameStringID "IDS_PLANETBONUS_SURPLUSFOODSTUFFS_NAME"
 descStringID "IDS_PLANETBONUS_SURPLUSFOODSTUFFS_DESC"
 floatBonus:AdditiveCultureSpreadPerc 0.000000

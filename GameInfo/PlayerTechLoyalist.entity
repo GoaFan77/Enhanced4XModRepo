@@ -21,7 +21,7 @@ entities
 			entityDefName "PLANETMODULE_TECHORBITALNONCOMBATLABORATORY"
 			entityDefName "PLANETMODULE_TECHORBITALREFINERY"
 		Page:1
-			count 8
+			count 9
 			entityDefName "PLANETMODULE_TECHORBITALGAUSSDEFENSE"
 			entityDefName "PLANETMODULE_TECHORBITALHANGARDEFENSE"
 			entityDefName "PLANETMODULE_TECHORBITALREPAIRPLATFORM"
@@ -30,6 +30,7 @@ entities
 			entityDefName "PLANETMODULE_TECHORBITALCANNON_LOYALIST"
 			entityDefName "PLANETMODULE_TECHDEEPSPACEMINE"
 			entityDefName "PLANETMODULE_TECHLOYALISTORBITALTITANFACTORY"
+			entityDefName "PLANETMODULE_E4X_CapturedPhaseGate"
 	titanInfo
 		Page:0
 			count 1
@@ -69,7 +70,11 @@ entities
 			entityDefName "FrigateTechRefineryShip"
 			entityDefName "Frigate_E4X_TechEnvoyAI"
 	researchInfo
-		count 167
+		count 171
+		entityDefName "RESEARCH_E4X_HeroLeaderTechAccess"
+		entityDefName "RESEARCH_E4X_HeroCommandTechAccess"
+		entityDefName "RESEARCH_E4X_HeroCombatTechAccess"
+		entityDefName "RESEARCH_E4X_CapturePhaseGate"
 		entityDefName "RESEARCH_E4X_RacialBonusTEC"
 		entityDefName "RESEARCH_E4X_FactionBonusTECLoyalists"
 		entityDefName "RESEARCH_E4X_HeroicValor"
@@ -337,6 +342,7 @@ gameEventData
 	GameEventSound:BuyNoAvailableCapitalShipSlots "EVENTTECH_RESEARCHNEEDPREREQUISITE"
 	GameEventSound:BuyAlreadyHasTitan "UI_COMMON_DEFAULTERROR"
 	GameEventSound:CannonShellDetected "EVENTTECH_CANNONSHELLDETECTED"
+	GameEventSound:RandomEventDetected "Effect_RandomEventDetected"
 	GameEventSound:CannonUnderConstruction "UI_COMMON_CANNONBUILT"
 	GameEventSound:ColonizePlanetAlreadyOwned "UI_COMMON_DEFAULTERROR"
 	GameEventSound:ColonizePlanetNotColonizable "UI_COMMON_DEFAULTERROR"
@@ -842,7 +848,7 @@ researchScreenData
 	Diplomacy
 		blockCount 1
 		block
-			area [ 50 , 93 , 690 , 280 ]
+			area [ 50 , 93 , 690 , 326 ]
 			backdrop "ResearchScreenBlockBackdropDefense0Tech"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorDefense0Tech"
 			title "IDSResearchScreenBlockTitleDiplomacy0Tech"

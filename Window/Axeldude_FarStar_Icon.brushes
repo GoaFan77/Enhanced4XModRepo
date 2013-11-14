@@ -1,8 +1,58 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 1
+brushCount 11
 brush
 	name "Axeldude_FarStar"
 	content "Simple"
 	fileName "Axeldude_FarStar_Icon"
 	pixelBox [ 1 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_FarStar_Icon_Blue"
+	content "Simple"
+	fileName "Axeldude_FarStar_Icon_Blue"
+	pixelBox [ 1 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_FarStar_Icon_Orange"
+	content "Simple"
+	fileName "Axeldude_FarStar_Icon_Orange"
+	pixelBox [ 1 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_FarStar_Icon_Red"
+	content "Simple"
+	fileName "Axeldude_FarStar_Icon_Red"
+	pixelBox [ 1 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_FarStar_Icon_White"
+	content "Simple"
+	fileName "Axeldude_FarStar_Icon_White"
+	pixelBox [ 1 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_FarStar_Icon_Yellow"
+	content "Simple"
+	fileName "Axeldude_FarStar_Icon_Yellow"
+	pixelBox [ 1 , 1 , 50 , 50 ]
+brush
+	name "Axeldude_MAINVIEWICON_STAR_BLUE"
+	content "Simple"
+	fileName "AxelDude_MAINVIEWICON_Stars"
+	pixelBox [ 1 , 1 , 104, 104 ]
+brush
+	name "Axeldude_MAINVIEWICON_STAR_YELLOW"
+	content "Simple"
+	fileName "AxelDude_MAINVIEWICON_Stars"
+	pixelBox [ 106 , 1 , 104, 104 ]
+brush
+	name "Axeldude_MAINVIEWICON_STAR_ORANGE"
+	content "Simple"
+	fileName "AxelDude_MAINVIEWICON_Stars"
+	pixelBox [ 210 , 1 , 104, 104 ]
+brush
+	name "Axeldude_MAINVIEWICON_STAR_RED"
+	content "Simple"
+	fileName "AxelDude_MAINVIEWICON_Stars"
+	pixelBox [ 315 , 1 , 104, 104 ]
+brush
+	name "Axeldude_MAINVIEWICON_STAR_WHITE"
+	content "Simple"
+	fileName "AxelDude_MAINVIEWICON_Stars"
+	pixelBox [ 406 , 1 , 104, 104 ]

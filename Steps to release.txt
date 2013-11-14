@@ -1,5 +1,6 @@
 Files to keep in txt
 	Ability_E4X_DarkColonyShip
+	Ability_E4X_PirateCaptainMinions
 	Ability_E4X_SummonAllies
 	Ability_E4X_SummonRaiders
 	Buff_E4X_SpawnHeroPlanet (For each hero)

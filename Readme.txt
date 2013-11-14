@@ -62,6 +62,7 @@ IskatuMesk - For his awesome library of sound effects released to the community,
 Seleucia - For his thoughtful analysis and for allowing me to use some of his rebalanced abilities.
 Ue_Carbon - Intelligent Feedback and for letting us use his teamspeak.
 SZ0 - For letting his meshes be used by the community.
+5th Horsemen - Very useful feedback.
 
 ---Mods---
 
@@ -369,11 +370,26 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-The Black Market planet bonus now has the additional effect of reducing planet allegiance by 5%.
 		-Vasari Explosive mines hit points buffed to be close to the other factions' mines.
 		
-1.x
-		-Pirate bases now have a captureable "Pirate Outpost" structure that allows any player to recruit pirate ships.
+1.7
+		-Pirate bases now have a captureable "Pirate Outpost" structure that allows any player to recruit pirate ships and the new Pirate Captain hero (1 per pirate base).
 		-Pirate bases while owned by pirates are now more resistant to planetary and Novalith bombardment and have a defending "Pirate Captian" hero unit.
-		-Scientist Vasul's Assimulation ability now correctly has a 4th level available (thanks 5th Horsemen).
+		-The most powerful pirate raids, whether they occur through bounty or player purchases, will now be lead by a Pirate Captain.
+		-Pirate's should respond with stronger raids to high bounty. It took many more credits than intended to get them to send strong raids before.
+		-Hero units are now unlocked by their own techs in the Diplomacy trees. They are free and instant research, but require a certain number of techs to unlock.
+		-New "Non-Vasari Phase Gate" minimod allows the TEC and Advent to reverse engineer and build phase gates, but are much harder to get than the Vasari version. It is compatible with all other Minimods.
+		-All new E4X techs, as well as Vanilla ones that recieved major changes, have an "E4X" overlay on them in the research tree.
+		-Industrial planets now have a new guarenteed planet bonus that reduces ship costs by 10%, in addition to faster ship build speed.
+		-The "secret" Cybernetic Planet has been buffed, with its guareented planet bonus/ability providing 33% cheaper ships and structures and 66% faster build speeds.
+		-Adjusted all Forbidden World planet bonuses and added them to E4X planet types. Some bonuses have had their values and effects tweaked.
+		-Player with the Forbidden Worlds DLC may now find the Trader Mining Colony random encounter on Ferrous Planets.
+		-Capitalships in Random Encounters and the Titan on the Occupation planet will have gained a few levels!
+		-It is now possible to "Abandon" neutral structures you capture, allowing players to get rid of ancient Superweapons they cannont use or give them to allies.
+		-Uncolonizeable gravity wells (including those from Stellar Phenomena DLC) can now have planet bonuses, including some new ones unique to them.
+		-Slightly upped the chance of getting a planet bonus due to all planets now having them.
+		-Scientist Vasul's Assimulation ability now correctly has a 4th level available (thanks 5th Horsemen & Chaosmaster).
+		-Matriarch Celestia should finally be more responsive to your orders! (Thanks 5th Horsemen)
+		-VIR Starbases will now properly only jump to planets with phase nodes active, instead of any planet like the good old days! (thanks Mike)
 		-Reduced the average number of frigates the Orthodox Advent's Psychic possession ability captures.
 		-Stars now have a space mine limit of 30, instead of the Vanilla 500. :-o
-		-The physical size of all Corvettes have been reduced to 60% their original size.
-		
+		-The physical size of all Corvettes have been reduced to 60% their original size. Stats unchanged.
+		-Hero Captain Aurelion's EMP Railgun ability can now target Corvettes and the autocast will now target titans.

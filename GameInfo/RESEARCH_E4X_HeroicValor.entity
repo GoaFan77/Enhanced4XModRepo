@@ -7,12 +7,12 @@ NameStringID "IDS_RESEARCH_E4X_HeroicValor_NAME"
 DescriptionStringID "IDS_RESEARCH_E4X_HeroicValor_DESC"
 researchWindowLocation
 	block 0
-	pos [ 7 , 5 ]
+	pos [ 7 , 6 ]
 ResearchField "Diplomacy"
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
-	RequiredCompletedResearchSubjects 0
+	RequiredCompletedResearchSubjects 50
 MinimumArtifactLevel -1
 BaseUpgradeTime 120.000000
 PerLevelUpgradeTime 10.000000
@@ -39,5 +39,5 @@ researchModifier
 	baseValue 0.000000
 	perLevelValue 150.000000
 artifactPicture ""
-uniqueOverlayBrush ""
+uniqueOverlayBrush "HeroResearchOverlay"
 dlcId 204880

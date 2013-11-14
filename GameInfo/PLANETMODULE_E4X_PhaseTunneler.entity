@@ -4,7 +4,7 @@ minZoomDistanceMult 1.750000
 ability:0 "Ability_E4X_PhaseTunnel"
 ability:1 "Ability_E4X_PhaseGateAncient"
 ability:2 ""
-ability:3 ""
+ability:3 "Ability_E4X_AbandonStructure"
 ability:4 "Ability_REQ_NeutralStructure"
 MaxAntiMatter 0.000000
 AntiMatterRestoreRate 0.000000

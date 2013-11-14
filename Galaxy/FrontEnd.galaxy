@@ -7,7 +7,7 @@ browseDescription ""
 isFirstCapitalShipIsFlagship FALSE
 randomizeStartingPositions TRUE
 planetArtifactDensity 0.35
-planetBonusDensity 0.75
+planetBonusDensity 0.8
 normalStartHomePlanetUpgradeLevel:Population 3
 normalStartHomePlanetUpgradeLevel:CivilianModules 1
 normalStartHomePlanetUpgradeLevel:TacticalModules 0
@@ -45,33 +45,44 @@ randomizerParams
 		extraPlanetGroupCount 0
 starCount 1
 	star
-		type "RandomStar"
+		type "RandomStandardStar"
 		radius 75
 		moveAreaRadius 60000.000000
 		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange .5
 		connectionChance .75
 		maxPlayerCount 0
-		ringCount 2
+		ringCount 3
 		ring
 			starRadiusRange
-				minPercentage 0.5
-				maxPercentage 0.9
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 1
-				maxCount 2
-				planetTypeCount 1
-				planetType "GasGiantFair"
-		ring
-			starRadiusRange
-				minPercentage 0.25
+				minPercentage 0.4
 				maxPercentage 0.7
 			militiaColonizationPerc 0
 			planetGroupCount 1
 			planetGroup
-				minCount 8
+				minCount 3
+				maxCount 3
+				planetTypeCount 1
+				planetType "GasGiantFair"
+		ring
+			starRadiusRange
+				minPercentage 0.4
+				maxPercentage 0.7
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 10
 				maxCount 10
 				planetTypeCount 1
-				planetType "RandomUncolonizableFair"								
+				planetType "RandomExtraFair"
+		ring
+			starRadiusRange
+				minPercentage 0.35
+				maxPercentage 0.6
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "TerranFair"

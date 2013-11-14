@@ -37,5 +37,5 @@ researchModifier
 	buffToApply "Buff_E4X_PlanetaryDefensesBuildup"
 researchFloatModifiers 0
 artifactPicture ""
-uniqueOverlayBrush "RebellionResearchOverlay"
+uniqueOverlayBrush "HeroResearchOverlay"
 dlcId 204880

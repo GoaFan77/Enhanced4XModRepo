@@ -73,7 +73,10 @@ entities
 			entityDefName "Frigate_E4X_PhaseEnvoyAI"
 			entityDefName "Frigate_E4X_PhaseAntiModuleSwarm"
 	researchInfo
-		count 166
+		count 169
+		entityDefName "RESEARCH_E4X_HeroScientistPhaseAccess"
+		entityDefName "RESEARCH_E4X_HeroCombatPhaseAccess"
+		entityDefName "RESEARCH_E4X_HeroLeaderPhaseAccess"
 		entityDefName "RESEARCH_E4X_RacialBonusPhase"
 		entityDefName "RESEARCH_E4X_FactionBonusPhaseLoyalists"
 		entityDefName "RESEARCH_E4X_HeroicValor"
@@ -342,6 +345,7 @@ gameEventData
 	GameEventSound:BuyNoAvailableCapitalShipSlots "EVENTPHASE_RESEARCHNEEDPREREQUISITE"
 	GameEventSound:BuyAlreadyHasTitan "UI_COMMON_DEFAULTERROR"
 	GameEventSound:CannonShellDetected "EVENTPHASE_CANNONSHELLDETECTED"
+	GameEventSound:RandomEventDetected "Effect_RandomEventDetected"
 	GameEventSound:CannonUnderConstruction "UI_COMMON_CANNONBUILT"
 	GameEventSound:ColonizePlanetAlreadyOwned "UI_COMMON_DEFAULTERROR"
 	GameEventSound:ColonizePlanetNotColonizable "UI_COMMON_DEFAULTERROR"
@@ -851,7 +855,7 @@ researchScreenData
 	Diplomacy
 		blockCount 1
 		block
-			area [ 50 , 93 , 690 , 280 ]
+			area [ 50 , 93 , 690 , 326 ]
 			backdrop "ResearchScreenBlockBackdropDefense0Phase"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorDefense0Phase"
 			title "IDSResearchScreenBlockTitleDiplomacy0Phase"

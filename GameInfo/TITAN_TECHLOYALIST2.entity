@@ -151,8 +151,8 @@ Weapon
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
 		WeaponClassType "FLAK"
-	DamagePerBank:FRONT 30.000000
-	DamagePerBank:BACK 30.000000
+	DamagePerBank:FRONT 45.000000
+	DamagePerBank:BACK 45.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
 	Range 4500.000000
@@ -244,7 +244,7 @@ Weapon
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.100000
-	TravelSpeed 1000.000000
+	TravelSpeed 1300.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
@@ -268,7 +268,7 @@ Weapon
 			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
 		missileTravelEffectName "Weapon_Tech_MissileCapShip_Travel"
 		missileStartTurningDistance 250.000000
-		missileSlowTurnRate 0.708997
+		missileSlowTurnRate 1.208997
 		missileMaxSlowTurnTime 6.000000
 m_weaponIndexForRange 0
 firingAlignmentType "Default"

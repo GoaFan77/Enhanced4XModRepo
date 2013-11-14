@@ -50,7 +50,7 @@ orderAcknowledgementType "ONGENERALORDERISSUED"
 researchPrerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
-		Subject "RESEARCHSUBJECT_ABILITYACCESS_SLOWPOPULATIONGROWTH"
+		Subject "RESEARCH_E4X_HeroCombatTechAccess"
 		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
