@@ -47,7 +47,7 @@ StringInfo
 	Value "Salvager Outpost"
 StringInfo
         ID "IDS_RESEARCH_E4X_CapturePhaseGate_NAME"
-        Value "Reverse Engineer Phase Gate"
+        Value "Capture Phase Gate"
 StringInfo
         ID "IDS_RESEARCH_E4X_CapturePhaseGate_DESC"
         Value "Funds a secret project to capture a Vasari Phase Gate and reverse engineer it, allowing you to construct prototype versions of these strucutures yourself. While the effort will be very expensive and time consuming, the ability to move forces between distant worlds should be worth the cost."

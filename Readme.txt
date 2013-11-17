@@ -393,3 +393,9 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Stars now have a space mine limit of 30, instead of the Vanilla 500. :-o
 		-The physical size of all Corvettes have been reduced to 60% their original size. Stats unchanged.
 		-Hero Captain Aurelion's EMP Railgun ability can now target Corvettes and the autocast will now target titans.
+		
+1.701	-Fixed some crash bugs introduced with the Rebellion 1.8 hotfix.
+		-Fixed some missing icons with Stellar Phenomenon DLC Stars and a few Random Events.
+		-New DLC stars should now have proper mine counts. No mines may be deployed at a black hole however (they'd get destroyed before they were active anyways).
+		-Vasari Central Command can once again research and build Phase Gates.
+		-Reduced the passive AoE damage of all mines from 30 DPS to 25.

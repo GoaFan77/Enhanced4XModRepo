@@ -3,6 +3,7 @@ Files to keep in txt
 	Ability_E4X_PirateCaptainMinions
 	Ability_E4X_SummonAllies
 	Ability_E4X_SummonRaiders
+	Ability_E4X_SummonPirates
 	Buff_E4X_SpawnHeroPlanet (For each hero)
 	Buff_E4X_RespawnTitanSpawn (for each titan)
 	

@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 87
+brushCount 92
 brush
 	name "HUDIconAllianceTypeTrade"
 	content "Simple"
@@ -87,6 +87,21 @@ brush
 	fileName "Axeldude_FarStar_Icon_Yellow"
 	pixelBox [ 1 , 1 , 52 , 52 ]
 brush
+	name "HUDICON_STAR_PULSAR"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 932 , 1113 , 69 , 69 ]
+brush
+	name "HUDICON_STAR_BLACK_HOLE"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 932 , 1036 , 69 , 69 ]
+brush
+	name "HUDICON_STAR_NEUTRON"
+	content "Simple"
+	fileName "Icons_planets"
+	pixelBox [ 827 , 1467 , 69 , 69 ]
+brush
 	name "HUDICONSMALL_STAR_YELLOW"
 	content "Simple"
 	fileName "Icons_planets"
@@ -124,6 +139,42 @@ brush
 	Normal
 		fileName "Unit_Hud_Normal"
 		pixelBox [ 447 , 224 , 47 , 33 ]
+brush
+	name "HUDIconCoronalMassEjection"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled"
+		pixelBox [ 250 , 5 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed"
+		pixelBox [ 250 , 5 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver"
+		pixelBox [ 250 , 5 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 250 , 5 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 250 , 5 , 47 , 33 ]
+brush
+	name "HUDIconGammaRayBurst"
+	content "States"
+	Disabled
+		fileName "Unit_Hud2_Disabled"
+		pixelBox [ 250 , 40 , 47 , 33 ]
+	Pressed
+		fileName "Unit_Hud2_Pressed"
+		pixelBox [ 250 , 40 , 47 , 33 ]
+	CursorOver
+		fileName "Unit_Hud2_CursorOver"
+		pixelBox [ 250 , 40 , 47 , 33 ]
+	Focused
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 250 , 40 , 47 , 33 ]
+	Normal
+		fileName "Unit_Hud2_Normal"
+		pixelBox [ 250 , 40 , 47 , 33 ]
 brush
 	name "HUDIconCannonShellPsi"
 	content "States"
