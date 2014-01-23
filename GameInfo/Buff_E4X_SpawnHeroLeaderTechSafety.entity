@@ -9,12 +9,10 @@ isInterruptable FALSE
 isChannelling FALSE
 numInstantActions 2
 instantAction
-	buffInstantActionType "ApplyBuffToLastSpawnerWithTravelNoFilterNoRange"
+	buffInstantActionType "ApplyBuffToLastSpawnerNoFilterNoRange"
 	instantActionTriggerType "OnDelay"
 	delayTime 20.000000
 	buffType "Buff_E4X_SpawnHeroSafetyRemove"
-	travelSpeed 900000.000000
-	hasWeaponEffects FALSE
 instantAction
 	buffInstantActionType "RemoveBuffOfType"
 	instantActionTriggerType "OnDelay"

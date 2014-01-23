@@ -25,11 +25,9 @@ instantAction
 	spawnShipsArrivalDelayTime 1.000000
 	spawnShipsHyperspaceSpawnType "FleetBeacon"
 instantAction
-	buffInstantActionType "ApplyBuffToLastSpawnerWithTravelNoFilterNoRange"
+	buffInstantActionType "ApplyBuffToLastSpawnerNoFilterNoRange"
 	instantActionTriggerType "OnBuffFinish"
 	buffType "Buff_E4X_HeroLeaderTechRemove"
-	travelSpeed 900000.000000
-	hasWeaponEffects FALSE
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0

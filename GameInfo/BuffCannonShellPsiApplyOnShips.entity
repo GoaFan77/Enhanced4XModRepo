@@ -10,7 +10,8 @@ isChannelling FALSE
 numInstantActions 2
 instantAction
 	buffInstantActionType "ApplyBuffToIncomingHyperspacers"
-	instantActionTriggerType "AlwaysPerform"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
 	buffType "BuffCannonShellPsiOnShips"
 	targetFilter
 		numOwnerships 1

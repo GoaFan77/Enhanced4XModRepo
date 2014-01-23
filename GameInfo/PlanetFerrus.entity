@@ -130,7 +130,7 @@ planetUpgradeDef
 				metal 175.000000
 				crystal 125.000000
 			upgradeTime 60.000000
-			maxPopulation 120.000000
+			maxPopulation 100.000000
 			populationGrowthRate 0.125000
 			developmentTaxPenalty 0.000000
 	path:CivilianModules

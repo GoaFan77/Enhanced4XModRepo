@@ -5,9 +5,26 @@ buffStackingLimitType "ForAllPlayers"
 stackingLimit 1
 allowFirstSpawnerToStack FALSE
 buffExclusivityForAIType "ExclusiveForAllPlayers"
-isInterruptable TRUE
-isChannelling TRUE
-numInstantActions 0
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "ApplyBuffToSelfWithFilter"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	buffType "BuffHyperspaceDisruptionReapply"
+	targetFilter
+		numOwnerships 1
+		ownership "Player"
+		numObjects 5
+		object "StarBase"
+		object "CapitalShip"
+		object "Frigate"
+		object "Titan"
+		object "Corvette"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
 numPeriodicActions 1
 periodicAction
 	actionCountType "Infinite"
@@ -48,4 +65,4 @@ numEntityModifiers 0
 numEntityBoolModifiers 0
 numFinishConditions 1
 finishCondition
-	finishConditionType "OwnerChanged"
+	finishConditionType "EnterHyperspace"

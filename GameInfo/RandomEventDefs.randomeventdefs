@@ -5,7 +5,40 @@ failedRespawnTimeMin 120.0
 failedRespawnTimeMax 300.0
 lowAllegianceCheckPeriod 600.0
 lowAllegianceThreshold 0.25
-randomEventDefCount 11
+randomEventDefCount 12
+	randomEventDef
+		id "PROPERTYBUBBLE"
+		nameID "IDS_RANDOMEVENT_E4X_PROPERTYBUBBLE_NAME"
+		warningID "IDS_GAMEMESSAGE_E4X_PROPERTYBUBBLE"
+		spawnType "BuffAtLocation"
+		spawnEntity "RandomEvent_E4X_PropertyBubbleBonus"
+		playerOwnerType "LocationOwner"
+		spawnLocation "RandomLocation"
+		excludedSpawnLocationCount 19
+			excludedSpawnLocation "OccupiedPlanet"
+			excludedSpawnLocation "PlanetAntimatterFountain"
+			excludedSpawnLocation "Planet_E4X_CyberFortress"
+			excludedSpawnLocation "PlanetAsteroidBelt"
+			excludedSpawnLocation "PlanetAsteroidBeltFair"
+			excludedSpawnLocation "PlanetAsteroidSpaceJunk"
+			excludedSpawnLocation "PlanetAsteroidSpaceJunkFair"
+			excludedSpawnLocation "PlanetComet"
+			excludedSpawnLocation "PlanetDeadAsteroid"
+			excludedSpawnLocation "PlanetGasGiant"
+			excludedSpawnLocation "PlanetGasGiantFair"
+			excludedSpawnLocation "PlanetIceField"
+			excludedSpawnLocation "PlanetPirateBase"
+			excludedSpawnLocation "PlanetPlasmaStorm"
+			excludedSpawnLocation "PlanetPlasmaStormFair"
+			excludedSpawnLocation "PlanetRadiationStorm"
+			excludedSpawnLocation "PlanetShatteredMoon"
+			excludedSpawnLocation "PlanetShipGraveyard"
+			excludedSpawnLocation "PlanetWormhole"
+		spawnRequirement "Timer"
+		respawnCount -1
+		nextSpawnTimeMin 120.0
+		nextSpawnTimeMax 600.0
+		spawnWeight 0.2
 	randomEventDef
 		id "CORONALMASSEJECTION"
 		nameID "IDS_RANDOMEVENT_CORONALMASSEJECTION_NAME"

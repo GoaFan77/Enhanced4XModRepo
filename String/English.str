@@ -1,5 +1,11 @@
 TXT
-NumStrings 8270
+NumStrings 8272
+StringInfo
+	ID "IDS_RANDOMEVENT_E4X_PROPERTYBUBBLE_NAME"
+	Value "Property Bubble"
+StringInfo
+	ID "IDS_GAMEMESSAGE_E4X_PROPERTYBUBBLE"
+	Value "A %s is occuring on %s!"
 StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_CHANCETOABSORBWITHSHIELDS"
 	Value "Chance to Bypass Shields"
@@ -317,7 +323,7 @@ StringInfo
 	Value "TEC"
 StringInfo
 	ID "IDS_RACESELECTDIALOG_TECHLOYALIST_DESCRIPTION"
-	Value "Weary from the long decades of war, the Trader Emergency Colalition seeks security from the hardship of war. Convinced that the war is impossible to win, the TEC have constructed massive fortifications to wait out the political chaos as the factions split amongst themselves. Yet while not hopeful about the prospect, many TEC Leaders also dream a diplomatic solution may be possible among their enemies outcasts to end the war once and for all."
+	Value "Weary from the long decades of war, the Trader Emergency Coalition seeks security from the hardship of war. Convinced that the war is impossible to win, the TEC have constructed massive fortifications to wait out the political chaos as the factions split amongst themselves. Yet while not hopeful about the prospect, many TEC Leaders also dream a diplomatic solution may be possible among their enemies outcasts to end the war once and for all."
 StringInfo
 	ID "IDS_RACESELECTDIALOG_TECHREBEL_DESCRIPTION"
 	Value "The great war has also created deep feelings of hatred among the Trader population, feelings so strong that hundreds of systems and entire fleet units of the TEC defected to take a more aggressive position in the war. These Rebels evnetually organized into the Human Trader State (HTS), and vowed total annihalation on the xenos and witches that killed so many friends and family. Maximum firepower and deception are the only tools fitting for the job."
@@ -848,7 +854,7 @@ StringInfo
         Value "Your faction is the Ascended Advent, a sect of the Advent who broke away after sensing a growing darkness from within the Unity. Now focusing more on transcending to a higher state within the Unity, the Ascended have much stronger special abilities. All of their ships can subtlety protect others for a brief time on being destroyed, and carry greater antimatter reserves. They can also build Domina Subjucators from the start of the game."
 StringInfo
         ID "IDS_RESEARCH_E4X_FactionBonusTECLoyals_NAME"
-        Value "Trader Emergency Colalition"
+        Value "Trader Emergency Coalition"
 StringInfo
         ID "IDS_RESEARCH_E4X_FactionBonusTECLoyals_DESC"
         Value "Your faction is the TEC, the remnants of the core coalition that formed over a quarter century ago. Faced with the hard reality of being unable to expel the invaders, they are determined to never let another Trader world fall. They can build both higher quantities and qualities of defenses, can upgraded planet defense capacities cheaper and faster, have more armor, and can deploy starbases faster and with the resupply capacities already included."

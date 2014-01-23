@@ -1,0 +1,47 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnBuffFinish"
+	buffType "RandomEvent_E4X_PropertyBubbleBust"
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 2
+entityModifier
+	buffEntityModifierType "PlanetUpgradeCost"
+	value
+		Level:0 -0.250000
+		Level:1 -0.250000
+		Level:2 -0.250000
+		Level:3 -0.250000
+entityModifier
+	buffEntityModifierType "PlanetUpgradeBuildRateAdjustment"
+	value
+		Level:0 1.000000
+		Level:1 1.000000
+		Level:2 1.000000
+		Level:3 1.000000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 300.000000
+		Level:1 300.000000
+		Level:2 300.000000
+		Level:3 300.000000

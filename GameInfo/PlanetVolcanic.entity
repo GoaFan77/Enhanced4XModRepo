@@ -36,7 +36,7 @@ meshInfo
 	asteroidTemplate "Wall"
 	dustCloudTemplate "Empty"
 	meshName "Planet_Volcanic_2"
-	cloudColor 77ed8b3b
+	cloudColor 00000000
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
 	hudIcon "Axeldude_PLANET_Volcanic_1"

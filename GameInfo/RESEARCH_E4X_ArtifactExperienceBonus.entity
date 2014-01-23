@@ -29,15 +29,23 @@ onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
-researchFloatModifiers 2
+researchFloatModifiers 4
 researchModifier
 	modifierType "ExperienceAwardedAdjustment"
 	baseValue 0.000000
 	perLevelValue 0.350000
-	researchModifier
-modifierType "CapitalShipMaxTrainableLevel"
+researchModifier
+	modifierType "CapitalShipMaxTrainableLevel"
 	baseValue 0.000000
 	perLevelValue 1.000000
+researchModifier
+	modifierType "CapitalShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 1.000000
+researchModifier
+	modifierType "ShipMaxSlots"
+	baseValue 0.000000
+	perLevelValue 50.000000
 artifactPicture "Artifact_E4X_PictureExperienceBonus"
 uniqueOverlayBrush ""
 dlcId 204880

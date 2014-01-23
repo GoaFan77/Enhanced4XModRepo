@@ -1,4 +1,34 @@
 StringInfo
+	ID "IDS_INFOCARD_BUFFADJUSTMENT_CHANCETOABSORBWITHSHIELDS"
+	Value "Chance to Bypass Shields"
+StringInfo
+		ID "IDS_PlanetBonus_E4X_UnchartedNavigationRoute_NAME"
+		Value "Uncharted Navigation Route"
+StringInfo
+		ID "IDS_PlanetBonus_E4X_UnchartedNavigationRoute_DESC"
+		Value "The chaotic asteroids and debris in this sector have prevented the creation of safe navigation charts, causing trade to avoid this sector and ships to take slightly more damge."
+StringInfo
+		ID "IDS_PlanetBonus_E4X_UncolRareCrystal_NAME"
+		Value "Rare Crystal Deposits"
+StringInfo
+		ID "IDS_PlanetBonus_E4X_UncolRareCrystal_DESC"
+		Value "The types of crystals found in the asteroids of this gravity well are unusually refined, increasing the efficency of refining operations and yield."
+StringInfo
+		ID "IDS_PlanetBonus_E4X_UncolRareMetal_NAME"
+		Value "M-Type Asteroid Cluster"
+StringInfo
+		ID "IDS_PlanetBonus_E4X_UncolRareMetal_DESC"
+		Value "This gravity well has an unusually high concentration of M-Type asteroids, making mining operations more productive."
+StringInfo
+		ID "IDS_PlanetBonus_E4X_UncolTargetingInterference_NAME"
+		Value "Sensor Static"
+StringInfo
+		ID "IDS_PlanetBonus_E4X_UncolTargetingInterference_DESC"
+		Value "Periodic bursts of strong electromagnetic radiation are occasionally picked up by sensors as additional targets, causing confusion in ship firing computers and lowering the effective damage all ships take in the gravity well."
+StringInfo
+		ID "IDSGalaxyScenarioTypeStarStandardStar"
+		Value "Random Main Sequence Star"
+StringInfo
 	ID "IDS_PLANETMODULE_E4X_CapturedPhaseGate_NAME"
 	Value "Prototype Phase Stabilizer"
 StringInfo

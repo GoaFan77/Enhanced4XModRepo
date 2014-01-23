@@ -399,3 +399,7 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-New DLC stars should now have proper mine counts. No mines may be deployed at a black hole however (they'd get destroyed before they were active anyways).
 		-Vasari Central Command can once again research and build Phase Gates.
 		-Reduced the passive AoE damage of all mines from 30 DPS to 25.
+		
+1.7x	-Added a new Random Event, the Property Bubble. It occurs on a single planet and reduces planet upgrade cost and build times, but after a time the bubble will collapse, reducing tax income for several minutes.
+		-The Hidden Academy Artifact now gives an extra command point and 50 fleet supply, in addition to its previous bonuses.
+		-Fixed a bug that caused the buttons in the fleet research window to be misaliegned with the background.
