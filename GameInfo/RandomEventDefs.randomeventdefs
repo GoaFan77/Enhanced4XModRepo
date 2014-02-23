@@ -1,19 +1,49 @@
 TXT
-initialSpawnTimeMin 480.0
-initialSpawnTimeMax 780.0
+initialSpawnTimeMin 600.0
+initialSpawnTimeMax 900.0
 failedRespawnTimeMin 120.0
 failedRespawnTimeMax 300.0
 lowAllegianceCheckPeriod 600.0
-lowAllegianceThreshold 0.25
-randomEventDefCount 12
+lowAllegianceThreshold 0.35
+randomEventDefCount 17
 	randomEventDef
-		id "PROPERTYBUBBLE"
-		nameID "IDS_RANDOMEVENT_E4X_PROPERTYBUBBLE_NAME"
-		warningID "IDS_GAMEMESSAGE_E4X_PROPERTYBUBBLE"
-		spawnType "BuffAtLocation"
-		spawnEntity "RandomEvent_E4X_PropertyBubbleBonus"
+		id "PHASICANOMOLY"
+		nameID "IDS_RANDOMEVENT_E4X_PHASICANOMOLY_NAME"
+		warningID "IDS_GAMEMESSAGE_E4X_PHASICANOMOLY"
+		spawnType "PeriodicBuffAtLocation"
+		spawnEntity "RandomEvent_E4X_PhasicAnomoly"
+		duration 420.0
+		period 5.0
 		playerOwnerType "LocationOwner"
-		spawnLocation "RandomLocation"
+		spawnLocation "RandomPlayerAllLocations"
+		excludedSpawnLocationCount 0
+		spawnRequirement "Timer"
+		nextSpawnTimeMin 600.0
+		nextSpawnTimeMax 1200.0
+		spawnWeight 0.05
+	randomEventDef
+		id "COMMODITYBOOM"
+		nameID "IDS_RANDOMEVENT_E4X_COMMODITYBOOM_NAME"
+		warningID "IDS_GAMEMESSAGE_RANDOMEVENTDETECTEDECONOMICUPTURNDOWNTURN"
+		spawnType "PeriodicBuffAtLocation"
+		spawnEntity "RandomEvent_E4X_CommodityBoomPlanet"
+		duration 300.0
+		period 300.0
+		playerOwnerType "LocationOwner"
+		spawnLocation "AllLocations"
+		excludedSpawnLocationCount 0
+		spawnRequirement "Timer"
+		nextSpawnTimeMin 300.0
+		nextSpawnTimeMax 1200.0
+		spawnWeight 0.2
+	randomEventDef
+		id "PIRATECAPTAIN"
+		nameID "IDS_RANDOMEVENT_E4X_PIRATECAPTAIN_NAME"
+		warningID "IDS_GAMEMESSAGE_E4X_PIRATECAPTAIN"
+		spawnType "BuffAtLocation"
+		spawnEntity "RandomEvent_E4X_PirateCaptain"
+		playerOwnerType "LocationOwner"
+		spawnLocation "RandomNonHomeworld"
 		excludedSpawnLocationCount 19
 			excludedSpawnLocation "OccupiedPlanet"
 			excludedSpawnLocation "PlanetAntimatterFountain"
@@ -34,6 +64,126 @@ randomEventDefCount 12
 			excludedSpawnLocation "PlanetShatteredMoon"
 			excludedSpawnLocation "PlanetShipGraveyard"
 			excludedSpawnLocation "PlanetWormhole"
+		spawnRequirement "Timer"
+		respawnCount -1
+		nextSpawnTimeMin 420.0
+		nextSpawnTimeMax 600.0
+		spawnWeight 0.05
+	randomEventDef
+		id "MININGRUSH"
+		nameID "IDS_RANDOMEVENT_E4X_MININGRUSH_NAME"
+		warningID "IDS_GAMEMESSAGE_E4X_PROPERTYBUBBLE"
+		spawnType "BuffAtLocation"
+		spawnEntity "RandomEvent_E4X_MiningRushPlanet"
+		playerOwnerType "LocationOwner"
+		spawnLocation "RandomLocation"
+		excludedSpawnLocationCount 27
+			excludedSpawnLocation "PlanetAntimatterFountain"
+			excludedSpawnLocation "Planet_E4X_CyberFortress"
+			excludedSpawnLocation "Planet_E4X_Industrial"
+			excludedSpawnLocation "Planet_E4X_IndustrialFair"
+			excludedSpawnLocation "PlanetAsteroidBelt"
+			excludedSpawnLocation "PlanetAsteroidBeltFair"
+			excludedSpawnLocation "PlanetAsteroidSpaceJunk"
+			excludedSpawnLocation "PlanetAsteroidSpaceJunkFair"
+			excludedSpawnLocation "PlanetComet"
+			excludedSpawnLocation "PlanetDeadAsteroid"
+			excludedSpawnLocation "PlanetGasGiant"
+			excludedSpawnLocation "PlanetGasGiantFair"
+			excludedSpawnLocation "PlanetIceField"
+			excludedSpawnLocation "PlanetPirateBase"
+			excludedSpawnLocation "PlanetPlasmaStorm"
+			excludedSpawnLocation "PlanetPlasmaStormFair"
+			excludedSpawnLocation "PlanetRadiationStorm"
+			excludedSpawnLocation "PlanetShatteredMoon"
+			excludedSpawnLocation "PlanetShipGraveyard"
+			excludedSpawnLocation "PlanetWormhole"
+			excludedSpawnLocation "STAR_BLACKHOLE"
+			excludedSpawnLocation "STAR_BLUE"
+			excludedSpawnLocation "STAR_GREEN"
+			excludedSpawnLocation "STAR_NEUTRON"
+			excludedSpawnLocation "STAR_PULSAR"
+			excludedSpawnLocation "STAR_RED"
+			excludedSpawnLocation "STAR_YELLOW"
+		spawnRequirement "Timer"
+		respawnCount -1
+		nextSpawnTimeMin 240.0
+		nextSpawnTimeMax 600.0
+		spawnWeight 0.15
+	randomEventDef
+		id "IMMIGRANTS"
+		nameID "IDS_RANDOMEVENT_E4X_IMMIGRANTS_NAME"
+		warningID "IDS_GAMEMESSAGE_E4X_IMMIGRANTS"
+		spawnType "BuffAtLocation"
+		spawnEntity "RandomEvent_E4X_Immigrants"
+		playerOwnerType "LocationOwner"
+		spawnLocation "RandomLocation"
+		excludedSpawnLocationCount 25
+			excludedSpawnLocation "PlanetAntimatterFountain"
+			excludedSpawnLocation "Planet_E4X_CyberFortress"
+			excludedSpawnLocation "PlanetAsteroidBelt"
+			excludedSpawnLocation "PlanetAsteroidBeltFair"
+			excludedSpawnLocation "PlanetAsteroidSpaceJunk"
+			excludedSpawnLocation "PlanetAsteroidSpaceJunkFair"
+			excludedSpawnLocation "PlanetComet"
+			excludedSpawnLocation "PlanetDeadAsteroid"
+			excludedSpawnLocation "PlanetGasGiant"
+			excludedSpawnLocation "PlanetGasGiantFair"
+			excludedSpawnLocation "PlanetIceField"
+			excludedSpawnLocation "PlanetPirateBase"
+			excludedSpawnLocation "PlanetPlasmaStorm"
+			excludedSpawnLocation "PlanetPlasmaStormFair"
+			excludedSpawnLocation "PlanetRadiationStorm"
+			excludedSpawnLocation "PlanetShatteredMoon"
+			excludedSpawnLocation "PlanetShipGraveyard"
+			excludedSpawnLocation "PlanetWormhole"
+			excludedSpawnLocation "STAR_BLACKHOLE"
+			excludedSpawnLocation "STAR_BLUE"
+			excludedSpawnLocation "STAR_GREEN"
+			excludedSpawnLocation "STAR_NEUTRON"
+			excludedSpawnLocation "STAR_PULSAR"
+			excludedSpawnLocation "STAR_RED"
+			excludedSpawnLocation "STAR_YELLOW"
+		spawnRequirement "Timer"
+		respawnCount -1
+		nextSpawnTimeMin 240.0
+		nextSpawnTimeMax 600.0
+		spawnWeight 0.15
+	randomEventDef
+		id "PROPERTYBUBBLE"
+		nameID "IDS_RANDOMEVENT_E4X_PROPERTYBUBBLE_NAME"
+		warningID "IDS_GAMEMESSAGE_E4X_PROPERTYBUBBLE"
+		spawnType "BuffAtLocation"
+		spawnEntity "RandomEvent_E4X_PropertyBubbleBonus"
+		playerOwnerType "LocationOwner"
+		spawnLocation "RandomLocation"
+		excludedSpawnLocationCount 26
+			excludedSpawnLocation "OccupiedPlanet"
+			excludedSpawnLocation "PlanetAntimatterFountain"
+			excludedSpawnLocation "Planet_E4X_CyberFortress"
+			excludedSpawnLocation "PlanetAsteroidBelt"
+			excludedSpawnLocation "PlanetAsteroidBeltFair"
+			excludedSpawnLocation "PlanetAsteroidSpaceJunk"
+			excludedSpawnLocation "PlanetAsteroidSpaceJunkFair"
+			excludedSpawnLocation "PlanetComet"
+			excludedSpawnLocation "PlanetDeadAsteroid"
+			excludedSpawnLocation "PlanetGasGiant"
+			excludedSpawnLocation "PlanetGasGiantFair"
+			excludedSpawnLocation "PlanetIceField"
+			excludedSpawnLocation "PlanetPirateBase"
+			excludedSpawnLocation "PlanetPlasmaStorm"
+			excludedSpawnLocation "PlanetPlasmaStormFair"
+			excludedSpawnLocation "PlanetRadiationStorm"
+			excludedSpawnLocation "PlanetShatteredMoon"
+			excludedSpawnLocation "PlanetShipGraveyard"
+			excludedSpawnLocation "PlanetWormhole"
+			excludedSpawnLocation "STAR_BLACKHOLE"
+			excludedSpawnLocation "STAR_BLUE"
+			excludedSpawnLocation "STAR_GREEN"
+			excludedSpawnLocation "STAR_NEUTRON"
+			excludedSpawnLocation "STAR_PULSAR"
+			excludedSpawnLocation "STAR_RED"
+			excludedSpawnLocation "STAR_YELLOW"
 		spawnRequirement "Timer"
 		respawnCount -1
 		nextSpawnTimeMin 120.0

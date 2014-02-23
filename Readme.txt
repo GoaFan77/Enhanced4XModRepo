@@ -400,6 +400,15 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Vasari Central Command can once again research and build Phase Gates.
 		-Reduced the passive AoE damage of all mines from 30 DPS to 25.
 		
-1.7x	-Added a new Random Event, the Property Bubble. It occurs on a single planet and reduces planet upgrade cost and build times, but after a time the bubble will collapse, reducing tax income for several minutes.
+1.72	-Added a new Random Event, the Property Bubble. It occurs on a single planet and reduces planet upgrade cost and build times, but after a time the bubble will collapse, reducing tax income for several minutes.
+		-Added new exiled Pirate Captain random event. He will flee to a planet at random and join whoever owns the planet in exchange for a share of the tax income.
+		-Added Commodity Boom random event. Increasing resource extraction rates by 25% at all planets.
+		-Added Immigrants random event. Permently increases the maximum population of a random planet and increases the population growth rate for a time.
+		-The Economic Upturn and Economic Downturn random events now give smaller bonuses and penalties.
 		-The Hidden Academy Artifact now gives an extra command point and 50 fleet supply, in addition to its previous bonuses.
+		-All ships move 50% faster in Star gravity wells, so that moving through them isn't such a pain.
+		-All ships now jump between solar systems 50% faster, which might improve the AI on multistar maps.
+		-Black Holes and Neutron Stars no longer reduce the phase jump speed of ships traveling from them.
+		-TEC Shield Generator upgrade now only has one level, reducing the maximum shield protection from 90% to 70%. However, it is now easier to both get the shield generators and the upgrade.
 		-Fixed a bug that caused the buttons in the fleet research window to be misaliegned with the background.
+		-The Eradica Titan's unyielding will ability now only makes the titan invincible for 60/120 seconds. However, the titan will still stay alive after this effect finishes.

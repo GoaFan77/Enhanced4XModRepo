@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2581
+entityNameCount 2579
 entityName "BuffSuppressionChannelEnd.entity"
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
@@ -2579,5 +2579,3 @@ entityName "TITAN_PSILOYALIST2.entity"
 entityName "TITAN_PSIREBEL2.entity"
 entityName "TITAN_TECHLOYALIST2.entity"
 entityName "TITAN_TECHREBEL2.entity"
-entityName "RandomEvent_E4X_PropertyBubbleBonus.entity"
-entityName "RandomEvent_E4X_PropertyBubbleBust.entity"

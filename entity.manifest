@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2582
+entityNameCount 2591
 entityName "BuffSuppressionChannelEnd.entity"
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
@@ -2579,6 +2579,15 @@ entityName "TITAN_PSILOYALIST2.entity"
 entityName "TITAN_PSIREBEL2.entity"
 entityName "TITAN_TECHLOYALIST2.entity"
 entityName "TITAN_TECHREBEL2.entity"
+entityName "BuffHyperspaceDisruptionReapply.entity"
+entityName "CAPITALSHIP_E4X_PirateLeaderNoSupply.entity"
+entityName "RandomEvent_E4X_CommodityBoomExtractors.entity"
+entityName "RandomEvent_E4X_CommodityBoomPlanet.entity"
+entityName "RandomEvent_E4X_Immigrants.entity"
+entityName "RandomEvent_E4X_ImmigrantsGrowthRate.entity"
+entityName "RandomEvent_E4X_MiningRushExtractors.entity"
+entityName "RandomEvent_E4X_MiningRushPlanet.entity"
+entityName "RandomEvent_E4X_PhasicAnomoly.entity"
+entityName "RandomEvent_E4X_PirateCaptain.entity"
 entityName "RandomEvent_E4X_PropertyBubbleBonus.entity"
 entityName "RandomEvent_E4X_PropertyBubbleBust.entity"
-entityName "BuffHyperspaceDisruptionReapply.entity"

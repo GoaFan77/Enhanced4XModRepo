@@ -1,0 +1,45 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusivePerPlayer"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 1
+instantAction
+	buffInstantActionType "SpawnShipsAtPlanet"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	spawnShipsLevelCount 1
+	spawnShips
+		minFleetPoints 0.000000
+		maxFleetPoints 1.000000
+		requiredShipCount 1
+		requiredShip
+			type "CAPITALSHIP_E4X_PirateLeaderNoSupply"
+			minCount 1
+			maxCount 1
+		randomShipCount 0
+spawnShipsArrivalDelayTime 10.000000
+spawnShipsHyperspaceSpawnType "FleetBeacon"	
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "PlanetTaxRate"
+	value
+		Level:0 -0.200000
+		Level:1 -0.200000
+		Level:2 -0.200000
+		Level:3 -0.200000
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 300.000000
+		Level:1 300.000000
+		Level:2 300.000000
+		Level:3 300.000000

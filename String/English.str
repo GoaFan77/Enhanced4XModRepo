@@ -1,5 +1,29 @@
 TXT
-NumStrings 8272
+NumStrings 8280
+StringInfo
+	ID "IDS_RANDOMEVENT_E4X_PHASICANOMOLY_NAME"
+	Value "Phasic Anomaly"
+StringInfo
+	ID "IDS_GAMEMESSAGE_E4X_PHASICANOMOLY"
+	Value "A %s is occuring in %s territory, allowing phase jumps between planets without connecting phase lanes!"
+StringInfo
+	ID "IDS_RANDOMEVENT_E4X_MININGRUSH_NAME"
+	Value "Mining Rush"
+StringInfo
+	ID "IDS_RANDOMEVENT_E4X_COMMODITYBOOM_NAME"
+	Value "Commodity Boom"
+StringInfo
+	ID "IDS_RANDOMEVENT_E4X_IMMIGRANTS_NAME"
+	Value "Immigrants"
+StringInfo
+	ID "IDS_GAMEMESSAGE_E4X_IMMIGRANTS"
+	Value "Large numbers of %s have moved to the planet %s."
+StringInfo
+	ID "IDS_RANDOMEVENT_E4X_PIRATECAPTAIN_NAME"
+	Value "Pirate Captain"
+StringInfo
+	ID "IDS_GAMEMESSAGE_E4X_PIRATECAPTAIN"
+	Value "An outcast %s has taken refuge at the planet %s, fighting for its owner in exchange for some tax income!"
 StringInfo
 	ID "IDS_RANDOMEVENT_E4X_PROPERTYBUBBLE_NAME"
 	Value "Property Bubble"
