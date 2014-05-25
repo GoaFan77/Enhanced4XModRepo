@@ -24,7 +24,7 @@ periodicAction
 	buffInstantActionType "DoInterrupt"
 	instantActionTriggerType "AlwaysPerform"
 numOverTimeActions 0
-numEntityModifiers 2
+numEntityModifiers 1
 entityModifier
 	buffEntityModifierType "HyperspaceChargeUpRate"
 	value
@@ -32,13 +32,6 @@ entityModifier
 		Level:1 -1.330000
 		Level:2 -1.330000
 		Level:3 -1.330000
-entityModifier
-	buffEntityModifierType "LinearMaxSpeed"
-	value
-		Level:0 0.500000
-		Level:1 0.500000
-		Level:2 0.500000
-		Level:3 0.500000
 numEntityBoolModifiers 0
 numFinishConditions 1
 finishCondition

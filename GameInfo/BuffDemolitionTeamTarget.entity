@@ -1,0 +1,110 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack TRUE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 4
+instantAction
+	buffInstantActionType "MakeDead"
+	instantActionTriggerType "OnDelay"
+	delayTime 8.200000
+instantAction
+	buffInstantActionType "PlayAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 7.800000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName "Ability_DemolitionTeams_Target"
+		mediumEffectName "Ability_DemolitionTeams_Target"
+		largeEffectName "Ability_DemolitionTeams_Target"
+		soundID ""
+instantAction
+	buffInstantActionType "ApplyBuffToTargetsInRadiusWithTravel"
+	instantActionTriggerType "OnCondition"
+	instantActionConditionType "IfOwnerDoesNotHaveBuff"
+	conditionBuffType "BuffBoardingPartyRecourse"
+	conditionBuffShortName "IDS_BUFFSHORTNAME_NOTBOARDED"
+	buffType "BuffDemolitionTeamDamage"
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 5
+		object "Frigate"
+		object "CapitalShip"
+		object "StarBase"
+		object "Titan"
+		object "Corvette"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	range
+		Level:0 2000.000000
+		Level:1 2500.000000
+		Level:2 3000.000000
+		Level:3 3500.000000
+	maxTargetCount
+		Level:0 25.000000
+		Level:1 25.000000
+		Level:2 25.000000
+		Level:3 25.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+	travelSpeed 1200.000000
+	effectStaggerDelay 0.000000
+	hasWeaponEffects FALSE
+instantAction
+	buffInstantActionType "ApplyBuffToTargetsInRadiusWithTravel"
+	instantActionTriggerType "OnCondition"
+	instantActionConditionType "IfOwnerHasBuff"
+	conditionBuffType "BuffBoardingPartyRecourse"
+	conditionBuffShortName "IDS_BUFFSHORTNAME_BOARDED"
+	buffType "BuffDemolitionTeamDamageBoarded"
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 5
+		object "Frigate"
+		object "CapitalShip"
+		object "StarBase"
+		object "Titan"
+		object "Corvette"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	range
+		Level:0 2500.000000
+		Level:1 3000.000000
+		Level:2 3500.000000
+		Level:3 4000.000000
+	maxTargetCount
+		Level:0 25.000000
+		Level:1 25.000000
+		Level:2 25.000000
+		Level:3 25.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+	travelSpeed 1200.000000
+	effectStaggerDelay 0.000000
+	hasWeaponEffects FALSE
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "AllOnDelayInstantActionsDone"

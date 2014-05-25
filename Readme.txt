@@ -404,6 +404,8 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Added new exiled Pirate Captain random event. He will flee to a planet at random and join whoever owns the planet in exchange for a share of the tax income.
 		-Added Commodity Boom random event. Increasing resource extraction rates by 25% at all planets.
 		-Added Immigrants random event. Permently increases the maximum population of a random planet and increases the population growth rate for a time.
+		-Added Mining Rush random event. Greatly increases mining income on one planet and gives a 40% bonus to population growth for a time.
+		-Added Phasic Anomaly random event. Lets a random player jump between all of their planets in a solar system for a time.
 		-The Economic Upturn and Economic Downturn random events now give smaller bonuses and penalties.
 		-The Hidden Academy Artifact now gives an extra command point and 50 fleet supply, in addition to its previous bonuses.
 		-All ships move 50% faster in Star gravity wells, so that moving through them isn't such a pain.
@@ -412,3 +414,9 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-TEC Shield Generator upgrade now only has one level, reducing the maximum shield protection from 90% to 70%. However, it is now easier to both get the shield generators and the upgrade.
 		-Fixed a bug that caused the buttons in the fleet research window to be misaliegned with the background.
 		-The Eradica Titan's unyielding will ability now only makes the titan invincible for 60/120 seconds. However, the titan will still stay alive after this effect finishes.
+		
+1.73 	-Black holes from the Stellar Phenomenon DLC have been reworked. They no longer deal periodic damage, but have a chance to suck in a random ships and destroy it!
+		-Neutron Stars and Pulsars now grant Solar Regeneration like normal stars.
+		-Compatible with the new Star Wars: Interregnum add on mod.
+		-Planetary Defenses will no longer attempt to attack invincible objects.
+		

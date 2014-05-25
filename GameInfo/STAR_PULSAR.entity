@@ -40,7 +40,7 @@ meshInfo
 iconTextureName "starcore-blue"
 dlcID 255910
 ability:0 "AbilityStarPulsar"
-ability:1 ""
+ability:1 "AbilitySolarRegeneration"
 ability:2 ""
 ability:3 ""
 ability:4 ""

@@ -12,7 +12,7 @@ floatBonus:AdditiveSlotsTactical 0.000000
 floatBonus:AdditiveTaxIncome 0.000000
 floatBonus:AdditiveTradeIncomePerc 0.000000
 floatBonus:BombingDamageAsDamageTargetAdjustment 0.000000
-floatBonus:MaxAllegiancePercBonus -0.200000
+floatBonus:MaxAllegiancePercBonus -0.050000
 floatBonus:MetalIncomePerc 0.000000
 floatBonus:CrystalIncomePerc 0.000000
 floatBonus:GravityWellRadiusPerc 0.000000

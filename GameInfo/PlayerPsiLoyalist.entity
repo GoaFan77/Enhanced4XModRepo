@@ -953,8 +953,8 @@ playerPictureGroupName "PlayerPsi"
 raceRelationsModCount 6
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_TECHREBEL"
-	modifierMin -2.250000
-	modifierMax -2.000000
+	modifierMin -12.000000
+	modifierMax -12.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
 		factionNameID "IDS_PLAYERRACENAME_PSILOYALIST"
@@ -963,8 +963,8 @@ raceRelationsModifier
 		modifierMax -10.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_TECHLOYALIST"
-	modifierMin -2.250000
-	modifierMax -2.000000
+	modifierMin -10.000000
+	modifierMax -7.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
 		factionNameID "IDS_PLAYERRACENAME_PSILOYALIST"
@@ -973,24 +973,24 @@ raceRelationsModifier
 		modifierMax -5.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_PSIREBEL"
-	modifierMin 0.100000
-	modifierMax 1.000000
+	modifierMin -5.000000
+	modifierMax -4.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
 		factionNameID "IDS_PLAYERRACENAME_PSILOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
-		modifierMin -5.000000
-		modifierMax -5.000000
+		modifierMin 0.000000
+		modifierMax 0.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_PSILOYALIST"
-	modifierMin 0.100000
-	modifierMax 1.000000
+	modifierMin 0.500000
+	modifierMax 2.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
 		factionNameID "IDS_PLAYERRACENAME_PSILOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
-		modifierMin 0.500000
-		modifierMax 1.000000
+		modifierMin 0.000000
+		modifierMax 0.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_PHASEREBEL"
 	modifierMin -1.000000
@@ -1000,15 +1000,15 @@ raceRelationsModifier
 		factionNameID "IDS_PLAYERRACENAME_PSILOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_REBEL"
 		modifierMin 0.000000
-		modifierMax 0.250000
+		modifierMax 0.000000
 raceRelationsModifier
 	raceNameID "IDS_PLAYERRACENAME_PHASELOYALIST"
-	modifierMin -1.000000
-	modifierMax -0.500000
+	modifierMin -2.000000
+	modifierMax -1.000000
 	factionRelationsModCount 1
 	factionRelationsModifier
 		factionNameID "IDS_PLAYERRACENAME_PSILOYALIST"
 		otherFactionNameID "IDS_PLAYERFACTIONNAME_LOYALIST"
-		modifierMin -0.500000
-		modifierMax -0.250000
+		modifierMin 0.000000
+		modifierMax 0.000000
 defaultFactionNameID "IDS_PLAYERRACENAME_PSILOYALIST"

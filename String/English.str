@@ -1,5 +1,17 @@
 TXT
-NumStrings 8280
+NumStrings 8284
+StringInfo
+	ID "IDS_INFOCARD_BUFFCONDITION_IFTARGETDOESNOTHAVEBUFF"
+	Value "*VALUE0*"
+StringInfo
+	ID "IDS_BUFFSHORTNAME_NOTNANOLEECH"
+	Value "If not Nano Leeched"
+StringInfo
+	ID "IDS_BUFFSHORTNAME_NOTBOARDED"
+	Value "If not Boarded"
+StringInfo
+	ID "IDS_BUFFSHORTNAME_NOTFRACTURE"
+	Value "If not Fractured"
 StringInfo
 	ID "IDS_RANDOMEVENT_E4X_PHASICANOMOLY_NAME"
 	Value "Phasic Anomaly"
@@ -632,7 +644,7 @@ StringInfo
 	Value "Don't forget to explore your planets. Not only will you find artifacts and bonuses more often in E4X, but some artifacts can be used to activate powerful ancient superweapons you may find orbitting planets."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip01"
-	Value "Heroes are powerful units that are free to summon, but you can only have one of each at a time, require research, and will take longer to return each time you request one. Techs required to build them are highlighted in yellow and have a star above them."
+	Value "Heroes are powerful units that are free to summon, but you can only have one of each at a time, require research, and will take longer to return each time you request one. They are unlocked by special techs in the Diplomacy tree."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip02"
 	Value "Be careful how you build your civilian infrustructure in E4X. Research labs, trade ports and refineries all give extra bonuses or penalties, and work best on specific types of planets."
@@ -12518,7 +12530,7 @@ StringInfo
 	Value "Black Hole"
 StringInfo
 	ID "IDS_ABILITY_STAR_BLACKHOLE_DESCRIPTION"
-	Value "Somehow a black hole has formed in this system without destroying the planets orbiting it. The intense gravity makes phase jumps more difficult and the stresses from the singularity damages nearby ships."
+	Value "Somehow a black hole has formed in this system without destroying the planets orbiting it. The intense gravity makes phase jumps more difficult and has a chance to suck in and destroy ships passing by."
 StringInfo
 	ID "IDS_ABILITY_STAR_PULSAR_NAME"
 	Value "Pulsar"

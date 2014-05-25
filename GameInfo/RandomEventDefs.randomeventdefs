@@ -231,7 +231,7 @@ randomEventDefCount 17
 		spawnLocation "RandomStar"
 		excludedSpawnLocationCount 0
 		spawnRequirement "Timer"
-		respawnCount 4
+		respawnCount 9
 		nextSpawnTimeMin 300.0
 		nextSpawnTimeMax 1200.0
 		spawnWeight 0.1
@@ -246,7 +246,7 @@ randomEventDefCount 17
 		spawnLocation "RandomLocation"
 		excludedSpawnLocationCount 0
 		spawnRequirement "Timer"
-		respawnCount 4
+		respawnCount 9
 		nextSpawnTimeMin 300.0
 		nextSpawnTimeMax 1200.0
 		spawnWeight 0.1
@@ -286,7 +286,7 @@ randomEventDefCount 17
 		spawnLocation "TriggerLocation"
 		excludedSpawnLocationCount 0
 		spawnRequirement "TriggerCultureFlip"
-		triggerWeight 0.25
+		triggerWeight 0.15
 		spawnWeight 1.0
 	randomEventDef
 		id "ECONOMICDOWNTURN"
