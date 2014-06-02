@@ -1425,6 +1425,9 @@ planetItemType
 	designName "Psi:Module:CommandCenter"
 	entityDefName "PLANETMODULE_E4X_PsiCommandCenter"
 planetItemType
+	designName "Psi:Module:CommandCenterLoyalist"
+	entityDefName "PLANETMODULE_E4X_PsiLoyalsCommandCenter"
+planetItemType
 	designName "Psi:Module:BeamDefense"
 	entityDefName "PLANETMODULE_PSIORBITALBEAMDEFENSE"
 planetItemType
@@ -2358,9 +2361,6 @@ planetItemType
 	designName "Other:Flag:TECMilitia"
 	entityDefName "SpaceMine_E4X_TECMilitiaFlag"
 planetItemType
-	designName "Other:Flag:PsiLoyalsCultureSpawn"
-	entityDefName "SpaceMine_E4X_PsiLoyalsCultureSpawnFlag"
-planetItemType
 	designName "Other:Flag:KillPlanet"
 	entityDefName "SpaceMine_E4X_KillPlanetFlag"
 planetItemType
@@ -2435,13 +2435,12 @@ planetItemsTemplate
 				param "PsiLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 6
+			items 5
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Frigate:Constructor"
 				item "Psi:Frigate:Constructor"
-				item "Psi:Module:CommandCenter"
-				item "Other:Flag:PsiLoyalsCultureSpawn"
+				item "Psi:Module:CommandCenterLoyalist"
 		group
 			condition
 				type "PlanetOwnerIsRaceNormalStart"
@@ -2507,19 +2506,18 @@ planetItemsTemplate
 				param "PsiLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 12
+			items 11
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
 				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:CrystalExtractor"
-				item "Psi:Module:CommandCenter"
+				item "Psi:Module:CommandCenterLoyalist"
 				item "Psi:Frigate:Constructor"
 				item "Psi:Frigate:Constructor"
 				item "Psi:Frigate:Scout"
 				item "Psi:Frigate:Scout"
-				item "Other:Flag:PsiLoyalsCultureSpawn"
 		group
 			condition
 				type "PlanetOwnerIsRaceQuickStart"

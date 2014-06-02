@@ -1,30 +1,30 @@
 ﻿TXT
 entityType "PlanetModuleStandard"
 minZoomDistanceMult 2.000000
-ability:0 "Ability_E4X_SpawnHeroCommandTech"
-ability:1 "Ability_E4X_SpawnHeroCombatTech"
-ability:2 "Ability_E4X_SpawnHeroLeaderTech"
+ability:0 "Ability_E4X_SpawnHeroCombatPsi"
+ability:1 "Ability_E4X_SpawnHeroLeaderPsi"
+ability:2 "Ability_E4X_SpawnHeroTransPsi"
 ability:3 ""
-ability:4 "Ability_E4X_CommandCenter"
+ability:4 "Ability_E4X_CommandCenterPsiLoyals"
 MaxAntiMatter 300.000000
 AntiMatterRestoreRate 0.500000
 numRandomDebrisLarge 3
 numRandomDebrisSmall 16
 numSpecificDebris 0
 armorType "Module"
-hudIcon "HUDICON_E4X_TechCommandCenter"
-smallHudIcon "HUDICONSMALL_PLANETMODULE_E4X_TechCommandCenter"
-infoCardIcon "HUDICONSMALL_PLANETMODULE_E4X_TechCommandCenter"
+hudIcon "HUDICON_E4X_PsiCommandCenter"
+smallHudIcon "HUDICONSMALL_PLANETMODULE_E4X_PsiCommandCenter"
+infoCardIcon "HUDICONSMALL_PLANETMODULE_E4X_PsiCommandCenter"
 planetUpgradeSlotType "Tactical"
 planetUpgradeSlotCount 0.000000
 basePrice
 	credits 1000.000000
 	metal 150.000000
 	crystal 175.000000
-NameStringID "IDS_PLANETMODULE_E4X_TechCommandCenter_NAME"
-DescriptionStringID "IDS_PLANETMODULE_E4X_TechCommandCenter_DESC"
+NameStringID "IDS_PLANETMODULE_E4X_PsiCommandCenter_NAME"
+DescriptionStringID "IDS_PLANETMODULE_E4X_PsiCommandCenter_DESC"
 planetModuleRoleType "NANOWEAPONJAMMER"
-statCountType "ModuleUtility"
+statCountType "Invalid"
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
@@ -39,7 +39,7 @@ ExperiencePointsForDestroying 25.000000
 resourceExtractionType "Invalid"
 cultureSpreadRate 0.000000
 isAffectedBySimilarModuleCostResearch FALSE
-placementRadius 850.000000
+placementRadius 1050.000000
 nearPlacementDistOffset 0.000000
 farPlacementDistOffset 9000.000000
 spawnCount 1
@@ -58,13 +58,13 @@ SoundID "PLANETMODULE_TECHORBITALSHIELDGENERATOR_ONSELECTION_0"
 NumSoundsFor:ONSTARTPHASEJUMP 0
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "PlanetModule_CommandCenterTech"
+	meshName "PlanetModule_CommandCenterPsi"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
 ExplosionName "PlanetModuleSmall"
-mainViewIcon "HUDICONSMALL_PLANETMODULE_E4X_TechCommandCenter"
-picture "Picture_E4X_TechCommandCenter"
+mainViewIcon "HUDICONSMALL_PLANETMODULE_E4X_PsiCommandCenter"
+picture "Picture_E4X_PsiCommandCenter"
 minShadow 0.000000
 maxShadow 0.500000
 formationRank 3

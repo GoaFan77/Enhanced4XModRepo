@@ -417,6 +417,10 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		
 1.73 	-Black holes from the Stellar Phenomenon DLC have been reworked. They no longer deal periodic damage, but have a chance to suck in a random ships and destroy it!
 		-Neutron Stars and Pulsars now grant Solar Regeneration like normal stars.
+		-Gamma Ray Burst random event now reduces the target planet's max population by 25%, rather than always killing 240 population.
+		-Random Events sound effects are now properly working!
+		-Players starting homeworlds now generate a small amount of culture on their own until they are lost. The Orthodox Advent gets a lot higher culture rate.
 		-Compatible with the new Star Wars: Interregnum add on mod.
 		-Planetary Defenses will no longer attempt to attack invincible objects.
+		-Minor tweaks to the AI priorites, let me know if you notice any change in difficulty.
 		

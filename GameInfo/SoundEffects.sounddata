@@ -1,5 +1,5 @@
 TXT
-numEffects 380
+numEffects 388
 effect
 	name "E4X_AncientCannonBeam"
 	fileName "ENGINE_XYMEDIUM01.ogg"
@@ -5700,4 +5700,124 @@ effect
 	fadeInTime 1.0
 	fadeOutTime 0.7
 	alternateGroup "ONCREATION_PHASECORVETTE_ALT1"
+effect
+	name "EXPLOSION_CMEIMPACT"
+	fileName "Event_CoronalMassEjection_Impact.ogg"
+	type "Effect"
+	is3D TRUE
+	priority 9
+	threshold 60000.000000
+	minAttenuationDist 20000.000000
+	maxNumPlayingSimultaneously 1
+	isLooping FALSE
+	isResident FALSE
+	minRespawnTime 0.1
+	fadeInTime 0.0
+	fadeOutTime 0.0
+	alternateGroup ""
+effect
+	name "EFFECT_CMEAMBIENCE_LOOP"
+	fileName "Effect_CoronalMassEjection_Ambience.ogg"
+	type "Effect"
+	is3D TRUE
+	priority 5
+	threshold 25000.000000
+	minAttenuationDist 5000.000000
+	maxNumPlayingSimultaneously 5
+	isLooping TRUE
+	isResident FALSE
+	minRespawnTime 0.1
+	fadeInTime 0.5
+	fadeOutTime 1.0
+	alternateGroup ""
+effect
+	name "EXPLOSION_GRBIMPACT"
+	fileName "Event_GammaRayBurst_Impact.ogg"
+	type "Effect"
+	is3D TRUE
+	priority 9
+	threshold 60000.000000
+	minAttenuationDist 20000.000000
+	maxNumPlayingSimultaneously 1
+	isLooping FALSE
+	isResident FALSE
+	minRespawnTime 0.1
+	fadeInTime 0.0
+	fadeOutTime 0.0
+	alternateGroup ""
+effect
+	name "EFFECT_GRBAMBIENCE_LOOP"
+	fileName "Effect_GammaRayBurst_Ambience.ogg"
+	type "Effect"
+	is3D TRUE
+	priority 5
+	threshold 25000.000000
+	minAttenuationDist 5000.000000
+	maxNumPlayingSimultaneously 5
+	isLooping TRUE
+	isResident FALSE
+	minRespawnTime 0.1
+	fadeInTime 0.5
+	fadeOutTime 1.0
+	alternateGroup ""
+effect
+	name "EFFECT_MAGNETICSTORMIMPACT"
+	fileName "Event_MagneticStorm_Impact.ogg"
+	type "Effect"
+	is3D TRUE
+	priority 9
+	threshold 60000.000000
+	minAttenuationDist 20000.000000
+	maxNumPlayingSimultaneously 1
+	isLooping FALSE
+	isResident FALSE
+	minRespawnTime 0.1
+	fadeInTime 0.0
+	fadeOutTime 0.0
+	alternateGroup ""
+effect
+	name "EFFECT_MAGNETICSTORM"
+	fileName "Event_MagneticStorm.ogg"
+	type "Effect"
+	is3D TRUE
+	priority 5
+	threshold 25000.000000
+	minAttenuationDist 5000.000000
+	maxNumPlayingSimultaneously 5
+	isLooping TRUE
+	isResident FALSE
+	minRespawnTime 0.1
+	fadeInTime 0.5
+	fadeOutTime 1.0
+	alternateGroup ""
+effect
+	name "EFFECT_PLASMASTORMIMPACT"
+	fileName "Event_PlasmaStorm_Impact.ogg"
+	type "Effect"
+	is3D TRUE
+	priority 9
+	threshold 60000.000000
+	minAttenuationDist 20000.000000
+	maxNumPlayingSimultaneously 1
+	isLooping FALSE
+	isResident FALSE
+	minRespawnTime 0.1
+	fadeInTime 0.0
+	fadeOutTime 0.0
+	alternateGroup ""
+effect
+	name "EFFECT_PLASMASTORM"
+	fileName "Event_PlasmaStorm.ogg"
+	type "Effect"
+	is3D TRUE
+	priority 5
+	threshold 25000.000000
+	minAttenuationDist 5000.000000
+	maxNumPlayingSimultaneously 5
+	isLooping TRUE
+	isResident FALSE
+	minRespawnTime 0.1
+	fadeInTime 0.5
+	fadeOutTime 1.0
+	alternateGroup ""
 	

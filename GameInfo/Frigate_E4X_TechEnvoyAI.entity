@@ -15,10 +15,10 @@ NameStringID "IDS_FRIGATE_TECHENVOY_NAME"
 DescriptionStringID "IDS_FRIGATE_TECHENVOY_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 9999.000000
-	metal 9999.000000
-	crystal 9999.000000
-slotCount 4.000000
+	credits 99999.000000
+	metal 99999.000000
+	crystal 99999.000000
+slotCount 3001.000000
 BuildTime 63.000000
 hasLevels FALSE
 ExperiencePointsForDestroying 10.000000

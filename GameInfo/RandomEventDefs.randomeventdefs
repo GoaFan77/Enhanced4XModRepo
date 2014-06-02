@@ -44,7 +44,7 @@ randomEventDefCount 17
 		spawnEntity "RandomEvent_E4X_PirateCaptain"
 		playerOwnerType "LocationOwner"
 		spawnLocation "RandomNonHomeworld"
-		excludedSpawnLocationCount 19
+		excludedSpawnLocationCount 20
 			excludedSpawnLocation "OccupiedPlanet"
 			excludedSpawnLocation "PlanetAntimatterFountain"
 			excludedSpawnLocation "Planet_E4X_CyberFortress"
@@ -60,6 +60,7 @@ randomEventDefCount 17
 			excludedSpawnLocation "PlanetPirateBase"
 			excludedSpawnLocation "PlanetPlasmaStorm"
 			excludedSpawnLocation "PlanetPlasmaStormFair"
+			excludedSpawnLocation "PlanetMagneticCloud"
 			excludedSpawnLocation "PlanetRadiationStorm"
 			excludedSpawnLocation "PlanetShatteredMoon"
 			excludedSpawnLocation "PlanetShipGraveyard"
@@ -77,7 +78,7 @@ randomEventDefCount 17
 		spawnEntity "RandomEvent_E4X_MiningRushPlanet"
 		playerOwnerType "LocationOwner"
 		spawnLocation "RandomLocation"
-		excludedSpawnLocationCount 27
+		excludedSpawnLocationCount 28
 			excludedSpawnLocation "PlanetAntimatterFountain"
 			excludedSpawnLocation "Planet_E4X_CyberFortress"
 			excludedSpawnLocation "Planet_E4X_Industrial"
@@ -90,6 +91,7 @@ randomEventDefCount 17
 			excludedSpawnLocation "PlanetDeadAsteroid"
 			excludedSpawnLocation "PlanetGasGiant"
 			excludedSpawnLocation "PlanetGasGiantFair"
+			excludedSpawnLocation "PlanetMagneticCloud"
 			excludedSpawnLocation "PlanetIceField"
 			excludedSpawnLocation "PlanetPirateBase"
 			excludedSpawnLocation "PlanetPlasmaStorm"
@@ -118,7 +120,7 @@ randomEventDefCount 17
 		spawnEntity "RandomEvent_E4X_Immigrants"
 		playerOwnerType "LocationOwner"
 		spawnLocation "RandomLocation"
-		excludedSpawnLocationCount 25
+		excludedSpawnLocationCount 26
 			excludedSpawnLocation "PlanetAntimatterFountain"
 			excludedSpawnLocation "Planet_E4X_CyberFortress"
 			excludedSpawnLocation "PlanetAsteroidBelt"
@@ -132,6 +134,7 @@ randomEventDefCount 17
 			excludedSpawnLocation "PlanetIceField"
 			excludedSpawnLocation "PlanetPirateBase"
 			excludedSpawnLocation "PlanetPlasmaStorm"
+			excludedSpawnLocation "PlanetMagneticCloud"
 			excludedSpawnLocation "PlanetPlasmaStormFair"
 			excludedSpawnLocation "PlanetRadiationStorm"
 			excludedSpawnLocation "PlanetShatteredMoon"
@@ -157,7 +160,7 @@ randomEventDefCount 17
 		spawnEntity "RandomEvent_E4X_PropertyBubbleBonus"
 		playerOwnerType "LocationOwner"
 		spawnLocation "RandomLocation"
-		excludedSpawnLocationCount 26
+		excludedSpawnLocationCount 27
 			excludedSpawnLocation "OccupiedPlanet"
 			excludedSpawnLocation "PlanetAntimatterFountain"
 			excludedSpawnLocation "Planet_E4X_CyberFortress"
@@ -172,6 +175,7 @@ randomEventDefCount 17
 			excludedSpawnLocation "PlanetIceField"
 			excludedSpawnLocation "PlanetPirateBase"
 			excludedSpawnLocation "PlanetPlasmaStorm"
+			excludedSpawnLocation "PlanetMagneticCloud"
 			excludedSpawnLocation "PlanetPlasmaStormFair"
 			excludedSpawnLocation "PlanetRadiationStorm"
 			excludedSpawnLocation "PlanetShatteredMoon"

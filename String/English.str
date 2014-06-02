@@ -1,5 +1,8 @@
 TXT
-NumStrings 8284
+NumStrings 8285
+StringInfo
+	ID "IDS_ABILITY_STAR_BLACKHOLE_DESCRIPTION"
+	Value "Somehow a black hole has formed in this system without destroying the planets orbiting it. The intense gravity makes phase jumps more difficult and has a chance to suck in and destroy ships passing by."
 StringInfo
 	ID "IDS_INFOCARD_BUFFCONDITION_IFTARGETDOESNOTHAVEBUFF"
 	Value "*VALUE0*"

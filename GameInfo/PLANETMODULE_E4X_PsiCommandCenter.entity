@@ -5,7 +5,7 @@ ability:0 "Ability_E4X_SpawnHeroCombatPsi"
 ability:1 "Ability_E4X_SpawnHeroLeaderPsi"
 ability:2 "Ability_E4X_SpawnHeroTransPsi"
 ability:3 ""
-ability:4 "Ability_E4X_InvincibleEntity"
+ability:4 "Ability_E4X_CommandCenter"
 MaxAntiMatter 300.000000
 AntiMatterRestoreRate 0.500000
 numRandomDebrisLarge 3
