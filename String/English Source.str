@@ -1,5 +1,5 @@
 TXT
-NumStrings 7570
+NumStrings 7571
 StringInfo
 	ID "IDSPlayerAINameTech0"
 	Value "Nitheim Rebels"
@@ -22710,3 +22710,6 @@ StringInfo
 StringInfo
 	ID "IDS_RANDOMEVENT_OPENREBELLION_NAME"
 	Value "Open Rebellion"
+StringInfo
+	ID "IDS_RANDOMEVENT_RESOURCEBOOM_NAME"
+	Value "Commodity Boom"

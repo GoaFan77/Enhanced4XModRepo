@@ -1,5 +1,5 @@
 TXT
-NumStrings 8285
+NumStrings 8286
 StringInfo
 	ID "IDS_ABILITY_STAR_BLACKHOLE_DESCRIPTION"
 	Value "Somehow a black hole has formed in this system without destroying the planets orbiting it. The intense gravity makes phase jumps more difficult and has a chance to suck in and destroy ships passing by."
@@ -644,46 +644,46 @@ StringInfo
 	Value "The HTS's genocide policies creates lots of oppertunities for plunder, attracting less reputable forces to your cause, allowing free ships to be organized through the pirate embassy on your homeworld."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip00"
-	Value "Don't forget to explore your planets. Not only will you find artifacts and bonuses more often in E4X, but some artifacts can be used to activate powerful ancient superweapons you may find orbitting planets."
+	Value "Tip: Don't forget to explore your planets. Not only will you find artifacts and bonuses more often in E4X, but some artifacts can be used to activate powerful ancient superweapons you may find orbitting planets."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip01"
-	Value "Heroes are powerful units that are free to summon, but you can only have one of each at a time, require research, and will take longer to return each time you request one. They are unlocked by special techs in the Diplomacy tree."
+	Value "Tip: Heroes are powerful units that are free to summon, but you can only have one of each at a time, require research, and will take longer to return each time you request one. They are unlocked by special techs in the Diplomacy tree."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip02"
-	Value "Be careful how you build your civilian infrustructure in E4X. Research labs, trade ports and refineries all give extra bonuses or penalties, and work best on specific types of planets."
+	Value "Tip: Be careful how you build your civilian infrustructure in E4X. Research labs, trade ports and refineries all give extra bonuses or penalties, and work best on specific types of planets."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip03"
-	Value "Each of the three races gets a unique planet bonus on their homeworld in E4X. Adjust your early game strategy accordingly to take advantage of these."
+	Value "Tip: Each races gets a unique planet bonus on their homeworld in E4X. Adjust your early game strategy accordingly to take advantage of these."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip04"
-	Value "In E4X you no longer need to built several envoy cruisers. Just one can build embassies at all of your allies' planets. Embassies require no fleet supply, so build one on each of your allies worlds!"
+	Value "Tip: In E4X you no longer need to built several envoy cruisers. Just one can build embassies at all of your allies' planets. Embassies require no fleet supply, so build one on each of your allies worlds!"
 StringInfo
 	ID "IDS_E4X_LoadScreenTip05"
-	Value "Envoys are no longer just for working with allies in E4X. Research some espionoge abilities in the Diplomacy tree to spy and sabatoge your enemies once you've built embassies for your allies."
+	Value "Tip: Envoys are no longer just for working with allies in E4X. Research some espionoge abilities in the Diplomacy tree to spy and sabatoge your enemies once you've built embassies for your allies."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip06"
-	Value "In E4X culture is a major gameplay mechanic. It provides at least twice the economic boost, provides military bonuses without any research, and can overthrow planets twice as fast."
+	Value "Tip: In E4X culture is a major gameplay mechanic. It provides at least twice the economic boost, provides military bonuses without any research, and can overthrow planets twice as fast."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip07"
-	Value "In E4X each race and subfaction has a unique set of bonuses that are active even without research. Check out what they are in your diplomacy tree; they are listed in free tier 1 research."
+	Value "Tip: In E4X each race and subfaction has a unique set of bonuses that are active even without research. Check out what they are in your diplomacy tree; they are listed in free tier 1 research."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip08"
-	Value "Be careful when attacking the TEC too early in E4X. Their homeworld starts out with powerful planetary defenses that can destroy handfuls of frigates with ease and weaken capitalships. Other planets they colonize may also build up their own defenses."
+	Value "Tip: Be careful when attacking the TEC too early in E4X. Their homeworld starts out with powerful planetary defenses that can destroy handfuls of frigates with ease and weaken capitalships. Other planets they colonize may also build up their own defenses."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip09"
-	Value "Keep scouts on HTS players in E4X games. They can build more efficient Siege frigates and Antimodule cruisers without research, giving them the ability to launch crippling rushes if you don't see them coming."
+	Value "Tip: Keep scouts on HTS players in E4X games. They can build more efficient Siege frigates and Antimodule cruisers without research, giving them the ability to launch crippling rushes if you don't see them coming."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip10"
-	Value "Not only does the Orthodox Advent's mastery over culture matter more in E4X, they'll enjoy their bonuses from the start of the game thanks to their culture spreading homeworld. They can also build twice as many culture centers, which can even take over your ships when destroyed."
+	Value "Tip: Not only does the Orthodox Advent's mastery over culture matter more in E4X, they'll enjoy their bonuses from the start of the game thanks to their culture spreading homeworld. They can also build twice as many culture centers, which can even take over your ships when destroyed."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip11"
-	Value "The Ascended Advent enjoy even more powers over life and death in E4X. Their ships will shield friendly forces for a time after their death, and they will have quicker access to better healing structures and ships."
+	Value "Tip: The Ascended Advent enjoy even more powers over life and death in E4X. Their ships will shield friendly forces for a time after their death, and they will have quicker access to better healing structures and ships."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip12"
-	Value "The VCC can get capitalships far easier in E4X thanks to half price research for them. They also start with a titan factory, and can quickly research the ability for their colony firgates to render planets inhosbitable for a long time, hindering their opponents' ability to expand."
+	Value "Tip: The VCC can get capitalships far easier in E4X thanks to half price research for them. They also start with a titan factory, and can quickly research the ability for their colony firgates to render planets inhosbitable for a long time, hindering their opponents' ability to expand."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip13"
-	Value "The VIR has extremely dangerous tactical mobility at their disposal in E4X. Their homeworld starts with a phase stabalizer, and they can build more without research. Their ships can also become immune to phase jump inhibitors for a short while on entering a planet, and they phase jump faster than others."
+	Value "Tip: The VIR has extremely dangerous tactical mobility at their disposal in E4X. Their homeworld starts with a phase stabalizer, and they can build more without research. Their ships can also become immune to phase jump inhibitors for a short while on entering a planet, and they phase jump faster than others."
 StringInfo
 	ID "IDS_ABILITY_DETECTMINESTECH_DESCRIPTION"
 	Value "Countermeasure systems disrupt and destroy the simple phase space cloaking field of enemy mines, though they require a period of time to work, and can be interrupted by weapons fire."
@@ -12533,7 +12533,7 @@ StringInfo
 	Value "Black Hole"
 StringInfo
 	ID "IDS_ABILITY_STAR_BLACKHOLE_DESCRIPTION"
-	Value "Somehow a black hole has formed in this system without destroying the planets orbiting it. The intense gravity makes phase jumps more difficult and has a chance to suck in and destroy ships passing by."
+	Value "Somehow a black hole has formed in this system without destroying the planets orbiting it. The intense gravity makes phase jumps more difficult and the stresses from the singularity damages nearby ships."
 StringInfo
 	ID "IDS_ABILITY_STAR_PULSAR_NAME"
 	Value "Pulsar"
@@ -24855,3 +24855,6 @@ StringInfo
 StringInfo
 	ID "IDS_RANDOMEVENT_OPENREBELLION_NAME"
 	Value "Open Rebellion"
+StringInfo
+	ID "IDS_RANDOMEVENT_RESOURCEBOOM_NAME"
+	Value "Commodity Boom"

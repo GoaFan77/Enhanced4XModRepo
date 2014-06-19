@@ -77,7 +77,7 @@ meshInfo
 	picture ""
 	shouldPrefer FALSE
 minZoomDistanceMult 2.000000
-glowColor 7fb87a10
+glowColor 5f404010
 ringColor ffe7c362
 cloudLayerTextureName ""
 planetResourceSetupInfo

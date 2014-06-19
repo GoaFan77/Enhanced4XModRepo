@@ -1,4 +1,49 @@
 StringInfo
+	ID "IDS_ABILITY_STAR_BLACKHOLE_DESCRIPTION"
+	Value "Somehow a black hole has formed in this system without destroying the planets orbiting it. The intense gravity makes phase jumps more difficult and has a chance to suck in and destroy ships passing by."
+StringInfo
+	ID "IDS_INFOCARD_BUFFCONDITION_IFTARGETDOESNOTHAVEBUFF"
+	Value "*VALUE0*"
+StringInfo
+	ID "IDS_BUFFSHORTNAME_NOTNANOLEECH"
+	Value "If not Nano Leeched"
+StringInfo
+	ID "IDS_BUFFSHORTNAME_NOTBOARDED"
+	Value "If not Boarded"
+StringInfo
+	ID "IDS_BUFFSHORTNAME_NOTFRACTURE"
+	Value "If not Fractured"
+StringInfo
+	ID "IDS_RANDOMEVENT_E4X_PHASICANOMOLY_NAME"
+	Value "Phasic Anomaly"
+StringInfo
+	ID "IDS_GAMEMESSAGE_E4X_PHASICANOMOLY"
+	Value "A %s is occuring in %s territory, allowing phase jumps between planets without connecting phase lanes!"
+StringInfo
+	ID "IDS_RANDOMEVENT_E4X_MININGRUSH_NAME"
+	Value "Mining Rush"
+StringInfo
+	ID "IDS_RANDOMEVENT_E4X_COMMODITYBOOM_NAME"
+	Value "Commodity Boom"
+StringInfo
+	ID "IDS_RANDOMEVENT_E4X_IMMIGRANTS_NAME"
+	Value "Immigrants"
+StringInfo
+	ID "IDS_GAMEMESSAGE_E4X_IMMIGRANTS"
+	Value "Large numbers of %s have moved to the planet %s."
+StringInfo
+	ID "IDS_RANDOMEVENT_E4X_PIRATECAPTAIN_NAME"
+	Value "Pirate Captain"
+StringInfo
+	ID "IDS_GAMEMESSAGE_E4X_PIRATECAPTAIN"
+	Value "An outcast %s has taken refuge at the planet %s, fighting for its owner in exchange for some tax income!"
+StringInfo
+	ID "IDS_RANDOMEVENT_E4X_PROPERTYBUBBLE_NAME"
+	Value "Property Bubble"
+StringInfo
+	ID "IDS_GAMEMESSAGE_E4X_PROPERTYBUBBLE"
+	Value "A %s is occuring on %s!"
+StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_CHANCETOABSORBWITHSHIELDS"
 	Value "Chance to Bypass Shields"
 StringInfo
@@ -45,7 +90,7 @@ StringInfo
 	Value "Salvager Outpost"
 StringInfo
         ID "IDS_RESEARCH_E4X_CapturePhaseGate_NAME"
-        Value "Reverse Engineer Phase Gate"
+        Value "Capture Phase Gate"
 StringInfo
         ID "IDS_RESEARCH_E4X_CapturePhaseGate_DESC"
         Value "Funds a secret project to capture a Vasari Phase Gate and reverse engineer it, allowing you to construct prototype versions of these strucutures yourself. While the effort will be very expensive and time consuming, the ability to move forces between distant worlds should be worth the cost."
@@ -54,10 +99,37 @@ StringInfo
 	Value "Uncolonizeable Gas Giant Planet"
 StringInfo
         ID "IDS_CAPITALSHIP_E4X_PirateLeader_NAME"
-        Value "Pirate Captain"
+        Value "* Pirate Captain"
 StringInfo
         ID "IDS_CAPITALSHIP_E4X_PirateLeader_DESC"
-        Value "Leadarrr of the Pirate Scum, he guarrds their base and their booty, and leads his maties into battle!"
+        Value "Leadarrr of the Pirate Scum, he guarrds their base and their booty, and leads his maties into battle! Cross him at your own risk, but he will gladly work for a share of the loot."
+StringInfo
+        ID "IDS_Ability_E4X_PirateIonBlast_DESC"
+        Value "A modified version of the Akkan's Ion Cannon, it is slower firing but in addition to entirely disabling the target enemy ships it also short circuits the airlocks. Frigates that are destroyed while disabled will be captured and brought under your control."
+StringInfo
+        ID "IDS_Ability_E4X_PirateWrath_NAME"
+        Value "Pirate's Wrath"
+StringInfo
+        ID "IDS_Ability_E4X_PirateWrath_DESC"
+        Value "Yarrr!!! We will take our enemy's credits from their cold dead hands and make them walk the airlock! Increases damage output and places bounty on enemies when your ships are attacked, but reduces passive regeneration."
+StringInfo
+        ID "IDS_Ability_E4X_PirateCaptainMinions_NAME"
+        Value "Come Me Hearties!"
+StringInfo
+        ID "IDS_Ability_E4X_PirateCaptainMinions_DESC"
+        Value "Come lend me some help lads! Here be plenty o' booty and booze for all! Summons a group of Pirate Corsairs to fight in battle for a few minutes."
+StringInfo
+        ID "IDS_Ability_E4X_TemporaryPirateShip_NAME"
+        Value "Temporary Pirate Lackey"
+StringInfo
+        ID "IDS_Ability_E4X_TemporaryPirateShip_DESC"
+        Value "This booty better be good, or I'm gettin' out o' here. Goes away after 5 minutes."
+StringInfo
+        ID "IDS_Ability_E4X_TakeNoPrisoners_NAME"
+        Value "Take No Prisoners"
+StringInfo
+        ID "IDS_Ability_E4X_TakeNoPrisoners_DESC"
+        Value "Grrr, these lads insist on fighten' the haarrrd wayyy. Fine, all ships, take no prisoners! We'll see how all those fancy shields work in a Pirrrate brawl. Incoming weapons fire may bypass the shields of all ships in the gravity well."
 StringInfo
         ID "IDS_Ability_E4X_SummonPirates_NAME"
         Value "Hire Pirate Band"
@@ -65,17 +137,17 @@ StringInfo
         ID "IDS_Ability_E4X_SummonPirates_DESC"
         Value "Contacts a band of pirates to serve under your command, for a pile of cold hard credits of course."
 StringInfo
-        ID "IDS_Ability_E4X_PirateWrath_NAME"
-        Value "Pirate Wrath"
-StringInfo
-        ID "IDS_Ability_E4X_PirateWrath_DESC"
-        Value "Yarrr!!! We will take our enemy's credits from their cold dead hands and make them walk the airlock! Increases damage output and places bounty on enemies when your ships are attacked, but reduces passive regeneration."
-StringInfo
         ID "IDS_PLANETMODULE_E4X_PirateCommandCenter_NAME"
         Value "Pirate Outpost"
 StringInfo
         ID "IDS_PLANETMODULE_E4X_PirateCommandCenter_DESC"
         Value "A pirate base of operations, if captured its communication systems can be used to obtain help from the criminal underworld... for a price."
+StringInfo
+        ID "IDS_Ability_E4X_AbandonStructure_NAME"
+        Value "Abandon Structure"
+StringInfo
+        ID "IDS_Ability_E4X_AbandonStructure_DESC"
+        Value "Evacuates your personel from the captureable structure, reverting it to neutral control."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_TRADEINCOME_DESCRIPTION"
 	Value "An atomic scale scanning and reordering system, it allows all manner of products to be spatially compressed in order to make for more efficient transport through your empire's trade network. Also reduces the cost of logistics upgrades."
@@ -219,10 +291,10 @@ StringInfo
         Value "This vessel does not have a phase drive, and thus cannot leave the gravity well."
 StringInfo
 	ID "IDS_PLANETDETAILSINFOCARD_CANNOTCOLONIZEASREQUIRESRESEARCH"
-	Value "Planet Colonization Technology Required: %s"
+	Value "Requires %s research to colonize."
 StringInfo
 	ID "IDS_GAMEMESSAGE_COLONIZENEEDPREREQUISITERESEARCH"
-	Value "Planet Colonization Technology Required: %s"
+	Value "Requires %s research to colonize."
 StringInfo
         ID "IDS_RESEARCH_E4X_BLAarmor_NAME"
         Value "Blast Resistant Armor"
@@ -249,7 +321,7 @@ StringInfo
         Value "Cyber Battle Drone"
 StringInfo
         ID "IDS_RESEARCH_E4X_RestrictUncolonizeablePlanets_NAME"
-        Value "Uncolonizeable"
+        Value "Unavailable"
 StringInfo
 		ID "IDS_PLANETMODULE_E4X_NeutralTradeStation"
 		Value "Trade Station"
@@ -288,7 +360,7 @@ StringInfo
 	Value "TEC"
 StringInfo
 	ID "IDS_RACESELECTDIALOG_TECHLOYALIST_DESCRIPTION"
-	Value "Weary from the long decades of war, the Trader Emergency Colalition seeks security from the hardship of war. Convinced that the war is impossible to win, the TEC have constructed massive fortifications to wait out the political chaos as the factions split amongst themselves. Yet while not hopeful about the prospect, many TEC Leaders also dream a diplomatic solution may be possible among their enemies outcasts to end the war once and for all."
+	Value "Weary from the long decades of war, the Trader Emergency Coalition seeks security from the hardship of war. Convinced that the war is impossible to win, the TEC have constructed massive fortifications to wait out the political chaos as the factions split amongst themselves. Yet while not hopeful about the prospect, many TEC Leaders also dream a diplomatic solution may be possible among their enemies outcasts to end the war once and for all."
 StringInfo
 	ID "IDS_RACESELECTDIALOG_TECHREBEL_DESCRIPTION"
 	Value "The great war has also created deep feelings of hatred among the Trader population, feelings so strong that hundreds of systems and entire fleet units of the TEC defected to take a more aggressive position in the war. These Rebels evnetually organized into the Human Trader State (HTS), and vowed total annihalation on the xenos and witches that killed so many friends and family. Maximum firepower and deception are the only tools fitting for the job."
@@ -573,7 +645,7 @@ StringInfo
 	Value "Don't forget to explore your planets. Not only will you find artifacts and bonuses more often in E4X, but some artifacts can be used to activate powerful ancient superweapons you may find orbitting planets."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip01"
-	Value "Heroes are powerful units that are free to summon, but you can only have one of each at a time, require research, and will take longer to return each time you request one. Techs required to build them are highlighted in yellow and have a star above them."
+	Value "Heroes are powerful units that are free to summon, but you can only have one of each at a time, require research, and will take longer to return each time you request one. They are unlocked by special techs in the Diplomacy tree."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip02"
 	Value "Be careful how you build your civilian infrustructure in E4X. Research labs, trade ports and refineries all give extra bonuses or penalties, and work best on specific types of planets."
@@ -819,7 +891,7 @@ StringInfo
         Value "Your faction is the Ascended Advent, a sect of the Advent who broke away after sensing a growing darkness from within the Unity. Now focusing more on transcending to a higher state within the Unity, the Ascended have much stronger special abilities. All of their ships can subtlety protect others for a brief time on being destroyed, and carry greater antimatter reserves. They can also build Domina Subjucators from the start of the game."
 StringInfo
         ID "IDS_RESEARCH_E4X_FactionBonusTECLoyals_NAME"
-        Value "Trader Emergency Colalition"
+        Value "Trader Emergency Coalition"
 StringInfo
         ID "IDS_RESEARCH_E4X_FactionBonusTECLoyals_DESC"
         Value "Your faction is the TEC, the remnants of the core coalition that formed over a quarter century ago. Faced with the hard reality of being unable to expel the invaders, they are determined to never let another Trader world fall. They can build both higher quantities and qualities of defenses, can upgraded planet defense capacities cheaper and faster, have more armor, and can deploy starbases faster and with the resupply capacities already included."
