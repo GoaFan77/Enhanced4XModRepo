@@ -20,7 +20,7 @@ StringInfo
 	Value "Phasic Anomaly"
 StringInfo
 	ID "IDS_GAMEMESSAGE_E4X_PHASICANOMOLY"
-	Value "A %s is occuring in %s territory, allowing phase jumps between planets without connecting phase lanes!"
+	Value "A %s is occurring in %s territory, allowing phase jumps between planets without connecting phase lanes!"
 StringInfo
 	ID "IDS_RANDOMEVENT_E4X_MININGRUSH_NAME"
 	Value "Mining Rush"
@@ -44,7 +44,7 @@ StringInfo
 	Value "Property Bubble"
 StringInfo
 	ID "IDS_GAMEMESSAGE_E4X_PROPERTYBUBBLE"
-	Value "A %s is occuring on %s!"
+	Value "A %s is occurring on %s!"
 StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_CHANCETOABSORBWITHSHIELDS"
 	Value "Chance to Bypass Shields"
@@ -53,13 +53,13 @@ StringInfo
 		Value "Uncharted Navigation Route"
 StringInfo
 		ID "IDS_PlanetBonus_E4X_UnchartedNavigationRoute_DESC"
-		Value "The chaotic asteroids and debris in this sector have prevented the creation of safe navigation charts, causing trade to avoid this sector and ships to take slightly more damge."
+		Value "The chaotic asteroids and debris in this sector have prevented the creation of safe navigation charts, causing trade to avoid this sector and ships to take slightly more damage."
 StringInfo
 		ID "IDS_PlanetBonus_E4X_UncolRareCrystal_NAME"
 		Value "Rare Crystal Deposits"
 StringInfo
 		ID "IDS_PlanetBonus_E4X_UncolRareCrystal_DESC"
-		Value "The types of crystals found in the asteroids of this gravity well are unusually refined, increasing the efficency of refining operations and yield."
+		Value "The types of crystals found in the asteroids of this gravity well are unusually refined, increasing the efficiency of refining operations and yield."
 StringInfo
 		ID "IDS_PlanetBonus_E4X_UncolRareMetal_NAME"
 		Value "M-Type Asteroid Cluster"
@@ -95,7 +95,7 @@ StringInfo
         Value "Capture Phase Gate"
 StringInfo
         ID "IDS_RESEARCH_E4X_CapturePhaseGate_DESC"
-        Value "Funds a secret project to capture a Vasari Phase Gate and reverse engineer it, allowing you to construct prototype versions of these strucutures yourself. While the effort will be very expensive and time consuming, the ability to move forces between distant worlds should be worth the cost."
+        Value "Funds a secret project to capture a Vasari Phase Gate and reverse engineer it, allowing you to construct prototype versions of these structures yourself. While the effort will be very expensive and time consuming, the ability to move forces between distant worlds should be worth the cost."
 StringInfo
 	ID "IDS_PLANETTYPE_GASGIANT"
 	Value "Uncolonizeable Gas Giant Planet"
@@ -149,7 +149,7 @@ StringInfo
         Value "Abandon Structure"
 StringInfo
         ID "IDS_Ability_E4X_AbandonStructure_DESC"
-        Value "Evacuates your personel from the captureable structure, reverting it to neutral control."
+        Value "Evacuates your personnel from the captureable structure, reverting it to neutral control."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_TRADEINCOME_DESCRIPTION"
 	Value "An atomic scale scanning and reordering system, it allows all manner of products to be spatially compressed in order to make for more efficient transport through your empire's trade network. Also reduces the cost of logistics upgrades."
@@ -158,10 +158,10 @@ StringInfo
 	Value "Uncovered factory designs allow ships and modules to be constructed in a relativistically accelerated frame of reference, making them build at a quicker rate. These advanced factories also reduce the costs of Industry specialization on your planets."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_PLANETBOMBINGSHIELD_DESCRIPTION"
-	Value "A large planetary energy system that emits charged particles into the upper atmosphere, creating a partial barrier to orbital bombardment. Also reduces the cost of planetary infrustructure upgrades."
+	Value "A large planetary energy system that emits charged particles into the upper atmosphere, creating a partial barrier to orbital bombardment. Also reduces the cost of planetary infrastructure upgrades."
 StringInfo
 	ID "IDS_GAMEMESSAGE_RESEARCHNEEDPREREQUISITEONEPOINT"
-	Value "%d point of the research or artifact %s must be aquired first."
+	Value "%d point of the research or artifact %s must be acquired first."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPHASE_NAME"
 	Value "Pressurized Occupation"
@@ -239,7 +239,7 @@ StringInfo
 	Value "Genetic mutation to promote subdermal fat and other insulating traits is imposed on all inhabitants of Ice and Cryo planets, increasing the population those planets can support."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPIRONPHASE0_DESCRIPTION"
-	Value "Inhabitants are genetically modified to slow their metabolisms to survive more easily in non-organic environements, increasing the population that Asteroid, Dwarf, and Ferrous planets can support."
+	Value "Inhabitants are genetically modified to slow their metabolisms to survive more easily in non-organic environments, increasing the population that Asteroid, Dwarf, and Ferrous planets can support."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPIRONPHASE1_NAME"
 	Value "Carbon Monoxide Respiration"
@@ -278,7 +278,7 @@ StringInfo
         Value "Construct Planetary Defenses"
 StringInfo
         ID "IDS_Ability_E4X_DeployPlanetaryDefenses_DESC"
-        Value "Creates the infrustructure needed to begin construction of planetary defenses, with extra health and weapons being added over time. This is only needed on planet besides your homeworld that were colonized before researching the technology."
+        Value "Creates the infrastructure needed to begin construction of planetary defenses, with extra health and weapons being added over time. This is only needed on planet besides your homeworld that were colonized before researching the technology."
 StringInfo
         ID "IDS_Ability_E4X_TECLoyalsAutoConstructStarbase_NAME"
         Value "Automated Construction"
@@ -314,7 +314,7 @@ StringInfo
         Value "Cyber Focus Drone"
 StringInfo
         ID "IDS_Frigate_E4X_CyberLightSwarm_NAME"
-        Value "Cyber Persuit Drone"
+        Value "Cyber Pursuit Drone"
 StringInfo
         ID "IDS_Frigate_E4X_CyberSupportSwarm_NAME"
         Value "Cyber Repair Drone"
@@ -365,19 +365,19 @@ StringInfo
 	Value "Weary from the long decades of war, the Trader Emergency Coalition seeks security from the hardship of war. Convinced that the war is impossible to win, the TEC have constructed massive fortifications to wait out the political chaos as the factions split amongst themselves. Yet while not hopeful about the prospect, many TEC Leaders also dream a diplomatic solution may be possible among their enemies outcasts to end the war once and for all."
 StringInfo
 	ID "IDS_RACESELECTDIALOG_TECHREBEL_DESCRIPTION"
-	Value "The great war has also created deep feelings of hatred among the Trader population, feelings so strong that hundreds of systems and entire fleet units of the TEC defected to take a more aggressive position in the war. These Rebels evnetually organized into the Human Trader State (HTS), and vowed total annihalation on the xenos and witches that killed so many friends and family. Maximum firepower and deception are the only tools fitting for the job."
+	Value "The great war has also created deep feelings of hatred among the Trader population, feelings so strong that hundreds of systems and entire fleet units of the TEC defected to take a more aggressive position in the war. These Rebels eventually organized into the Human Trader State (HTS), and vowed total annihilation on the xenos and witches that killed so many friends and family. Maximum firepower and deception are the only tools fitting for the job."
 StringInfo
 	ID "IDS_RACESELECTDIALOG_PSILOYALIST_DESCRIPTION"
-	Value "Dejection, isolation, and religious furor are powerful emotions, and ones the Unity does not forget. Desiring vengence on those who exiled them long ago, the majority of Advent Matriarchs have vowed to continue total war until Trader civilization crumbles, and its remains are assimulated into the Unity's will. Now with untold mastery over the minds of others, the Orthodox Advent are untroubled by either the soft and over confident 'Ascended' apostates or their traditional enemies."
+	Value "Dejection, isolation, and religious furor are powerful emotions, and ones the Unity does not forget. Desiring vengeance on those who exiled them long ago, the majority of Advent Matriarchs have vowed to continue total war until Trader civilization crumbles, and its remains are assimilated into the Unity's will. Now with untold mastery over the minds of others, the Orthodox Advent are untroubled by either the soft and over confident 'Ascended' apostates or their traditional enemies."
 StringInfo
 	ID "IDS_RACESELECTDIALOG_PSIREBEL_DESCRIPTION"
-	Value "Years of conflict have left nothing intact, not even the Unity. Apalled by the devestation caused in the name of vengence and growing concerned of a new evil lurking just beyond their perception, many proment Psitegrats, calling themselves the 'Ascended Ones', severed thier connection to the unity to create their own. This purified unity, with new power over even life and death, seeks to work with anyone who can bring the war to an end and help cleanse the universe of the unknown evil."
+	Value "Years of conflict have left nothing intact, not even the Unity. Appalled by the devastation caused in the name of vengeance and growing concerned of a new evil lurking just beyond their perception, many prominent Psitegrats, calling themselves the 'Ascended Ones', severed their connection to the unity to create their own. This purified unity, with new power over even life and death, seeks to work with anyone who can bring the war to an end and help cleanse the universe of the unknown evil."
 StringInfo
 	ID "IDS_RACESELECTDIALOG_PHASELOYALIST_DESCRIPTION"
-	Value "Millenia of fleeing oblivion have made the Vasari paranoid and cynical, but even to them the situation is dire. Bogged down in the toughest war in the species' history, they have only a few years left to resume the migration to the next galaxy or be destroyed by thier unknown assassin. Consumed only with gathering resources for the journey, the Vasari Central Command (VCC) is willing to do anything to gain the resources they need, even as its authority is being challenged for the first time in its existance."
+	Value "Millennia of fleeing oblivion have made the Vasari paranoid and cynical, but even to them the situation is dire. Bogged down in the toughest war in the species' history, they have only a few years left to resume the migration to the next galaxy or be destroyed by their unknown assassin. Consumed only with gathering resources for the journey, the Vasari Central Command (VCC) is willing to do anything to obtain what they need, even as its authority is challenged for the first time in its existence."
 StringInfo
 	ID "IDS_RACESELECTDIALOG_PHASEREBEL_DESCRIPTION"
-	Value "Well aware of the closing enemy chasing them, many Vasari, especially the Diplomats, front line units, and the more curious clan leaders, believe the decades long war was a waste of time. Seeking to restart the galactic migration as quick as possible, these Vasari broke thier clan ties and organized themselves into the Vasari Independent Republic (VIR), and rushed to take advantage of the altered political landscape to forge a new Triple Alliance with the other races."
+	Value "Well aware of the closing enemy chasing them, many Vasari, especially the Diplomats, frontline units, and the more curious clan leaders, believe the decades long war was a waste of time. Seeking to restart the galactic migration as quickly as possible, these Vasari broke their clan ties and organized themselves into the Vasari Independent Republic (VIR), and rushed to take advantage of the altered political landscape to forge a new Triple Alliance with the other races."
 StringInfo
 	ID "IDS_RACESELECTDIALOG_SELECTRANDOM"
 	Value "Random"
@@ -488,13 +488,13 @@ StringInfo
         Value "Streamlined Propulsion"
 StringInfo
         ID "IDS_Ability_E4X_AdventCapStreamlinedPropulsionUpgrade_DESC"
-        Value "Modifies the propulsion systems aboard a capitalship to take advantage of more efficient thrustes, improving the manuverability and speed."
+        Value "Modifies the propulsion systems aboard a capitalship to take advantage of more efficient thrusters, improving the maneuverability and speed."
 StringInfo
         ID "IDS_Ability_E4X_AdventLoyalistTitanUnityMassCrippleUpgrade_NAME"
         Value "Unity's Wrath"
 StringInfo
         ID "IDS_Ability_E4X_AdventLoyalistTitanUnityMassCrippleUpgrade_DESC"
-        Value "A cybernetic implant is installed in the Psintegrat of the Coronata, forcing her to relive the pain of the expulsion of the unity, making her wrath stronger and enabling the Unity Mass ability to overwelm defensive subsystems on the target."
+        Value "A cybernetic implant is installed in the Psintegrat of the Coronata, forcing her to relive the pain of the expulsion of the unity, making her wrath stronger and enabling the Unity Mass ability to overwhelm defensive subsystems on the target."
 StringInfo
         ID "IDS_Ability_E4X_AdventRebelTitanHealingBonusUpgrade_NAME"
         Value "Divine Reformation"
@@ -527,7 +527,7 @@ StringInfo
         Value "Installs extra armor plating around critical components of the capitalship such as engines, power generators, at the bridge, increasing the durability of the ship's hull."
 StringInfo
         ID "IDS_Ability_E4X_TECCapEnhancedNukesUpgrade_NAME"
-        Value "Improved Warhead Lauchers"
+        Value "Improved Warhead Launchers"
 StringInfo
         ID "IDS_Ability_E4X_TECCapEnhancedNukesUpgrade_DESC"
         Value "Upgrades the warhead pylons on the targeted capitalships with a faster loading mechanism and larger capacity, increasing the rate of fire of planetary bombardment."
@@ -554,7 +554,7 @@ StringInfo
         Value "Maintenance Drones"
 StringInfo
         ID "IDS_Ability_E4X_TECTitanMaintenanceDronesUpgrade_DESC"
-        Value "Installs autonomous maitenance drone depots on the titan, who can assist in repair the hull of the titan and keep its weapons in top condition, allowing them to be fired more rapidly."
+        Value "Installs autonomous maintenance drone depots on the titan, who can assist in repair the hull of the titan and keep its weapons in top condition, allowing them to be fired more rapidly."
 StringInfo
         ID "IDS_Ability_E4X_VasariCapCheaperAbilitiesUpgrade_NAME"
         Value "Antimatter Conservation"
@@ -566,7 +566,7 @@ StringInfo
         Value "Phased Regeneration"
 StringInfo
         ID "IDS_Ability_E4X_VasariCapJumpShieldRestoreUpgrade_DESC"
-        Value "Allows Vasari capitalships to capture some of the energy dispursed from exiting phase space to put into their shield generators, regenerating some shields every time they exit phase space."
+        Value "Allows Vasari capitalships to capture some of the energy dispersed from exiting phase space to put into their shield generators, regenerating some shields every time they exit phase space."
 StringInfo
         ID "IDS_Ability_E4X_VasariCapPulseShieldInterferenceUpgrade_NAME"
         Value "Pulse Shield Interference"
@@ -593,10 +593,10 @@ StringInfo
         Value "Reinforces the titan's hull with extremely strong, extradimensional metals that sometimes collect on ships after a phase jump, greatly increasing the strength of the titan's superstructure."
 StringInfo
         ID "IDS_Ability_E4X_VasariTitanIntenseBeamUpgrade_NAME"
-        Value "Percise Pulse Beams"
+        Value "Precise Pulse Beams"
 StringInfo
         ID "IDS_Ability_E4X_VasariTitanIntenseBeamUpgrade_DESC"
-        Value "Reconfigure's the titan's antifighter pulse beams to produce narrower, more percise beams, allowing them to cut right through weak strikecraft hulls, destroying them instantly."
+        Value "Reconfigures the titan's antifighter pulse beams to produce narrower, more precise beams, allowing them to cut right through weak strikecraft hulls, destroying them instantly."
 StringInfo
         ID "IDSGalaxyScenarioTypeSecretRandomEncounters"
         Value "Classified"
@@ -611,7 +611,7 @@ StringInfo
         Value "Disintegration Beam"
 StringInfo
         ID "IDS_Ability_E4X_PhaseAntiStructureDebuff_DESC"
-        Value "The disintegration beam weapon of the Karnath Assault Swarm is particularly corosive to heavy structure armor, giving it a chance to inflict extra damage over time and forcing certain structures to stop working."
+        Value "The disintegration beam weapon of the Karnath Assault Swarm is particularly corrosive to heavy structure armor, giving it a chance to inflict extra damage over time and forcing certain structures to stop working."
 StringInfo
         ID "IDS_Ability_E4X_PsiAntiStructureDebuff_NAME"
         Value "Disruptive Plasma Bursts"
@@ -641,16 +641,16 @@ StringInfo
 	Value "Karnath Assault Swarm"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PIRATE_MERCENARIES_DESCRIPTION"
-	Value "The HTS's genocide policies creates lots of oppertunities for plunder, attracting less reputable forces to your cause, allowing free ships to be organized through the pirate embassy on your homeworld."
+	Value "The HTS's genocide policies creates lots of opportunities for plunder, attracting less reputable forces to your cause, allowing free ships to be organized through the pirate embassy on your homeworld."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip00"
-	Value "Tip: Don't forget to explore your planets. Not only will you find artifacts and bonuses more often in E4X, but some artifacts can be used to activate powerful ancient superweapons you may find orbitting planets."
+	Value "Tip: Don't forget to explore your planets. Not only will you find artifacts and bonuses more often in E4X, but some artifacts can be used to activate powerful ancient superweapons you may find orbiting planets."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip01"
 	Value "Tip: Heroes are powerful units that are free to summon, but you can only have one of each at a time, require research, and will take longer to return each time you request one. They are unlocked by special techs in the Diplomacy tree."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip02"
-	Value "Tip: Be careful how you build your civilian infrustructure in E4X. Research labs, trade ports and refineries all give extra bonuses or penalties, and work best on specific types of planets."
+	Value "Tip: Be careful how you build your civilian infrastructure in E4X. Research labs, trade ports and refineries all give extra bonuses or penalties, and work best on specific types of planets."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip03"
 	Value "Tip: Each races gets a unique planet bonus on their homeworld in E4X. Adjust your early game strategy accordingly to take advantage of these."
@@ -659,7 +659,7 @@ StringInfo
 	Value "Tip: In E4X you no longer need to built several envoy cruisers. Just one can build embassies at all of your allies' planets. Embassies require no fleet supply, so build one on each of your allies worlds!"
 StringInfo
 	ID "IDS_E4X_LoadScreenTip05"
-	Value "Tip: Envoys are no longer just for working with allies in E4X. Research some espionoge abilities in the Diplomacy tree to spy and sabatoge your enemies once you've built embassies for your allies."
+	Value "Tip: Envoys are no longer just for working with allies in E4X. Research some espionage abilities in the Diplomacy tree to spy and sabotage your enemies once you've built embassies for your allies."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip06"
 	Value "Tip: In E4X culture is a major gameplay mechanic. It provides at least twice the economic boost, provides military bonuses without any research, and can overthrow planets twice as fast."
@@ -680,10 +680,10 @@ StringInfo
 	Value "Tip: The Ascended Advent enjoy even more powers over life and death in E4X. Their ships will shield friendly forces for a time after their death, and they will have quicker access to better healing structures and ships."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip12"
-	Value "Tip: The VCC can get capitalships far easier in E4X thanks to half price research for them. They also start with a titan factory, and can quickly research the ability for their colony firgates to render planets inhosbitable for a long time, hindering their opponents' ability to expand."
+	Value "Tip: The VCC can get capitalships far easier in E4X thanks to half price research for them. They also start with a titan factory, and can quickly research the ability for their colony frigates to render planets inhospitable for a long time, hindering their opponents' ability to expand."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip13"
-	Value "Tip: The VIR has extremely dangerous tactical mobility at their disposal in E4X. Their homeworld starts with a phase stabalizer, and they can build more without research. Their ships can also become immune to phase jump inhibitors for a short while on entering a planet, and they phase jump faster than others."
+	Value "Tip: The VIR has extremely dangerous tactical mobility at their disposal in E4X. Their homeworld starts with a phase stabilizer, and they can build more without research. Their ships can also become immune to phase jump inhibitors for a short while on entering a planet, and they phase jump faster than others."
 StringInfo
 	ID "IDS_ABILITY_DETECTMINESTECH_DESCRIPTION"
 	Value "Countermeasure systems disrupt and destroy the simple phase space cloaking field of enemy mines, though they require a period of time to work, and can be interrupted by weapons fire."
@@ -716,7 +716,7 @@ StringInfo
 	Value "Allows Sivuskras Ruiners to deploy Gravity Mines, which slow enemy ships around it and prevents them from entering hyperspace."
 StringInfo
     ID "IDS_RESEARCHSUBJECT_TRUCE_AMONGST_ROGUES_DESCRIPTION"
-    Value "Your diplomats go on a campaign to unite all the elements of trader space against the alien invaders, giving you some special sway with the pirates and allowing your colony ships to bring neutral trader ships and colonies into your faction."
+    Value "Your diplomats go on a campaign to unite all the elements of Trader space against the alien invaders, giving you some special sway with the pirates and allowing your colony ships to bring neutral Trader ships and colonies into your faction."
 StringInfo
     ID "IDS_ABILITY_MICROPHASEJUMP_DESCRIPTION"
     Value "Instantly transports the titan to the targeted position, and increasing turning speed and phase jump charge up time for a brief duration."
@@ -782,7 +782,7 @@ StringInfo
         Value "Newly converted pilgrims flock to key holy sites at your Empire, increasing tax income on any planet with a culture center."
 StringInfo
         ID "IDS_RESEARCH_E4X_UltimateTrancendence_NAME"
-        Value "Ultimate Trancendence"
+        Value "Ultimate Transcendence"
 StringInfo
         ID "IDS_RESEARCH_E4X_UltimateTrancendence_DESC"
         Value "Your spiritual leaders have reached a level of enlightenment capable of maintaining constant communication to those in the beyond, making it easier to bring back true believers and converts to life."
@@ -818,7 +818,7 @@ StringInfo
         Value "Common Cause"
 StringInfo
         ID "IDS_Ability_E4X_TaRAssimulatePlanet_DESC"
-        Value "Special representatives on this colony frigate convince neutral trader militias or colonies to join against the foreign menaces, integrating them into your Empire. The process will take time however, and neither your colony frigate nor acquired forces will be able to phase jump for a while."
+        Value "Special representatives on this colony frigate convince neutral Trader militias or colonies to join against the foreign menaces, integrating them into your Empire. The process will take time however, and neither your colony frigate nor acquired forces will be able to phase jump for a while."
 StringInfo
         ID "IDS_Ability_E4X_SiegeModeModule_NAME"
         Value "Siege Mode"
@@ -872,16 +872,16 @@ StringInfo
         Value "Vasari Central Command"
 StringInfo
         ID "IDS_RESEARCH_E4X_FactionBonusPhaseLoyals_DESC"
-        Value "Your faction is the Vasari Central Command (VCC), lead by the overlords of the migration fleet. Fearing their ancient pursuers, they are more desperate than ever to leave trader space, and will do anything to acquire supplies for the journey. The VCC start with an improved colony frigate and a titan factory, and they get discounted command upgrades, allowing them to deploy their mobile exodus fleet more easily. Their pulse weapons are also more effective at long range, and wave cannons can fire faster."
+        Value "Your faction is the Vasari Central Command (VCC), lead by the overlords of the migration fleet. Fearing their ancient pursuers, they are more desperate than ever to leave Trader space, and will do anything to acquire supplies for the journey. The VCC start with an improved colony frigate and a titan factory, and they get discounted command upgrades, allowing them to deploy their mobile exodus fleet more easily. Their pulse weapons are also more effective at long range, and wave cannons can fire faster."
 StringInfo
         ID "IDS_RESEARCH_E4X_FactionBonusPhaseRebels_NAME"
         Value "Vasari Ind. Republic"
 StringInfo
         ID "IDS_RESEARCH_E4X_FactionBonusPhaseRebels_DESC"
-        Value "Your faction is the Vasari Independent Republic (VIR), a break away group of Vasari frontline units and diplomats. Having seen for themselves the capacity of their enemies and just as fearful of the growing terror, the VIR has decided that its best to put aside differences and make a run for it together. Focusing on hit and run tactics and diplomatic outreach, the VIR has an easier time making alliances, can move faster, and can build phase gates without research. Their phase missiles also have longer range."
+        Value "Your faction is the Vasari Independent Republic (VIR), a breakaway group of Vasari frontline units and diplomats. Having seen for themselves the capacity of their enemies and just as fearful of the growing terror, the VIR has decided that it's best to put aside differences and make a run for it together. Focusing on hit and run tactics and diplomatic outreach, the VIR has an easier time making alliances, can move faster, build phase gates without research, and have longer range phase missiles."
 StringInfo
         ID "IDS_RESEARCH_E4X_FactionBonusPsiLoyals_NAME"
-        Value " Orthodox Advent"
+        Value "Orthodox Advent"
 StringInfo
         ID "IDS_RESEARCH_E4X_FactionBonusPsiLoyals_DESC"
         Value "Your faction is the Orthodox Advent, lead by the main hierarchy of the Advent that has existed for millennia. They seek to convert all nonbelievers to follow the unity and inflict justice on the Traders for their expulsion. Their culture is more effective, and temple of communions take half as many logistical slots to build. They also start with a free culture center and can build Temples of Communion without research."
@@ -890,19 +890,19 @@ StringInfo
         Value "Ascended Advent"
 StringInfo
         ID "IDS_RESEARCH_E4X_FactionBonusPsiRebels_DESC"
-        Value "Your faction is the Ascended Advent, a sect of the Advent who broke away after sensing a growing darkness from within the Unity. Now focusing more on transcending to a higher state within the Unity, the Ascended have much stronger special abilities. All of their ships can subtlety protect others for a brief time on being destroyed, and carry greater antimatter reserves. They can also build Domina Subjucators from the start of the game."
+        Value "Your faction is the Ascended Advent, a sect of the Advent who broke away after sensing a growing darkness from within the Unity. Now focusing more on transcending to a higher state within the Unity, the Ascended have much stronger special abilities. All of their ships can subtly protect others for a brief time when destroyed, and carry greater antimatter reserves. They can also build Domina Subjugators from the start of the game."
 StringInfo
         ID "IDS_RESEARCH_E4X_FactionBonusTECLoyals_NAME"
         Value "Trader Emergency Coalition"
 StringInfo
         ID "IDS_RESEARCH_E4X_FactionBonusTECLoyals_DESC"
-        Value "Your faction is the TEC, the remnants of the core coalition that formed over a quarter century ago. Faced with the hard reality of being unable to expel the invaders, they are determined to never let another Trader world fall. They can build both higher quantities and qualities of defenses, can upgraded planet defense capacities cheaper and faster, have more armor, and can deploy starbases faster and with the resupply capacities already included."
+        Value "Your faction is the TEC, the remnants of the core coalition that formed over a quarter century ago. Faced with the hard reality of being unable to expel the invaders, they are determined to never let another Trader world fall. They can build both higher quantities and qualities of defenses, can upgrade planet defense capacities cheaper and faster, have more armor, and can deploy starbases faster and with their resupply capacities already included."
 StringInfo
         ID "IDS_RESEARCH_E4X_FactionBonusTECRebels_NAME"
         Value "Human Trader State"
 StringInfo
         ID "IDS_RESEARCH_E4X_FactionBonusTECRebels_DESC"
-        Value "Your faction is the HTS, a collection of Trader worlds who defected under leaders who came to power promising to end the war via genocide to xenophobic electorates. Their ships can be built faster, fire faster and do more damage with every kill, and are better at planetary bombardment. They also are able to build better Krosov siege frigates and Ogrov torpedo cruisers without research."
+        Value "Your faction is the HTS, a collection of defecting Trader worlds whose leaders are committed to bringing a swift and bloody end to the war, even if it means committing the genocide of xenos and deviant humanity alike. Their ships can be built faster, fire faster and do more damage with every kill, and are better at planetary bombardment. They also are able to build better Krosov siege frigates and Ogrov torpedo cruisers without research."
 StringInfo
         ID "IDS_RESEARCH_E4X_RacialBonusTEC_NAME"
         Value "Traders"
@@ -1004,7 +1004,7 @@ StringInfo
         Value "TEC Embassy"
 StringInfo
         ID "IDS_Frigate_E4X_TechEmbassy_DESC"
-        Value "An embassy dedicated to protecting trader interests and gaining influence with foreigners."
+        Value "An embassy dedicated to protecting Trader interests and gaining influence with foreigners."
 StringInfo
         ID "IDS_Ability_E4X_DeployProbeMine_NAME"
         Value "Deploy Phase Probe"
@@ -1028,13 +1028,13 @@ StringInfo
         Value "Impose Sanctions"
 StringInfo
         ID "IDS_Ability_E4X_Sanctions_DESC"
-        Value "Strict sanctions are imposed on the targeted planet, threatening any company who does business there with being locked out of the trader economic system, substantially reducing trade income."
+        Value "Strict sanctions are imposed on the targeted planet, threatening any company who does business there with being locked out of the Trader economic system, substantially reducing trade income."
 StringInfo
         ID "IDS_Ability_E4X_StopBuilding_NAME"
         Value "Workers Revolt"
 StringInfo
         ID "IDS_Ability_E4X_StopBuilding_DESC"
-        Value "Sends a team of TEC labor specialists to the planet, who incite a planet wide strike over envy of the superior trader quality of life, stopping all orbital construction for its duration."
+        Value "Sends a team of TEC labor specialists to the planet, who incite a planet wide strike over envy of the superior Trader quality of life, stopping all orbital construction for its duration."
 StringInfo
         ID "IDS_RESEARCH_E4X_ABILITYACCESS_MineProbe_NAME"
         Value "Phasic Communications"
@@ -1133,7 +1133,7 @@ StringInfo
         Value "Hidden Academy"
 StringInfo
         ID "IDS_RESEARCH_E4X_ArtifactExperienceBonus_DESC"
-        Value "A secret officer academy on this planet improves the quality of your training facilities, allowing you to purchase an additional capitalship level and increases the amount of experience your capital ships recieve in battle."
+        Value "A secret officer academy on this planet improves the quality of your training facilities, allowing you to purchase an additional capitalship level and increases the amount of experience your capitalships receive in battle."
 StringInfo
         ID "IDS_RESEARCH_E4X_ArtifactMindReading_NAME"
         Value "Advanced Neuro-Center"
@@ -1607,7 +1607,7 @@ StringInfo
         Value "* Admiral Kol"
 StringInfo
         ID "IDS_Capitalship_E4X_HeroCommandTech_DESC"
-        Value "A war hero who lead the TEC to its first victory over the Vasari a year after their invasion and namesake of the powerful battleship, Admiral Kol is an effective commander best used to support his fleet right behind the front line. He prefers his mobile and well equipped Command Cruiser to the capital ships favored by other commanders."
+        Value "A war hero who lead the TEC to its first victory over the Vasari a year after their invasion and namesake of the powerful battleship, Admiral Kol is an effective commander best used to support his fleet right behind the front line. He prefers his mobile and well equipped Command Cruiser to the capitalships favored by other commanders."
 StringInfo
         ID "IDS_Capitalship_E4X_HeroCommandTech_TACT"
         Value "Admiral Kol is an excellent well rounded support unit. His Command Cruiser is faster than other heroes and his missiles have enough range to keep him between the LRM/Carriers in the rear and the main battle line, allowing him to buff as many targets as possible. He also always buffs the anitmatter of support units near him. Keep him out of direct combat and he should do well."
@@ -1712,7 +1712,7 @@ StringInfo
         Value "Summon Captain Aurelion"
 StringInfo
         ID "IDS_Ability_E4X_SpawnHeroCommandTech_DESC"
-        Value "A war hero who lead the TEC to its first victory over the Vasari a year after their invasion and namesake of the powerful battleship, Admiral Kol is an effective task force commander best used to support his fleet just out of enemy range. He prefers his mobile and well equipped Command Cruiser to the capital ships favored by other commanders."
+        Value "A war hero who lead the TEC to its first victory over the Vasari a year after their invasion and namesake of the powerful battleship, Admiral Kol is an effective task force commander best used to support his fleet just out of enemy range. He prefers his mobile and well equipped Command Cruiser to the capitalships favored by other commanders."
 StringInfo
         ID "IDS_Capitalship_E4X_HeroCombatPsi_NAME"
         Value "* Psintegrat Ayana"
@@ -1733,13 +1733,13 @@ StringInfo
         Value "Lock Strikecraft"
 StringInfo
         ID "IDS_Ability_E4X_StopFighters_DESC"
-        Value "Ayana uses her powerful telekinetic abilities to freeze all strikecraft in place that fly around her Domina Subjucator. This is a channeling ability."     
+        Value "Ayana uses her powerful telekinetic abilities to freeze all strikecraft in place that fly around her Domina Subjugator. This is a channeling ability."     
 StringInfo
         ID "IDS_Ability_E4X_SpiritChainBlast_NAME"
         Value "Soul Strike"
 StringInfo
         ID "IDS_Ability_E4X_SpiritChainBlast_DESC"
-        Value "Ayana's signature technique, she fires several vollies of psychic energy that pierce the very souls of the enemy crew, dealing direct hull damage and draining antimatter. The weakened blasts then continue on to hit multiple other targets."
+        Value "Ayana's signature technique, she fires several volleys of psychic energy that pierce the very souls of the enemy crew, dealing direct hull damage and draining antimatter. The weakened blasts then continue on to hit multiple other targets."
 StringInfo
         ID "IDS_Ability_E4X_NeuronicPossession_NAME"
         Value "Neuronic Possession"
@@ -1901,7 +1901,7 @@ StringInfo
         Value "If asked which of their leaders they feared most, most Vasari would pick their sectors' Overlord. Overlord Nihovalus has done his share to give the office its reputation. For over a century he has lead one of the leading armadas, tasked with keeping the warrior clans in line and ensuring colonization and migration continues on schedule. He has become used to his orders being followed without question, and underlings who fail him do not last long."
 StringInfo
         ID "IDS_Capitalship_E4X_HeroLeaderPhase_TACT"
-        Value "Nihovalus is an extremely dangerous tank unit and is to be used as such. He has the highest passive regeneration rates in the game and can actively heal massive damage to himself. This staying power allows him to use his precense to deplete enemy antimatter and shut down their abilities. If that wasn't enough, his ultimate can protect himself and his fleet from many debuffs, making this monster only defeatable in the direct combat which he excels at."
+        Value "Nihovalus is an extremely dangerous tank unit and is to be used as such. He has the highest passive regeneration rates in the game and can actively heal massive damage to himself. This staying power allows him to use his presence to deplete enemy antimatter and shut down their abilities. If that wasn't enough, his ultimate can protect himself and his fleet from many debuffs, making this monster only defeatable in the direct combat which he excels at."
 StringInfo
         ID "IDS_Ability_E4X_Authority_NAME"
         Value "Authority"
@@ -2105,10 +2105,10 @@ StringInfo
 	Value "The soil of this planet contains high concentrations of rare minerals, which attracts large businesses."
 StringInfo
 	ID "Axeldude_PLANETBONUS_Blizards_Name"
-	Value "SURVEY: Severe Blizards"
+	Value "SURVEY: Severe Blizzards"
 StringInfo
 	ID "Axeldude_PLANETBONUS_Blizards_Desc"
-	Value "Constant blizards hinder all planet development and population."
+	Value "Constant blizzards hinder all planet development and population."
 StringInfo
 	ID "Axeldude_PLANETBONUS_PoisonousFlora_Name"
 	Value "SURVEY: Poisonous Flora"
@@ -2120,7 +2120,7 @@ StringInfo
 	Value "SCAN: Greenhouse Effect"
 StringInfo
 	ID "Axeldude_PLANETBONUS_GreenhouseRD_Desc"
-	Value "Scanning shows the atmosphere of this planet has a greenhouse effect, surface temperatures are unusually high, dramaticaly decreasing desirability."
+	Value "Scanning shows the atmosphere of this planet has a greenhouse effect, surface temperatures are unusually high, dramatically decreasing desirability."
 StringInfo
 	ID "Axeldude_PLANETBONUS_GreenhouseTFO_Name"
 	Value "SCAN: Greenhouse Effect"
@@ -5504,7 +5504,7 @@ StringInfo
 	Value "Capital Ships"
 StringInfo
 	ID "IDS_INFOCARD_PLANETOPENCAPITALSHIPMANAGEMENT_DESCRIPTION"
-	Value "Construct capital ships at this planet."
+	Value "Construct capitalships at this planet."
 StringInfo
 	ID "IDS_INFOCARD_PLANETOPENFRIGATEMANAGEMENT0_NAME"
 	Value "Frigates"

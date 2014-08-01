@@ -136,7 +136,7 @@ planetUpgradeDef
 			shipBuildRateModifier 0.000000
 			cultureSpreadRateModifier 0.000000
 ringsChance 0.000000
-isColonizable TRUE
+isColonizable FALSE
 planetTypeForResearch "Uncolonizable"
 skyboxScalarsCount 5
 skyboxScalars
@@ -155,17 +155,7 @@ skyboxScalars
 	diffuseScalar 0.720000
 	ambientScalar 0.800000
 requiredPlanetBonusesCount 0
-possibleRandomPlanetBonusesCount 10
-bonus "PlanetBonusStableDebrisField"
-bonus "PlanetBonusAntimatterCores"
-bonus "PlanetBonusAntimatterCores"
-bonus "PlanetBonusAntimatterCores"
-bonus "PlanetBonus_E4X_UncolRareCrystal"
-bonus "PlanetBonus_E4X_UncolRareMetal"
-bonus "PlanetBonus_E4X_UncolTargetingInterference"
-bonus "PlanetBonus_E4X_UncolUnchartedNavigationRoute"
-bonus "PlanetBonus_E4X_UncolUnchartedNavigationRoute"
-bonus "PlanetBonus_E4X_UncolUnchartedNavigationRoute"
+possibleRandomPlanetBonusesCount 0
 ambienceSoundID "EFFECT_PLASMASTORMAMBIENCE_LOOP"
 renderAsVolcanic FALSE
 planetRuinDef

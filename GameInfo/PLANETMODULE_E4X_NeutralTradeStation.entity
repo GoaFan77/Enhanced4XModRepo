@@ -15,7 +15,7 @@ armorType "Module"
 hudIcon "HUDICON_PLANETMODULE_TECHORBITALTRADEPORT"
 smallHudIcon "HUDICONSMALL_PLANETMODULE_TECHORBITALTRADEPORT"
 infoCardIcon "INFOCARDICON_PLANETMODULE_TECHORBITALTRADEPORT"
-planetUpgradeSlotType "Civilian"
+planetUpgradeSlotType "Tactical"
 planetUpgradeSlotCount 0.000000
 basePrice
 	credits 900.000000

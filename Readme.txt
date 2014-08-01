@@ -424,3 +424,7 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Planetary Defenses will no longer attempt to attack invincible objects.
 		-Minor tweaks to the AI priorites, let me know if you notice any change in difficulty.
 		
+1.74	-Fixed AI stalling issue (released as 1.731 Hotfix)
+		-Readded Neutral Trading stations
+		-Stellar Phenomenona Planets now have the proper mine limits.
+		

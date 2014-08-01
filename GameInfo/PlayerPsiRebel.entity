@@ -68,7 +68,7 @@ entities
 			entityDefName "FrigatePsiRefineryShip"
 			entityDefName "Frigate_E4X_PsiEnvoyAI"
 	researchInfo
-		count 164
+		count 163
 		entityDefName "RESEARCH_E4X_HeroTransPsiAccess"		
 		entityDefName "RESEARCH_E4X_HeroLeaderPsiAccess"
 		entityDefName "RESEARCH_E4X_HeroCombatPsiAccess"
@@ -87,7 +87,6 @@ entities
 		entityDefName "RESEARCH_E4X_ImproveAIPsi"
 		entityDefName "RESEARCH_E4X_ImproveAIPsi2"
 		entityDefName "RESEARCH_E4X_ImproveAIPsi3"
-		entityDefName "RESEARCH_E4X_RestrictUncolonizeablePlanets"
 		entityDefName "RESEARCHSUBJECT_TRUTH_AND_RECONCILIATION"
 		entityDefName "RESEARCHSUBJECT_INSPIRED_WRAITH"
 		entityDefName "RESEARCHSUBJECT_ABILITYACCESS_HARMONY"

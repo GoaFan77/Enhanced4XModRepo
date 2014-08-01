@@ -328,12 +328,17 @@ planetType
 planetType
 	designName "AsteroidOrDead"
 	designStringId "IDSGalaxyScenarioTypePlanetAsteroidOrDead"
-	orbitBodyTypeCount 5
+	orbitBodyTypeCount 10
 	orbitBodyType "Asteroid"
 	orbitBodyType "Moon"
 	orbitBodyType "DeadAsteroid"
 	orbitBodyType "AsteroidBelt"
 	orbitBodyType "AsteroidSpaceJunk"
+	orbitBodyType "Asteroid"
+	orbitBodyType "Moon"
+	orbitBodyType "DeadAsteroid"
+	orbitBodyType "AsteroidBeltRE"
+	orbitBodyType "AsteroidSpaceJunkRE"
 planetType
 	designName "AsteroidOrDeadFair"
 	designStringId "IDSGalaxyScenarioTypePlanetAsteroidOrDeadFair"
@@ -520,7 +525,7 @@ planetType
 planetType
 	designName "RandomSpecial"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomSpecial"
-	orbitBodyTypeCount 11
+	orbitBodyTypeCount 22
 	orbitBodyType "GasGiant"
 	orbitBodyType "PlasmaStorm"
 	orbitBodyType "AsteroidBelt"
@@ -532,6 +537,17 @@ planetType
 	orbitBodyType "AntimatterFountain"
 	orbitBodyType "ShatteredMoon"
 	orbitBodyType "RadiationStorm"
+	orbitBodyType "GasGiantRE"
+	orbitBodyType "PlasmaStormRE"
+	orbitBodyType "AsteroidBeltRE"
+	orbitBodyType "MagneticCloud"
+	orbitBodyType "DeadAsteroid"
+	orbitBodyType "ShipGraveyard"
+	orbitBodyType "CometRE"
+	orbitBodyType "IceFieldRE"
+	orbitBodyType "AntimatterFountainRE"
+	orbitBodyType "ShatteredMoonRE"
+	orbitBodyType "RadiationStormRE"
 planetType
 	designName "RandomSpecialFair"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomSpecialFair"
@@ -550,7 +566,7 @@ planetType
 planetType
 	designName "RandomUncolonizable"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomUncolonizable"
-	orbitBodyTypeCount 10
+	orbitBodyTypeCount 20
 	orbitBodyType "GasGiant"
 	orbitBodyType "AsteroidBelt"
 	orbitBodyType "AsteroidSpaceJunk"
@@ -561,6 +577,16 @@ planetType
 	orbitBodyType "AntimatterFountain"
 	orbitBodyType "ShatteredMoon"
 	orbitBodyType "RadiationStorm"
+	orbitBodyType "GasGiantRE"
+	orbitBodyType "AsteroidBeltRE"
+	orbitBodyType "AsteroidSpaceJunkRE"
+	orbitBodyType "PlasmaStormRE"
+	orbitBodyType "MagneticCloud"
+	orbitBodyType "CometRE"
+	orbitBodyType "IceFieldRE"
+	orbitBodyType "AntimatterFountainRE"
+	orbitBodyType "ShatteredMoonRE"
+	orbitBodyType "RadiationStormRE"
 planetType
 	designName "RandomUncolonizableFair"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomUncolonizableFair"
@@ -578,7 +604,7 @@ planetType
 planetType
 	designName "RandomUncolonizableNonMagnetic"
 	designStringId "IDSGalaxyScenarioTypeRandomUncolonizalbeNonMagnetic"
-	orbitBodyTypeCount 10
+	orbitBodyTypeCount 20
 	orbitBodyType "AsteroidSpaceJunk"
 	orbitBodyType "AsteroidBelt"
 	orbitBodyType "GasGiant"
@@ -589,6 +615,16 @@ planetType
 	orbitBodyType "AntimatterFountain"
 	orbitBodyType "ShatteredMoon"
 	orbitBodyType "RadiationStorm"
+	orbitBodyType "AsteroidSpaceJunkRE"
+	orbitBodyType "AsteroidBeltRE"
+	orbitBodyType "GasGiantRE"
+	orbitBodyType "ShipGraveyard"
+	orbitBodyType "PlasmaStormRE"
+	orbitBodyType "CometRE"
+	orbitBodyType "IceFieldRE"
+	orbitBodyType "AntimatterFountainRE"
+	orbitBodyType "ShatteredMoonRE"
+	orbitBodyType "RadiationStormRE"
 planetType
 	designName "RandomUncolonizableNonMagneticFair"
 	designStringId "IDSGalaxyScenarioTypeRandomUncolonizalbeNonMagneticFair"
@@ -814,8 +850,9 @@ planetType
 planetType
 	designName "AsteroidBelt"
 	designStringId "IDSGalaxyScenarioTypePlanetAsteroidBelt"
-	orbitBodyTypeCount 1	
+	orbitBodyTypeCount 2	
 	orbitBodyType "AsteroidBelt"
+	orbitBodyType "AsteroidBeltRE"
 planetType
 	designName "AsteroidBeltFair"
 	designStringId "IDSGalaxyScenarioTypePlanetAsteroidBeltFair"
@@ -824,7 +861,8 @@ planetType
 planetType
 	designName "AsteroidSpaceJunk"
 	designStringId "IDSGalaxyScenarioTypePlanetAsteroidSpaceJunk"
-	orbitBodyTypeCount 1	
+	orbitBodyTypeCount 2
+	orbitBodyType "AsteroidSpaceJunk"
 	orbitBodyType "AsteroidSpaceJunk"
 planetType
 	designName "AsteroidSpaceJunkFair"
@@ -834,8 +872,9 @@ planetType
 planetType
 	designName "PlasmaStorm"
 	designStringId "IDSGalaxyScenarioTypePlanetPlasmaStorm"
-	orbitBodyTypeCount 1
+	orbitBodyTypeCount 2
 	orbitBodyType "PlasmaStorm"
+	orbitBodyType "PlasmaStormRE"
 planetType
 	designName "PlasmaStormFair"
 	designStringId "IDSGalaxyScenarioTypePlanetPlasmaStormFair"
@@ -849,8 +888,9 @@ planetType
 planetType
 	designName "GasGiant"
 	designStringId "IDSGalaxyScenarioTypePlanetGasGiant"
-	orbitBodyTypeCount 1	
+	orbitBodyTypeCount 2	
 	orbitBodyType "GasGiant"
+	orbitBodyType "GasGiantRE"
 planetType
 	designName "GasGiantFair"
 	designStringId "IDSGalaxyScenarioTypePlanetGasGiantFair"
@@ -864,28 +904,33 @@ planetType
 planetType
 	designName "Comet"
 	designStringId "IDSGalaxyScenarioTypePlanetComet"
-	orbitBodyTypeCount 1
+	orbitBodyTypeCount 2
 	orbitBodyType "Comet"
+	orbitBodyType "CometRE"
 planetType
 	designName "IceField"
 	designStringId "IDSGalaxyScenarioTypePlanetIceField"
-	orbitBodyTypeCount 1
+	orbitBodyTypeCount 2
 	orbitBodyType "IceField"
+	orbitBodyType "IceFieldRE"
 planetType
 	designName "ShatteredMoon"
 	designStringId "IDSGalaxyScenarioTypePlanetShatteredMoon"
-	orbitBodyTypeCount 1
+	orbitBodyTypeCount 2
 	orbitBodyType "ShatteredMoon"
+	orbitBodyType "ShatteredMoonRE"
 planetType
 	designName "RadiationStorm"
 	designStringId "IDSGalaxyScenarioTypePlanetRadiationStorm"
-	orbitBodyTypeCount 1
+	orbitBodyTypeCount 2
 	orbitBodyType "RadiationStorm"
+	orbitBodyType "RadiationStormRE"
 planetType
 	designName "AntimatterFountain"
 	designStringId "IDSGalaxyScenarioTypePlanetAntimatterFountain"
-	orbitBodyTypeCount 1
+	orbitBodyTypeCount 2
 	orbitBodyType "AntimatterFountain"
+	orbitBodyType "AntimatterFountainRE"
 planetType
 	designName "Wormhole"
 	designStringId "IDSGalaxyScenarioTypePlanetWormhole"
@@ -1021,7 +1066,7 @@ planetType
 	designStringId "IDS_PLANETTYPE_SWAMP"
 	orbitBodyTypeCount 1
 	orbitBodyType "SwampFair"
-orbitBodyTypeCount 74
+orbitBodyTypeCount 84
 orbitBodyType
 	typeName "BlueStar"
 	entityDefName "STAR_BLUE"
@@ -1141,6 +1186,10 @@ orbitBodyType
 orbitBodyType	
 	typeName "AsteroidBelt"
 	entityDefName "PlanetAsteroidBelt"
+	defaultTemplateName ""
+orbitBodyType	
+	typeName "AsteroidBeltRE"
+	entityDefName "PlanetAsteroidBeltRE"
 	defaultTemplateName "Template:PirateTradeSector"		
 orbitBodyType	
 	typeName "AsteroidBeltFair"
@@ -1149,7 +1198,11 @@ orbitBodyType
 orbitBodyType	
 	typeName "AsteroidSpaceJunk"
 	entityDefName "PlanetAsteroidSpaceJunk"
-	defaultTemplateName "Template:PirateTradeSector"	
+	defaultTemplateName ""
+orbitBodyType	
+	typeName "AsteroidSpaceJunkRE"
+	entityDefName "PlanetAsteroidSpaceJunkRE"
+	defaultTemplateName "Template:PirateTradeSector"
 orbitBodyType	
 	typeName "AsteroidSpaceJunkFair"
 	entityDefName "PlanetAsteroidSpaceJunkFair"
@@ -1157,7 +1210,11 @@ orbitBodyType
 orbitBodyType	
 	typeName "GasGiant"
 	entityDefName "PlanetGasGiant"
-	defaultTemplateName "Template:DefaultStart_GasGiant"	
+	defaultTemplateName "Template:DefaultStart_GasGiant"
+orbitBodyType	
+	typeName "GasGiantRE"
+	entityDefName "PlanetGasGiantRE"
+	defaultTemplateName "Template:PirateTradeSector"	
 orbitBodyType	
 	typeName "GasGiantFair"
 	entityDefName "PlanetGasGiantFair"
@@ -1166,6 +1223,10 @@ orbitBodyType
 	typeName "PlasmaStorm"
 	entityDefName "PlanetPlasmaStorm"
 	defaultTemplateName "Template:DefaultStart_PlasmaStorm"
+orbitBodyType	
+	typeName "PlasmaStormRE"
+	entityDefName "PlanetPlasmaStormRE"
+	defaultTemplateName "Template:PirateTradeSector"
 orbitBodyType	
 	typeName "PlasmaStormFair"
 	entityDefName "PlanetPlasmaStormFair"
@@ -1177,11 +1238,19 @@ orbitBodyType
 orbitBodyType
 	typeName "Wormhole"
 	entityDefName "PlanetWormhole"
+	defaultTemplateName ""
+orbitBodyType
+	typeName "WormholeRE"
+	entityDefName "PlanetWormholeRE"
 	defaultTemplateName "Template:PirateTradeSector"
 orbitBodyType	
 	typeName "Comet"
 	entityDefName "PlanetComet"
 	defaultTemplateName "Template:DefaultStart_Comet"
+orbitBodyType	
+	typeName "CometRE"
+	entityDefName "PlanetCometRE"
+	defaultTemplateName "Template:PirateTradeSector"
 orbitBodyType	
 	typeName "ShipGraveyard"
 	entityDefName "PlanetShipGraveyard"
@@ -1191,17 +1260,33 @@ orbitBodyType
 	entityDefName "PlanetIceField"
 	defaultTemplateName "Template:DefaultStart_IceField"
 orbitBodyType	
+	typeName "IceFieldRE"
+	entityDefName "PlanetIceFieldRE"
+	defaultTemplateName "Template:PirateTradeSector"
+orbitBodyType	
 	typeName "ShatteredMoon"
 	entityDefName "PlanetShatteredMoon"
 	defaultTemplateName "Template:DefaultStart_ShatteredMoon"
+orbitBodyType	
+	typeName "ShatteredMoonRE"
+	entityDefName "PlanetShatteredMoonRE"
+	defaultTemplateName "Template:PirateTradeSector"
 orbitBodyType	
 	typeName "RadiationStorm"
 	entityDefName "PlanetRadiationStorm"
 	defaultTemplateName "Template:DefaultStart_RadiationStorm"
 orbitBodyType	
+	typeName "RadiationStormRE"
+	entityDefName "PlanetRadiationStormRE"
+	defaultTemplateName "Template:PirateTradeSector"
+orbitBodyType	
 	typeName "AntimatterFountain"
 	entityDefName "PlanetAntimatterFountain"
 	defaultTemplateName "Template:DefaultStart_AntimatterFountain"
+orbitBodyType	
+	typeName "AntimatterFountainRE"
+	entityDefName "PlanetAntimatterFountainRE"
+	defaultTemplateName "Template:PirateTradeSector"
 orbitBodyType
 	typeName "WormholeFair"
 	entityDefName "PlanetWormhole"
@@ -2367,8 +2452,8 @@ planetItemType
 	designName "Other:Flag:Grant200XP"
 	entityDefName "SpaceMine_E4X_XP200"
 planetItemType
-	designName "Other:Flag:SpawnNeutralTradeStation"
-	entityDefName "Frigate_E4X_BioWeaponStructure"
+	designName "Other:Starbase:NeutralTradeStation"
+	entityDefName "StarBase_E4X_NeutralTradeStation"
 planetItemType
 	designName "Other:Starbase:CyberDefenseFortress"
 	entityDefName "Starbase_E4X_CyberDefensePlatform"
@@ -2722,9 +2807,8 @@ planetItemsTemplate
 	groups 0
 planetItemsTemplate
 	templateName "Template:DefaultStart_ShipGraveyard"
-	subTemplates 3
+	subTemplates 2
 		template "Template:LocalMilitiaVeryWeak"
-		template "Template:PirateTradeSector"
 		template "Template:ArtifactEntities"
 	groups 0
 planetItemsTemplate
@@ -2739,33 +2823,28 @@ planetItemsTemplate
 	groups 0
 planetItemsTemplate
 	templateName "Template:DefaultStart_Comet"
-	subTemplates 2
+	subTemplates 1
 		template "Template:LocalMilitiaVeryWeak"
-		template "Template:PirateTradeSector"
 	groups 0
 planetItemsTemplate
 	templateName "Template:DefaultStart_IceField"
-	subTemplates 2
+	subTemplates 1
 		template "Template:LocalMilitiaWeak"
-		template "Template:PirateTradeSector"
 	groups 0
 planetItemsTemplate
 	templateName "Template:DefaultStart_ShatteredMoon"
-	subTemplates 2
+	subTemplates 1
 		template "Template:LocalMilitiaMediumUncolonizable"
-		template "Template:PirateTradeSector"
 	groups 0
 planetItemsTemplate
 	templateName "Template:DefaultStart_RadiationStorm"
-	subTemplates 2
+	subTemplates 1
 		template "Template:LocalMilitiaMediumUncolonizable"
-		template "Template:PirateTradeSector"
 	groups 0
 planetItemsTemplate
 	templateName "Template:DefaultStart_AntimatterFountain"
-	subTemplates 2
+	subTemplates 1
 		template "Template:LocalMilitiaVeryWeakUncolonizable"
-		template "Template:PirateTradeSector"
 	groups 0
 planetItemsTemplate
 	templateName "Template:DefaultStart_Ice"
@@ -3697,17 +3776,19 @@ planetItemsTemplate
 	groups 1
 		group
 			condition
-				type "NoPlanetOwnerWithChance"
-				param "0.333"
+				type "Always"
+				param ""
 			owner "Pirate"
 			colonizeChance 1
-			items 7
-				item "Other:Module:NeutralTradePort"
-				item "Other:Flag:KillPlanet"
+			items 9
+				item "Other:Starbase:NeutralTradeStation"
 				item "Pirate:Frigate:Heavy"
 				item "Pirate:Frigate:Medium"
 				item "Pirate:Frigate:Medium"
 				item "Pirate:Frigate:AntiFighter"
+				item "Pirate:Frigate:Scout"
+				item "Pirate:Frigate:AntiFighter"
+				item "Pirate:Frigate:Scout"
 				item "Pirate:Frigate:Scout"
 planetItemsTemplate
 	templateName "Template:AncientCannon"
@@ -3882,16 +3963,14 @@ planetItemsTemplate
 	groups 0
 planetItemsTemplate
 	templateName "Template:LocalMilitia_GasGiant"
-	subTemplates 2
+	subTemplates 1
 		template "Template:LocalMilitiaMediumUncolonizable"
-		template "Template:PirateTradeSector"
 	groups 0
 planetItemsTemplate
 	templateName "Template:LocalMilitia_PlasmaStorm"
-	subTemplates 3
+	subTemplates 2
 		template "Template:LocalMilitiaMediumUncolonizable"
 		template "Template:RandomVasariPirateBattle"
-		template "Template:PirateTradeSector"
 	groups 0
 planetItemsTemplate
 	templateName "Template:LocalMilitia_Ice"
@@ -3902,9 +3981,8 @@ planetItemsTemplate
 	groups 0
 planetItemsTemplate
 	templateName "Template:DefaultStart_AsteroidBelt"
-	subTemplates 2
+	subTemplates 1
 		template "Template:RandomTechMilitaryDrill"
-		template "Template:PirateTradeSector"
 	groups 0
 planetItemsTemplate
 	templateName "Template:LocalMilitia_TerranFair"

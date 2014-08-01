@@ -136,7 +136,7 @@ planetUpgradeDef
 			shipBuildRateModifier 0.000000
 			cultureSpreadRateModifier 0.000000
 ringsChance 0.000000
-isColonizable TRUE
+isColonizable FALSE
 planetTypeForResearch "Uncolonizable"
 skyboxScalarsCount 5
 skyboxScalars

@@ -70,7 +70,7 @@ entities
 			entityDefName "FrigateTechRefineryShip"
 			entityDefName "Frigate_E4X_TechEnvoyAI"
 	researchInfo
-		count 171
+		count 170
 		entityDefName "RESEARCH_E4X_HeroLeaderTechAccess"
 		entityDefName "RESEARCH_E4X_HeroCommandTechAccess"
 		entityDefName "RESEARCH_E4X_HeroCombatTechAccess"
@@ -87,7 +87,6 @@ entities
 		entityDefName "RESEARCH_E4X_ABILITYACCESS_StopBuilding"
 		entityDefName "RESEARCH_E4X_ImproveAITech"
 		entityDefName "RESEARCH_E4X_ImproveAITech2"
-		entityDefName "RESEARCH_E4X_RestrictUncolonizeablePlanets"
 		entityDefName "RESEARCH_E4X_BLAarmor"
 		entityDefName "RESEARCHSUBJECT_PUBLIC_FORGIVENESS"
 		entityDefName "RESEARCHSUBJECT_BACKROOM_DEALS"

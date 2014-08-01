@@ -1,0 +1,24 @@
+﻿TXT
+entityType "StarBaseUpgrade"
+stageCount 1
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADETECHTRADEPORT_NAME"
+	descStringID "IDS_STARBASEUPGRADETECHTRADEPORT_DESC"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechTradePort0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechTradePort0"
+	infoCardIcon ""
+	upgradePropertyCount 1
+	upgradeProperty
+		propertyType "BaseTradeIncomeRate"
+		value 0.600000
+	upgradeBoolPropertyCount 0
+xpModifier 0.000000

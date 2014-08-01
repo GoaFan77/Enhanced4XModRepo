@@ -270,7 +270,7 @@ planetUpgradeDef
 			shipBuildRateModifier 0.000000
 			cultureSpreadRateModifier 0.000000
 ringsChance 0.000000
-isColonizable TRUE
+isColonizable FALSE
 planetTypeForResearch "Asteroid"
 skyboxScalarsCount 5
 skyboxScalars
