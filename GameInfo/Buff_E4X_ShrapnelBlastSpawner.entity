@@ -61,8 +61,9 @@ instantAction
 	targetFilter
 		numOwnerships 1
 		ownership "Enemy"
-		numObjects 2
+		numObjects 3
 		object "Fighter"
+		object "Corvette"
 		object "SpaceMine"
 		numSpaces 1
 		space "Normal"

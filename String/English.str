@@ -47,7 +47,7 @@ StringInfo
 	Value "A %s is occurring on %s!"
 StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_CHANCETOABSORBWITHSHIELDS"
-	Value "Chance to Bypass Shields"
+	Value "Shield Bypass Resistance"
 StringInfo
 		ID "IDS_PlanetBonus_E4X_UnchartedNavigationRoute_NAME"
 		Value "Uncharted Navigation Route"
@@ -929,7 +929,7 @@ StringInfo
         Value "Order of Nilaya"
 StringInfo
         ID "IDS_E4X_PhaseRandomEncounterPlayer"
-        Value "Vasari Central Command"
+        Value "Vasari Remnants"
 StringInfo
         ID "IDS_GAMEMESSAGE_PLAYERFLEETARRIVEDTOFLEETBEACON"
         Value "New units have arrived at %s"
