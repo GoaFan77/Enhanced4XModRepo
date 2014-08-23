@@ -49,7 +49,10 @@ NameStringID "IDS_Capitalship_E4X_HeroCommandTech_NAME"
 DescriptionStringID "IDS_Capitalship_E4X_HeroCommandTech_DESC"
 picture "Picture_E4X_HeroCommanderTech"
 Prerequisites
-	NumResearchPrerequisites 0
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_E4X_HeroCommandTechAccess"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 roleType "Invalid"

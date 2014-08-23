@@ -1403,7 +1403,7 @@ orbitBodyType
 	typeName "CyberFortress"
 	entityDefName "Planet_E4X_CyberFortress"
 	defaultTemplateName "Template:CyberFortress"	
-planetItemTypeCount 351
+planetItemTypeCount 352
 planetItemType
 	designName "Phase:Module:MineExplosive"
 	entityDefName "SpaceMinePhaseExplosive"
@@ -2451,6 +2451,9 @@ planetItemType
 planetItemType
 	designName "Other:Flag:Grant200XP"
 	entityDefName "SpaceMine_E4X_XP200"
+planetItemType
+	designName "Other:Flag:Grant1000XP"
+	entityDefName "SpaceMine_E4X_XP1000"
 planetItemType
 	designName "Other:Starbase:NeutralTradeStation"
 	entityDefName "StarBase_E4X_NeutralTradeStation"
@@ -4120,12 +4123,9 @@ planetItemsTemplate
 				param ""
 			owner "RandomMilitia"
 			colonizeChance 0
-			items 5
+			items 2
 				item "Other:Flag:Grant200XP"
-				item "Other:Flag:Grant200XP"
-				item "Other:Flag:Grant200XP"
-				item "Other:Flag:Grant200XP"
-				item "Other:Flag:Grant200XP"
+				item "Other:Flag:Grant1000XP"
 planetItemsTemplate
 	templateName "Template:CyberFortress"
 	subTemplates 0

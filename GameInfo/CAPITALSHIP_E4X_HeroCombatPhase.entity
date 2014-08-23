@@ -83,7 +83,10 @@ NameStringID "IDS_Capitalship_E4X_HeroCombatPhase_NAME"
 DescriptionStringID "IDS_Capitalship_E4X_HeroCombatPhase_DESC"
 picture "Picture_E4X_HeroCombatPhase"
 Prerequisites
-	NumResearchPrerequisites 0
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_E4X_HeroCombatPhaseAccess"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 roleType "Invalid"

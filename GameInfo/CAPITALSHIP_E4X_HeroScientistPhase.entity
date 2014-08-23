@@ -49,7 +49,10 @@ NameStringID "IDS_Capitalship_E4X_HeroScientistPhase_NAME"
 DescriptionStringID "IDS_Capitalship_E4X_HeroScientistPhase_DESC"
 picture "Picture_E4X_HeroScientistPhase"
 Prerequisites
-	NumResearchPrerequisites 0
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_E4X_HeroScientistPhaseAccess"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 roleType "Invalid"

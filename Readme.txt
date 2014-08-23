@@ -425,6 +425,8 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Minor tweaks to the AI priorites, let me know if you notice any change in difficulty.
 		
 1.74	-Fixed AI stalling issue (released as 1.731 Hotfix)
+		-Added a new ship bloom shader courtesty of Star Trek Armada 3. You should now notice a difference with bloom on.
 		-Readded Neutral Trading stations
 		-Stellar Phenomenona Planets now have the proper mine limits.
+		-Hero access research now indicates which hero it unlocks, and the AI should attempt to access heroes earlier.
 		

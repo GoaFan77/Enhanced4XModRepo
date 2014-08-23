@@ -79,7 +79,10 @@ NameStringID "IDS_Capitalship_E4X_HeroTransPsi_NAME"
 DescriptionStringID "IDS_Capitalship_E4X_HeroTransPsi_DESC"
 picture "Picture_E4X_HeroTransPsi"
 Prerequisites
-	NumResearchPrerequisites 0
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "RESEARCH_E4X_HeroTransPsiAccess"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 roleType "Invalid"
