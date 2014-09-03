@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2609
+entityNameCount 2610
 entityName "BuffSuppressionChannelEnd.entity"
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
@@ -2609,3 +2609,4 @@ entityName "PlanetShatteredMoonRE.entity"
 entityName "PlanetWormholeRE.entity"
 entityName "StarBaseUpgrade_E4X_NeutralTradeStationTradePort.entity"
 entityName "StarBase_E4X_NeutralTradeStation.entity"
+entityName "SpaceMine_E4X_XP1000.entity"

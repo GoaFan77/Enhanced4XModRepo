@@ -25,7 +25,7 @@ scuttleValue
 	metal 0.000000
 	crystal 0.000000
 baseScuttleTime 6.000000
-ExplosionName "TechSpaceMine"
+ExplosionName "Explosion_ING_NoExplosion"
 minShadow 0.000000
 maxShadow 0.300000
 mass 200.000000

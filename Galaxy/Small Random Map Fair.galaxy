@@ -67,7 +67,18 @@ starCount 1
 		connectionStarRadiusRange .75
 		connectionChance .7
 		maxPlayerCount 2
-		ringCount 3
+		ringCount 4
+		ring
+			starRadiusRange
+				minPercentage 0.3
+				maxPercentage 0.5
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "SecretRandomEncounters"
 		ring
 			starRadiusRange
 				minPercentage 0.15
