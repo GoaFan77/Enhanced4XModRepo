@@ -23,7 +23,7 @@ instantAction
 instantAction
 	buffInstantActionType "ApplyBuffToSelf"
 	instantActionTriggerType "OnDelay"
-	delayTime 0.000000
+	delayTime 1.000000
 	buffType "Buff_E4X_PlanetaryDefensesMissiles"
 	effectInfo
 		effectAttachInfo
@@ -35,7 +35,7 @@ instantAction
 instantAction
 	buffInstantActionType "ApplyBuffToSelf"
 	instantActionTriggerType "OnDelay"
-	delayTime 0.000000
+	delayTime 1.000000
 	buffType "Buff_E4X_PlanetaryDefensesGauss"
 	effectInfo
 		effectAttachInfo
@@ -47,7 +47,7 @@ instantAction
 instantAction
 	buffInstantActionType "ApplyBuffToSelf"
 	instantActionTriggerType "OnDelay"
-	delayTime 0.000000
+	delayTime 1.000000
 	buffType "Buff_E4X_PlanetaryDefensesNuke"
 	effectInfo
 		effectAttachInfo

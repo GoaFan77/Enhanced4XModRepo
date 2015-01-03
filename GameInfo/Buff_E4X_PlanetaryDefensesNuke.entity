@@ -7,7 +7,21 @@ allowFirstSpawnerToStack FALSE
 buffExclusivityForAIType "ExclusivePerPlayer"
 isInterruptable FALSE
 isChannelling FALSE
-numInstantActions 0
+numInstantActions 1
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnCondition"
+	instantActionConditionType "IfOwnerHasBuff"
+	conditionBuffType "Buff_E4X_PlanetaryDefensesDisableCheck"
+	conditionBuffShortName ""
+	buffType "Buff_E4X_PlanetaryDefensesNukeDisable"
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
 numPeriodicActions 1
 periodicAction
 	actionCountType "Infinite"
@@ -92,7 +106,10 @@ periodicAction
 numOverTimeActions 0
 numEntityModifiers 0
 numEntityBoolModifiers 0
-numFinishConditions 1
+numFinishConditions 2
 finishCondition
 	finishConditionType "OwnerChanged"
-	
+finishCondition
+	finishConditionType "OwnerNoLongerHasBuff"
+	buffTypeToQuery "Buff_E4X_PlanetaryDefensesGarrison"
+		

@@ -1,4 +1,4 @@
--- Enhanced 4X Mod (version 1.501) By GoaFan77 --
+-- Enhanced 4X Mod By GoaFan77 --
 ---------------------------
 
 -- Table of Context --
@@ -431,3 +431,6 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Stellar Phenomenona Planets now have the proper mine limits.
 		-Hero access research now indicates which hero it unlocks, and the AI should attempt to access heroes earlier.
 		-Reduced the mod's RAM footprint by optimizing some textures.
+		
+1.75	-Radiance Battleship's Aminosity ability now has a greater range.
+		-Increased the range of the Kol Battleship's Flak Burst, especially at lower levels.

@@ -8,7 +8,7 @@ MeshData
 	NumMaterials 1
 	Material
 		DiffuseTextureFileName "Planetgas4-cl.DDS"
-		SelfIlluminationTextureFileName "PlanetBlack-da.dds"
+		SelfIlluminationTextureFileName "Black-da.dds"
 		NormalTextureFileName ""
 		DisplacementTextureFileName ""
 		TeamColorTextureFileName ""

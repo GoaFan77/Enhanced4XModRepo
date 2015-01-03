@@ -12842,7 +12842,7 @@ StringInfo
 	Value "The envoy uses advanced defensive technology to harden the planet's surface from bombardment."
 StringInfo
 	ID "IDS_COUNTERDESC_FRIGATE_ANTIFIGHTER"
-	Value "Strong vs. fighter strike craft."
+	Value "Strong vs. fighter strike craft, corvettes."
 StringInfo
 	ID "IDS_COUNTERDESC_FRIGATE_ANTIMODULE"
 	Value "Strong vs. structures."
@@ -12866,13 +12866,13 @@ StringInfo
 	Value "Strong vs. heavy cruisers, structures, and capital ships."
 StringInfo
 	ID "IDS_COUNTERDESC_CORVETTE_TECH"
-	Value "Strong vs. frigates, cruisers, capital ships, strike craft and titans."
+	Value "Strong vs. long range frigates, siege frigates, bombers and titans."
 StringInfo
 	ID "IDS_COUNTERDESC_CORVETTE_PHASE"
-	Value "Strong vs. frigates, cruisers, capital ships, strike craft and titans."
+	Value "Strong vs. long range frigates, siege frigates, bombers and titans."
 StringInfo
 	ID "IDS_COUNTERDESC_CORVETTE_PSI"
-	Value "Strong vs. frigates, cruisers, capital ships, strike craft and titans."
+	Value "Strong vs. long range frigates, siege frigates, bombers and titans."
 StringInfo
 	ID "IDS_FRIGATE_TECHANTIFIGHTER_NAME"
 	Value "Garda Flak Frigate"
