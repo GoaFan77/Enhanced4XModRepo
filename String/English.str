@@ -1,5 +1,11 @@
 TXT
-NumStrings 8286
+NumStrings 8288
+StringInfo
+		ID "IDS_Ability_ING_UncolonizeablePlanet_NAME"
+		Value "Uncolonizeable Planet"
+StringInfo
+		ID "IDS_Ability_ING_UncolonizeablePlanet_DESC"
+		Value "This is an uncolonizeable planet. You probably already knew this, but this is here more for the mod than for you. Really, this does nothing."
 StringInfo
 	ID "IDS_ABILITY_STAR_BLACKHOLE_DESCRIPTION"
 	Value "Somehow a black hole has formed in this system without destroying the planets orbiting it. The intense gravity makes phase jumps more difficult and has a chance to suck in and destroy ships passing by."

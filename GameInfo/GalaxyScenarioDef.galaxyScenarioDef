@@ -4333,7 +4333,7 @@ player
 	isOccupationPlayer FALSE
 	isMadVasariPlayer FALSE
 	themeGroup "NPC"
-	themeIndex 0
+	themeIndex 15
 	pictureGroup "PlayerTech"
 	pictureIndex 15
 player
@@ -4350,7 +4350,7 @@ player
 	isOccupationPlayer FALSE
 	isMadVasariPlayer FALSE
 	themeGroup "NPC"
-	themeIndex 0
+	themeIndex 3
 	pictureGroup "PlayerPsi"
 	pictureIndex 8
 player
@@ -4367,7 +4367,7 @@ player
 	isOccupationPlayer FALSE
 	isMadVasariPlayer FALSE
 	themeGroup "NPC"
-	themeIndex 0
+	themeIndex 4
 	pictureGroup "PlayerPhase"
 	pictureIndex 5
 player

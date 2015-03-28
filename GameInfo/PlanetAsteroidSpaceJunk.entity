@@ -208,7 +208,7 @@ maxStarBaseCountPerPlayer 1
 maxSpaceMineCountPerPlayer 10
 minShadow 0.000000
 maxShadow 0.000000
-ability:0 ""
+ability:0 "Ability_E4X_UncolonizeablePlanet"
 ability:1 ""
 ability:2 ""
 ability:3 ""

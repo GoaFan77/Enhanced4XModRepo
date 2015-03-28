@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2610
+entityNameCount 2616
 entityName "BuffSuppressionChannelEnd.entity"
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
@@ -2610,3 +2610,9 @@ entityName "PlanetWormholeRE.entity"
 entityName "StarBaseUpgrade_E4X_NeutralTradeStationTradePort.entity"
 entityName "StarBase_E4X_NeutralTradeStation.entity"
 entityName "SpaceMine_E4X_XP1000.entity"
+entityName "Buff_E4X_PlanetaryDefensesDisableCheck.entity"
+entityName "Buff_E4X_PlanetaryDefensesGaussDisable.entity"
+entityName "Buff_E4X_PlanetaryDefensesMissilesDisable.entity"
+entityName "Buff_E4X_PlanetaryDefensesNukeDisable.entity"
+entityName "Ability_E4X_UncolonizeablePlanet.entity"
+entityName "Buff_E4X_UncolonizeablePlanet.entity"
