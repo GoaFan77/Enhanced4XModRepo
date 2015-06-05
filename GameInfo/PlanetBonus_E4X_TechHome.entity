@@ -28,6 +28,6 @@ intBonus:MaxStarbases 0
 intBonus:ModuleConstructors 1
 intBonus:SpacePonies 0
 dlcId 204880
-hudIcon "HUDICON_PLANETBONUS_DESIGN2"
-smallHudIcon "HUDICON_PLANETBONUS_DESIGN2"
-infoCardIcon "HUDICON_PLANETBONUS_DESIGN2"
+hudIcon "HUDICON_PLANETBONUS_E4X_TECHomeworld"
+smallHudIcon "HUDICON_PLANETBONUS_E4X_TECHomeworld"
+infoCardIcon "HUDICON_PLANETBONUS_E4X_TECHomeworld"

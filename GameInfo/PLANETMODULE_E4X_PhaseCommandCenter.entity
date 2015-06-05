@@ -4,7 +4,7 @@ minZoomDistanceMult 2.000000
 ability:0 "Ability_E4X_SpawnHeroScientistPhase"
 ability:1 "Ability_E4X_SpawnHeroCombatPhase"
 ability:2 "Ability_E4X_SpawnHeroLeaderPhase"
-ability:3 ""
+ability:3 "Ability_E4X_AIBoost"
 ability:4 "Ability_E4X_CommandCenter"
 MaxAntiMatter 300.000000
 AntiMatterRestoreRate 0.500000

@@ -43,6 +43,4 @@ entityModifier
 		Level:2 0.150000
 		Level:3 0.150000
 numEntityBoolModifiers 0
-numFinishConditions 1
-finishCondition
-	finishConditionType "Invalid"
+numFinishConditions 0

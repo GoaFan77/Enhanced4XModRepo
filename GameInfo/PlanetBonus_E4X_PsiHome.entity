@@ -28,6 +28,6 @@ intBonus:MaxStarbases 0
 intBonus:ModuleConstructors 0
 intBonus:SpacePonies 0
 dlcId 204880
-hudIcon "HUDICON_PLANETBONUS_SPICETRADE"
-smallHudIcon "HUDICON_PLANETBONUS_SPICETRADE"
-infoCardIcon "HUDICON_PLANETBONUS_SPICETRADE"
+hudIcon "HUDICON_PLANETBONUS_E4X_AdventHomeworld"
+smallHudIcon "HUDICON_PLANETBONUS_E4X_AdventHomeworld"
+infoCardIcon "HUDICON_PLANETBONUS_E4X_AdventHomeworld"

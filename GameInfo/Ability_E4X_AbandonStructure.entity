@@ -10,14 +10,14 @@ effectInfo
 	mediumEffectName ""
 	largeEffectName ""
 	soundID ""
-needsToFaceTarget TRUE
+needsToFaceTarget FALSE
 canCollideWithTarget TRUE
 moveThruTarget FALSE
 isUltimateAbility FALSE
 maxNumLevels 1
 levelSourceType "FixedLevel0"
-aiUseTime "Anytime"
-aiUseTargetCondition "Any"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
 isAutoCastAvailable FALSE
 isAutoCastOnByDefault FALSE
 pickRandomPlanetToExploreForAutoCastTarget FALSE

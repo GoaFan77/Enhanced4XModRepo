@@ -29,8 +29,8 @@ moveThruTarget FALSE
 isUltimateAbility FALSE
 maxNumLevels 1
 levelSourceType "FixedLevel0"
-aiUseTime "Invalid"
-aiUseTargetCondition "Invalid"
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
 isAutoCastAvailable TRUE
 isAutoCastOnByDefault TRUE
 pickRandomPlanetToExploreForAutoCastTarget FALSE

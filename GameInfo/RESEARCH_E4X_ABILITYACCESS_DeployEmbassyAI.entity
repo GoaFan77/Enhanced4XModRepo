@@ -7,8 +7,8 @@ NameStringID "IDS_RESEARCHSUBJECT_ABILITYACCESS_CULTURALASSISTANCE_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_ABILITYACCESS_CULTURALASSISTANCE_DESCRIPTION"
 researchWindowLocation
 	block 0
-	pos [ 0 , 20 ]
-ResearchField "Diplomacy"
+	pos [ 99 , 99 ]
+ResearchField "Fleet"
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
@@ -27,8 +27,11 @@ PerLevelCostIncrease
 Tier 0
 onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
-priority 1.000000
-researchBoolModifiers 0
+priority 99.000000
+researchBoolModifiers 1
+researchModifier
+	modifierType "ApplyBuffToPlanetAfterColonization"
+	buffToApply "Buff_E4X_AIBoostOnColonize"
 researchFloatModifiers 1
 researchModifier
 	modifierType "BlackMarketBuyPriceAdjustment"

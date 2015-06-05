@@ -1,6 +1,6 @@
 TXT
 onlyLoadOnDemand FALSE
-brushCount 118
+brushCount 121
 brush
 	name "HUDICON_PLANETBONUS_WEAPONSTESTGROUNDS"
 	content "Simple"
@@ -576,6 +576,21 @@ brush
 	content "Simple"
 	fileName "GalaxyModPlanetBonuses"
 	pixelBox [ 152 , 339 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_TECHomeworld"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 177 , 339 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_AdventHomeworld"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 202 , 339 , 22 , 22 ]
+brush
+	name "HUDICON_PLANETBONUS_E4X_VasariHomeworld"
+	content "Simple"
+	fileName "GalaxyModPlanetBonuses"
+	pixelBox [ 227 , 339 , 22 , 22 ]		
 brush
 	name "Axeldude_PLANETBONUS_FIRSTSCAN"
 	content "Simple"

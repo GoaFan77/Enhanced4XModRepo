@@ -10,7 +10,7 @@ effectInfo
 	mediumEffectName ""
 	largeEffectName ""
 	soundID ""
-needsToFaceTarget TRUE
+needsToFaceTarget FALSE
 canCollideWithTarget TRUE
 moveThruTarget FALSE
 isUltimateAbility FALSE

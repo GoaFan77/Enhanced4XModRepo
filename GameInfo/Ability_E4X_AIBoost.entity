@@ -2,7 +2,7 @@
 entityType "Ability"
 buffInstantActionType "ApplyBuffToSelf"
 instantActionTriggerType "AlwaysPerform"
-buffType "Buff_E4X_SiegeModeModule"
+buffType "Buff_E4X_AIBoost"
 effectInfo
 	effectAttachInfo
 		attachType "Invalid"
@@ -16,27 +16,21 @@ moveThruTarget FALSE
 isUltimateAbility FALSE
 maxNumLevels 1
 levelSourceType "ResearchWithoutBase"
-improveSourceResearchSubject "RESEARCH_E4X_ABILITYACCESS_SiegeMode"
-aiUseTime "OnlyInCombat"
-aiUseTargetCondition "Any"
-isAutoCastAvailable TRUE
-isAutoCastOnByDefault TRUE
+improveSourceResearchSubject "RESEARCH_E4X_ABILITYACCESS_DeployEmbassyAI"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
 pickRandomPlanetToExploreForAutoCastTarget FALSE
-ignoreNonCombatShipsForAutoCastTarget TRUE
+ignoreNonCombatShipsForAutoCastTarget FALSE
 onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
-useCostType "None"
-cooldownTime
-	Level:0 30.000000
-	Level:1 30.000000
-	Level:2 30.000000
-	Level:3 30.000000
-orderAcknowledgementType "ONGENERALORDERISSUED"
+useCostType "Passive"
 researchPrerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-nameStringID "IDS_Ability_E4X_SiegeModeModule_NAME"
-descStringID "IDS_Ability_E4X_SiegeModeModule_DESC"
-hudIcon "HUDICON_E4X_SiegeMode"
-smallHudIcon "HUDICON_E4X_SiegeMode"
+nameStringID "IDS_Ability_REQ_NeutralStructure_NAME"
+descStringID "IDS_Ability_REQ_NeutralStructure_DESC"
+hudIcon "HUDICON_RESEARCHSUBJECT_DIPLOMATIC_IMMUNITY"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_DIPLOMATIC_IMMUNITY"
 infoCardIcon ""
