@@ -7,7 +7,7 @@ MeshData
 	MinBoundingExtents [ -4957.230957 -4957.230957 -4957.230957 ]
 	NumMaterials 1
 	Material
-		DiffuseTextureFileName "Axeldude_Planet_Oceanic_0-cl.dds"
+		DiffuseTextureFileName "Axeldude_Planet_Oceanic_1-cl.dds"
 		SelfIlluminationTextureFileName ""
 		NormalTextureFileName ""
 		DisplacementTextureFileName ""

@@ -432,5 +432,9 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Hero access research now indicates which hero it unlocks, and the AI should attempt to access heroes earlier.
 		-Reduced the mod's RAM footprint by optimizing some textures.
 		
-1.75	-Radiance Battleship's Aminosity ability now has a greater range.
+1.75	-Added new Arena series of Random Maps.
+		-Lots of tweaks to improve the AI.
+		-Updated race homeworld bonus icons.
+		-Minimod additions.
+		-Radiance Battleship's Aminosity ability now has a greater range.
 		-Increased the range of the Kol Battleship's Flak Burst, especially at lower levels.

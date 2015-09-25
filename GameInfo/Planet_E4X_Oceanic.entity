@@ -1,6 +1,6 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 4
+meshInfoCount 3
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_OCEANIC"
 	asteroidTemplate "Empty"
@@ -44,21 +44,6 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Oceanic_0"
 	mainViewIcon "Axeldude_PLANET_Normal_Oceanic_0"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Oceanic_0_Unknown"
-	picture ""
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_OCEANIC"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
-	meshName "Axeldude_PLANET_NORMAL_Oceanic_1"
-	cloudColor ffffffff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Normal_Oceanic_1"
-	smallHudIcon "Axeldude_PLANET_Normal_Oceanic_1"
-	infoCardIcon "Axeldude_PLANET_Normal_Oceanic_1"
-	mainViewIcon "Axeldude_PLANET_Normal_Oceanic_1"
-	undetectedMainViewIcon "Axeldude_PLANET_Normal_Oceanic_1_Unknown"
 	picture ""
 	shouldPrefer FALSE
 minZoomDistanceMult 2.000000

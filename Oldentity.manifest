@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2616
+entityNameCount 2618
 entityName "BuffSuppressionChannelEnd.entity"
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
@@ -2616,3 +2616,5 @@ entityName "Buff_E4X_PlanetaryDefensesMissilesDisable.entity"
 entityName "Buff_E4X_PlanetaryDefensesNukeDisable.entity"
 entityName "Ability_E4X_UncolonizeablePlanet.entity"
 entityName "Buff_E4X_UncolonizeablePlanet.entity"
+entityName "Buff_E4X_AIBoost.entity"
+entityName "Buff_E4X_AIBoostResources.entity"

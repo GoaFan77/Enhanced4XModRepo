@@ -11,7 +11,7 @@ numInstantActions 1
 instantAction
 	buffInstantActionType "ChangePlayerIndexToFirstSpawner"
 	instantActionTriggerType "OnDelay"
-	delayTime 30.000000
+	delayTime 20.000000
 	isPermanent TRUE
 	failIfNotEnoughShipSlots FALSE
 	experiencePercentageToAward 0.000000

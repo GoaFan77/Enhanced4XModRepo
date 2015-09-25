@@ -662,7 +662,7 @@ StringInfo
 	Value "Tip: Each races gets a unique planet bonus on their homeworld in E4X. Adjust your early game strategy accordingly to take advantage of these."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip04"
-	Value "Tip: In E4X you no longer need to built several envoy cruisers. Just one can build embassies at all of your allies' planets. Embassies require no fleet supply, so build one on each of your allies worlds!"
+	Value "Tip: In E4X you no longer need to build several envoy cruisers. Just one can build embassies at all of your allies' planets. Embassies require no fleet supply, so build one on each of your allies worlds!"
 StringInfo
 	ID "IDS_E4X_LoadScreenTip05"
 	Value "Tip: Envoys are no longer just for working with allies in E4X. Research some espionage abilities in the Diplomacy tree to spy and sabotage your enemies once you've built embassies for your allies."

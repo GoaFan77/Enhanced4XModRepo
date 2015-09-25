@@ -1403,7 +1403,7 @@ orbitBodyType
 	typeName "CyberFortress"
 	entityDefName "Planet_E4X_CyberFortress"
 	defaultTemplateName "Template:CyberFortress"	
-planetItemTypeCount 352
+planetItemTypeCount 353
 planetItemType
 	designName "Phase:Module:MineExplosive"
 	entityDefName "SpaceMinePhaseExplosive"
@@ -2148,6 +2148,9 @@ planetItemType
 planetItemType
 	designName "Bonus:IgneousLavaTubes"
 	entityDefName "PlanetBonus_E4X_IgneousLavaTubes"
+planetItemType
+	designName "Bonus:IndustrialShipBonus"
+	entityDefName "PlanetBonus_E4X_IndustrialPlanet"		
 planetItemType
 	designName "Bonus:IndustrialUnderCity"
 	entityDefName "PlanetBonus_E4X_IndustrialUnderCity"	
