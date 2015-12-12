@@ -14,7 +14,7 @@ meshInfo
 	infoCardIcon "Planet_E4X_CyberFortressNormal"
 	mainViewIcon "Planet_E4X_CyberFortressNormal"
 	undetectedMainViewIcon "Planet_E4X_CyberFortressUndetected"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 minZoomDistanceMult 2.250000
 glowColor 00000000

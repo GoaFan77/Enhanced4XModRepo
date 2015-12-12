@@ -1,6 +1,6 @@
 TXT
-initialSpawnTimeMin 600.0
-initialSpawnTimeMax 900.0
+initialSpawnTimeMin 900.0
+initialSpawnTimeMax 1200.0
 failedRespawnTimeMin 120.0
 failedRespawnTimeMax 300.0
 lowAllegianceCheckPeriod 600.0
@@ -262,7 +262,9 @@ randomEventDefCount 17
 		spawnEntity "RandomEventPirateTitan"
 		playerOwnerType "MadVasari"
 		spawnLocation "RandomStar"
-		excludedSpawnLocationCount 0
+		excludedSpawnLocationCount 2
+			excludedSpawnLocation "PlanetTerranHome"
+			excludedSpawnLocation "PlanetDesertHome"
 		spawnRequirement "Timer"
 		respawnCount 0
 		nextSpawnTimeMin 300.0

@@ -14,7 +14,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Terran_1"
 	mainViewIcon "Axeldude_PLANET_Normal_Terran_1"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Terran_1_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_OCEANIC"
@@ -29,7 +29,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Terran_0"
 	mainViewIcon "Axeldude_PLANET_Normal_Terran_0"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Terran_0_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_OCEANIC"
@@ -44,7 +44,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Oceanic_0"
 	mainViewIcon "Axeldude_PLANET_Normal_Oceanic_0"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Oceanic_0_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 minZoomDistanceMult 2.000000
 glowColor 8f0099ff

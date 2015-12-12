@@ -1,36 +1,6 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 4
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_INDUSTRIAL"
-	asteroidTemplate "Sparse"
-	dustCloudTemplate "Sparse"
-	meshName "Planet_Industrial_1"
-	cloudColor ffffffff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "HUDICON_PLANET_INDUSTRIAL1"
-	smallHudIcon "HUDICONSMALL_PLANET_INDUSTRIAL1"
-	infoCardIcon "MAINVIEWICON_PLANET_INDUSTRIAL1"
-	mainViewIcon "MAINVIEWICON_PLANET_INDUSTRIAL1"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_INDUSTRIAL1"
-	picture ""
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_INDUSTRIAL"
-	asteroidTemplate "Dense"
-	dustCloudTemplate "Sparse"
-	meshName "Planet_Industrial_1"
-	cloudColor ffffffff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "HUDICON_PLANET_INDUSTRIAL1"
-	smallHudIcon "HUDICONSMALL_PLANET_INDUSTRIAL1"
-	infoCardIcon "MAINVIEWICON_PLANET_INDUSTRIAL1"
-	mainViewIcon "MAINVIEWICON_PLANET_INDUSTRIAL1"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_INDUSTRIAL1"
-	picture ""
-	shouldPrefer FALSE
+meshInfoCount 2
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_INDUSTRIAL"
 	asteroidTemplate "Wall"
@@ -44,7 +14,7 @@ meshInfo
 	infoCardIcon "MAINVIEWICON_PLANET_INDUSTRIAL2"
 	mainViewIcon "MAINVIEWICON_PLANET_INDUSTRIAL2"
 	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_INDUSTRIAL2"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_INDUSTRIAL"
@@ -59,7 +29,7 @@ meshInfo
 	infoCardIcon "MAINVIEWICON_PLANET_INDUSTRIAL2"
 	mainViewIcon "MAINVIEWICON_PLANET_INDUSTRIAL2"
 	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_INDUSTRIAL2"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 minZoomDistanceMult 1.250000
 glowColor ff92895e

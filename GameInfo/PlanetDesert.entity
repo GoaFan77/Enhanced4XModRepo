@@ -1,36 +1,6 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 5
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_DESERT"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Sparse"
-	meshName "Planet_Desert_0"
-	cloudColor ffe7c362
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Desert_0"
-	smallHudIcon "Axeldude_PLANET_Desert_0"
-	infoCardIcon "Axeldude_PLANET_Desert_0"
-	mainViewIcon "Axeldude_PLANET_Desert_0"
-	undetectedMainViewIcon "Axeldude_PLANET_Desert_0_Unknown"
-	picture ""
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_DESERT"
-	asteroidTemplate "Dense"
-	dustCloudTemplate "Sparse"
-	meshName "Planet_Desert_1"
-	cloudColor ffe7c362
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Desert_1"
-	smallHudIcon "Axeldude_PLANET_Desert_1"
-	infoCardIcon "Axeldude_PLANET_Desert_1"
-	mainViewIcon "Axeldude_PLANET_Desert_1"
-	undetectedMainViewIcon "Axeldude_PLANET_Desert_1_Unknown"
-	picture ""
-	shouldPrefer FALSE
+meshInfoCount 3
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_DESERT"
 	asteroidTemplate "Empty"
@@ -44,7 +14,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Desert_1"
 	mainViewIcon "Axeldude_PLANET_Normal_Desert_1"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Desert_1_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_DESERT"
@@ -59,7 +29,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Desert_3"
 	mainViewIcon "Axeldude_PLANET_Normal_Desert_3"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Desert_3_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_DESERT"
@@ -74,7 +44,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Desert_6"
 	mainViewIcon "Axeldude_PLANET_Normal_Desert_6"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Desert_6_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 minZoomDistanceMult 2.750000
 glowColor 7fb87a10

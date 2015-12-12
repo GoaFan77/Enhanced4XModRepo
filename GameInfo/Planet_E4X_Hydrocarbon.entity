@@ -1,39 +1,9 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 5
+meshInfoCount 3
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_HYDROCARBON"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
-	meshName "Axeldude_PLANET_NORMAL_Hydrocarbon_0"
-	cloudColor ff514151
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Normal_Hydrocarbon_0"
-	smallHudIcon "Axeldude_PLANET_Normal_Hydrocarbon_0"
-	infoCardIcon "Axeldude_PLANET_Normal_Hydrocarbon_0"
-	mainViewIcon "Axeldude_PLANET_Normal_Hydrocarbon_0"
-	undetectedMainViewIcon "Axeldude_PLANET_Normal_Hydrocarbon_0_Unknown"
-	picture ""
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_HYDROCARBON"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
-	meshName "Axeldude_PLANET_NORMAL_Hydrocarbon_1"
-	cloudColor ff514151
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Normal_Hydrocarbon_1"
-	smallHudIcon "Axeldude_PLANET_Normal_Hydrocarbon_1"
-	infoCardIcon "Axeldude_PLANET_Normal_Hydrocarbon_1"
-	mainViewIcon "Axeldude_PLANET_Normal_Hydrocarbon_1"
-	undetectedMainViewIcon "Axeldude_PLANET_Normal_Hydrocarbon_1_Unknown"
-	picture ""
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_HYDROCARBON"
-	asteroidTemplate "Empty"
+	asteroidTemplate "Sparse"
 	dustCloudTemplate "Empty"
 	meshName "Axeldude_PLANET_NORMAL_Hydrocarbon_2"
 	cloudColor ff514151
@@ -44,12 +14,12 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Hydrocarbon_2"
 	mainViewIcon "Axeldude_PLANET_Normal_Hydrocarbon_2"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Hydrocarbon_2_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_HYDROCARBON"
 	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
+	dustCloudTemplate "Sparse"
 	meshName "Axeldude_PLANET_NORMAL_Hydrocarbon_3"
 	cloudColor ff514151
 	nullMeshRadius 0.000000
@@ -59,11 +29,11 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Hydrocarbon_3"
 	mainViewIcon "Axeldude_PLANET_Normal_Hydrocarbon_3"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Hydrocarbon_3_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_HYDROCARBON"
-	asteroidTemplate "Empty"
+	asteroidTemplate "Dense"
 	dustCloudTemplate "Empty"
 	meshName "Axeldude_PLANET_NORMAL_Hydrocarbon_4"
 	cloudColor ff514151
@@ -74,7 +44,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Hydrocarbon_4"
 	mainViewIcon "Axeldude_PLANET_Normal_Hydrocarbon_4"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Hydrocarbon_4_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 minZoomDistanceMult 2.000000
 glowColor 7fb87a10

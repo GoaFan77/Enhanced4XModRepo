@@ -1,6 +1,6 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 4
+meshInfoCount 3
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_MOON"
 	asteroidTemplate "Dense"
@@ -14,22 +14,7 @@ meshInfo
 	infoCardIcon "Axeldude_DWARF_0"
 	mainViewIcon "Axeldude_DWARF_0"
 	undetectedMainViewIcon "Axeldude_DWARF_0_Unknown"
-	picture ""
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_MOON"
-	asteroidTemplate "Dense"
-	dustCloudTemplate "Empty"
-	meshName "Axeldude_PLANET_Dwarf_1"
-	cloudColor 0
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_DWARF_1"
-	smallHudIcon "Axeldude_DWARF_1"
-	infoCardIcon "Axeldude_DWARF_1"
-	mainViewIcon "Axeldude_DWARF_1"
-	undetectedMainViewIcon "Axeldude_DWARF_1_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_MOON"
@@ -44,7 +29,7 @@ meshInfo
 	infoCardIcon "Axeldude_DWARF_2"
 	mainViewIcon "Axeldude_DWARF_2"
 	undetectedMainViewIcon "Axeldude_DWARF_2_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_MOON"
@@ -59,7 +44,7 @@ meshInfo
 	infoCardIcon "Axeldude_DWARF_3"
 	mainViewIcon "Axeldude_DWARF_3"
 	undetectedMainViewIcon "Axeldude_DWARF_3_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 minZoomDistanceMult 2.250000
 glowColor 0

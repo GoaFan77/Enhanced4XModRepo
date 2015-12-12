@@ -1,35 +1,20 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 5
+meshInfoCount 4
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_IGNEOUS"
 	asteroidTemplate "Sparse"
 	dustCloudTemplate "PuffySparse"
-	meshName "Planet_Igneous_1"
-	cloudColor ffad8b5b
+	meshName "Axeldude_PLANET_NORMAL_Volcanic_0"
+	cloudColor 448f6d5b
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
-	hudIcon "HUDICON_PLANET_IGNEOUS1"
-	smallHudIcon "HUDICONSMALL_PLANET_IGNEOUS1"
-	infoCardIcon "INFOCARDICON_PLANET_IGNEOUS1"
-	mainViewIcon "MAINVIEWICON_PLANET_IGNEOUS1"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_IGNEOUS1"
-	picture ""
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_IGNEOUS"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
-	meshName "Axeldude_PLANET_NORMAL_Carbon_0"
-	cloudColor ffad8b6b
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Normal_Carbon_0"
-	smallHudIcon "Axeldude_PLANET_Normal_Carbon_0"
-	infoCardIcon "Axeldude_PLANET_Normal_Carbon_0"
-	mainViewIcon "Axeldude_PLANET_Normal_Carbon_0"
-	undetectedMainViewIcon "Axeldude_PLANET_Normal_Carbon_0_Unknown"
-	picture ""
+	hudIcon "Axeldude_PLANET_Normal_Volcanic_0"
+	smallHudIcon "Axeldude_PLANET_Normal_Volcanic_0"
+	infoCardIcon "Axeldude_PLANET_Normal_Volcanic_0"
+	mainViewIcon "Axeldude_PLANET_Normal_Volcanic_0"
+	undetectedMainViewIcon "Axeldude_PLANET_Normal_Volcanic_0_Unknown"
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_IGNEOUS"
@@ -44,7 +29,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Volcanic_0"
 	mainViewIcon "Axeldude_PLANET_Normal_Volcanic_0"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Volcanic_0_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_IGNEOUS"
@@ -59,7 +44,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Volcanic_1"
 	mainViewIcon "Axeldude_PLANET_Normal_Volcanic_1"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Volcanic_1_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_IGNEOUS"
@@ -74,7 +59,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Volcanic_2"
 	mainViewIcon "Axeldude_PLANET_Normal_Volcanic_2"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Volcanic_2_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 minZoomDistanceMult 2.000000
 glowColor ff5b2e20

@@ -1,10 +1,10 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 4
+meshInfoCount 2
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_CYRO"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
+	asteroidTemplate "Sparse"
+	dustCloudTemplate "Sparse"
 	meshName "Axeldude_PLANET_NORMAL_Ice_2"
 	cloudColor ffffffff
 	nullMeshRadius 0.000000
@@ -14,12 +14,12 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Ice_2"
 	mainViewIcon "Axeldude_PLANET_Normal_Ice_2"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Ice_2_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_CYRO"
 	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
+	dustCloudTemplate "Dense"
 	meshName "Axeldude_PLANET_NORMAL_Ice_1"
 	cloudColor ffffffff
 	nullMeshRadius 0.000000
@@ -29,37 +29,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Ice_1"
 	mainViewIcon "Axeldude_PLANET_Normal_Ice_1"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Ice_1_Unknown"
-	picture ""
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_CYRO"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
-	meshName "Axeldude_PLANET_SOL_Europa"
-	cloudColor ffffffff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Normal_Ice_2"
-	smallHudIcon "Axeldude_PLANET_Normal_Ice_2"
-	infoCardIcon "Axeldude_PLANET_Normal_Ice_2"
-	mainViewIcon "Axeldude_PLANET_Normal_Ice_2"
-	undetectedMainViewIcon "Axeldude_PLANET_Normal_Ice_2_Unknown"
-	picture ""
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_CYRO"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
-	meshName "Axeldude_PLANET_SOL_Pluto"
-	cloudColor ffffffff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Normal_Ice_1"
-	smallHudIcon "Axeldude_PLANET_Normal_Ice_1"
-	infoCardIcon "Axeldude_PLANET_Normal_Ice_1"
-	mainViewIcon "Axeldude_PLANET_Normal_Ice_1"
-	undetectedMainViewIcon "Axeldude_PLANET_Normal_Ice_1_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE	
 minZoomDistanceMult 1.250000
 glowColor 7f52afe1

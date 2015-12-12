@@ -1,5 +1,14 @@
 TXT
-NumStrings 8288
+NumStrings 8291
+StringInfo
+		ID "IDS_PLANETTYPE_ALPINE"
+		Value "Alpine Planet"
+StringInfo
+		ID "IDS_PLANETTYPE_URBAN"
+		Value "Urban Planet"
+StringInfo
+		ID "IDS_PLANETTYPE_TOXIC"
+		Value "Contaminated Planet"
 StringInfo
 		ID "IDS_Ability_ING_UncolonizeablePlanet_NAME"
 		Value "Uncolonizeable Planet"
@@ -170,31 +179,31 @@ StringInfo
 	Value "%d point of the research or artifact %s must be acquired first."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPHASE_NAME"
-	Value "Pressurized Occupation"
+	Value "Hazardous Occupation"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPHASE_DESCRIPTION"
-	Value "Allows colonization of Greenhouse and Colonizeable Gas Giant planets."
+	Value "Allows colonization of Greenhouse, Contaminated and Colonizeable Gas Giant planets."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPSI_NAME"
-	Value "Pressurized Evangelism"
+	Value "Hazardous Evangelism"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPSI_DESCRIPTION"
-	Value "Allows colonization of Greenhouse and Colonizeable Gas Giant planets."
+	Value "Allows colonization of Greenhouse, Contaminated and Colonizeable Gas Giant planets."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSETECH_NAME"
-	Value "Pressurized Exploitation"
+	Value "Hazardous Exploitation"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSETECH_DESCRIPTION"
-	Value "Allows colonization of Greenhouse and Colonizeable Gas Giant planets."
+	Value "Allows colonization of Greenhouse, Contaminated and Colonizeable Gas Giant planets."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_ICETECH_DESCRIPTION"
-	Value "Allows colonization of Ice and Cryo Planets."
+	Value "Allows colonization of Ice, Alpine and Cryo Planets."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_ICEPSI_DESCRIPTION"
-	Value "Allows colonization of Ice and Cryo Planets."
+	Value "Allows colonization of Ice, Alpine and Cryo Planets."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_ICEPHASE_DESCRIPTION"
-	Value "Allows colonization of Ice and Cryo Planets."
+	Value "Allows colonization of Ice, Alpine and Cryo Planets."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPHASE_NAME"
 	Value "Aquatic Occupation"
@@ -890,7 +899,7 @@ StringInfo
         Value "Orthodox Advent"
 StringInfo
         ID "IDS_RESEARCH_E4X_FactionBonusPsiLoyals_DESC"
-        Value "Your faction is the Orthodox Advent, lead by the main hierarchy of the Advent that has existed for millennia. They seek to convert all nonbelievers to follow the unity and inflict justice on the Traders for their expulsion. Their culture is more effective, and temple of communions take half as many logistical slots to build. They also start with a free culture center and can build Temples of Communion without research."
+        Value "Your faction is the Orthodox Advent, lead by the main hierarchy of the Advent that has existed for millennia. They seek to convert all nonbelievers to follow the unity and inflict justice on the Traders for their expulsion. Their culture is more effective, and temple of communions can be built without research. Culture spreads from their homeworld at a greatly increased rate, and their worlds grow faster and are more resistant to bombardment than others."
 StringInfo
         ID "IDS_RESEARCH_E4X_FactionBonusPsiRebels_NAME"
         Value "Ascended Advent"

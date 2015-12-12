@@ -1,21 +1,6 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 3
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_NOATMOS"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
-	meshName "Axeldude_PLANET_NORMAL_Rock_0"
-	cloudColor 33ffffff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Normal_Rock_0"
-	smallHudIcon "Axeldude_PLANET_Normal_Rock_0"
-	infoCardIcon "Axeldude_PLANET_Normal_Rock_0"
-	mainViewIcon "Axeldude_PLANET_Normal_Rock_0"
-	undetectedMainViewIcon "Axeldude_PLANET_Normal_Rock_0_Unknown"
-	picture ""
-	shouldPrefer FALSE
+meshInfoCount 2
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_NOATMOS"
 	asteroidTemplate "Empty"
@@ -29,7 +14,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Rock_1"
 	mainViewIcon "Axeldude_PLANET_Normal_Rock_1"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Rock_1_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_NOATMOS"
@@ -44,7 +29,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Rock_3"
 	mainViewIcon "Axeldude_PLANET_Normal_Rock_3"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Rock_3_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 minZoomDistanceMult 2.250000
 glowColor 0

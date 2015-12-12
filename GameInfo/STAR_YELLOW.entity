@@ -5,38 +5,26 @@ coronaEndColor fff74918
 coronaStartColorDistance 0.000000
 coronaEndColorDistance 1.000000
 farIcon "Axeldude_FarStar_Icon_Yellow"
-coloredSkyboxMeshInfoCount 9
+coloredSkyboxMeshInfoCount 6
 meshInfo
-	meshName "SkyboxBackdrop2"
+	meshName "SkyboxBackdrop4"
 	shouldPrefer TRUE
 meshInfo
-	meshName "SkyboxBackdrop5"
+	meshName "Skybox_E4X_Green1"
+	shouldPrefer TRUE		
+meshInfo
+	meshName "Skybox_E4X_BlueGreen1"
 	shouldPrefer TRUE
 meshInfo
-	meshName "SkyboxBackdrop6"
-	shouldPrefer FALSE
-meshInfo
-	meshName "SkyboxBackdrop8"
-	shouldPrefer FALSE
-meshInfo
-	meshName "Skybox_E4X_Backdrop2"
+	meshName "Skybox_E4X_Purple1"
 	shouldPrefer TRUE
 meshInfo
-	meshName "Skybox_E4X_Backdrop3"
-	shouldPrefer FALSE
-meshInfo
-	meshName "Skybox_E4X_Backdrop5"
+	meshName "Skybox_E4X_Yellow1"
 	shouldPrefer TRUE
 meshInfo
 	meshName "Skybox_E4X_Backdrop6"
 	shouldPrefer TRUE
-meshInfo
-	meshName "Skybox_E4X_Backdrop8"
-	shouldPrefer FALSE
-deepSpaceSkyboxMeshInfoCount 2
-meshInfo
-	meshName "SkyboxBackdrop7"
-	shouldPrefer TRUE
+deepSpaceSkyboxMeshInfoCount 1
 meshInfo
 	meshName "Skybox_E4X_Backdrop4"
 	shouldPrefer TRUE

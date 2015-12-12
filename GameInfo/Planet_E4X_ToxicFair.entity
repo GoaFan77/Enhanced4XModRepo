@@ -1,0 +1,444 @@
+﻿TXT
+entityType "Planet"
+meshInfoCount 1
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_TOXIC"
+	asteroidTemplate "Sparse"
+	dustCloudTemplate "Sparse"
+	meshName "Planet_E4X_Toxic"
+	cloudColor ffffffff
+	nullMeshRadius 0.000000
+	nullMeshParticleEffect ""
+	hudIcon "Axeldude_PLANET_Normal_Forest_2"
+	smallHudIcon "Axeldude_PLANET_Normal_Forest_2"
+	infoCardIcon "Axeldude_PLANET_Normal_Forest_2"
+	mainViewIcon "Axeldude_PLANET_Normal_Forest_2"
+	undetectedMainViewIcon "Axeldude_PLANET_Normal_Forest_2_Unknown"
+	picture "PICTURE_PLANET_GENERIC"
+	shouldPrefer FALSE
+minZoomDistanceMult 2.000000
+glowColor 8f459751
+ringColor ffffffff
+cloudLayerTextureName "Axeldude_Cloudmap_Fair"
+planetResourceSetupInfo
+	asteroidSpawnAngleVariance 3.141593
+	totalMaxResourceAsteroids 4
+	metalResourceAsteroidSetup
+		minCount 1
+		maxCount 2
+		extractionRate 0.400000
+		refineryRate 0.600000
+		maxRefineryCount 3
+	crystalResourceAsteroidSetup
+		minCount 2
+		maxCount 4
+		extractionRate 0.400000
+		refineryRate 0.060000
+		maxRefineryCount 0
+	neutralMetalResourceAsteroidSetup
+		minCount 0
+		maxCount 0
+		extractionRate 0.000000
+		refineryRate 0.000000
+		maxRefineryCount 0
+	neutralCrystalResourceAsteroidSetup
+		minCount 0
+		maxCount 0
+		extractionRate 0.000000
+		refineryRate 0.000000
+		maxRefineryCount 0
+isAsteroid FALSE
+healthRegenRate 6.000000
+planetUpgradeDef
+	path:Population
+		stageCount 3
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 10.000000
+			populationGrowthRate 0.125000
+			developmentTaxPenalty -3.000000
+		stage
+			price
+				credits 450.000000
+				metal 150.000000
+				crystal 75.000000
+			upgradeTime 45.000000
+			maxPopulation 25.000000
+			populationGrowthRate 0.125000
+			developmentTaxPenalty -1.250000
+		stage
+			price
+				credits 550.000000
+				metal 175.000000
+				crystal 125.000000
+			upgradeTime 60.000000
+			maxPopulation 50.000000
+			populationGrowthRate 0.125000
+			developmentTaxPenalty 0.000000
+	path:CivilianModules
+		stageCount 3
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxModuleSlotCount:Civilian 8.000000
+			maxModuleConstructorCount 0
+		stage
+			price
+				credits 450.000000
+				metal 150.000000
+				crystal 75.000000
+			upgradeTime 65.000000
+			maxModuleSlotCount:Civilian 16.000000
+			maxModuleConstructorCount 1
+		stage
+			price
+				credits 550.000000
+				metal 175.000000
+				crystal 125.000000
+			upgradeTime 100.000000
+			maxModuleSlotCount:Civilian 24.000000
+			maxModuleConstructorCount 1
+	path:TacticalModules
+		stageCount 3
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxModuleSlotCount:Tactical 5.000000
+			maxModuleConstructorCount 1
+		stage
+			price
+				credits 450.000000
+				metal 150.000000
+				crystal 75.000000
+			upgradeTime 65.000000
+			maxModuleSlotCount:Tactical 15.000000
+			maxModuleConstructorCount 2
+		stage
+			price
+				credits 550.000000
+				metal 175.000000
+				crystal 125.000000
+			upgradeTime 100.000000
+			maxModuleSlotCount:Tactical 25.000000
+			maxModuleConstructorCount 3
+	path:Home
+		stageCount 2
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			isHomePlanet FALSE
+			homePlanetTaxRateBonus 0.000000
+			homePlanetMetalIncomeBonus 0.000000
+			homePlanetCrystalIncomeBonus 0.000000
+		stage
+			price
+				credits 2000.000000
+				metal 300.000000
+				crystal 200.000000
+			upgradeTime 75.000000
+			isHomePlanet TRUE
+			homePlanetTaxRateBonus 2.000000
+			homePlanetMetalIncomeBonus 0.200000
+			homePlanetCrystalIncomeBonus 0.200000
+	path:ArtifactLevel
+		stageCount 5
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+		stage
+			price
+				credits 100.000000
+				metal 0.000000
+				crystal 10.000000
+			upgradeTime 20.000000
+		stage
+			price
+				credits 250.000000
+				metal 75.000000
+				crystal 50.000000
+			upgradeTime 45.000000
+		stage
+			price
+				credits 250.000000
+				metal 100.000000
+				crystal 50.000000
+			upgradeTime 60.000000
+		stage
+			price
+				credits 400.000000
+				metal 150.000000
+				crystal 90.000000
+			upgradeTime 75.000000
+	path:Infrastructure
+		stageCount 4
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxHealth 1500.000000
+		stage
+			price
+				credits 450.000000
+				metal 150.000000
+				crystal 75.000000
+			upgradeTime 45.000000
+			maxHealth 3000.000000
+		stage
+			price
+				credits 550.000000
+				metal 175.000000
+				crystal 125.000000
+			upgradeTime 60.000000
+			maxHealth 4500.000000
+		stage
+			price
+				credits 650.000000
+				metal 200.000000
+				crystal 175.000000
+			upgradeTime 75.000000
+			maxHealth 6000.000000
+	path:Social
+		stageCount 2
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			populationGrowthRate 0.000000
+			tradeIncomeModifier 0.000000
+			shipBuildRateModifier 0.000000
+			cultureSpreadRateModifier 0.000000
+		stage
+			price
+				credits 450.000000
+				metal 150.000000
+				crystal 75.000000
+			upgradeTime 45.000000
+			maxPopulation 20.000000
+			populationGrowthRate 0.125000
+			tradeIncomeModifier -0.150000
+			shipBuildRateModifier -0.120000
+			cultureSpreadRateModifier 0.12000
+	path:Industry
+		stageCount 4
+		stage
+			price
+				credits 0.000000
+				metal 0.000000
+				crystal 0.000000
+			upgradeTime 0.000000
+			maxPopulation 0.000000
+			tradeIncomeModifier 0.000000
+			shipBuildRateModifier 0.000000
+			cultureSpreadRateModifier 0.000000
+		stage
+			price
+				credits 450.000000
+				metal 150.000000
+				crystal 75.000000
+			upgradeTime 45.000000
+			maxPopulation -3.000000
+			tradeIncomeModifier 0.200000
+			shipBuildRateModifier 0.135418
+			cultureSpreadRateModifier -0.208333
+		stage
+			price
+				credits 550.000000
+				metal 175.000000
+				crystal 125.000000
+			upgradeTime 60.000000
+			maxPopulation -9.000000
+			tradeIncomeModifier 0.300000
+			shipBuildRateModifier 0.270836
+			cultureSpreadRateModifier -0.312500
+		stage
+			price
+				credits 650.000000
+				metal 200.000000
+				crystal 175.000000
+			upgradeTime 75.000000
+			maxPopulation -21.000000
+			tradeIncomeModifier 0.400000
+			shipBuildRateModifier 0.406254
+			cultureSpreadRateModifier -0.416667
+ringsChance 0.100000
+isColonizable TRUE
+planetTypeForResearch "Greenhouse"
+skyboxScalarsCount 5
+skyboxScalars
+	diffuseScalar 0.910000
+	ambientScalar 0.150000
+skyboxScalars
+	diffuseScalar 0.670000
+	ambientScalar 0.400000
+skyboxScalars
+	diffuseScalar 0.800000
+	ambientScalar 0.400000
+skyboxScalars
+	diffuseScalar 0.550000
+	ambientScalar 0.600000
+skyboxScalars
+	diffuseScalar 0.720000
+	ambientScalar 0.800000
+requiredPlanetBonusesCount 0
+possibleRandomPlanetBonusesCount 113
+bonus "PlanetBonus_REQ_ThickAtmos"
+bonus "PlanetBonus_REQ_ThickAtmos"
+bonus "PlanetBonus_E4X_Black"
+bonus "PlanetBonus_E4X_Black"
+bonus "PlanetBonus_E4X_ConstructP"
+bonus "PlanetBonus_REQ_Flood"
+bonus "PlanetBonus_E4X_Herd"
+bonus "PlanetBonus_REQ_O2"
+bonus "PlanetBonus_E4X_Outpost"
+bonus "PlanetBonus_E4X_PureM"
+bonus "PlanetBonus_E4X_Rodent"
+bonus "PlanetBonus_E4X_Rodent"
+bonus "PlanetBonus_E4X_Shield1"
+bonus "PlanetBonus_E4X_Shield2"
+bonus "PlanetBonus_E4X_SmugglerBase"
+bonus "PlanetBonus_E4X_UnderGColony"
+bonus "PlanetBonus_E4X_Wood"
+bonus "PlanetBonus_REQ_Storms"
+bonus "PlanetBonus_E4X_Wood+"
+bonus "PlanetBonus_E4X_Wood++"
+bonus "PlanetBonus_E4X_SwampSuperAlgae"
+bonus "PlanetBonusCrystalMiners"
+bonus "PlanetBonus_E4X_PlantC"
+bonus "PlanetBonus_E4X_PureC"
+bonus "PlanetBonusPollutedEnvironment"
+bonus "PlanetBonusPollutedEnvironment"
+bonus "PlanetBonusSubsurfaceCrystalDeposits"
+bonus "PlanetBonus_E4X_Gems"
+bonus "PlanetBonusAbandonedNaniteFactory"
+bonus "PlanetBonusAblativeCrust"
+bonus "PlanetBonusAcidAtmosphere"
+bonus "PlanetBonusAcidAtmosphere"
+bonus "PlanetBonusAcidAtmosphere"
+bonus "PlanetBonusAncientMineFactory"
+bonus "PlanetBonusAntimatterCores"
+bonus "PlanetBonusCavernSystem"
+bonus "PlanetBonusCavernSystem"
+bonus "PlanetBonusConductiveInterior"
+bonus "PlanetBonusDeathWorld"
+bonus "PlanetBonusDeathWorld"
+bonus "PlanetBonusDeathWorld"
+bonus "PlanetBonusDeathWorld"
+bonus "PlanetBonusDenseAtmosphere"
+bonus "PlanetBonusDenseAtmosphere"
+bonus "PlanetBonusDenseCore"
+bonus "PlanetBonusFeudalSociety"
+bonus "PlanetBonusFeudalSociety"
+bonus "PlanetBonusFortressWorld"
+bonus "PlanetBonusFreeMarketSociety"
+bonus "PlanetBonusFrequentRaiders"
+bonus "PlanetBonusFusionPowerCore"
+bonus "PlanetBonusGeothermalHeatSource"
+bonus "PlanetBonusHealingNanites"
+bonus "PlanetBonusHighGravity"
+bonus "PlanetBonusHugeGlaciers"
+bonus "PlanetBonusIntenseGravityField"
+bonus "PlanetBonusLowGravity"
+bonus "PlanetBonusLowGravity"
+bonus "PlanetBonusMedicinalPlants"
+bonus "PlanetBonusMedicinalPlants"
+bonus "PlanetBonusMedicinalPlants"
+bonus "PlanetBonusMegaFauna"
+bonus "PlanetBonusMetalMiners"
+bonus "PlanetBonusModernSociety"
+bonus "PlanetBonusOrderedSociety"
+bonus "PlanetBonusPacifistSociety"
+bonus "PlanetBonusPenalColony"
+bonus "PlanetBonusPenalColony"
+bonus "PlanetBonusPlanetaryCorruption"
+bonus "PlanetBonusRareMetalDeposits0"
+bonus "PlanetBonusRustedCore"
+bonus "PlanetBonusSalvagerOutpost"
+bonus "PlanetBonusSolarEnergyReserves"
+bonus "PlanetBonusStrongMagneticField"
+bonus "PlanetBonusThermalLift"
+bonus "PlanetBonusToxicFallout"
+bonus "PlanetBonusToxicFallout"
+bonus "PlanetBonusToxicFallout"
+bonus "PlanetBonusTraderMining"
+bonus "PlanetBonusTrainingAcademy"
+bonus "PlanetBonusVirulentPlague"
+bonus "PlanetBonusVirulentPlague"
+bonus "PlanetBonusVirulentPlague"
+bonus "PlanetBonusWeaponTestGrounds"
+bonus "PlanetBonusWeaponTestGrounds"
+bonus "Axeldude_PLANETBONUS_DepositBeryllium"
+bonus "Axeldude_PLANETBONUS_DepositCobalt"
+bonus "Axeldude_PLANETBONUS_DepositIlmenite"
+bonus "Axeldude_PLANETBONUS_DepositIridium"
+bonus "Axeldude_PLANETBONUS_DepositMagnesium"
+bonus "Axeldude_PLANETBONUS_DepositPalladium"
+bonus "Axeldude_PLANETBONUS_DepositPolonium"
+bonus "Axeldude_PLANETBONUS_DepositSamarium"
+bonus "Axeldude_PLANETBONUS_DepositSilicon"
+bonus "Axeldude_PLANETBONUS_DepositTellerium"
+bonus "Axeldude_PLANETBONUS_DepositThorium"
+bonus "Axeldude_PLANETBONUS_DepositTitanium"
+bonus "Axeldude_PLANETBONUS_DepositTungsten"
+bonus "Axeldude_PLANETBONUS_DepositUranium"
+bonus "Axeldude_PLANETBONUS_LVL-1_GreenhouseRD"
+bonus "Axeldude_PLANETBONUS_LVL-1_GreenhouseTFO"
+bonus "Axeldude_PLANETBONUS_LVL-1_LowAltitudeDebris"
+bonus "Axeldude_PLANETBONUS_LVL-1_NaturalSatellite"
+bonus "Axeldude_PLANETBONUS_LVL-1_WeakMagneticField"
+bonus "Axeldude_PLANETBONUS_LVL0_HazardousAtmosphere"
+bonus "Axeldude_PLANETBONUS_LVL0_HazardousAtmosphere"
+bonus "Axeldude_PLANETBONUS_LVL0_HazardousAtmosphere"
+bonus "Axeldude_PLANETBONUS_LVL0_PoisonousFlora"
+bonus "Axeldude_PLANETBONUS_LVL0_PoisonousFlora"
+bonus "Axeldude_PLANETBONUS_LVL0_PoisonousFlora"
+bonus "Axeldude_PLANETBONUS_LVL0_PoisonousFlora"
+bonus "Axeldude_PLANETBONUS_LVL0_PoisonousFlora"
+bonus "Axeldude_PLANETBONUS_LVL0_Ruins"
+ambienceSoundID "EFFECT_PLANETAMBIENCE_LOOP"
+renderAsVolcanic FALSE
+planetRuinDef
+	ruinPlanetType "PlanetDeadAsteroid"
+	attachType "Center"
+	effectName "StripToTheCore_Planet_TerranHome"
+	startTime 9.000000
+	soundID "EFFECT_STRIPPEDTOTHECORE"
+	creditsOnStrippedToTheCore 4000.000000
+	metalOnStrippedToTheCore 500.000000
+	crystalOnStrippedToTheCore 6700.000000
+	extraScuttleTimeOnStrip 180.000000
+dlcId 204880
+ShieldMeshName "Shield_PlanetSmall"
+renderShield TRUE
+moveAreaRadius 40000.000000
+hyperspaceExitRadius 30000.000000
+isWormhole FALSE
+maxStarBaseCountPerPlayer 1
+maxSpaceMineCountPerPlayer 10
+minShadow 0.000000
+maxShadow 0.000000
+ability:0 ""
+ability:1 ""
+ability:2 ""
+ability:3 ""
+ability:4 ""

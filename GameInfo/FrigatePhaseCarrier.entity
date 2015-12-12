@@ -16,8 +16,8 @@ DescriptionStringID "IDS_FRIGATE_PHASECARRIER_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
 	credits 1215.000000
-	metal 240.000000
-	crystal 210.000000
+	metal 415.000000
+	crystal 110.000000
 slotCount 21.000000
 BuildTime 95.000000
 hasLevels FALSE

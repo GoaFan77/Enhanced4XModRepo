@@ -1,21 +1,6 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 3
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_NOATMOS"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
-	meshName "Axeldude_PLANET_NORMAL_Rock_0"
-	cloudColor 33ffffff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Normal_Rock_0"
-	smallHudIcon "Axeldude_PLANET_Normal_Rock_0"
-	infoCardIcon "Axeldude_PLANET_Normal_Rock_0"
-	mainViewIcon "Axeldude_PLANET_Normal_Rock_0"
-	undetectedMainViewIcon "Axeldude_PLANET_Normal_Rock_0_Unknown"
-	picture ""
-	shouldPrefer FALSE
+meshInfoCount 2
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_NOATMOS"
 	asteroidTemplate "Empty"
@@ -29,7 +14,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Rock_1"
 	mainViewIcon "Axeldude_PLANET_Normal_Rock_1"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Rock_1_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_NOATMOS"
@@ -44,7 +29,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Rock_3"
 	mainViewIcon "Axeldude_PLANET_Normal_Rock_3"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Rock_3_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 minZoomDistanceMult 2.250000
 glowColor 0
@@ -331,95 +316,7 @@ skyboxScalars
 	diffuseScalar 0.720000
 	ambientScalar 0.800000
 requiredPlanetBonusesCount 0
-possibleRandomPlanetBonusesCount 88
-bonus "PlanetBonus_E4X_Black"
-bonus "PlanetBonus_E4X_ConstructP"
-bonus "PlanetBonus_E4X_ConstructO"
-bonus "PlanetBonus_E4X_FreshWater"
-bonus "PlanetBonus_E4X_Gems"
-bonus "PlanetBonus_E4X_Outpost"
-bonus "PlanetBonus_E4X_Outpost"
-bonus "PlanetBonus_E4X_PureC"
-bonus "PlanetBonus_REQ_O2"
-bonus "PlanetBonus_E4X_PureM"
-bonus "PlanetBonus_E4X_Shield1"
-bonus "PlanetBonus_E4X_Shield2"
-bonus "PlanetBonus_E4X_SmugglerBase"
-bonus "PlanetBonus_E4X_UnderGColony"
-bonus "PlanetBonus_E4X_AsteroidMiningCenter"
-bonus "PlanetBonus_E4X_SmugglerBase"
-bonus "PlanetBonus_E4X_UnderGColony"
-bonus "PlanetBonus_E4X_AsteroidMiningCenter"
-bonus "PlanetBonus_REQ_Defensive"
-bonus "PlanetBonusAbandonedNaniteFactory"
-bonus "PlanetBonusAblativeCrust"
-bonus "PlanetBonusAncientArcology"
-bonus "PlanetBonusAncientMineFactory"
-bonus "PlanetBonusAntimatterCores"
-bonus "PlanetBonusCavernSystem"
-bonus "PlanetBonusCavernSystem"
-bonus "PlanetBonusCrystalMiners"
-bonus "PlanetBonusCrystalMiners"
-bonus "PlanetBonusDustStorms"
-bonus "PlanetBonusDustStorms"
-bonus "PlanetBonusFortressWorld"
-bonus "PlanetBonusFusionPowerCore"
-bonus "PlanetBonusHighGravity"
-bonus "PlanetBonusIndustrialWasteland"
-bonus "PlanetBonusIndustrialWasteland"
-bonus "PlanetBonusIndustrialWasteland"
-bonus "PlanetBonusLowGravity"
-bonus "PlanetBonusLowGravity"
-bonus "PlanetBonusMetalMiners"
-bonus "PlanetBonusMetalMiners"
-bonus "PlanetBonusMeteoriteCraters"
-bonus "PlanetBonusMeteoriteCraters"
-bonus "PlanetBonusMeteoriteCraters"
-bonus "PlanetBonusPenalColony"
-bonus "PlanetBonusPenalColony"
-bonus "PlanetBonusPlanetaryCorruption"
-bonus "PlanetBonusPollutedEnvironment"
-bonus "PlanetBonusPollutedEnvironment"
-bonus "PlanetBonusQuantumCommHub"
-bonus "PlanetBonusRareMetalDeposits0"
-bonus "PlanetBonusRareMetalDeposits0"
-bonus "PlanetBonusRustedCore"
-bonus "PlanetBonusSalvagerOutpost"
-bonus "PlanetBonusSalvagerOutpost"
-bonus "PlanetBonusSignalAbsorption"
-bonus "PlanetBonusStableDebrisField"
-bonus "PlanetBonusStrictSecurity"
-bonus "PlanetBonusSubsurfaceCrystalDeposits"
-bonus "PlanetBonusSubsurfaceMetalDeposits"
-bonus "PlanetBonusToxicFallout"
-bonus "PlanetBonusTraderMining"
-bonus "PlanetBonusTrainingAcademy"
-bonus "PlanetBonusWeaponTestGrounds"
-bonus "PlanetBonusWeaponTestGrounds"
-bonus "PlanetBonusWeaponTestGrounds"
-bonus "Axeldude_PLANETBONUS_DepositBeryllium"
-bonus "Axeldude_PLANETBONUS_DepositCobalt"
-bonus "Axeldude_PLANETBONUS_DepositCopper"
-bonus "Axeldude_PLANETBONUS_DepositGold"
-bonus "Axeldude_PLANETBONUS_DepositIlmenite"
-bonus "Axeldude_PLANETBONUS_DepositIridium"
-bonus "Axeldude_PLANETBONUS_DepositLithium"
-bonus "Axeldude_PLANETBONUS_DepositMagnesium"
-bonus "Axeldude_PLANETBONUS_DepositNickel"
-bonus "Axeldude_PLANETBONUS_DepositPalladium"
-bonus "Axeldude_PLANETBONUS_DepositPlatinum"
-bonus "Axeldude_PLANETBONUS_DepositPolonium"
-bonus "Axeldude_PLANETBONUS_DepositSamarium"
-bonus "Axeldude_PLANETBONUS_DepositSilicon"
-bonus "Axeldude_PLANETBONUS_DepositSilver"
-bonus "Axeldude_PLANETBONUS_DepositTellerium"
-bonus "Axeldude_PLANETBONUS_DepositThorium"
-bonus "Axeldude_PLANETBONUS_DepositTitanium"
-bonus "Axeldude_PLANETBONUS_DepositTungsten"
-bonus "Axeldude_PLANETBONUS_DepositUranium"
-bonus "Axeldude_PLANETBONUS_LVL-1_LowAltitudeDebris"
-bonus "Axeldude_PLANETBONUS_LVL-1_WeakMagneticField"
-bonus "Axeldude_PLANETBONUS_LVL-1_WeakMagneticField"
+possibleRandomPlanetBonusesCount 0
 ambienceSoundID ""
 renderAsVolcanic FALSE
 planetRuinDef
@@ -432,7 +329,7 @@ planetRuinDef
 	metalOnStrippedToTheCore 5000.000000
 	crystalOnStrippedToTheCore 5000.000000
 	extraScuttleTimeOnStrip 180.000000
-dlcId 100000
+dlcId 204880
 ShieldMeshName "Shield_PlanetSmall"
 renderShield TRUE
 moveAreaRadius 38000.000000

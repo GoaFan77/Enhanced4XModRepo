@@ -1,6 +1,26 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 104
+brushCount 108
+brush
+	name "Axeldude_PLANET_Alpine"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 1 , 121 , 50 , 50 ]
+brush
+	name "Axeldude_PLANET_Alpine_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 1 , 181 , 50 , 50 ]
+brush
+	name "PLANET_E4X_Toxic"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 415 , 1 , 50 , 50 ]
+brush
+	name "PLANET_E4X_Toxic_Unknown"
+	content "Simple"
+	fileName "Axeldude_Extra_Planet_Icons_101"
+	pixelBox [ 415 , 61 , 50 , 50 ]
 brush
 	name "Axeldude_PLANET_Normal_Carbon_3"
 	content "Simple"

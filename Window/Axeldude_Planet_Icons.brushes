@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 28
+brushCount 29
 brush
 	name "Axeldude_DWARF_3"
 	content "Simple"
@@ -141,3 +141,8 @@ brush
 	content "Simple"
 	fileName "Axeldude_Planet_Icons"
 	pixelBox [ 1 , 110 , 50 , 50 ]
+brush
+	name "PICTURE_PLANET_GENERIC"
+	content "Simple"
+	fileName "Icons_New_Requiem_Planets"
+	pixelBox [ 509 , 129 , 167 , 75 ]	

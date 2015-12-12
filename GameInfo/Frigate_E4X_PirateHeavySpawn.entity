@@ -35,7 +35,7 @@ Prerequisites
 numRandomDebrisLarge 1
 numRandomDebrisSmall 9
 numSpecificDebris 0
-armorType "Pirate"
+armorType "VeryHeavy"
 hudIcon "HUDICON_FRIGATE_PIRATEHEAVY"
 smallHudIcon "HUDICONSMALL_FRIGATE_PIRATEHEAVY"
 infoCardIcon "INFOCARDICON_FRIGATE_PIRATEHEAVY"

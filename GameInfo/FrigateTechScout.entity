@@ -1,0 +1,153 @@
+﻿TXT
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn FALSE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault FALSE
+canBomb FALSE
+typeCount 2
+frigateRoleType "Scout"
+frigateRoleType "AntiMine"
+statCountType "FrigateScout"
+mainViewIcon "MAINVIEWICON_FRIGATE_TECHSCOUT"
+picture "PICTURE_FRIGATE_TECHSCOUT"
+NameStringID "IDS_FRIGATE_TECHSCOUT_NAME"
+DescriptionStringID "IDS_FRIGATE_TECHSCOUT_DESCRIPTION"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
+basePrice
+	credits 200.000000
+	metal 0.000000
+	crystal 0.000000
+slotCount 2.000000
+BuildTime 15.000000
+hasLevels FALSE
+ExperiencePointsForDestroying 8.000000
+MaxHullPoints 555.000000
+MaxShieldPoints 205.000000
+HullPointRestoreRate 1.000000
+ShieldPointRestoreRate 2.000000
+BaseArmorPoints 2.000000
+maxMitigation 0.600000
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 3
+numSpecificDebris 0
+armorType "Medium"
+hudIcon "HUDICON_FRIGATE_TECHSCOUT"
+smallHudIcon "HUDICONSMALL_FRIGATE_TECHSCOUT"
+infoCardIcon "INFOCARDICON_FRIGATE_TECHSCOUT"
+minZoomDistanceMult 5.500000
+NumWeapons 1
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIVERYLIGHT"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "LASERTECH"
+	DamagePerBank:FRONT 20.500000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 5000.000000
+	PreBuffCooldownTime 8.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting TRUE
+	PointStaggerDelay 0.300000
+	TravelSpeed 4000.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 4
+		burstDelay 0.250000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_Tech_FrigateLaser_Muzzle"
+		muzzleSoundMinRespawnTime 0.400000
+		muzzleSounds
+			soundCount 3
+			sound "WEAPON_TECHCAPITALLASERLIGHT_MUZZLE"
+			sound "WEAPON_TECHCAPITALLASERLIGHT_MUZZLE_ALT1"
+			sound "WEAPON_TECHCAPITALLASERLIGHT_MUZZLE_ALT2"
+		hitEffectName "Weapon_Tech_FrigateLaser_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "Weapon_Tech_FrigateLaser_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 2000.000000
+ShieldMeshName "Shield_FrigateTechScout"
+renderShield TRUE
+maxAccelerationLinear 350.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 4.950000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 1100.000000
+maxRollRate 2.000000
+maxRollAngle 35.000000
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 3
+SoundID "FRIGATE_TECHSCOUT_ONATTACKORDERISSUED_0"
+SoundID "FRIGATE_TECHSCOUT_ONATTACKORDERISSUED_1"
+SoundID "FRIGATE_TECHSCOUT_ONATTACKORDERISSUED_2"
+NumSoundsFor:ONCREATION 1
+SoundID "FRIGATE_TECHSCOUT_ONCREATION"
+NumSoundsFor:ONGENERALORDERISSUED 3
+SoundID "FRIGATE_TECHSCOUT_ONGENERALORDERISSUED_0"
+SoundID "FRIGATE_TECHSCOUT_ONGENERALORDERISSUED_1"
+SoundID "FRIGATE_TECHSCOUT_ONGENERALORDERISSUED_2"
+NumSoundsFor:ONSELECTED 4
+SoundID "FRIGATE_TECHSCOUT_ONSELECTED_0"
+SoundID "FRIGATE_TECHSCOUT_ONSELECTED_1"
+SoundID "FRIGATE_TECHSCOUT_ONSELECTED_2"
+SoundID "FRIGATE_TECHSCOUT_ONSELECTED_3"
+NumSoundsFor:ONSTARTPHASEJUMP 1
+SoundID "FRIGATE_TECHSCOUT_ONSTARTPHASEJUMP_0"
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Frigate_TechScout"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "Exhaust_FrigateTechScout"
+ExplosionName "Frigate1"
+HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
+HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
+EngineSoundID "ENGINE_TECHCAPITALSHIP"
+ability:0 "AbilityExplore"
+ability:1 "AbilityProbe"
+ability:2 "AbilityTimedCharges"
+ability:3 "AbilityUnstoppablePhaseJumpTech"
+ability:4 "AbilityDetectMinesTech"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.500000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 1
+minShadow 0.100000
+maxShadow 0.800000
+allegianceDecreasePerRoundtrip 0.000000

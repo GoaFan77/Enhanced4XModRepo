@@ -16,8 +16,8 @@ DescriptionStringID "IDS_FRIGATE_TECHHEAVY_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_HEAVY"
 basePrice
 	credits 500.000000
-	metal 100.000000
-	crystal 70.000000
+	metal 235.000000
+	crystal 00.000000
 slotCount 10.000000
 BuildTime 60.000000
 hasLevels FALSE

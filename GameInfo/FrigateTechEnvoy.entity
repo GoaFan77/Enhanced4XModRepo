@@ -17,7 +17,7 @@ counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
 	credits 550.000000
 	metal 70.000000
-	crystal 10.000000
+	crystal 0.000000
 slotCount 4.000000
 BuildTime 63.000000
 hasLevels FALSE

@@ -1,10 +1,10 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 5
+meshInfoCount 4
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_ICEGIANT"
 	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
+	dustCloudTemplate "Dense"
 	meshName "Axeldude_PLANET_IceGiant_0"
 	cloudColor 0
 	nullMeshRadius 0.000000
@@ -14,11 +14,11 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_IceGiant_0"
 	mainViewIcon "Axeldude_PLANET_IceGiant_0"
 	undetectedMainViewIcon "Axeldude_PLANET_IceGiant_0_Unknown"
-	picture ""
-	shouldPrefer FALSE
+	picture "PICTURE_PLANET_GENERIC"
+	shouldPrefer FALSE	
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_GASGIANT"
-	asteroidTemplate "Empty"
+	asteroidTemplate "Ring"
 	dustCloudTemplate "Empty"
 	meshName "Axeldude_PLANET_GasGiant_0"
 	cloudColor 0
@@ -29,27 +29,12 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_GasGiant_0"
 	mainViewIcon "Axeldude_PLANET_GasGiant_0"
 	undetectedMainViewIcon "Axeldude_PLANET_GasGiant_0_Unknown"
-	picture ""
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_ICEGIANT"
-	asteroidTemplate "Ring"
-	dustCloudTemplate "GrittyDense"
-	meshName "Planet_Gas_4"
-	cloudColor 0
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "HUDICON_PLANET_GASGIANT4"
-	smallHudIcon "HUDICONSMALL_PLANET_GASGIANT4"
-	infoCardIcon "INFOCARDICON_PLANET_GASGIANT4"
-	mainViewIcon "MAINVIEWICON_PLANET_GASGIANT4"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_GASGIANT4"
-	picture "PICTURE_PLANET_GASGIANT4"
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_GASGIANT"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
+	asteroidTemplate "Ring"
+	dustCloudTemplate "Sparse"
 	meshName "Axeldude_PLANET_GasGiant_3"
 	cloudColor 0
 	nullMeshRadius 0.000000
@@ -59,12 +44,12 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_GasGiant_3"
 	mainViewIcon "Axeldude_PLANET_GasGiant_3"
 	undetectedMainViewIcon "Axeldude_PLANET_GasGiant_3_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_GASGIANT"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
+	asteroidTemplate "Sparse"
+	dustCloudTemplate "Dense"
 	meshName "Axeldude_PLANET_GasGiant_2"
 	cloudColor 0
 	nullMeshRadius 0.000000
@@ -74,7 +59,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_GasGiant_2"
 	mainViewIcon "Axeldude_PLANET_GasGiant_2"
 	undetectedMainViewIcon "Axeldude_PLANET_GasGiant_2_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 minZoomDistanceMult 2.000000
 glowColor 55ffffff

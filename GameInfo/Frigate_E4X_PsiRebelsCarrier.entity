@@ -16,8 +16,8 @@ DescriptionStringID "IDS_FRIGATE_PSICARRIER_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
 	credits 1920.000000
-	metal 345.000000
-	crystal 330.000000
+	metal 505.000000
+	crystal 230.000000
 slotCount 30.000000
 BuildTime 105.000000
 hasLevels FALSE

@@ -16,8 +16,8 @@ DescriptionStringID "IDS_FRIGATE_PSIANTIFIGHTER_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_ANTIFIGHTER"
 basePrice
 	credits 360.000000
-	metal 40.000000
-	crystal 20.000000
+	metal 100.000000
+	crystal 0.000000
 slotCount 4.000000
 BuildTime 35.000000
 hasLevels FALSE

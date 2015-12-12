@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2618
+entityNameCount 2624
 entityName "BuffSuppressionChannelEnd.entity"
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
@@ -2618,3 +2618,9 @@ entityName "Ability_E4X_UncolonizeablePlanet.entity"
 entityName "Buff_E4X_UncolonizeablePlanet.entity"
 entityName "Buff_E4X_AIBoost.entity"
 entityName "Buff_E4X_AIBoostResources.entity"
+entityName "Ability_E4X_AIBoost.entity"
+entityName "Buff_E4X_AIBoostOnColonize.entity"
+entityName "Planet_E4X_Toxic.entity"
+entityName "Planet_E4X_ToxicFair.entity"
+entityName "Planet_E4X_Urban.entity"
+entityName "Planet_E4X_UrbanFair.entity"

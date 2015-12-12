@@ -5,16 +5,16 @@ import os, sys
 
 def GetPath(): #gets the path of the current directory
   path = sys.argv[0]
-  print path
+  print(path)
 
-  for i in range(-1,-100,-1):
+  for i in range(-1, -100, -1):
     if path[i] == "\\":
       return path[0:i]
       break
     else:
       i = i-1
 
-  print "Path not recognized/file name too long"
+  print("Path not recognized/file name too long")
   quit
 
 def ReadManifest(): #reads the manifest.entity file of the current directory
@@ -60,8 +60,8 @@ def main():
   listing = os.listdir(path)
   for infile in listing:
     if infile[-7:] == '.entity':
-      if entityList.has_key(infile) == False:
-        print infile
+      if not infile in entityList:
+        print(infile)
         newEntities.append(infile)
 
   for i in newEntities:

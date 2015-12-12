@@ -1,36 +1,6 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 5
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_TERRAN"
-	asteroidTemplate "Sparse"
-	dustCloudTemplate "Sparse"
-	meshName "Planet_Terran_0"
-	cloudColor ffffffff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Terran_0"
-	smallHudIcon "Axeldude_PLANET_Terran_0"
-	infoCardIcon "Axeldude_PLANET_Terran_0"
-	mainViewIcon "Axeldude_PLANET_Terran_0"
-	undetectedMainViewIcon "Axeldude_PLANET_Terran_0_Unknown"
-	picture ""
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_TERRAN"
-	asteroidTemplate "Wall"
-	dustCloudTemplate "Empty"
-	meshName "Planet_Terran_2"
-	cloudColor ffffffff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Terran_1"
-	smallHudIcon "Axeldude_PLANET_Terran_1"
-	infoCardIcon "Axeldude_PLANET_Terran_1"
-	mainViewIcon "Axeldude_PLANET_Terran_1"
-	undetectedMainViewIcon "Axeldude_PLANET_Terran_1_Unknown"
-	picture ""
-	shouldPrefer FALSE
+meshInfoCount 3
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_TERRAN"
 	asteroidTemplate "Empty"
@@ -44,7 +14,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Terran_2"
 	mainViewIcon "Axeldude_PLANET_Normal_Terran_2"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Terran_2_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_TERRAN"
@@ -59,7 +29,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Terran_3"
 	mainViewIcon "Axeldude_PLANET_Normal_Terran_3"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Terran_3_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_TERRAN"
@@ -74,7 +44,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Terran_4"
 	mainViewIcon "Axeldude_PLANET_Normal_Terran_4"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Terran_4_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 minZoomDistanceMult 2.750000
 glowColor 8f0099ff

@@ -5,16 +5,16 @@ meshInfo
 	typeNameStringID "IDS_PLANETTYPE_SWAMP"
 	asteroidTemplate "Sparse"
 	dustCloudTemplate "Sparse"
-	meshName "Planet_Swamp_2"
-	cloudColor ffffffff
+	meshName "Axeldude_PLANET_NORMAL_Forest_4"
+	cloudColor 44ffffff
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Normal_Forest_2"
-	smallHudIcon "Axeldude_PLANET_Normal_Forest_2"
-	infoCardIcon "Axeldude_PLANET_Normal_Forest_2"
-	mainViewIcon "Axeldude_PLANET_Normal_Forest_2"
-	undetectedMainViewIcon "Axeldude_PLANET_Normal_Forest_2_Unknown"
-	picture ""
+	hudIcon "Axeldude_PLANET_Normal_Forest_4"
+	smallHudIcon "Axeldude_PLANET_Normal_Forest_4"
+	infoCardIcon "Axeldude_PLANET_Normal_Forest_4"
+	mainViewIcon "Axeldude_PLANET_Normal_Forest_4"
+	undetectedMainViewIcon "Axeldude_PLANET_Normal_Forest_4_Unknown"
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_FOREST"
@@ -29,7 +29,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Forest_1"
 	mainViewIcon "Axeldude_PLANET_Normal_Forest_1"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Forest_1_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_SWAMP"
@@ -44,7 +44,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Forest_4"
 	mainViewIcon "Axeldude_PLANET_Normal_Forest_4"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Forest_4_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_SWAMP"
@@ -59,7 +59,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Forest_2"
 	mainViewIcon "Axeldude_PLANET_Normal_Forest_2"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Forest_2_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 minZoomDistanceMult 2.000000
 glowColor 8f459751

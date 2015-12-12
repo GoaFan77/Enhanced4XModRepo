@@ -438,3 +438,20 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Minimod additions.
 		-Radiance Battleship's Aminosity ability now has a greater range.
 		-Increased the range of the Kol Battleship's Flak Burst, especially at lower levels.
+		
+1.8     - Readjusted resource balance to try to eliviate early game crystal shortage and make metal more useful.
+			- Terran Homeworlds now have 2 crystal asteroids.
+			- Reduced or elimated the crystal cost of the following unit types for all factions, while increasing the metal cost.
+				- Antifighter, Carrier Cruiser, Heavy, Envoy, Siege.
+		- New Planet Types Added.	
+			- Contaminated. Low tier planet with the most Crystal Extractors in the mod. Requires Hazardous Colonization.
+			- Alpine. Low tier planet with 5 metal extractors. Requires Ice Colonization.
+			- Urban. High tier planet with no asteroids, but the highest population values.
+		- Added four new skyboxes. All but three of the previous skyboxes have been removed. A new minimod will allow you to use all skyboxes, but this will increase RAM usage.		
+		- Pirate ships now use standard armor types for their classes. This should make their expected counters work better, and make them easier overall.
+		- Bombers now use the same armor type as Fighters. This means antifighter frigates deal much more damage to them.
+		- Corvettes now have their own armor type. Antifighter frigates still deal the most to them, followed by capitalships, other corvettes and light frigates.	
+		- Scouts now use the Medium (Light Frigate) Armor type, have increased acceleration and top speed, and increased hull/shield regeneration rates.
+		- Mine armor type has been switched to Very Light. This will help the main anti-mine units like Scouts, Fighters and Flak destroy them faster.
+		- Removed some of the uglier planet alternate textures to reduce memory usage.
+		- Fixed a glitched Volcanic planet texture. 

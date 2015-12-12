@@ -17,8 +17,8 @@ DescriptionStringID "IDS_FRIGATE_TECHCOLONY_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
 	credits 450.000000
-	metal 100.000000
-	crystal 50.000000
+	metal 200.000000
+	crystal 0.000000
 slotCount 6.000000
 BuildTime 40.000000
 hasLevels FALSE

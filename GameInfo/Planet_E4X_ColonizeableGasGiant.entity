@@ -1,40 +1,10 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 5
+meshInfoCount 3
 meshInfo
 	typeNameStringID "IDSGalaxyScenarioTypePlanetColGiant"
 	asteroidTemplate "Ring"
-	dustCloudTemplate "PuffyDense"
-	meshName "Planet_Gas_0"
-	cloudColor 0
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "HUDICON_PLANET_GASGIANT0"
-	smallHudIcon "HUDICONSMALL_PLANET_GASGIANT0"
-	infoCardIcon "INFOCARDICON_PLANET_GASGIANT0"
-	mainViewIcon "MAINVIEWICON_PLANET_GASGIANT0"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_GASGIANT0"
-	picture "PICTURE_PLANET_GASGIANT0"
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDSGalaxyScenarioTypePlanetColGiant"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
-	meshName "Planet_Gas_1"
-	cloudColor 0
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "HUDICON_PLANET_GASGIANT0"
-	smallHudIcon "HUDICONSMALL_PLANET_GASGIANT0"
-	infoCardIcon "INFOCARDICON_PLANET_GASGIANT0"
-	mainViewIcon "MAINVIEWICON_PLANET_GASGIANT0"
-	undetectedMainViewIcon "MAINVIEWUNDETECTEDICON_PLANET_GASGIANT0"
-	picture "PICTURE_PLANET_GASGIANT0"
-	shouldPrefer FALSE	
-meshInfo
-	typeNameStringID "IDSGalaxyScenarioTypePlanetColGiant"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
+	dustCloudTemplate "Sparse"
 	meshName "Axeldude_PLANET_GasGiant_0"
 	cloudColor 0
 	nullMeshRadius 0.000000
@@ -44,12 +14,12 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_GasGiant_0"
 	mainViewIcon "Axeldude_PLANET_GasGiant_0"
 	undetectedMainViewIcon "Axeldude_PLANET_GasGiant_0_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDSGalaxyScenarioTypePlanetColGiant"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
+	asteroidTemplate "Ring"
+	dustCloudTemplate "Dense"
 	meshName "Axeldude_PLANET_GasGiant_3"
 	cloudColor 0
 	nullMeshRadius 0.000000
@@ -59,7 +29,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_GasGiant_3"
 	mainViewIcon "Axeldude_PLANET_GasGiant_3"
 	undetectedMainViewIcon "Axeldude_PLANET_GasGiant_3_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDSGalaxyScenarioTypePlanetColGiant"

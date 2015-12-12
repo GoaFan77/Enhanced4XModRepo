@@ -14,37 +14,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Volcanic_0"
 	mainViewIcon "Axeldude_PLANET_Volcanic_0"
 	undetectedMainViewIcon "Axeldude_PLANET_Volcanic_0_Unknown"
-	picture ""
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_VOLCANIC"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
-	meshName "Axeldude_PLANET_NORMAL_Carbon_1"
-	cloudColor 00605010
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Normal_Carbon_1"
-	smallHudIcon "Axeldude_PLANET_Normal_Carbon_1"
-	infoCardIcon "Axeldude_PLANET_Normal_Carbon_1"
-	mainViewIcon "Axeldude_PLANET_Normal_Carbon_1"
-	undetectedMainViewIcon "Axeldude_PLANET_Normal_Carbon_1_Unknown"
-	picture ""
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_VOLCANIC"
-	asteroidTemplate "Wall"
-	dustCloudTemplate "Empty"
-	meshName "Planet_Volcanic_2"
-	cloudColor 00000000
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Volcanic_1"
-	smallHudIcon "Axeldude_PLANET_Volcanic_1"
-	infoCardIcon "Axeldude_PLANET_Volcanic_1"
-	mainViewIcon "Axeldude_PLANET_Volcanic_1"
-	undetectedMainViewIcon "Axeldude_PLANET_Volcanic_1_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_VOLCANIC"
@@ -59,7 +29,37 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Carbon_2"
 	mainViewIcon "Axeldude_PLANET_Normal_Carbon_2"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Carbon_2_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
+	shouldPrefer FALSE
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_VOLCANIC"
+	asteroidTemplate "Wall"
+	dustCloudTemplate "Empty"
+	meshName "Planet_Volcanic_0"
+	cloudColor 00000000
+	nullMeshRadius 0.000000
+	nullMeshParticleEffect ""
+	hudIcon "Axeldude_PLANET_Volcanic_1"
+	smallHudIcon "Axeldude_PLANET_Volcanic_1"
+	infoCardIcon "Axeldude_PLANET_Volcanic_1"
+	mainViewIcon "Axeldude_PLANET_Volcanic_1"
+	undetectedMainViewIcon "Axeldude_PLANET_Volcanic_1_Unknown"
+	picture "PICTURE_PLANET_GENERIC"
+	shouldPrefer FALSE
+meshInfo
+	typeNameStringID "IDS_PLANETTYPE_VOLCANIC"
+	asteroidTemplate "Empty"
+	dustCloudTemplate "Empty"
+	meshName "Axeldude_PLANET_NORMAL_Carbon_2"
+	cloudColor 00605010
+	nullMeshRadius 0.000000
+	nullMeshParticleEffect ""
+	hudIcon "Axeldude_PLANET_Normal_Carbon_2"
+	smallHudIcon "Axeldude_PLANET_Normal_Carbon_2"
+	infoCardIcon "Axeldude_PLANET_Normal_Carbon_2"
+	mainViewIcon "Axeldude_PLANET_Normal_Carbon_2"
+	undetectedMainViewIcon "Axeldude_PLANET_Normal_Carbon_2_Unknown"
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 minZoomDistanceMult 2.750000
 glowColor 8f6b1e00

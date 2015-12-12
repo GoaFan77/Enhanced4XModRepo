@@ -16,8 +16,8 @@ DescriptionStringID "IDS_FRIGATE_TECHCARRIER_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
 	credits 1250.000000
-	metal 225.000000
-	crystal 200.000000
+	metal 400.000000
+	crystal 100.000000
 slotCount 21.000000
 BuildTime 95.000000
 hasLevels FALSE

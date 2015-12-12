@@ -46,8 +46,8 @@ DescriptionStringID "IDS_FRIGATE_TECHSIEGE_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
 	credits 620.000000
-	metal 80.000000
-	crystal 65.000000
+	metal 180.000000
+	crystal 15.000000
 slotCount 10.000000
 BuildTime 52.000000
 hasLevels FALSE

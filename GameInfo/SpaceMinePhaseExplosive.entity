@@ -8,7 +8,7 @@ ability:4 "AbilityHideMinesPhase"
 numRandomDebrisLarge 0
 numRandomDebrisSmall 2
 numSpecificDebris 0
-armorType "Module"
+armorType "VeryLight"
 hudIcon "HUDIconSpaceMinePhaseExplosive"
 smallHudIcon "HUDIconSmallSpaceMinePhaseExplosive"
 infoCardIcon "InfoCardIconSpaceMinePhaseExplosive"

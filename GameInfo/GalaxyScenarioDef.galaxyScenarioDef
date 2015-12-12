@@ -80,11 +80,11 @@ starType
 	designStringId "IDSGalaxyScenarioTypeStarPulsar"
 	orbitBodyTypeCount 1
 	orbitBodyType "PulsarStar"
-planetTypeCount 95
+planetTypeCount 101
 planetType
 	designName "WeightedNonIce"
 	designStringId "IDSGalaxyScenarioTypePlanetWeightedNonIce"
-	orbitBodyTypeCount 18
+	orbitBodyTypeCount 21
 	orbitBodyType "Terran"
 	orbitBodyType "Desert"
 	orbitBodyType "Volcanic"
@@ -98,15 +98,18 @@ planetType
 	orbitBodyType "Hydrocarbon"
 	orbitBodyType "Igneous"
 	orbitBodyType "Industrial"
+	orbitBodyType "Urban"
 	orbitBodyType "LowAtmosphere"
 	orbitBodyType "Oceanic"
 	orbitBodyType "Swamp"
+	orbitBodyType "Toxic"
 	orbitBodyType "Ferrus"
 	orbitBodyType "Greenhouse"
+	orbitBodyType "Alpine"
 planetType
 	designName "WeightedNonIceFair"
 	designStringId "IDSGalaxyScenarioTypePlanetWeightedNonIceFair"
-	orbitBodyTypeCount 18
+	orbitBodyTypeCount 21
 	orbitBodyType "TerranFair"
 	orbitBodyType "DesertFair"
 	orbitBodyType "VolcanicFair"
@@ -120,15 +123,18 @@ planetType
 	orbitBodyType "HydrocarbonFair"
 	orbitBodyType "IgneousFair"
 	orbitBodyType "IndustrialFair"
+	orbitBodyType "UrbanFair"
 	orbitBodyType "LowAtmosphereFair"
 	orbitBodyType "SwampFair"
 	orbitBodyType "OceanicFair"
 	orbitBodyType "FerrusFair"
+	orbitBodyType "ToxicFair"
 	orbitBodyType "GreenhouseFair"
+	orbitBodyType "AlpineFair"
 planetType
 	designName "WeightedRandom"
 	designStringId "IDSGalaxyScenarioTypePlanetWeightedRandom"
-	orbitBodyTypeCount 56
+	orbitBodyTypeCount 59
 	orbitBodyType "Terran"
 	orbitBodyType "Terran"
 	orbitBodyType "Ice"
@@ -172,12 +178,14 @@ planetType
 	orbitBodyType "Igneous"
 	orbitBodyType "Igneous"
 	orbitBodyType "Industrial"
+	orbitBodyType "Urban"
 	orbitBodyType "LowAtmosphere"
 	orbitBodyType "LowAtmosphere"
 	orbitBodyType "Oceanic"
 	orbitBodyType "Oceanic"
 	orbitBodyType "Swamp"
 	orbitBodyType "Swamp"
+	orbitBodyType "Toxic"
 	orbitBodyType "Agricultural"
 	orbitBodyType "Hydrocarbon"
 	orbitBodyType "Hydrocarbon"
@@ -185,10 +193,11 @@ planetType
 	orbitBodyType "Greenhouse"
 	orbitBodyType "Greenhouse"
 	orbitBodyType "Greenhouse"
+	orbitBodyType "Alpine"
 planetType
 	designName "WeightedRandomFair"
 	designStringId "IDSGalaxyScenarioTypePlanetWeightedRandomFair"
-	orbitBodyTypeCount 56
+	orbitBodyTypeCount 59
 	orbitBodyType "TerranFair"
 	orbitBodyType "TerranFair"
 	orbitBodyType "IceFair"
@@ -232,12 +241,14 @@ planetType
 	orbitBodyType "IgneousFair"
 	orbitBodyType "IgneousFair"
 	orbitBodyType "IndustrialFair"
+	orbitBodyType "UrbanFair"
 	orbitBodyType "LowAtmosphereFair"
 	orbitBodyType "LowAtmosphereFair"
 	orbitBodyType "OceanicFair"
 	orbitBodyType "OceanicFair"
 	orbitBodyType "SwampFair"
 	orbitBodyType "SwampFair"
+	orbitBodyType "ToxicFair"
 	orbitBodyType "AgriculturalFair"
 	orbitBodyType "HydrocarbonFair"
 	orbitBodyType "HydrocarbonFair"
@@ -245,10 +256,11 @@ planetType
 	orbitBodyType "GreenhouseFair"
 	orbitBodyType "GreenhouseFair"
 	orbitBodyType "GreenhouseFair"
+	orbitBodyType "AlpineFair"
 planetType
 	designName "WeightedColonizable"
 	designStringId "IDSGalaxyScenarioTypePlanetWeightedColonizable"
-	orbitBodyTypeCount 36
+	orbitBodyTypeCount 39
 	orbitBodyType "Terran"
 	orbitBodyType "Terran"
 	orbitBodyType "Ice"
@@ -272,12 +284,14 @@ planetType
 	orbitBodyType "Igneous"
 	orbitBodyType "Igneous"
 	orbitBodyType "Industrial"
+	orbitBodyType "Urban"
 	orbitBodyType "LowAtmosphere"
 	orbitBodyType "LowAtmosphere"
 	orbitBodyType "Oceanic"
 	orbitBodyType "Oceanic"
 	orbitBodyType "Swamp"
 	orbitBodyType "Swamp"
+	orbitBodyType "Toxic"
 	orbitBodyType "Agricultural"
 	orbitBodyType "Hydrocarbon"
 	orbitBodyType "Hydrocarbon"
@@ -285,10 +299,11 @@ planetType
 	orbitBodyType "Greenhouse"
 	orbitBodyType "Greenhouse"
 	orbitBodyType "Greenhouse"
+	orbitBodyType "Alpine"
 planetType
 	designName "WeightedColonizableFair"
 	designStringId "IDSGalaxyScenarioTypePlanetWeightedColonizableFair"
-	orbitBodyTypeCount 36
+	orbitBodyTypeCount 39
 	orbitBodyType "TerranFair"
 	orbitBodyType "TerranFair"
 	orbitBodyType "IceFair"
@@ -312,12 +327,14 @@ planetType
 	orbitBodyType "IgneousFair"
 	orbitBodyType "IgneousFair"
 	orbitBodyType "IndustrialFair"
+	orbitBodyType "UrbanFair"
 	orbitBodyType "LowAtmosphereFair"
 	orbitBodyType "LowAtmosphereFair"
 	orbitBodyType "OceanicFair"
 	orbitBodyType "OceanicFair"
 	orbitBodyType "SwampFair"
 	orbitBodyType "SwampFair"
+	orbitBodyType "ToxicFair"
 	orbitBodyType "AgriculturalFair"
 	orbitBodyType "HydrocarbonFair"
 	orbitBodyType "HydrocarbonFair"
@@ -325,6 +342,7 @@ planetType
 	orbitBodyType "GreenhouseFair"
 	orbitBodyType "GreenhouseFair"
 	orbitBodyType "GreenhouseFair"
+	orbitBodyType "AlpineFair"
 planetType
 	designName "AsteroidOrDead"
 	designStringId "IDSGalaxyScenarioTypePlanetAsteroidOrDead"
@@ -363,7 +381,7 @@ planetType
 planetType
 	designName "Random"
 	designStringId "IDSGalaxyScenarioTypePlanetRandom"
-	orbitBodyTypeCount 28
+	orbitBodyTypeCount 31
 	orbitBodyType "Terran"
 	orbitBodyType "Ice"
 	orbitBodyType "Desert"
@@ -385,6 +403,7 @@ planetType
 	orbitBodyType "Desolate"
 	orbitBodyType "Igneous"
 	orbitBodyType "Industrial"
+	orbitBodyType "Urban"
 	orbitBodyType "LowAtmosphere"
 	orbitBodyType "Oceanic"
 	orbitBodyType "Swamp"
@@ -392,10 +411,12 @@ planetType
 	orbitBodyType "Hydrocarbon"
 	orbitBodyType "Ferrus"
 	orbitBodyType "Greenhouse"
+	orbitBodyType "Toxic"
+	orbitBodyType "Alpine"
 planetType
 	designName "RandomFair"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomFair"
-	orbitBodyTypeCount 28
+	orbitBodyTypeCount 31
 	orbitBodyType "TerranFair"
 	orbitBodyType "IceFair"
 	orbitBodyType "DesertFair"
@@ -417,6 +438,7 @@ planetType
 	orbitBodyType "DesolateFair"
 	orbitBodyType "IgneousFair"
 	orbitBodyType "IndustrialFair"
+	orbitBodyType "UrbanFair"
 	orbitBodyType "LowAtmosphereFair"
 	orbitBodyType "OceanicFair"
 	orbitBodyType "SwampFair"
@@ -424,10 +446,12 @@ planetType
 	orbitBodyType "HydrocarbonFair"
 	orbitBodyType "FerrusFair"
 	orbitBodyType "GreenhouseFair"
+	orbitBodyType "ToxicFair"
+	orbitBodyType "AlpineFair"
 planetType
 	designName "RandomTrue"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomTrue"
-	orbitBodyTypeCount 14
+	orbitBodyTypeCount 17
 	orbitBodyType "Terran"
 	orbitBodyType "Ice"
 	orbitBodyType "Desert"
@@ -436,16 +460,19 @@ planetType
 	orbitBodyType "Desolate"
 	orbitBodyType "Igneous"
 	orbitBodyType "Industrial"
+	orbitBodyType "Urban"
 	orbitBodyType "Oceanic"
 	orbitBodyType "Swamp"
 	orbitBodyType "Agricultural"
 	orbitBodyType "Hydrocarbon"
 	orbitBodyType "Ferrus"
 	orbitBodyType "Greenhouse"
+	orbitBodyType "Toxic"
+	orbitBodyType "Alpine"
 planetType
 	designName "RandomTrueFair"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomTrueFair"
-	orbitBodyTypeCount 14
+	orbitBodyTypeCount 17
 	orbitBodyType "TerranFair"
 	orbitBodyType "IceFair"
 	orbitBodyType "DesertFair"
@@ -454,48 +481,57 @@ planetType
 	orbitBodyType "DesolateFair"
 	orbitBodyType "IgneousFair"
 	orbitBodyType "IndustrialFair"
+	orbitBodyType "UrbanFair"
 	orbitBodyType "OceanicFair"
 	orbitBodyType "SwampFair"
 	orbitBodyType "AgriculturalFair"
 	orbitBodyType "HydrocarbonFair"
 	orbitBodyType "FerrusFair"
 	orbitBodyType "GreenhouseFair"
+	orbitBodyType "ToxicFair"
+	orbitBodyType "AlpineFair"
 planetType
 	designName "RandomTrueNonIce"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomTrueNonIce"
-	orbitBodyTypeCount 12
+	orbitBodyTypeCount 15
 	orbitBodyType "Terran"
 	orbitBodyType "Desert"
 	orbitBodyType "Volcanic"
 	orbitBodyType "Desolate"
 	orbitBodyType "Igneous"
 	orbitBodyType "Industrial"
+	orbitBodyType "Urban"
 	orbitBodyType "Oceanic"
 	orbitBodyType "Swamp"
 	orbitBodyType "Agricultural"
 	orbitBodyType "Hydrocarbon"
 	orbitBodyType "Ferrus"
 	orbitBodyType "Greenhouse"
+	orbitBodyType "Toxic"
+	orbitBodyType "Alpine"
 planetType
 	designName "RandomTrueNonIceFair"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomTrueNonIceFair"
-	orbitBodyTypeCount 12
+	orbitBodyTypeCount 15
 	orbitBodyType "TerranFair"
 	orbitBodyType "DesertFair"
 	orbitBodyType "VolcanicFair"
 	orbitBodyType "DesolateFair"
 	orbitBodyType "IgneousFair"
 	orbitBodyType "IndustrialFair"
+	orbitBodyType "UrbanFair"
 	orbitBodyType "OceanicFair"
 	orbitBodyType "SwampFair"
 	orbitBodyType "AgriculturalFair"
 	orbitBodyType "HydrocarbonFair"
 	orbitBodyType "FerrusFair"
 	orbitBodyType "GreenhouseFair"
+	orbitBodyType "ToxicFair"
+	orbitBodyType "AlpineFair"
 planetType
 	designName "RandomTrueNonTerran"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomTrueNonTerran"
-	orbitBodyTypeCount 11
+	orbitBodyTypeCount 13
 	orbitBodyType "Ice"
 	orbitBodyType "Desert"
 	orbitBodyType "Volcanic"
@@ -507,10 +543,12 @@ planetType
 	orbitBodyType "Hydrocarbon"
 	orbitBodyType "Ferrus"
 	orbitBodyType "Greenhouse"
+	orbitBodyType "Toxic"
+	orbitBodyType "Alpine"
 planetType
 	designName "RandomTrueNonTerranFair"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomTrueNonTerranFair"
-	orbitBodyTypeCount 11
+	orbitBodyTypeCount 13
 	orbitBodyType "IceFair"
 	orbitBodyType "DesertFair"
 	orbitBodyType "VolcanicFair"
@@ -522,6 +560,8 @@ planetType
 	orbitBodyType "HydrocarbonFair"
 	orbitBodyType "FerrusFair"
 	orbitBodyType "GreenhouseFair"
+	orbitBodyType "ToxicFair"
+	orbitBodyType "AlpineFair"
 planetType
 	designName "RandomSpecial"
 	designStringId "IDSGalaxyScenarioTypePlanetRandomSpecial"
@@ -664,14 +704,15 @@ planetType
 planetType
 	designName "RandomCrystal"
 	designStringId "IDSGalaxyScenarioTypeRandomCrystal"
-	orbitBodyTypeCount 3
+	orbitBodyTypeCount 4
 	orbitBodyType "Ice"	
 	orbitBodyType "Cyro"
 	orbitBodyType "Oceanic"
+	orbitBodyType "Toxic"
 planetType
 	designName "RandomMetal"
 	designStringId "IDSGalaxyScenarioTypeRandomMetal"
-	orbitBodyTypeCount 10
+	orbitBodyTypeCount 11
 	orbitBodyType "Volcanic"	
 	orbitBodyType "Swamp"
 	orbitBodyType "Desert"
@@ -682,6 +723,7 @@ planetType
 	orbitBodyType "Swamp"
 	orbitBodyType "Desert"
 	orbitBodyType "Ferrus"
+	orbitBodyType "Alpine"
 planetType
 	designName "RandomMixed"
 	designStringId "IDSGalaxyScenarioTypeRandomMixed"
@@ -695,39 +737,47 @@ planetType
 planetType
 	designName "RandomExtra"
 	designStringId "IDSGalaxyScenarioTypeRandomExtra"
-	orbitBodyTypeCount 10
+	orbitBodyTypeCount 13
 	orbitBodyType "ColonizeableGasGiant"
 	orbitBodyType "Cyro"
 	orbitBodyType "Desolate"
 	orbitBodyType "Igneous"
 	orbitBodyType "Industrial"
+	orbitBodyType "Urban"
 	orbitBodyType "LowAtmosphere"
 	orbitBodyType "Oceanic"
 	orbitBodyType "Swamp"
 	orbitBodyType "Agricultural"
 	orbitBodyType "Hydrocarbon"
+	orbitBodyType "Toxic"
+	orbitBodyType "Alpine"	
 planetType
 	designName "RandomExtraFair"
 	designStringId "IDSGalaxyScenarioTypeRandomExtra"
-	orbitBodyTypeCount 10
+	orbitBodyTypeCount 13
 	orbitBodyType "ColonizeableGasGiantFair"
 	orbitBodyType "CyroFair"
 	orbitBodyType "DesolateFair"
 	orbitBodyType "IgneousFair"
 	orbitBodyType "IndustrialFair"
+	orbitBodyType "UrbanFair"
 	orbitBodyType "LowAtmosphereFair"
 	orbitBodyType "OceanicFair"
 	orbitBodyType "SwampFair"
 	orbitBodyType "AgriculturalFair"
 	orbitBodyType "HydrocarbonFair"
+	orbitBodyType "ToxicFair"
+	orbitBodyType "AlpineFair"	
 planetType
 	designName "RandomTier0"
 	designStringId "IDSGalaxyScenarioTypeRandomTier0"
-	orbitBodyTypeCount 4
+	orbitBodyTypeCount 6
 	orbitBodyType "Asteroid"
 	orbitBodyType "DeadAsteroid"	
 	orbitBodyType "LowAtmosphere"
 	orbitBodyType "ColonizeableGasGiant"
+	orbitBodyType "Toxic"
+	orbitBodyType "Alpine"	
 planetType
 	designName "RandomTier1"
 	designStringId "IDSGalaxyScenarioTypeRandomTier1"
@@ -753,19 +803,21 @@ planetType
 planetType
 	designName "RandomTier3"
 	designStringId "IDSGalaxyScenarioTypeRandomTier3"
-	orbitBodyTypeCount 4
-	orbitBodyType "Desert"	
-	orbitBodyType "Oceanic"
-	orbitBodyType "Terran"
-	orbitBodyType "Industrial"	
-planetType
-	designName "SecretRandomEncounters"
-	designStringId "IDSGalaxyScenarioTypeSecretRandomEncounters"
 	orbitBodyTypeCount 5
 	orbitBodyType "Desert"	
 	orbitBodyType "Oceanic"
 	orbitBodyType "Terran"
 	orbitBodyType "Industrial"
+	orbitBodyType "Urban"		
+planetType
+	designName "SecretRandomEncounters"
+	designStringId "IDSGalaxyScenarioTypeSecretRandomEncounters"
+	orbitBodyTypeCount 6
+	orbitBodyType "Desert"	
+	orbitBodyType "Oceanic"
+	orbitBodyType "Terran"
+	orbitBodyType "Industrial"
+	orbitBodyType "Urban"
 	orbitBodyType "CyberFortress"
 planetType
 	designName "OccupiedPlanet"
@@ -1012,6 +1064,21 @@ planetType
 	orbitBodyTypeCount 1
 	orbitBodyType "Swamp"
 planetType
+	designName "Alpine"
+	designStringId "IDS_PLANETTYPE_ALPINE"
+	orbitBodyTypeCount 1
+	orbitBodyType "Alpine"		
+planetType
+	designName "Toxic"
+	designStringId "IDS_PLANETTYPE_TOXIC"
+	orbitBodyTypeCount 1
+	orbitBodyType "Toxic"	
+planetType
+	designName "Urban"
+	designStringId "IDS_PLANETTYPE_URBAN"
+	orbitBodyTypeCount 1
+	orbitBodyType "Urban"		
+planetType
 	designName "CyberFortress"
 	designStringId "IDS_Planet_E4X_CyberFortress_NAME"
 	orbitBodyTypeCount 1
@@ -1066,7 +1133,22 @@ planetType
 	designStringId "IDS_PLANETTYPE_SWAMP"
 	orbitBodyTypeCount 1
 	orbitBodyType "SwampFair"
-orbitBodyTypeCount 84
+planetType
+	designName "AlpineFair"
+	designStringId "IDS_PLANETTYPE_ALPINE"
+	orbitBodyTypeCount 1
+	orbitBodyType "AlpineFair"		
+planetType
+	designName "ToxicFair"
+	designStringId "IDS_PLANETTYPE_TOXIC"
+	orbitBodyTypeCount 1
+	orbitBodyType "ToxicFair"	
+planetType
+	designName "UrbanFair"
+	designStringId "IDS_PLANETTYPE_URBAN"
+	orbitBodyTypeCount 1
+	orbitBodyType "UrbanFair"		
+orbitBodyTypeCount 90
 orbitBodyType
 	typeName "BlueStar"
 	entityDefName "STAR_BLUE"
@@ -1360,6 +1442,18 @@ orbitBodyType
 	entityDefName "Planet_E4X_Swamp"
 	defaultTemplateName "Template:DefaultStart_Volcanic"
 orbitBodyType	
+	typeName "Alpine"
+	entityDefName "Planet_E4X_Alpine"
+	defaultTemplateName "Template:LocalMilitia_Tier1"		
+orbitBodyType	
+	typeName "Toxic"
+	entityDefName "Planet_E4X_Toxic"
+	defaultTemplateName "Template:LocalMilitia_Tier1"		
+orbitBodyType	
+	typeName "Urban"
+	entityDefName "Planet_E4X_Urban"
+	defaultTemplateName "Template:DefaultStart_Terran"	
+orbitBodyType	
 	typeName "AgriculturalFair"
 	entityDefName "Planet_E4X_AgriculturalFair"
 	defaultTemplateName "Template:DefaultStart_IceFair"	
@@ -1399,6 +1493,18 @@ orbitBodyType
 	typeName "SwampFair"
 	entityDefName "Planet_E4X_SwampFair"
 	defaultTemplateName "Template:DefaultStart_IceFair"	
+orbitBodyType
+	typeName "AlpineFair"
+	entityDefName "Planet_E4X_AlpineFair"
+	defaultTemplateName "Template:DefaultStart_IceFair"		
+orbitBodyType	
+	typeName "ToxicFair"
+	entityDefName "Planet_E4X_ToxicFair"
+	defaultTemplateName "Template:DefaultStart_IceFair"	
+orbitBodyType	
+	typeName "UrbanFair"
+	entityDefName "Planet_E4X_UrbanFair"
+	defaultTemplateName "Template:DefaultStart_TerranFair"		
 orbitBodyType
 	typeName "CyberFortress"
 	entityDefName "Planet_E4X_CyberFortress"
@@ -2578,13 +2684,14 @@ planetItemsTemplate
 				param "TechLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 12
+			items 13
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:CrystalExtractor"
+				item "Tech:Module:CrystalExtractor"				
 				item "Tech:Module:CommandCenterLoyalists"
 				item "Tech:Frigate:StarBaseConstructorLoyalistStart"
 				item "Tech:Frigate:Constructor"
@@ -2597,12 +2704,13 @@ planetItemsTemplate
 				param "PsiLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 11
+			items 12
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
 				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
+				item "Psi:Module:CrystalExtractor"
 				item "Psi:Module:CrystalExtractor"
 				item "Psi:Module:CommandCenterLoyalist"
 				item "Psi:Frigate:Constructor"
@@ -2615,12 +2723,13 @@ planetItemsTemplate
 				param "PhaseLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 13
+			items 14
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
 				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
+				item "Phase:Module:CrystalExtractor"
 				item "Phase:Module:CrystalExtractor"
 				item "Phase:Module:CommandCenter"
 				item "Phase:Frigate:Constructor"
@@ -2635,12 +2744,13 @@ planetItemsTemplate
 				param "TechRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 12
+			items 13
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
+				item "Tech:Module:CrystalExtractor"
 				item "Tech:Module:CrystalExtractor"
 				item "Tech:Module:CommandCenter"
 				item "Tech:Module:PirateEmbassy"
@@ -2654,12 +2764,13 @@ planetItemsTemplate
 				param "PsiRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 12
+			items 13
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
 				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
+				item "Psi:Module:CrystalExtractor"
 				item "Psi:Module:CrystalExtractor"
 				item "Psi:Module:CommandCenter"
 				item "Psi:Frigate:Constructor"
@@ -2673,12 +2784,13 @@ planetItemsTemplate
 				param "PhaseRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 12
+			items 13
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
 				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
+				item "Phase:Module:CrystalExtractor"
 				item "Phase:Module:CrystalExtractor"
 				item "Phase:Module:CommandCenter"
 				item "Phase:Frigate:Constructor"

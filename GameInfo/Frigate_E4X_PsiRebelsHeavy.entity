@@ -16,8 +16,8 @@ DescriptionStringID "IDS_FRIGATE_PSIHEAVY_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_HEAVY"
 basePrice
 	credits 525.000000
-	metal 100.000000
-	crystal 90.000000
+	metal 200.000000
+	crystal 20.000000
 slotCount 10.000000
 BuildTime 58.000000
 hasLevels FALSE

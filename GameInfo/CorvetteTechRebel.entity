@@ -38,7 +38,7 @@ Prerequisites
 numRandomDebrisLarge 0
 numRandomDebrisSmall 10
 numSpecificDebris 0
-armorType "VeryLight"
+armorType "Pirate"
 hudIcon "HUDICON_CORVETTE_TECH"
 smallHudIcon "MAINVIEWICON_CORVETTE_TECH"
 infoCardIcon "INFOCARDICON_CORVETTE_TECH"

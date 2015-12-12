@@ -1,24 +1,9 @@
 ﻿TXT
 entityType "Planet"
-meshInfoCount 4
+meshInfoCount 2
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_AGRICULTURAL"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
-	meshName "Axeldude_PLANET_NORMAL_Forest_0"
-	cloudColor 44ffffff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Normal_Forest_0"
-	smallHudIcon "Axeldude_PLANET_Normal_Forest_0"
-	infoCardIcon "Axeldude_PLANET_Normal_Forest_0"
-	mainViewIcon "Axeldude_PLANET_Normal_Forest_0"
-	undetectedMainViewIcon "Axeldude_PLANET_Normal_Forest_0_Unknown"
-	picture ""
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_AGRICULTURAL"
-	asteroidTemplate "Empty"
+	asteroidTemplate "Sparse"
 	dustCloudTemplate "Empty"
 	meshName "Axeldude_PLANET_NORMAL_Terran_5"
 	cloudColor ffffffff
@@ -29,27 +14,12 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Terran_5"
 	mainViewIcon "Axeldude_PLANET_Normal_Terran_5"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Terran_5_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 meshInfo
 	typeNameStringID "IDS_PLANETTYPE_AGRICULTURAL"
 	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
-	meshName "Axeldude_PLANET_NORMAL_Terran_6"
-	cloudColor ffffffff
-	nullMeshRadius 0.000000
-	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Normal_Terran_6"
-	smallHudIcon "Axeldude_PLANET_Normal_Terran_6"
-	infoCardIcon "Axeldude_PLANET_Normal_Terran_6"
-	mainViewIcon "Axeldude_PLANET_Normal_Terran_6"
-	undetectedMainViewIcon "Axeldude_PLANET_Normal_Terran_6_Unknown"
-	picture ""
-	shouldPrefer FALSE
-meshInfo
-	typeNameStringID "IDS_PLANETTYPE_AGRICULTURAL"
-	asteroidTemplate "Empty"
-	dustCloudTemplate "Empty"
+	dustCloudTemplate "Sparse"
 	meshName "Axeldude_PLANET_NORMAL_Forest_3"
 	cloudColor 44ffffff
 	nullMeshRadius 0.000000
@@ -59,7 +29,7 @@ meshInfo
 	infoCardIcon "Axeldude_PLANET_Normal_Forest_3"
 	mainViewIcon "Axeldude_PLANET_Normal_Forest_3"
 	undetectedMainViewIcon "Axeldude_PLANET_Normal_Forest_3_Unknown"
-	picture ""
+	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 minZoomDistanceMult 2.000000
 glowColor 8f457745

@@ -8,7 +8,7 @@ ability:4 "AbilityHideMinesTech"
 numRandomDebrisLarge 0
 numRandomDebrisSmall 3
 numSpecificDebris 0
-armorType "Module"
+armorType "VeryLight"
 hudIcon "HUDIconSpaceMineTech"
 smallHudIcon "HUDIconSmallSpaceMineTech"
 infoCardIcon "InfoCardIconSpaceMineTech"
