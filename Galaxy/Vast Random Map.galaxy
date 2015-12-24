@@ -1,5 +1,5 @@
 ﻿TXT
-versionNumber 4
+versionNumber 5
 isBrowsable TRUE
 browsePictureName "ScenarioPicture-RandomVast"
 browseName "IDS_CUSTOMGALAXY_NAME_RANDOMVAST"
@@ -62,23 +62,10 @@ randomizerParams
 	star
 		type "RandomStar"
 		radius 110.000000
-		moveAreaRadius 60000.000000
-		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange 0.500000
 		connectionChance 0.850000
 		maxPlayerCount 10
-		ringCount 8
-		ring
-			starRadiusRange
-				minPercentage 0.3
-				maxPercentage 0.5
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "SecretRandomEncounters"
+		ringCount 7
 		ring
 			starRadiusRange
 				minPercentage 0.100000

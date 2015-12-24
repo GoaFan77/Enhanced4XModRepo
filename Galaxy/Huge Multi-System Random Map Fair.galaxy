@@ -1,5 +1,5 @@
 TXT
-versionNumber 4
+versionNumber 5
 isBrowsable TRUE
 browsePictureName "ScenarioPicture-RandomHugeMultiCompetitive"
 browseName "IDS_CUSTOMGALAXY_NAME_RANDOMHUGEMULTIFair"
@@ -62,12 +62,10 @@ starCount 5
 	star
 		type "RandomStar"
 		radius 110
-		moveAreaRadius 60000.000000
-		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange .65
 		connectionChance .75		
 		maxPlayerCount 5
-		ringCount 5
+		ringCount 4
 		ring
 			starRadiusRange
 				minPercentage 0.2
@@ -78,18 +76,7 @@ starCount 5
 				minCount 1
 				maxCount 1
 				planetTypeCount 1
-				planetType "PirateBase"	
-		ring
-			starRadiusRange
-				minPercentage 0.3
-				maxPercentage 0.5
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "SecretRandomEncounters"			
+				planetType "PirateBase"			
 		ring
 			starRadiusRange
 				minPercentage 0.3
@@ -126,12 +113,10 @@ starCount 5
 	star
 		type "RandomStar"
 		radius 120
-		moveAreaRadius 60000.000000
-		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange .65
 		connectionChance .75		
 		maxPlayerCount 5
-		ringCount 5
+		ringCount 4
 		ring
 			starRadiusRange
 				minPercentage 0.2
@@ -142,18 +127,7 @@ starCount 5
 				minCount 1
 				maxCount 1
 				planetTypeCount 1
-				planetType "PirateBase"	
-		ring
-			starRadiusRange
-				minPercentage 0.3
-				maxPercentage 0.5
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "SecretRandomEncounters"			
+				planetType "PirateBase"			
 		ring
 			starRadiusRange
 				minPercentage 0.3
@@ -190,8 +164,6 @@ starCount 5
 	star
 		type "RandomStar"
 		radius 100
-		moveAreaRadius 60000.000000
-		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange .75
 		connectionChance .7		
 		maxPlayerCount 0
@@ -232,8 +204,6 @@ starCount 5
 	star
 		type "RandomStar"
 		radius 100
-		moveAreaRadius 60000.000000
-		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange .75
 		connectionChance .7		
 		maxPlayerCount 0
@@ -274,8 +244,6 @@ starCount 5
 	star
 		type "RandomStar"
 		radius 100
-		moveAreaRadius 60000.000000
-		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange .75
 		connectionChance .7		
 		maxPlayerCount 0

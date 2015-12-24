@@ -1,5 +1,5 @@
 TXT
-NumStrings 8291
+NumStrings 8296
 StringInfo
 		ID "IDS_PLANETTYPE_ALPINE"
 		Value "Alpine Planet"
@@ -4630,6 +4630,9 @@ StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_PLANETBOMBINGCOOLDOWN"
 	Value "Bombardment Cooldown"
 StringInfo
+	ID "IDS_INFOCARD_BUFFADJUSTMENT_PLANETBOMBINGDAMAGEABSORPTION"
+	Value "Planet Bombing Absorption"
+StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_ENERGYWEAPONCOOLDOWN"
 	Value "Energy Weapon Cooldown"
 StringInfo
@@ -5519,7 +5522,7 @@ StringInfo
 	Value "Capital Ships"
 StringInfo
 	ID "IDS_INFOCARD_PLANETOPENCAPITALSHIPMANAGEMENT_DESCRIPTION"
-	Value "Construct capitalships at this planet."
+	Value "Construct capital ships at this planet."
 StringInfo
 	ID "IDS_INFOCARD_PLANETOPENFRIGATEMANAGEMENT0_NAME"
 	Value "Frigates"
@@ -6273,6 +6276,9 @@ StringInfo
 StringInfo
 	ID "IDS_GAMEMESSAGE_COLONIZEPLANETBLOCKEDBYENEMYSTARBASE"
 	Value "A hostile empire's Starbase is exerting too much influence to allow colonization of %s."
+StringInfo
+	ID "IDS_GAMEMESSAGE_RUINPLANETNOTRUINABLE"
+	Value "%s is already destroyed."
 StringInfo
 	ID "IDS_GAMEMESSAGE_BOUNTYALLDEPLETED"
 	Value "All bounty on %s has been awarded."
@@ -7293,6 +7299,9 @@ StringInfo
 StringInfo
 	ID "IDS_TARGETCONSTRAINT_ISCOLONIZABLE"
 	Value "be colonizable"
+StringInfo
+	ID "IDS_TARGETCONSTRAINT_ISRUINABLE"
+	Value "be destroyable"
 StringInfo
 	ID "IDS_TARGETCONSTRAINT_ISEXPLORED"
 	Value "be explored"
@@ -11503,6 +11512,12 @@ StringInfo
 	ID "IDS_ABILITY_COLONIZEPHASE_DESCRIPTION"
 	Value "Sends supplies and personnel down to the surface of the planet to create a new outpost. For a brief time, this planet will also have access to additional construction frigates."
 StringInfo
+	ID "IDS_ABILITY_RUINPLANET_NAME"
+	Value "Destroy Planet"
+StringInfo
+	ID "IDS_ABILITY_RUINPLANET_DESCRIPTION"
+	Value "Destroy a planet."
+StringInfo
 	ID "IDS_ABILITY_COLONIZEPSI_DESCRIPTION"
 	Value "Sends supplies and personnel down to the surface of the planet to create a new outpost. For a brief time, upgrades at this planet can be purchased more cheaply."
 StringInfo
@@ -15275,7 +15290,7 @@ StringInfo
 	Value "Cancel Build Starbase Upgrade - 9"
 StringInfo
 	ID "IDS_UIMAPPINGNAME_VOICECHAT"
-	Value "Toggle Voice Chat"
+	Value "Toggle Voice Chat (Steam Only)"
 StringInfo
 	ID "IDS_ITEMSEPERATOR_LAST"
 	Value " and "
@@ -21470,7 +21485,7 @@ StringInfo
 	Value "Remove Player"
 StringInfo
 	ID "IDSICOLoginScreenAddPlayerDialogWindowTitle"
-	Value "Add Player"
+	Value "Choose Player Name"
 StringInfo
 	ID "IDSICOLoginScreenAddPlayerDialogWindowNameLabel"
 	Value "Name:"

@@ -455,3 +455,6 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		- Mine armor type has been switched to Very Light. This will help the main anti-mine units like Scouts, Fighters and Flak destroy them faster.
 		- Removed some of the uglier planet alternate textures to reduce memory usage.
 		- Fixed a glitched Volcanic planet texture. 
+		
+1.81	-Updated the mod to version 1.83. This will allow GOG.com players to use the mod.
+		-The first hero unit for each faction has had their ship supply cost lowered.

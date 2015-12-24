@@ -1,5 +1,5 @@
 TXT
-versionNumber 4
+versionNumber 5
 isBrowsable FALSE
 browsePictureName ""
 browseName ""
@@ -47,8 +47,6 @@ starCount 1
 	star
 		type "RandomStandardStar"
 		radius 75
-		moveAreaRadius 60000.000000
-		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange .5
 		connectionChance .75
 		maxPlayerCount 0

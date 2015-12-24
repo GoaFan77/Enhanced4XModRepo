@@ -1,5 +1,5 @@
 ﻿TXT
-versionNumber 4
+versionNumber 5
 isBrowsable TRUE
 browsePictureName "ScenarioPicture-MeltingPointCompetitive"
 browseName "IDS_CUSTOMGALAXY_NAME_MELTINGPOINTFair"
@@ -37,16 +37,12 @@ star
 	type "BlueStar"
 	pos [ 150 , 150 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 9
 	planet
 		designName "Planet0"
 		inGameName ""
 		type "DesertHome"
 		pos [ 110 , 210 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer0"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -72,8 +68,6 @@ star
 		inGameName ""
 		type "DesertHome"
 		pos [ 190 , 90 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer1"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -99,8 +93,6 @@ star
 		inGameName ""
 		type "IceFair"
 		pos [ 155 , 175 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -126,8 +118,6 @@ star
 		inGameName ""
 		type "MoonFair"
 		pos [ 195 , 145 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -153,8 +143,6 @@ star
 		inGameName ""
 		type "MoonFair"
 		pos [ 105 , 155 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -180,8 +168,6 @@ star
 		inGameName ""
 		type "IceFair"
 		pos [ 145 , 125 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -207,8 +193,6 @@ star
 		inGameName ""
 		type "PirateBase"
 		pos [ 210 , 190 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -234,8 +218,6 @@ star
 		inGameName ""
 		type "MagneticCloud"
 		pos [ 140 , 230 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -261,8 +243,6 @@ star
 		inGameName ""
 		type "MagneticCloud"
 		pos [ 220 , 110 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0

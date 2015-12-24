@@ -41,6 +41,16 @@ resourceCost
 	credits 0.000000
 	metal 0.000000
 	crystal 0.000000
+requiredShipSlots
+   Level:0 32.000000
+   Level:1 32.000000
+   Level:2 32.000000
+   Level:3 32.000000
+requiredCapitalShipSlots
+   Level:0 1.000000
+   Level:1 1.000000
+   Level:2 1.000000
+   Level:3 1.000000	
 cooldownTime
 	Level:0 600.000000
 	Level:1 600.000000

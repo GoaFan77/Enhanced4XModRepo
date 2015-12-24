@@ -1,5 +1,5 @@
 TXT
-versionNumber 4
+versionNumber 5
 isBrowsable TRUE
 browsePictureName "ScenarioPicture-Fiefdoms"
 browseName "Random - Medium Large Fiefdoms"
@@ -52,8 +52,6 @@ starCount 7
 	star
 		type "RandomStar"
 		radius 65
-		moveAreaRadius 60000.000000
-		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange .6
 		connectionChance .85
 		maxPlayerCount 1
@@ -98,8 +96,6 @@ starCount 7
 	star
 		type "RandomStar"
 		radius 65
-		moveAreaRadius 60000.000000
-		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange .6
 		connectionChance .85
 		maxPlayerCount 1
@@ -144,8 +140,6 @@ starCount 7
 	star
 		type "RandomStar"
 		radius 65
-		moveAreaRadius 60000.000000
-		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange .6
 		connectionChance .85
 		maxPlayerCount 1
@@ -190,8 +184,6 @@ starCount 7
 	star
 		type "RandomStar"
 		radius 100
-		moveAreaRadius 60000.000000
-		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange .75
 		connectionChance .7		
 		maxPlayerCount 0
@@ -247,8 +239,6 @@ starCount 7
 	star
 		type "RandomStar"
 		radius 65
-		moveAreaRadius 60000.000000
-		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange .6
 		connectionChance .85
 		maxPlayerCount 1
@@ -293,8 +283,6 @@ starCount 7
 	star
 		type "RandomStar"
 		radius 65
-		moveAreaRadius 60000.000000
-		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange .6
 		connectionChance .85
 		maxPlayerCount 1
@@ -339,8 +327,6 @@ starCount 7
 	star
 		type "RandomStar"
 		radius 65
-		moveAreaRadius 60000.000000
-		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange .6
 		connectionChance .85
 		maxPlayerCount 1

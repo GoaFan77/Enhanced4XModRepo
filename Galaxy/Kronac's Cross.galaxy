@@ -1,5 +1,5 @@
 TXT
-versionNumber 4
+versionNumber 5
 isBrowsable TRUE
 browsePictureName "ScenarioPicture-KronacsCross"
 browseName "IDS_CUSTOMGALAXY_NAME_KRONACSCROSS"
@@ -39,16 +39,12 @@ star
 	type "RandomStar"
 	pos [ 50 , 50 ]
 	radius 50.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 16
 	planet
 		designName "Planet11"
 		inGameName ""
 		type "TerranHome"
 		pos [ 50 , 12 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player0"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -74,8 +70,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 87 , 49 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player1"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -101,8 +95,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 10 , 50 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player3"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -128,8 +120,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 50 , 89 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player2"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -155,8 +145,6 @@ star
 		inGameName ""
 		type "WeightedRandom"
 		pos [ 61 , 36 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -182,8 +170,6 @@ star
 		inGameName ""
 		type "WeightedColonizable"
 		pos [ 34 , 40 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -209,8 +195,6 @@ star
 		inGameName ""
 		type "WeightedColonizable"
 		pos [ 65 , 64 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -236,8 +220,6 @@ star
 		inGameName ""
 		type "PirateBase"
 		pos [ 34 , 63 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -263,8 +245,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 15 , 31 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -290,8 +270,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 32 , 23 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -317,8 +295,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 69 , 22 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -344,8 +320,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 84 , 30 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -371,8 +345,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 23 , 62 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -398,8 +370,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 33 , 80 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -425,8 +395,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 66 , 78 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -452,8 +420,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 91 , 64 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0

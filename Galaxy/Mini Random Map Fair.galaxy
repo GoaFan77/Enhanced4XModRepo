@@ -1,5 +1,5 @@
 TXT
-versionNumber 4
+versionNumber 5
 isBrowsable TRUE
 browsePictureName "ScenarioPicture-RandomTinyCompetitive"
 browseName "IDS_CUSTOMGALAXY_NAME_RANDOMMINIFair"
@@ -57,8 +57,6 @@ randomizerParams
 	star
 		type "RandomStar"
 		radius 100.000000
-		moveAreaRadius 60000.000000
-		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange 0.800000
 		connectionChance 1.000000
 		maxPlayerCount 2

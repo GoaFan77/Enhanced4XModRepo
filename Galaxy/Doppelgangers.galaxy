@@ -1,5 +1,5 @@
 TXT
-versionNumber 4
+versionNumber 5
 isBrowsable TRUE
 browsePictureName "ScenarioPicture-Doppelgangers"
 browseName "IDS_CUSTOMGALAXY_NAME_DOPPELGANGERS"
@@ -38,16 +38,12 @@ star
 	type "RandomStar"
 	pos [ 35 , 35 ]
 	radius 35.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 8
 	planet
 		designName "Planet0"
 		inGameName ""
 		type "RandomTrueNonTerran"
 		pos [ 42 , 29 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -73,8 +69,6 @@ star
 		inGameName ""
 		type "PirateBase"
 		pos [ 42 , 40 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -100,8 +94,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 30 , 43 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -127,8 +119,6 @@ star
 		inGameName ""
 		type "DeadAsteroid"
 		pos [ 29 , 29 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -154,8 +144,6 @@ star
 		inGameName ""
 		type "RandomSpecial"
 		pos [ 23 , 23 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -181,8 +169,6 @@ star
 		inGameName ""
 		type "RandomTrueNonTerran"
 		pos [ 26 , 14 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -208,8 +194,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 15 , 16 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player0"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -235,8 +219,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 13 , 25 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -311,16 +293,12 @@ star
 	type "RandomStar"
 	pos [ 120 , 120 ]
 	radius 35.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 8
 	planet
 		designName "Planet16"
 		inGameName ""
 		type "DeadAsteroid"
 		pos [ 114 , 113 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -346,8 +324,6 @@ star
 		inGameName ""
 		type "RandomSpecial"
 		pos [ 108 , 107 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -373,8 +349,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 110 , 97 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -400,8 +374,6 @@ star
 		inGameName ""
 		type "RandomTrueNonTerran"
 		pos [ 98 , 107 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -427,8 +399,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 100 , 98 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player2"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -454,8 +424,6 @@ star
 		inGameName ""
 		type "PirateBase"
 		pos [ 113 , 126 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -481,8 +449,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 128 , 125 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -508,8 +474,6 @@ star
 		inGameName ""
 		type "RandomTrueNonTerran"
 		pos [ 126 , 114 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -584,16 +548,12 @@ star
 	type "RandomStar"
 	pos [ 35 , 120 ]
 	radius 35.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 8
 	planet
 		designName "Planet24"
 		inGameName ""
 		type "DeadAsteroid"
 		pos [ 42 , 125 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -619,8 +579,6 @@ star
 		inGameName ""
 		type "RandomSpecial"
 		pos [ 50 , 129 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -646,8 +604,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 59 , 125 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -673,8 +629,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 60 , 135 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player3"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -700,8 +654,6 @@ star
 		inGameName ""
 		type "RandomTrueNonTerran"
 		pos [ 51 , 138 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -727,8 +679,6 @@ star
 		inGameName ""
 		type "RandomTrueNonTerran"
 		pos [ 40 , 113 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -754,8 +704,6 @@ star
 		inGameName ""
 		type "PirateBase"
 		pos [ 27 , 125 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -781,8 +729,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 29 , 113 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -857,16 +803,12 @@ star
 	type "RandomStar"
 	pos [ 120 , 35 ]
 	radius 35.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 8
 	planet
 		designName "Planet8"
 		inGameName ""
 		type "Asteroid"
 		pos [ 129 , 37 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -892,8 +834,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 116 , 43 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -919,8 +859,6 @@ star
 		inGameName ""
 		type "RandomTrueNonTerran"
 		pos [ 112 , 31 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -946,8 +884,6 @@ star
 		inGameName ""
 		type "DeadAsteroid"
 		pos [ 123 , 27 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -973,8 +909,6 @@ star
 		inGameName ""
 		type "RandomSpecial"
 		pos [ 127 , 19 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1000,8 +934,6 @@ star
 		inGameName ""
 		type "RandomTrueNonTerran"
 		pos [ 123 , 11 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1027,8 +959,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 138 , 15 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1054,8 +984,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 133 , 8 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player1"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0

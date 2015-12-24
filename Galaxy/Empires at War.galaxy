@@ -1,5 +1,5 @@
 ﻿TXT
-versionNumber 4
+versionNumber 5
 isBrowsable TRUE
 browsePictureName "ScenarioPicture-EmpiresatWar"
 browseName "IDS_CUSTOMGALAXY_NAME_EMPIRESATWAR"
@@ -37,16 +37,12 @@ star
 	type "RandomStar"
 	pos [ 200 , 200 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 40000.000000
 	planetCount 17
 	planet
 		designName "Planet0"
 		inGameName ""
 		type "TerranHome"
 		pos [ 150 , 230 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer0"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -73,8 +69,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 250 , 230 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer1"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -101,8 +95,6 @@ star
 		inGameName ""
 		type "GasGiantFair"
 		pos [ 200 , 220 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -128,8 +120,6 @@ star
 		inGameName ""
 		type "MoonFair"
 		pos [ 270 , 260 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer1"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 1
@@ -156,8 +146,6 @@ star
 		inGameName ""
 		type "MoonFair"
 		pos [ 130 , 260 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer0"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 1
@@ -184,8 +172,6 @@ star
 		inGameName ""
 		type "AsteroidFair"
 		pos [ 280 , 230 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer1"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 1
@@ -212,8 +198,6 @@ star
 		inGameName ""
 		type "AsteroidFair"
 		pos [ 120 , 230 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer0"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 1
@@ -240,8 +224,6 @@ star
 		inGameName ""
 		type "DesertFair"
 		pos [ 245 , 270 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer1"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 2
@@ -267,8 +249,6 @@ star
 		inGameName ""
 		type "DesertFair"
 		pos [ 155 , 270 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer0"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 2
@@ -295,8 +275,6 @@ star
 		inGameName ""
 		type "DeadAsteroid"
 		pos [ 200 , 270 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -322,8 +300,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 200 , 285 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -357,8 +333,6 @@ star
 		inGameName ""
 		type "Volcanic"
 		pos [ 200 , 255 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -392,8 +366,6 @@ star
 		inGameName ""
 		type "PirateBase"
 		pos [ 200 , 230 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -419,8 +391,6 @@ star
 		inGameName ""
 		type "MagneticCloud"
 		pos [ 215 , 250 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -446,8 +416,6 @@ star
 		inGameName ""
 		type "MagneticCloud"
 		pos [ 185 , 250 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -473,8 +441,6 @@ star
 		inGameName ""
 		type "MoonFair"
 		pos [ 245 , 205 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -500,8 +466,6 @@ star
 		inGameName ""
 		type "MoonFair"
 		pos [ 155 , 205 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0

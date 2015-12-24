@@ -1,5 +1,5 @@
 ﻿TXT
-versionNumber 4
+versionNumber 5
 isBrowsable TRUE
 browsePictureName "ScenarioPicture-TwinEmpiresCompetitive"
 browseName "IDS_CUSTOMGALAXY_NAME_TWINEMPIRESFair"
@@ -37,16 +37,12 @@ star
 	type "RandomStar"
 	pos [ 100 , 100 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 58
 	planet
 		designName "Planet0"
 		inGameName ""
 		type "VolcanicFair"
 		pos [ 100 , 85 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -72,8 +68,6 @@ star
 		inGameName ""
 		type "AsteroidBeltFair"
 		pos [ 125 , 75 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -99,8 +93,6 @@ star
 		inGameName ""
 		type "AsteroidBeltFair"
 		pos [ 125 , 125 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -126,8 +118,6 @@ star
 		inGameName ""
 		type "DesertFair"
 		pos [ 115 , 100 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -153,8 +143,6 @@ star
 		inGameName ""
 		type "AsteroidBeltFair"
 		pos [ 75 , 75 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -180,8 +168,6 @@ star
 		inGameName ""
 		type "AsteroidFair"
 		pos [ 155 , 68 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -207,8 +193,6 @@ star
 		inGameName ""
 		type "AsteroidFair"
 		pos [ 162 , 76 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -234,8 +218,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 156 , 57 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player0"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -261,8 +243,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 173 , 76 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player1"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -288,8 +268,6 @@ star
 		inGameName ""
 		type "IceFair"
 		pos [ 172 , 60 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -315,8 +293,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 165 , 65 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -342,8 +318,6 @@ star
 		inGameName ""
 		type "IceFair"
 		pos [ 157 , 92 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -369,8 +343,6 @@ star
 		inGameName ""
 		type "GasGiantFair"
 		pos [ 140 , 100 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -396,8 +368,6 @@ star
 		inGameName ""
 		type "AsteroidBeltFair"
 		pos [ 75 , 125 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -423,8 +393,6 @@ star
 		inGameName ""
 		type "VolcanicFair"
 		pos [ 100 , 115 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -450,8 +418,6 @@ star
 		inGameName ""
 		type "DesertFair"
 		pos [ 85 , 100 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -477,8 +443,6 @@ star
 		inGameName ""
 		type "AsteroidFair"
 		pos [ 100 , 68 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -504,8 +468,6 @@ star
 		inGameName ""
 		type "IceFair"
 		pos [ 157 , 108 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -531,8 +493,6 @@ star
 		inGameName ""
 		type "AsteroidFair"
 		pos [ 162 , 124 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -558,8 +518,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 173 , 124 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player2"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -585,8 +543,6 @@ star
 		inGameName ""
 		type "IceFair"
 		pos [ 172 , 140 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -612,8 +568,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 156 , 143 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player3"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -639,8 +593,6 @@ star
 		inGameName ""
 		type "AsteroidFair"
 		pos [ 155 , 132 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -666,8 +618,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 165 , 135 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -693,8 +643,6 @@ star
 		inGameName ""
 		type "AsteroidFair"
 		pos [ 100 , 132 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -720,8 +668,6 @@ star
 		inGameName ""
 		type "GasGiantFair"
 		pos [ 60 , 100 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -747,8 +693,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 90 , 60 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -774,8 +718,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 110 , 60 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -801,8 +743,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 90 , 140 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -828,8 +768,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 110 , 140 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -855,8 +793,6 @@ star
 		inGameName ""
 		type "IceFair"
 		pos [ 43 , 92 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -882,8 +818,6 @@ star
 		inGameName ""
 		type "IceFair"
 		pos [ 43 , 108 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -909,8 +843,6 @@ star
 		inGameName ""
 		type "AsteroidFair"
 		pos [ 45 , 68 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -936,8 +868,6 @@ star
 		inGameName ""
 		type "AsteroidFair"
 		pos [ 45 , 132 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -963,8 +893,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 44 , 57 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player4"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -990,8 +918,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 44 , 143 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player7"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -1017,8 +943,6 @@ star
 		inGameName ""
 		type "IceFair"
 		pos [ 28 , 60 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1044,8 +968,6 @@ star
 		inGameName ""
 		type "IceFair"
 		pos [ 28 , 140 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1071,8 +993,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 27 , 76 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player5"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -1098,8 +1018,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 27 , 124 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player6"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -1125,8 +1043,6 @@ star
 		inGameName ""
 		type "AsteroidFair"
 		pos [ 38 , 76 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1152,8 +1068,6 @@ star
 		inGameName ""
 		type "AsteroidFair"
 		pos [ 38 , 124 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1179,8 +1093,6 @@ star
 		inGameName ""
 		type "DesertFair"
 		pos [ 141 , 84 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1206,8 +1118,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 151 , 83 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1233,8 +1143,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 132 , 88 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1260,8 +1168,6 @@ star
 		inGameName ""
 		type "DesertFair"
 		pos [ 141 , 116 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1287,8 +1193,6 @@ star
 		inGameName ""
 		type "DesertFair"
 		pos [ 59 , 116 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1314,8 +1218,6 @@ star
 		inGameName ""
 		type "DesertFair"
 		pos [ 59 , 84 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1341,8 +1243,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 35 , 135 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1368,8 +1268,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 35 , 65 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1395,8 +1293,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 151 , 117 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1422,8 +1318,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 49 , 117 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1449,8 +1343,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 49 , 83 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1476,8 +1368,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 132 , 112 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1503,8 +1393,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 68 , 112 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1530,8 +1418,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 68 , 88 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1557,8 +1443,6 @@ star
 		inGameName ""
 		type "PirateBase"
 		pos [ 96 , 91 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1584,8 +1468,6 @@ star
 		inGameName ""
 		type "PirateBase"
 		pos [ 102 , 108 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "Player8"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0

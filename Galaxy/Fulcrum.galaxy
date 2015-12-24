@@ -1,5 +1,5 @@
 TXT
-versionNumber 4
+versionNumber 5
 isBrowsable TRUE
 browsePictureName "ScenarioPicture-Fulcrum"
 browseName "IDS_CUSTOMGALAXY_NAME_FULCRUM"
@@ -38,16 +38,12 @@ star
 	type "RandomStar"
 	pos [ 100 , 100 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 26
 	planet
 		designName "Planet0"
 		inGameName ""
 		type "Desert"
 		pos [ 114 , 100 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -73,8 +69,6 @@ star
 		inGameName ""
 		type "Desert"
 		pos [ 137 , 100 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -100,8 +94,6 @@ star
 		inGameName ""
 		type "GasGiant"
 		pos [ 151 , 100 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -127,8 +119,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 125 , 68 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "P1"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -154,8 +144,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 110 , 82 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -181,8 +169,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 123 , 44 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -208,8 +194,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 76 , 48 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "P0"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -235,8 +219,6 @@ star
 		inGameName ""
 		type "Volcanic"
 		pos [ 98 , 56 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -262,8 +244,6 @@ star
 		inGameName ""
 		type "MagneticCloud"
 		pos [ 143 , 82 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -289,8 +269,6 @@ star
 		inGameName ""
 		type "Volcanic"
 		pos [ 150 , 54 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -316,8 +294,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 171 , 46 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "P2"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -343,8 +319,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 168 , 75 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -370,8 +344,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 79 , 73 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -397,8 +369,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 124 , 138 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "P4"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -424,8 +394,6 @@ star
 		inGameName ""
 		type "MagneticCloud"
 		pos [ 109 , 119 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -451,8 +419,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 142 , 119 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -478,8 +444,6 @@ star
 		inGameName ""
 		type "Volcanic"
 		pos [ 149 , 141 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -505,8 +469,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 168 , 155 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "P3"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -532,8 +494,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 169 , 130 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -559,8 +519,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 124 , 162 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -586,8 +544,6 @@ star
 		inGameName ""
 		type "PirateBase"
 		pos [ 125 , 100 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -613,8 +569,6 @@ star
 		inGameName ""
 		type "Volcanic"
 		pos [ 102 , 153 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -640,8 +594,6 @@ star
 		inGameName ""
 		type "TerranHome"
 		pos [ 78 , 152 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "P5"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -667,8 +619,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 84 , 126 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -694,8 +644,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 85 , 100 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -721,8 +669,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 166 , 100 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0

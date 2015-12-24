@@ -1,5 +1,5 @@
 TXT
-versionNumber 4
+versionNumber 5
 isBrowsable FALSE
 browsePictureName "ScenarioPicture-UserGenerated"
 browseName "IDS_CUSTOMGALAXY_NAME_USERGENERATED"
@@ -57,8 +57,6 @@ starCount 1
 	star
 		type "RandomStar"
 		radius 100
-		moveAreaRadius 60000.000000
-		hyperspaceExitRadius 50000.000000
 		connectionStarRadiusRange .75
 		connectionChance .7	
 		maxPlayerCount 4

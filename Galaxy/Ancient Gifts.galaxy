@@ -1,5 +1,5 @@
 TXT
-versionNumber 4
+versionNumber 5
 isBrowsable TRUE
 browsePictureName "ScenarioPicture-AncientGifts"
 browseName "IDS_CUSTOMGALAXY_NAME_ANCIENTGIFTS"
@@ -38,16 +38,12 @@ star
 	type "RandomStar"
 	pos [ 1166 , 100 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 5
 	planet
 		designName "Planet0"
 		inGameName ""
 		type "TerranHome"
 		pos [ 1107 , 101 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer0"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -74,8 +70,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 1129 , 126 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -101,8 +95,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 1103 , 125 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -128,8 +120,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 1124 , 160 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -155,8 +145,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 1073 , 106 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -211,16 +199,12 @@ star
 	type "RandomStar"
 	pos [ 300 , 100 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 5
 	planet
 		designName "Planet5"
 		inGameName ""
 		type "TerranHome"
 		pos [ 265 , 47 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer5"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -247,8 +231,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 264 , 77 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -274,8 +256,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 250 , 61 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -301,8 +281,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 237 , 83 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -328,8 +306,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 279 , 80 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -384,16 +360,12 @@ star
 	type "RandomStar"
 	pos [ 100 , 634 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 5
 	planet
 		designName "Planet4"
 		inGameName ""
 		type "TerranHome"
 		pos [ 159 , 602 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer4"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -420,8 +392,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 152 , 635 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -447,8 +417,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 140 , 616 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -474,8 +442,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 114 , 581 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -501,8 +467,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 159 , 670 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -557,16 +521,12 @@ star
 	type "RandomStar"
 	pos [ 152 , 356 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 9
 	planet
 		designName "Planet32"
 		inGameName ""
 		type "Wormhole"
 		pos [ 83 , 379 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -592,8 +552,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 218 , 393 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -619,8 +577,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 201 , 313 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -646,8 +602,6 @@ star
 		inGameName ""
 		type "Volcanic"
 		pos [ 159 , 412 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -673,8 +627,6 @@ star
 		inGameName ""
 		type "RandomSpecial"
 		pos [ 223 , 343 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -700,8 +652,6 @@ star
 		inGameName ""
 		type "RandomUncolonizable"
 		pos [ 147 , 303 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -727,8 +677,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 126 , 348 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -754,8 +702,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 180 , 370 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -781,8 +727,6 @@ star
 		inGameName ""
 		type "PirateBase"
 		pos [ 105 , 416 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -872,16 +816,12 @@ star
 	type "RandomStar"
 	pos [ 582 , 166 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 8
 	planet
 		designName "Planet35"
 		inGameName ""
 		type "Wormhole"
 		pos [ 533 , 191 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -907,8 +847,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 646 , 148 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -934,8 +872,6 @@ star
 		inGameName ""
 		type "Terran"
 		pos [ 544 , 136 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -961,8 +897,6 @@ star
 		inGameName ""
 		type "Volcanic"
 		pos [ 619 , 201 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -988,8 +922,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 557 , 244 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1015,8 +947,6 @@ star
 		inGameName ""
 		type "RandomUncolonizable"
 		pos [ 570 , 207 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1042,8 +972,6 @@ star
 		inGameName ""
 		type "RandomSpecial"
 		pos [ 605 , 139 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1069,8 +997,6 @@ star
 		inGameName ""
 		type "RandomSpecial"
 		pos [ 505 , 158 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1155,16 +1081,12 @@ star
 	type "RandomStar"
 	pos [ 768 , 632 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 9
 	planet
 		designName "Planet37"
 		inGameName ""
 		type "Wormhole"
 		pos [ 760 , 564 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1190,8 +1112,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 815 , 675 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1217,8 +1137,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 718 , 602 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1244,8 +1162,6 @@ star
 		inGameName ""
 		type "Volcanic"
 		pos [ 815 , 612 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1271,8 +1187,6 @@ star
 		inGameName ""
 		type "RandomUncolonizable"
 		pos [ 716 , 681 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1298,8 +1212,6 @@ star
 		inGameName ""
 		type "RandomSpecial"
 		pos [ 766 , 667 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1325,8 +1237,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 773 , 606 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1352,8 +1262,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 736 , 651 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1379,8 +1287,6 @@ star
 		inGameName ""
 		type "PirateBase"
 		pos [ 774 , 708 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1470,16 +1376,12 @@ star
 	type "RandomStar"
 	pos [ 387 , 599 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 10
 	planet
 		designName "Planet33"
 		inGameName ""
 		type "Wormhole"
 		pos [ 411 , 537 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1505,8 +1407,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 322 , 560 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1532,8 +1432,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 443 , 622 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1559,8 +1457,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 434 , 574 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1586,8 +1482,6 @@ star
 		inGameName ""
 		type "RandomUncolonizable"
 		pos [ 398 , 632 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1613,8 +1507,6 @@ star
 		inGameName ""
 		type "RandomUncolonizable"
 		pos [ 323 , 638 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1640,8 +1532,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 402 , 671 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1667,8 +1557,6 @@ star
 		inGameName ""
 		type "RandomSpecial"
 		pos [ 374 , 558 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1694,8 +1582,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 334 , 596 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1721,8 +1607,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 470 , 560 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1817,16 +1701,12 @@ star
 	type "RandomStar"
 	pos [ 867 , 189 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 9
 	planet
 		designName "Planet36"
 		inGameName ""
 		type "Wormhole"
 		pos [ 882 , 263 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1852,8 +1732,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 825 , 148 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1879,8 +1757,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 812 , 225 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1906,8 +1782,6 @@ star
 		inGameName ""
 		type "Volcanic"
 		pos [ 827 , 185 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1933,8 +1807,6 @@ star
 		inGameName ""
 		type "RandomSpecial"
 		pos [ 912 , 245 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1960,8 +1832,6 @@ star
 		inGameName ""
 		type "RandomUncolonizable"
 		pos [ 860 , 213 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -1987,8 +1857,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 842 , 246 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2014,8 +1882,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 914 , 194 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2041,8 +1907,6 @@ star
 		inGameName ""
 		type "PirateBase"
 		pos [ 884 , 226 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2132,16 +1996,12 @@ star
 	type "RandomStar"
 	pos [ 602 , 396 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 9
 	planet
 		designName "Planet34"
 		inGameName ""
 		type "Wormhole"
 		pos [ 519 , 402 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2167,8 +2027,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 665 , 363 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2194,8 +2052,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 593 , 459 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2221,8 +2077,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 648 , 422 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2248,8 +2102,6 @@ star
 		inGameName ""
 		type "RandomUncolonizable"
 		pos [ 678 , 398 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2275,8 +2127,6 @@ star
 		inGameName ""
 		type "RandomUncolonizable"
 		pos [ 562 , 423 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2302,8 +2152,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 607 , 356 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2329,8 +2177,6 @@ star
 		inGameName ""
 		type "RandomSpecial"
 		pos [ 613 , 428 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2356,8 +2202,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 574 , 365 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2447,16 +2291,12 @@ star
 	type "RandomStar"
 	pos [ 889 , 942 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 5
 	planet
 		designName "Planet6"
 		inGameName ""
 		type "TerranHome"
 		pos [ 953 , 940 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer2"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -2483,8 +2323,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 950 , 977 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2510,8 +2348,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 934 , 953 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2537,8 +2373,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 903 , 888 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2564,8 +2398,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 886 , 992 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2620,16 +2452,12 @@ star
 	type "RandomStar"
 	pos [ 552 , 829 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 9
 	planet
 		designName "Planet38"
 		inGameName ""
 		type "Wormhole"
 		pos [ 505 , 787 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2655,8 +2483,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 510 , 865 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2682,8 +2508,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 571 , 761 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2709,8 +2533,6 @@ star
 		inGameName ""
 		type "Volcanic"
 		pos [ 538 , 782 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2736,8 +2558,6 @@ star
 		inGameName ""
 		type "RandomSpecial"
 		pos [ 517 , 813 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2763,8 +2583,6 @@ star
 		inGameName ""
 		type "RandomUncolonizable"
 		pos [ 592 , 797 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2790,8 +2608,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 556 , 857 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2817,8 +2633,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 528 , 847 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2844,8 +2658,6 @@ star
 		inGameName ""
 		type "PirateBase"
 		pos [ 478 , 822 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2930,16 +2742,12 @@ star
 	type "RandomStar"
 	pos [ 1069 , 686 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 8
 	planet
 		designName "Planet39"
 		inGameName ""
 		type "Wormhole"
 		pos [ 1014 , 629 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2965,8 +2773,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 1031 , 737 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -2992,8 +2798,6 @@ star
 		inGameName ""
 		type "Terran"
 		pos [ 1114 , 704 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -3019,8 +2823,6 @@ star
 		inGameName ""
 		type "Volcanic"
 		pos [ 1012 , 684 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -3046,8 +2848,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 1071 , 651 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -3073,8 +2873,6 @@ star
 		inGameName ""
 		type "RandomSpecial"
 		pos [ 1084 , 619 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -3100,8 +2898,6 @@ star
 		inGameName ""
 		type "RandomSpecial"
 		pos [ 1036 , 668 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -3127,8 +2923,6 @@ star
 		inGameName ""
 		type "RandomUncolonizable"
 		pos [ 1073 , 717 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -3213,16 +3007,12 @@ star
 	type "RandomStar"
 	pos [ 998 , 417 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 5
 	planet
 		designName "Planet2"
 		inGameName ""
 		type "TerranHome"
 		pos [ 1057 , 428 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer1"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -3249,8 +3039,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 1046 , 388 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -3276,8 +3064,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 1037 , 412 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -3303,8 +3089,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 995 , 375 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -3330,8 +3114,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 1023 , 448 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -3386,16 +3168,12 @@ star
 	type "RandomStar"
 	pos [ 242 , 888 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 50000.000000
 	planetCount 5
 	planet
 		designName "Planet3"
 		inGameName ""
 		type "TerranHome"
 		pos [ 249 , 962 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer3"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 0
@@ -3422,8 +3200,6 @@ star
 		inGameName ""
 		type "Ice"
 		pos [ 216 , 942 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -3449,8 +3225,6 @@ star
 		inGameName ""
 		type "Asteroid"
 		pos [ 240 , 937 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -3476,8 +3250,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 291 , 897 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -3503,8 +3275,6 @@ star
 		inGameName ""
 		type "Wormhole"
 		pos [ 192 , 868 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0

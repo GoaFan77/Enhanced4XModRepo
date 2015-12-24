@@ -1,5 +1,5 @@
 ﻿TXT
-versionNumber 4
+versionNumber 5
 isBrowsable TRUE
 browsePictureName "ScenarioPicture-TheVoid"
 browseName "IDS_CUSTOMGALAXY_NAME_THEVOID"
@@ -37,16 +37,12 @@ star
 	type "RandomStar"
 	pos [ 200 , 200 ]
 	radius 100.000000
-	moveAreaRadius 60000.000000
-	hyperspaceExitRadius 40000.000000
 	planetCount 6
 	planet
 		designName "Planet4"
 		inGameName ""
 		type "DeadAsteroid"
 		pos [ 250 , 230 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer1"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 1
@@ -73,8 +69,6 @@ star
 		inGameName ""
 		type "DeadAsteroid"
 		pos [ 163 , 222 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer0"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 1
@@ -101,8 +95,6 @@ star
 		inGameName ""
 		type "DeadAsteroid"
 		pos [ 237 , 222 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer1"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 1
@@ -129,8 +121,6 @@ star
 		inGameName ""
 		type "DeadAsteroid"
 		pos [ 150 , 230 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner "NewPlayer0"
 		isHomePlanet TRUE
 		normalStartUpgradeLevelForPopulation 1
@@ -157,8 +147,6 @@ star
 		inGameName ""
 		type "DeadAsteroid"
 		pos [ 200 , 215 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
@@ -191,8 +179,6 @@ star
 		inGameName ""
 		type "DeadAsteroid"
 		pos [ 200 , 233 ]
-		moveAreaRadius 40000.000000
-		hyperspaceExitRadius 30000.000000
 		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 3
