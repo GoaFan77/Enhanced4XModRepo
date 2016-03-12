@@ -14,8 +14,8 @@ instantAction
 	delayTime 0.000000
 	spawnShipsLevelCount 1
 	spawnShips
-		minFleetPoints 50.000000
-		maxFleetPoints 51.000000
+		minFleetPoints 28.000000
+		maxFleetPoints 29.000000
 		requiredShipCount 1
 		requiredShip
 			type "CAPITALSHIP_E4X_HeroCombatPsi"

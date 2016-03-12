@@ -252,7 +252,7 @@ GameplayConstants
 		DamagePercentBonus:ANTIMODULE:VeryHeavy 1.0
 		DamagePercentBonus:ANTIMODULE:Module 2.0
 		DamagePercentBonus:ANTIMODULE:Pirate 0.30
-		DamagePercentBonus:ANTIMODULE:Titan 1.0	
+		DamagePercentBonus:ANTIMODULE:Titan 1.333333	
 		DamagePercentBonus:COMPOSITE:CapitalShip 0.75
 		DamagePercentBonus:COMPOSITE:VeryLight 1.0
 		DamagePercentBonus:COMPOSITE:Light 1.5

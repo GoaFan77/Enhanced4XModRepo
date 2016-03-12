@@ -458,3 +458,7 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		
 1.81	-Updated the mod to version 1.83. This will allow GOG.com players to use the mod.
 		-The first hero unit for each faction has had their ship supply cost lowered.
+		
+1.82	-Increase antimodule damage to titans by 33% (unit must be able to attack non-structures).
+		-Ships now use colored, directional shield effects.
+		-Fixed fleet supply usage of cruiser sized heroes.
