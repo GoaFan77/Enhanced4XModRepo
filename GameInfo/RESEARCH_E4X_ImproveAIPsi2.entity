@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCHSUBJECT_ABILITYACCESS_CULTURALASSISTANCE_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_ABILITYACCESS_CULTURALASSISTANCE_DESCRIPTION"
 researchWindowLocation
 	block 0
-	pos [ 1 , 21 ]
+	pos [ 2 , 22 ]
 ResearchField "Diplomacy"
 Prerequisites
 	NumResearchPrerequisites 2
@@ -30,7 +30,7 @@ PerLevelCostIncrease
 	credits 0.000000
 	metal 0.000000
 	crystal 0.000000
-Tier 1
+Tier 2
 onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000

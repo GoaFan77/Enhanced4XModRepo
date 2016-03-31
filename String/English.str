@@ -1,5 +1,20 @@
 TXT
-NumStrings 8296
+NumStrings 8301
+StringInfo
+	ID "IDS_COUNTERDESC_FRIGATE_CaptureColonize"
+	Value "Strong vs. none. Can colonize planets. Can capture neutral objects."
+StringInfo
+	ID "IDS_COUNTERDESC_FRIGATE_Colonizer"
+	Value "Strong vs. none. Can colonize planets."
+StringInfo
+	ID "IDS_COUNTERDESC_FRIGATE_Bomber"
+	Value "Strong vs. none. Can bombard planets."
+StringInfo
+	ID "IDS_COUNTERDESC_FRIGATE_Capturer"
+	Value "Strong vs. none. Can capture neutral objects."
+StringInfo
+	ID "IDS_COUNTERDESC_FRIGATE_ANTIMODULE"
+	Value "Strong vs. structures. Can only fire on planet modules and starbases."
 StringInfo
 		ID "IDS_PLANETTYPE_ALPINE"
 		Value "Alpine Planet"

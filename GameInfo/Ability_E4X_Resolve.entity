@@ -14,7 +14,8 @@ targetFilter
 	object "Titan"
 	numSpaces 1
 	space "Normal"
-	numConstraints 0
+	numConstraints 1
+	constraint "HasWeapons"
 range
 	Level:0 6500.000000
 	Level:1 6500.000000

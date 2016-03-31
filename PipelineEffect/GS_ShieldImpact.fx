@@ -155,7 +155,7 @@ GetPixelColor( float4 iColor, float2 iTexCoord, float iDist, float3 iPos, float3
 	//	color.a *= 3.0;
 	//}
 	
-	color.a *= 0.8;//global transparency adjustment
+	color.a *= 0.9;//global transparency adjustment
 
 	return color;
 }

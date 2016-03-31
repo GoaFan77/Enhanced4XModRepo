@@ -461,4 +461,5 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		
 1.82	-Increase antimodule damage to titans by 33% (unit must be able to attack non-structures).
 		-Ships now use colored, directional shield effects.
+		-Info cards now give more details about unit roles, in particular non-combat ships. E.g. units that can capture are now labeled in the counter description.
 		-Fixed fleet supply usage of cruiser sized heroes.

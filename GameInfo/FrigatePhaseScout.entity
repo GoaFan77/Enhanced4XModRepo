@@ -15,7 +15,7 @@ mainViewIcon "MAINVIEWICON_FRIGATE_PHASESCOUT"
 picture "PICTURE_FRIGATE_PHASESCOUT"
 NameStringID "IDS_FRIGATE_PHASESCOUT_NAME"
 DescriptionStringID "IDS_FRIGATE_PHASESCOUT_DESCRIPTION"
-counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_Capturer"
 basePrice
 	credits 225.000000
 	metal 20.000000
@@ -137,7 +137,7 @@ HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
 HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_PHASECAPITALSHIP"
 ability:0 "AbilityExplore"
-ability:1 "AbilityCaptureNeutralEntityPhase"
+ability:1 "Ability_E4X_CaptureNeutralFrigate"
 ability:2 "AbilityPhaseCloak"
 ability:3 "AbilityUnstoppablePhaseJumpPhase"
 ability:4 "AbilityDetectMinesPhase"
