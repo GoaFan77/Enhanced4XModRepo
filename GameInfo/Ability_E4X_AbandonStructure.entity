@@ -36,6 +36,6 @@ researchPrerequisites
 	RequiredCompletedResearchSubjects 0
 nameStringID "IDS_Ability_E4X_AbandonStructure_NAME"
 descStringID "IDS_Ability_E4X_AbandonStructure_DESC"
-hudIcon "HUDICON_RESEARCHSUBJECT_PLANETBOMBING_RANGE"
-smallHudIcon "HUDICON_RESEARCHSUBJECT_PLANETBOMBING_RANGE"
+hudIcon "HUDICON_E4X_AbandonStructure"
+smallHudIcon "HUDICON_E4X_AbandonStructure"
 infoCardIcon ""

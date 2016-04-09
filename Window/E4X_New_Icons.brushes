@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 186
+brushCount 187
 brush
 	name "Planet_E4X_CyberFortressNormal"
 	content "Simple"
@@ -1799,6 +1799,24 @@ brush
 	Normal
 		fileName "E4X_Icons_Normal"
 		pixelBox [ 153 , 371 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_AbandonStructure"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 204 , 371 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 204 , 371 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 204 , 371 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 371 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 371 , 47 , 33 ]	
 brush
 	name "HUDICON_E4X_UpgradeDrainingBeams"
 	content "States"
