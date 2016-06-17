@@ -1,0 +1,66 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTarget"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_ExpertInstructor"
+targetFilter
+	numOwnerships 1
+	ownership "Player"
+	numObjects 2
+	object "CapitalShip"
+	object "Titan"
+	numSpaces 1
+	space "Normal"
+	numConstraints 1
+	constraint "NotSelf"
+range
+	Level:0 7500.000000
+	Level:1 7500.000000
+	Level:2 7500.000000
+	Level:3 7500.000000
+effectInfo
+	effectAttachInfo
+		attachType "Center"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 1.000000
+	Level:1 3.000000
+	Level:2 6.000000
+	Level:3 6.000000
+aiUseTime "NotInCombat"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 120.000000
+	Level:1 100.000000
+	Level:2 80.000000
+	Level:3 80.000000
+cooldownTime
+	Level:0 90.000000
+	Level:1 68.000000
+	Level:2 45.000000
+	Level:3 45.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_ING_ExpertInstructor_NAME"
+descStringID "IDS_Ability_ING_ExpertInstructor_DESC"
+hudIcon "HUDICON_E4X_ExpertInstructor"
+smallHudIcon "HUDICON_E4X_ExpertInstructor"
+infoCardIcon ""

@@ -42,7 +42,7 @@ star
 	planetCount 39
 	planet
 		designName "Planet8"
-		inGameName "IDS_PLANETNAME_293"
+		inGameName "Gateway"
 		type "Terran"
 		pos [ 56 , 40 ]
 		owner ""

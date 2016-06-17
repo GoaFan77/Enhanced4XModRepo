@@ -5,7 +5,7 @@ import os, sys
 
 def GetPath(): #gets the path of the current directory
   path = sys.argv[0]
-  print path
+  print (path)
 
   for i in range(-1,-100,-1):
     if path[i] == "\\":
@@ -14,7 +14,7 @@ def GetPath(): #gets the path of the current directory
     else:
       i = i-1
 
-  print "Path not recognized/file name too long"
+  print ("Path not recognized/file name too long")
   quit
 
 def ReadStringAdditions(): #reads the string additions file of the current directory
@@ -62,7 +62,7 @@ def main():
   num2, strings = ReadString()
   num += num2
   WriteString(newStrings, strings, num)
-  print "Complete"
+  print ("Complete")
   
   
 main()

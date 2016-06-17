@@ -1,7 +1,7 @@
 ﻿TXT
 entityType "CapitalShip"
 ability:0 "Ability_E4X_PhysicalDamagePlus"
-ability:1 "Ability_E4X_ReserveSquadrons"
+ability:1 "Ability_E4X_ExpertInstructor"
 ability:2 "Ability_E4X_Resolve"
 ability:3 "Ability_E4X_AllOutAttack"
 ability:4 "Ability_E4X_HeroCommandTech"

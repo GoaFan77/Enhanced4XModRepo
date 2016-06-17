@@ -456,11 +456,13 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		- Removed some of the uglier planet alternate textures to reduce memory usage.
 		- Fixed a glitched Volcanic planet texture. 
 		
-1.81	-Updated the mod to version 1.83. This will allow GOG.com players to use the mod.
+1.801	-Updated the mod to Rebellion version 1.83. This will allow GOG.com players to use the mod.
 		-The first hero unit for each faction has had their ship supply cost lowered.
 		
-1.82	-Increase antimodule damage to titans by 33% (unit must be able to attack non-structures).
+1.81	-Updated to Rebellion version 1.84.
+		-Increase antimodule damage to titans by 33% (unit must be able to attack non-structures).
 		-Ships now use colored, directional shield effects.
+		-Removed Reserve Squadrons ability from TEC Hero Admiral Kol and granted him a new one, Expert Instructor, which lets him give experience to other units.
 		-Info cards now give more details about unit roles, in particular non-combat ships. E.g. units that can capture are now labeled in the counter description.
 		-Fixed fleet supply usage of cruiser sized heroes.
 		-Halved the costs of Starbase upgrades that prevent losing a planet to bombardment.

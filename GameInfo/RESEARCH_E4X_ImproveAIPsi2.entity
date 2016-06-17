@@ -15,7 +15,7 @@ Prerequisites
 		Subject "RESEARCHSUBJECT_CONSTANTEXPERIENCE"
 		Level 2
 	ResearchPrerequisite
-		Subject "RESEARCH_E4X_ImproveAIPsi3"
+		Subject "RESEARCHSUBJECT_WEAPONCOOLDOWN_PLASMA"
 		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0

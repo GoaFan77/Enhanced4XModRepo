@@ -1,5 +1,5 @@
 TXT
-NumStrings 7571
+NumStrings 7581
 StringInfo
 	ID "IDSPlayerAINameTech0"
 	Value "Nitheim Rebels"
@@ -2470,6 +2470,9 @@ StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_PLANETBOMBINGCOOLDOWN"
 	Value "Bombardment Cooldown"
 StringInfo
+	ID "IDS_INFOCARD_BUFFADJUSTMENT_PLANETBOMBINGDAMAGEABSORPTION"
+	Value "Planet Bombing Absorption"
+StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_ENERGYWEAPONCOOLDOWN"
 	Value "Energy Weapon Cooldown"
 StringInfo
@@ -4114,6 +4117,9 @@ StringInfo
 	ID "IDS_GAMEMESSAGE_COLONIZEPLANETBLOCKEDBYENEMYSTARBASE"
 	Value "A hostile empire's Starbase is exerting too much influence to allow colonization of %s."
 StringInfo
+	ID "IDS_GAMEMESSAGE_RUINPLANETNOTRUINABLE"
+	Value "%s is already destroyed."
+StringInfo
 	ID "IDS_GAMEMESSAGE_BOUNTYALLDEPLETED"
 	Value "All bounty on %s has been awarded."
 StringInfo
@@ -4786,6 +4792,15 @@ StringInfo
 	ID "IDS_MESSAGEWINDOW_TITLETEXT_ICOJOINCUSTOMGAMEERROR"
 	Value "Join Game Failed"
 StringInfo
+	ID "IDS_MESSAGEWINDOW_TITLETEXT_ADDFRIENDERROR"
+	Value "Add Friend Failed"
+StringInfo
+	ID "IDS_ADDFRIENDFAILED_PLAYERNOTUSINGSTEAM"
+	Value "To add a player as a Steam friend they must be playing the Steam version of Sins of a Solar Empire: Rebellion"
+StringInfo
+	ID "IDS_ICOLOGINERROR_GOGGALAXYNOTLOADED"
+	Value "To play on Ironclad Online (ICO) you must load GOG Galaxy and restart the game"
+StringInfo
 	ID "IDS_CONNECTFAILED_REJECTED_BY_HOST"
 	Value "Connect Failed: Game Already Started."
 StringInfo
@@ -5133,6 +5148,9 @@ StringInfo
 StringInfo
 	ID "IDS_TARGETCONSTRAINT_ISCOLONIZABLE"
 	Value "be colonizable"
+StringInfo
+	ID "IDS_TARGETCONSTRAINT_ISRUINABLE"
+	Value "be destroyable"
 StringInfo
 	ID "IDS_TARGETCONSTRAINT_ISEXPLORED"
 	Value "be explored"
@@ -9343,6 +9361,12 @@ StringInfo
 	ID "IDS_ABILITY_COLONIZEPHASE_DESCRIPTION"
 	Value "Sends supplies and personnel down to the surface of the planet to create a new outpost. For a brief time, this planet will also have access to additional construction frigates."
 StringInfo
+	ID "IDS_ABILITY_RUINPLANET_NAME"
+	Value "Destroy Planet"
+StringInfo
+	ID "IDS_ABILITY_RUINPLANET_DESCRIPTION"
+	Value "Destroy a planet."
+StringInfo
 	ID "IDS_ABILITY_COLONIZEPSI_DESCRIPTION"
 	Value "Sends supplies and personnel down to the surface of the planet to create a new outpost. For a brief time, upgrades at this planet can be purchased more cheaply."
 StringInfo
@@ -13115,7 +13139,7 @@ StringInfo
 	Value "Cancel Build Starbase Upgrade - 9"
 StringInfo
 	ID "IDS_UIMAPPINGNAME_VOICECHAT"
-	Value "Toggle Voice Chat"
+	Value "Toggle Voice Chat (Steam Only)"
 StringInfo
 	ID "IDS_ITEMSEPERATOR_LAST"
 	Value " and "
@@ -19027,10 +19051,13 @@ StringInfo
 	ID "IDSMainMenuScreenQuitButton"
 	Value "Quit"
 StringInfo
-	ID "IDSMainMenuScreenDLCButton"
-	Value "New Content"
+	ID "IDSMainMenuScreenDLC1Button"
+	Value "New Content Available"
 StringInfo
-	ID "IDSMainMenuScreenSoundtrackDLC1Button"
+	ID "IDSMainMenuScreenDLC2Button"
+	Value "Learn More"
+StringInfo
+	ID "IDSMainMenuScreenDLC3Button"
 	Value "Soundtrack Available"
 StringInfo
 	ID "IDSSinglePlayerSetupScreenTitle"
@@ -19310,7 +19337,7 @@ StringInfo
 	Value "Remove Player"
 StringInfo
 	ID "IDSICOLoginScreenAddPlayerDialogWindowTitle"
-	Value "Add Player"
+	Value "Choose Player Name"
 StringInfo
 	ID "IDSICOLoginScreenAddPlayerDialogWindowNameLabel"
 	Value "Name:"
@@ -19490,7 +19517,7 @@ StringInfo
 	Value "Game:"
 StringInfo
 	ID "IDSICOPlayerInfoSteamName"
-	Value "Steam Name:"
+	Value "Network ID:"
 StringInfo
 	ID "IDSICOPlayerInfoStatusNotLoggedIn"
 	Value "Not Logged In"
@@ -20721,6 +20748,9 @@ StringInfo
 StringInfo
 	ID "IDSGalaxySetupWindowChangeMapTypeButton"
 	Value "Change Maps"
+StringInfo
+	ID "IDSGalaxySetupWindowInviteViaOverlayTitle"
+	Value "Invite Friends"
 StringInfo
 	ID "IDSGalaxySetupWindowOpenGameOptionsDialog"
 	Value "Game Options"

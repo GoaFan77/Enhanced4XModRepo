@@ -1,5 +1,11 @@
 TXT
-NumStrings 8301
+NumStrings 8308
+StringInfo
+		ID "IDS_Ability_ING_ExpertInstructor_NAME"
+		Value "Expert Instructor"
+StringInfo
+		ID "IDS_Ability_ING_ExpertInstructor_DESC"
+		Value "As one of the most famous and experienced leaders in the navy, Admiral Kol is uniquely able to bring new leaders and crews under his wing and get them up to speed. Grants 100 experience to the given capitalship or titan."
 StringInfo
 	ID "IDS_COUNTERDESC_FRIGATE_CaptureColonize"
 	Value "Strong vs. none. Can colonize planets. Can capture neutral objects."
@@ -6967,6 +6973,15 @@ StringInfo
 	ID "IDS_MESSAGEWINDOW_TITLETEXT_ICOJOINCUSTOMGAMEERROR"
 	Value "Join Game Failed"
 StringInfo
+	ID "IDS_MESSAGEWINDOW_TITLETEXT_ADDFRIENDERROR"
+	Value "Add Friend Failed"
+StringInfo
+	ID "IDS_ADDFRIENDFAILED_PLAYERNOTUSINGSTEAM"
+	Value "To add a player as a Steam friend they must be playing the Steam version of Sins of a Solar Empire: Rebellion"
+StringInfo
+	ID "IDS_ICOLOGINERROR_GOGGALAXYNOTLOADED"
+	Value "To play on Ironclad Online (ICO) you must load GOG Galaxy and restart the game"
+StringInfo
 	ID "IDS_CONNECTFAILED_REJECTED_BY_HOST"
 	Value "Connect Failed: Game Already Started."
 StringInfo
@@ -12887,7 +12902,7 @@ StringInfo
 	Value "The envoy uses advanced defensive technology to harden the planet's surface from bombardment."
 StringInfo
 	ID "IDS_COUNTERDESC_FRIGATE_ANTIFIGHTER"
-	Value "Strong vs. fighter strike craft, corvettes."
+	Value "Strong vs. fighter strike craft."
 StringInfo
 	ID "IDS_COUNTERDESC_FRIGATE_ANTIMODULE"
 	Value "Strong vs. structures."
@@ -12911,13 +12926,13 @@ StringInfo
 	Value "Strong vs. heavy cruisers, structures, and capital ships."
 StringInfo
 	ID "IDS_COUNTERDESC_CORVETTE_TECH"
-	Value "Strong vs. long range frigates, siege frigates, bombers and titans."
+	Value "Strong vs. frigates, cruisers, capital ships, strike craft and titans."
 StringInfo
 	ID "IDS_COUNTERDESC_CORVETTE_PHASE"
-	Value "Strong vs. long range frigates, siege frigates, bombers and titans."
+	Value "Strong vs. frigates, cruisers, capital ships, strike craft and titans."
 StringInfo
 	ID "IDS_COUNTERDESC_CORVETTE_PSI"
-	Value "Strong vs. long range frigates, siege frigates, bombers and titans."
+	Value "Strong vs. frigates, cruisers, capital ships, strike craft and titans."
 StringInfo
 	ID "IDS_FRIGATE_TECHANTIFIGHTER_NAME"
 	Value "Garda Flak Frigate"
@@ -21217,10 +21232,13 @@ StringInfo
 	ID "IDSMainMenuScreenQuitButton"
 	Value "Quit"
 StringInfo
-	ID "IDSMainMenuScreenDLCButton"
-	Value "New Content"
+	ID "IDSMainMenuScreenDLC1Button"
+	Value "New Content Available"
 StringInfo
-	ID "IDSMainMenuScreenSoundtrackDLC1Button"
+	ID "IDSMainMenuScreenDLC2Button"
+	Value "Learn More"
+StringInfo
+	ID "IDSMainMenuScreenDLC3Button"
 	Value "Soundtrack Available"
 StringInfo
 	ID "IDSSinglePlayerSetupScreenTitle"
@@ -21680,7 +21698,7 @@ StringInfo
 	Value "Game:"
 StringInfo
 	ID "IDSICOPlayerInfoSteamName"
-	Value "Steam Name:"
+	Value "Network ID:"
 StringInfo
 	ID "IDSICOPlayerInfoStatusNotLoggedIn"
 	Value "Not Logged In"
@@ -22911,6 +22929,9 @@ StringInfo
 StringInfo
 	ID "IDSGalaxySetupWindowChangeMapTypeButton"
 	Value "Change Maps"
+StringInfo
+	ID "IDSGalaxySetupWindowInviteViaOverlayTitle"
+	Value "Invite Friends"
 StringInfo
 	ID "IDSGalaxySetupWindowOpenGameOptionsDialog"
 	Value "Game Options"
