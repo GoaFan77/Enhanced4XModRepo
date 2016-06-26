@@ -59,8 +59,8 @@ researchPrerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-nameStringID "IDS_Ability_ING_ExpertInstructor_NAME"
-descStringID "IDS_Ability_ING_ExpertInstructor_DESC"
+nameStringID "IDS_Ability_E4X_ExpertInstructor_NAME"
+descStringID "IDS_Ability_E4X_ExpertInstructor_DESC"
 hudIcon "HUDICON_E4X_ExpertInstructor"
 smallHudIcon "HUDICON_E4X_ExpertInstructor"
 infoCardIcon ""

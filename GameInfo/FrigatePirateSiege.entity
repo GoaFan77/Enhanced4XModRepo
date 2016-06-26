@@ -42,7 +42,7 @@ statCountType "FrigateSiege"
 mainViewIcon "MAINVIEWICON_FRIGATE_PIRATESIEGE"
 picture "PICTURE_FRIGATE_PIRATESIEGE"
 NameStringID "IDS_FRIGATE_PIRATESIEGE_NAME"
-DescriptionStringID "IDS_FRIGATE_PIRATESIEGE_DESCRIPTION"
+DescriptionStringID "IDS_NoString"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
 	credits 1315.000000

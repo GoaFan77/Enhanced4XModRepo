@@ -460,10 +460,10 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-The first hero unit for each faction has had their ship supply cost lowered.
 		
 1.81	-Updated to Rebellion version 1.84.
-		-Increase antimodule damage to titans by 33% (unit must be able to attack non-structures).
+		-Increased antimodule damage to titans by 33% (unit must be able to attack non-structures).
 		-Ships now use colored, directional shield effects.
 		-Removed Reserve Squadrons ability from TEC Hero Admiral Kol and granted him a new one, Expert Instructor, which lets him give experience to other units.
 		-Info cards now give more details about unit roles, in particular non-combat ships. E.g. units that can capture are now labeled in the counter description.
 		-Fixed fleet supply usage of cruiser sized heroes.
 		-Halved the costs of Starbase upgrades that prevent losing a planet to bombardment.
-		-Added a icon for the abandon structure ability on captureable entities.
+		-Added a new icon for the abandon structure ability on captureable entities.

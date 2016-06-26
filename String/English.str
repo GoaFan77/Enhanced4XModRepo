@@ -1,11 +1,20 @@
 TXT
-NumStrings 8308
+NumStrings 8357
 StringInfo
-		ID "IDS_Ability_ING_ExpertInstructor_NAME"
+		ID "IDS_NoString"
+		Value ""
+StringInfo
+	ID "IDS_FRIGATE_PIRATEANTIFIGHTER_DESCRIPTION"
+	Value "A well armored pirate escort ship, it can fire on fighters and cause heavy damage to structures with powerful explosives."
+StringInfo
+	ID "IDS_FRIGATE_PIRATEHEAVY_DESCRIPTION"
+	Value "The most powerful ship often used by pirates. It's heavy armor and large caliber weapons make up for its lack of shields."
+StringInfo
+		ID "IDS_Ability_E4X_ExpertInstructor_NAME"
 		Value "Expert Instructor"
 StringInfo
-		ID "IDS_Ability_ING_ExpertInstructor_DESC"
-		Value "As one of the most famous and experienced leaders in the navy, Admiral Kol is uniquely able to bring new leaders and crews under his wing and get them up to speed. Grants 100 experience to the given capitalship or titan."
+		ID "IDS_Ability_E4X_ExpertInstructor_DESC"
+		Value "As one of the most famous and experienced leaders in the navy, Admiral Kol is uniquely able to bring new leaders and crews under his wing and get them up to speed. Grants experience to the given capitalship or titan."
 StringInfo
 	ID "IDS_COUNTERDESC_FRIGATE_CaptureColonize"
 	Value "Strong vs. none. Can colonize planets. Can capture neutral objects."
@@ -4894,6 +4903,12 @@ StringInfo
 	ID "IDS_INFOCARD_STRINGINFO_BOUNTYINCAMOUNT"
 	Value "Next Increment: *VALUE0* *VALUE1*"
 StringInfo
+	ID "IDS_INFOCARD_STRINGINFO_BOUNTYINCAMOUNTWITHBONUS"
+	Value "Next Increment: *VALUE0* *VALUE1* (*VALUE2* + *VALUE3*)"
+StringInfo
+	ID "IDS_INFOCARD_STRINGINFO_BONUSACTIVE"
+	Value "Pirate Turf Bonus Active"
+StringInfo
 	ID "IDS_INFOCARD_STRINGINFO_ABILITYAUTOCASTSTATUS"
 	Value "*VALUE0* Autocast: *VALUE1*"
 StringInfo
@@ -5166,6 +5181,12 @@ StringInfo
 StringInfo
 	ID "IDSEconomyInfoCardTotalTradeNetworkIncome"
 	Value "*VALUE0* Trade Port Income *SPACING160* *VALUE1* *SPACING195*/sec"
+StringInfo
+	ID "IDSEconomyInfoCardTotalSmugglingIncome"
+	Value "*VALUE0* Smuggling Income *SPACING160* *VALUE1* *SPACING195*/sec"
+StringInfo
+	ID "IDSEconomyInfoCardTotalSmugglingLoss"
+	Value "*VALUE0* Smuggling Loss *SPACING160* *VALUE1* *SPACING195*/sec"
 StringInfo
 	ID "IDSEconomyInfoCardTotalStarBaseIncome"
 	Value "*VALUE0* Starbase Tax Income *SPACING160* *VALUE1* *SPACING195*/sec"
@@ -5903,13 +5924,19 @@ StringInfo
 	Value "Social Specialization"
 StringInfo
 	ID "IDS_INFOCARD_PLANETUPGRADESOCIAL_DESC"
-	Value "Dedicate this planet towards greater population and cultural influence at the cost of trade and industry. Choosing this path locks out Industry Specialization."
+	Value "Dedicate this planet towards greater population and cultural influence at the cost of trade and industry. Choosing this path locks out Industry and Smuggling Specialization."
 StringInfo
 	ID "IDS_INFOCARD_PLANETUPGRADEINDUSTRY_NAME"
 	Value "Industry Specialization"
 StringInfo
 	ID "IDS_INFOCARD_PLANETUPGRADEINDUSTRY_DESC"
-	Value "Dedicate this planet towards trade income and ship building at the cost of culture and population. Choosing this path locks out Social Specialization."
+	Value "Dedicate this planet towards trade income and ship building at the cost of culture and population. Choosing this path locks out Social and Smuggling Specialization."
+StringInfo
+	ID "IDS_INFOCARD_PLANETUPGRADESMUGGLER_NAME"
+	Value "Smuggling Specialization"
+StringInfo
+	ID "IDS_INFOCARD_PLANETUPGRADESMUGGLER_DESC"
+	Value "Dedicate this planet towards stealing a cut of the global trade profits but incur heavy tax penalties due to corruption. Choosing this path locks out Social and Industry specialization."
 StringInfo
 	ID "IDS_INFOCARD_PLANETUPGRADEPOPULATION_NAME"
 	Value "Civilian Infrastructure"
@@ -6320,7 +6347,7 @@ StringInfo
 	Value "Pirate raid imminent!"
 StringInfo
 	ID "IDS_GAMEMESSAGE_PIRATERAIDIMMINENT_DETAILS"
-	Value "Intelligence suspects that pirates are massing for a raid into %s's territory"
+	Value "Intelligence suspects that pirates are massing for a raid against: %s"
 StringInfo
 	ID "IDS_GAMEMESSAGE_PIRATERAIDIMMINENT_DETAILS_ACTIVEPLAYER"
 	Value "Pirate leaders have threatened to raid our territory unless they have incentive to go elsewhere."
@@ -15067,6 +15094,9 @@ StringInfo
 	ID "IDS_UIMAPPINGNAME_PLANETUPGRADEINDUSTRY"
 	Value "Upgrade Industry Specialization"
 StringInfo
+	ID "IDS_UIMAPPINGNAME_PLANETUPGRADESMUGGLER"
+	Value "Upgrade Smuggling Specialization"
+StringInfo
 	ID "IDS_UIMAPPINGNAME_PLANETUPGRADECIVILIANMODULES"
 	Value "Upgrade Logistics Capacity"
 StringInfo
@@ -15093,6 +15123,15 @@ StringInfo
 StringInfo
 	ID "IDS_UIMAPPINGNAME_PLANETCANCELUPGRADEARTIFACTLEVEL"
 	Value "Cancel Planet Exploration"
+StringInfo
+	ID "IDS_UIMAPPINGNAME_PLANETCANCELUPGRADESOCIAL"
+	Value "Cancel Social Specialization"
+StringInfo
+	ID "IDS_UIMAPPINGNAME_PLANETCANCELUPGRADEINDUSTRY"
+	Value "Cancel Industry Specialization"
+StringInfo
+	ID "IDS_UIMAPPINGNAME_PLANETCANCELUPGRADESMUGGLER"
+	Value "Cancel Smuggling Specialization"
 StringInfo
 	ID "IDS_UIMAPPINGNAME_ACTIONBUILDRESOURCEASTEROIDEXTRACTOR"
 	Value "Build Extractor"
@@ -18871,6 +18910,9 @@ StringInfo
 	ID "IDS_PLANETUPGRADEPATHTYPE_INDUSTRY"
 	Value "Industry Specialization"
 StringInfo
+	ID "IDS_PLANETUPGRADEPATHTYPE_SMUGGLER"
+	Value "Smuggling Specialization"
+StringInfo
 	ID "IDS_PLANETUPGRADEPATHCANQUEUENEXTSTAGESTATUS_CANQUEUE"
 	Value "Available"
 StringInfo
@@ -18903,6 +18945,9 @@ StringInfo
 StringInfo
 	ID "IDS_PLANETUPGRADEPATHCANQUEUENEXTSTAGESTATUS_INDUSTRYALREADYCHOSEN"
 	Value "Industry specialization chosen."
+StringInfo
+	ID "IDS_PLANETUPGRADEPATHCANQUEUENEXTSTAGESTATUS_SMUGGLERALREADYCHOSEN"
+	Value "Smuggling specialization chosen."
 StringInfo
 	ID "IDS_PLANETUPGRADEPATHCANQUEUENEXTSTAGESTATUS_DLCNOTAVAILABLE"
 	Value "DLC required for this upgrade."
@@ -18957,6 +19002,12 @@ StringInfo
 StringInfo
 	ID "IDS_PLANETUPGRADEINFOCARD_SHOPBUILDRATEMODIFIER"
 	Value "Ship build rate modifier"
+StringInfo
+	ID "IDS_PLANETUPGRADEINFOCARD_CORRUPTIONPERCENT"
+	Value "Corruption Tax Penalty"
+StringInfo
+	ID "IDS_PLANETUPGRADEINFOCARD_SMUGGLINGPERCENT"
+	Value "Smuggling Percent"
 StringInfo
 	ID "IDS_ICOCREATECUSTOMGAMEFAILED"
 	Value "Failed to create game due to unknown error."
@@ -19681,6 +19732,9 @@ StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_BLITZ"
 	Value "Blitz"
 StringInfo
+	ID "IDS_CUSTOMGALAXY_NAME_BUZZSAW"
+	Value "Buzzsaw"
+StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_BLITZFair"
 	Value "Blitz Competitive"
 StringInfo
@@ -19702,6 +19756,9 @@ StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_COUNTERSPIN"
 	Value "Counter Spin"
 StringInfo
+	ID "IDS_CUSTOMGALAXY_NAME_CROSSFIRE"
+	Value "Crossfire"
+StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_CRYSTALSTORM"
 	Value "Crystal Storm"
 StringInfo
@@ -19711,14 +19768,23 @@ StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_CYNOSIANRIFT"
 	Value "Cynosian Rift"
 StringInfo
+	ID "IDS_CUSTOMGALAXY_NAME_DEATHSPIRAL"
+	Value "Death Spiral"
+StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_DERELICT"
 	Value "Derelict"
+StringInfo
+	ID "IDS_CUSTOMGALAXY_NAME_DESOLATION"
+	Value "Desolation"
 StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_DESPERATION"
 	Value "Desperation"
 StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_DEVILSCAULDRON"
 	Value "Devil's Cauldron"
+StringInfo
+	ID "IDS_CUSTOMGALAXY_NAME_DOGFIGHT"
+	Value "Dogfight"
 StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_DOMINATE"
 	Value "Domination"
@@ -19780,6 +19846,9 @@ StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_GRINDSTONE"
 	Value "Grindstone"
 StringInfo
+	ID "IDS_CUSTOMGALAXY_NAME_HIGHSTAKES"
+	Value "High Stakes"
+StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_HOSTILEORBITS"
 	Value "Hostile Orbits"
 StringInfo
@@ -19791,6 +19860,9 @@ StringInfo
 StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_IMPLOSION"
 	Value "Implosion"
+StringInfo
+	ID "IDS_CUSTOMGALAXY_NAME_IRONHEART"
+	Value "Ironheart"
 StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_KABEL"
 	Value "Kabel"
@@ -19831,6 +19903,9 @@ StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_POINTBLANK"
 	Value "Point Blank"
 StringInfo
+	ID "IDS_CUSTOMGALAXY_NAME_POWERSTRUGGLE"
+	Value "Power Struggle"
+StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_QUICKSTRIKE"
 	Value "Quickstrike"
 StringInfo
@@ -19843,8 +19918,17 @@ StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_RAZORSEDGEFair"
 	Value "Razor's Edge Competitive"
 StringInfo
+	ID "IDS_CUSTOMGALAXY_NAME_RETURNTOWAR"
+	Value "Return to War"
+StringInfo
+	ID "IDS_CUSTOMGALAXY_NAME_RISEOFEMPIRES"
+	Value "Rise of Empires"
+StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_SECRETS"
 	Value "Secrets"
+StringInfo
+	ID "IDS_CUSTOMGALAXY_NAME_SLIMPICKINGS"
+	Value "Slim Pickings"
 StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_STAROFWARFair"
 	Value "Star of War Competitive"
@@ -19866,6 +19950,9 @@ StringInfo
 StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_THEVOID"
 	Value "The Void"
+StringInfo
+	ID "IDS_CUSTOMGALAXY_NAME_TITANSOFCIMTAR"
+	Value "Titans of Cimtar"
 StringInfo
 	ID "IDS_CUSTOMGALAXY_NAME_TRIAD"
 	Value "Triad"
@@ -20005,6 +20092,9 @@ StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_BLITZFair"
 	Value "Competitive version of Blitz. Artifacts and planetary bonuses have been removed and planetary militia and resource rock counts have been set to normalized values so that no player can have an unfair map advantage. Designed for high level play."
 StringInfo
+	ID "IDS_CUSTOMGALAXY_DESCRIPTION_BUZZSAW"
+	Value "This spiral galaxy leaves no room for error, one mistake and you may lose more than you bargained for!"
+StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_CELANUSCORE"
 	Value "Opposing factions seek to control the core of the Celanus system, a concentrated group of planets encircled by a ring of asteroids, while keeping an eye open for flanking attacks through the asteroid field."
 StringInfo
@@ -20029,11 +20119,20 @@ StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_CRYSTALSTORMFair"
 	Value "Competitive version of Crystal Storm. Artifacts and planetary bonuses have been removed and planetary militia and resource rock counts have been set to normalized values so that no player can have an unfair map advantage. Designed for high level play."
 StringInfo
+	ID "IDS_CUSTOMGALAXY_DESCRIPTION_CROSSFIRE"
+	Value "It's a straight shot to the enemy's home worlds, will you take it? Coordinate the assault with your ally to ensure your victory."
+StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_CYNOSIANRIFT"
 	Value "The unusual radiation profile of this star has created a pair of stable wormholes in its system. An arc of resource rich planets also orbits Cynos - can you exploit them before your enemy does?"
 StringInfo
+	ID "IDS_CUSTOMGALAXY_DESCRIPTION_DEATHSPIRAL"
+	Value "This system is slowly falling into a black hole! And your enemies won't let you leave without a fight.  Do you contest the planets in higher orbits, or do you send your fleet dangerously close to the black hole to engage the enemy directly?"
+StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_DERELICT"
 	Value "Recent reports of space junk floating in a nearby system lead your empire to mount an investigation for salvageable technology.  But it seems you are not alone..."
+StringInfo
+	ID "IDS_CUSTOMGALAXY_DESCRIPTION_DESOLATION"
+	Value "The Vasari have left little in the wake of their planet eating ships. Quickly claim what is left of the worlds in this massive cluster of stars, and forge it into a force capable of conquest."
 StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_DESPERATION"
 	Value "With nothing but a single asteroid and your homeworld to call you own, you are forced by desperation to take planets from your enemies. Don't let your desperation get the best of you."
@@ -20041,8 +20140,11 @@ StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_DEVILSCAULDRON"
 	Value "Lifeless rocks and a cluster of hostile volcanic worlds near the star populate this desolate place. Those foolhardy enough to seek fortune here should be wary - the system's chaotic nature makes it a natural home for the galaxy's less scrupulous denizens."
 StringInfo
+	ID "IDS_CUSTOMGALAXY_DESCRIPTION_DOGFIGHT"
+	Value "Take your allies to do glorious battle amongst the stars! Fight to the middle, claim it, and push to victory, but watch your six!"
+StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_DOMINATE"
-	Value "Two empires vie for control over this small and desolate system.  Expand quickly or you will soon find yourself with no worlds left to conquer. But beware, the pirates have built bases next to each empires homeworld. They are always just a coin flip away."
+	Value "Two empires fought to a stalemate over the single lush planet in this system. For 99 years a neutral force as kept the world offlimits. Now with the treaty about to expire, it is time to take what clearly belongs to you."
 StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_DOPPELGANGERS"
 	Value "Four empires have laid claim to a star system apiece. When venturing out to conquer a neighbour, be wary - things are not as familiar as they seem."
@@ -20101,6 +20203,9 @@ StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_GRINDSTONE"
 	Value "Expand quickly and guard claimed territory fiercely - many competing factions in this cramped system leave little room for the weak to survive."
 StringInfo
+	ID "IDS_CUSTOMGALAXY_DESCRIPTION_HIGHSTAKES"
+	Value "Every planet in this crowded system is rich in resources, but fiercely guarded by their militias. A powerful fleet will be needed to make any headway here."
+StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_HOSTILEORBITS"
 	Value "Terran planets cluster close to the cool, red star of this system, but so do numerous pirate bases. Fight your way outward to claim the riches that lie on the edges of this deadly system."
 StringInfo
@@ -20112,6 +20217,9 @@ StringInfo
 StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_IMPLOSION"
 	Value "With few alternate paths from each empire's capital, the resource rich core of this large system will be a fiercely contested battleground."
+StringInfo
+	ID "IDS_CUSTOMGALAXY_DESCRIPTION_IRONHEART"
+	Value "Your metal is towards the sun on the planets, your crystal on the rim in the ice fields. Prioritize your resources carefully, as your enemies are flanking from both sides!"
 StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_KRONACSCROSS"
 	Value "The Kronac system has become the focal point of ruthless war for territory. Factions compete to control the extra resources provided by the planets nearest the sun."
@@ -20146,6 +20254,9 @@ StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_POINTBLANK"
 	Value "This mercilessly small system leaves no room for error - the opposing faction is literally next door. Planning a decisive strike or securing some of the few neutral worlds are both viable options - which strategy is the enemy pursuing?"
 StringInfo
+	ID "IDS_CUSTOMGALAXY_DESCRIPTION_POWERSTRUGGLE"
+	Value "It's a tough galaxy, best make the most of it. Contest the distant resource fields and the nearby planets before striking the enemy's home world only a couple jumps away."
+StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_QUICKSTRIKE"
 	Value "In this tiny system, two factions are forced into combat. Choose your first target wisely... you may not get a second chance."
 StringInfo
@@ -20158,8 +20269,17 @@ StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_RAZORSEDGEFair"
 	Value "Competitive version of Razor's Edge. Artifacts and planetary bonuses have been removed and planetary militia and resource rock counts have been set to normalized values so that no team can have an unfair map advantage. Designed for high level play."
 StringInfo
+	ID "IDS_CUSTOMGALAXY_DESCRIPTION_RETURNTOWAR"
+	Value "Two empires fought to a stalemate over the single lush planet in this system. For 99 years a neutral force as kept the world offlimits. Now with the treaty about to expire, it is time to take what clearly belongs to you."
+StringInfo
+	ID "IDS_CUSTOMGALAXY_DESCRIPTION_RISEOFEMPIRES"
+	Value "With the local resistance nearly crushed, make haste in securing your star system. Only then can you set your sights on your rivals."
+StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_SECRETS"
 	Value "This system was the site of a fierce battle between ancient races. If you dare journey beyond the wormhole into the graveyard, you may find the remains of ancient starships crashed upon the planetoids therein, and the secrets that they hold."
+StringInfo
+	ID "IDS_CUSTOMGALAXY_DESCRIPTION_SLIMPICKINGS"
+	Value "Not much is left among these war-torn stars. Claim the scraps remaining, then venture out to seize what you can from the other empires in this three star map."
 StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_STAROFWARFair"
 	Value "Competitive version of Star Of War. Artifacts and planetary bonuses have been removed and planetary militia and resource rock counts have been set to normalized values so that no player can have an unfair map advantage. Designed for high level play."
@@ -20181,6 +20301,9 @@ StringInfo
 StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_THEVOID"
 	Value "Something has stripped this small system clean. Manage your resource stores carefully to determine what took place. This is a Deathmatch galaxy. Incompatible with Flagship and Capital Victory."
+StringInfo
+	ID "IDS_CUSTOMGALAXY_DESCRIPTION_TITANSOFCIMTAR"
+	Value "Eight massive gas giant and their moons dominate this map. Secure your own gas giant, then make war on your neighbors."
 StringInfo
 	ID "IDS_CUSTOMGALAXY_DESCRIPTION_TWINEMPIRES"
 	Value "Coordinate your actions with near and distant allies to ensure victory. Wormholes may be the key to a quick joint strike or unified defense."
@@ -20333,6 +20456,15 @@ StringInfo
 	Value "True"
 StringInfo
 	ID "IDSIcoCustomGameInfoArePiratesActiveFalse"
+	Value "False"
+StringInfo
+	ID "IDSIcoCustomGameInfoAreOutlawSectorsActive"
+	Value "Outlaw Sectors:"
+StringInfo
+	ID "IDSIcoCustomGameInfoAreOutlawSectorsActiveTrue"
+	Value "True"
+StringInfo
+	ID "IDSIcoCustomGameInfoAreOutlawSectorsActiveFalse"
 	Value "False"
 StringInfo
 	ID "IDSIcoCustomGameInfoUseQuickStart"
@@ -21233,13 +21365,10 @@ StringInfo
 	Value "Quit"
 StringInfo
 	ID "IDSMainMenuScreenDLC1Button"
-	Value "New Content Available"
+	Value "Learn More"
 StringInfo
 	ID "IDSMainMenuScreenDLC2Button"
 	Value "Learn More"
-StringInfo
-	ID "IDSMainMenuScreenDLC3Button"
-	Value "Soundtrack Available"
 StringInfo
 	ID "IDSSinglePlayerSetupScreenTitle"
 	Value "SINGLE PLAYER"
@@ -22761,6 +22890,12 @@ StringInfo
 StringInfo
 	ID "IDSGameOptionsArePiratesActiveFalse"
 	Value "Pirates Inactive"
+StringInfo
+	ID "IDSGameOptionsAreOutlawSectorsActiveTrue"
+	Value "Outlaw Sectors"
+StringInfo
+	ID "IDSGameOptionsAreOutlawSectorsActiveFalse"
+	Value "No Outlaw Sectors"
 StringInfo
 	ID "IDSGameOptionsIsBlackMarketEnabledTrue"
 	Value "Black Market Enabled"
@@ -24661,6 +24796,12 @@ StringInfo
 	ID "IDS_GAMEOPTION_PIRATESACTIVE_DESCRIPTION"
 	Value "Pirate Raiders will peridiocally strike out from hidden pirate bases, pillaging worlds belonging to the player with the highest bountry. Seeking out and destroying all pirate bases will bring an end to these attacks."
 StringInfo
+	ID "IDS_GAMEOPTION_OUTLAWSECTORSACTIVE_NAME"
+	Value "Outlaw Sectors"
+StringInfo
+	ID "IDS_GAMEOPTION_OUTLAWSECTORSACTIVE_DESCRIPTION"
+	Value "Activates: Smuggling Specialization - steal trade profits at the cost of corruption. Rampant Militias - they grow, raid and repopulate so best to make them yours. Pirate Turf - will now attack multiple players and all bounty is given a bonus supplement."
+StringInfo
 	ID "IDS_GAMEOPTION_FLEETSIZE_NAME"
 	Value "Fleet Size"
 StringInfo
@@ -24865,14 +25006,20 @@ StringInfo
 	ID "IDS_ONGAMEWIN"
 	Value "You are victorious.""
 StringInfo
+	ID "IDSGalaxyInfoWindowScenarioRequiredDLC"
+	Value "This map has been enabled by the %s DLC."
+StringInfo
 	ID "IDSGalaxyInfoWindowScenarioMissingDLC"
-	Value "This map requires the following DLC to play: %s."
+	Value "This map requires the following DLC: %s."
 StringInfo
 	ID "IDS_DLC_NAME_228601"
 	Value "Forbidden Worlds"
 StringInfo
 	ID "IDS_DLC_NAME_255910"
 	Value "Stellar Phenomena"
+StringInfo
+	ID "IDS_DLC_NAME_487280"
+	Value "Outlaw Sectors"
 StringInfo
 	ID "IDSGalaxyInfoWindowSaveFileMissingDLC"
 	Value "This save file requires the following DLC to play: %s."

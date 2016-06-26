@@ -1,4 +1,13 @@
 StringInfo
+    ID "IDS_RESEARCHSUBJECT_TRUCE_AMONGST_ROGUES_DESCRIPTION"
+    Value "In addition to their own refugees, several pirate groups escaped with the Human Trader State into the galaxy far far away. Coming to an agreement with these pirates will allow you to hire them for your forces, while their underworld experience can help when dealing with criminal syndicates in this galaxy, increasing bounty effectiveness and reducing the strength of pirate attacks against you."
+StringInfo
+	ID "IDS_FRIGATE_PIRATEANTIFIGHTER_DESCRIPTION"
+	Value "A well armored pirate escort ship, it can fire on fighters and cause heavy damage to structures with powerful explosives."
+StringInfo
+	ID "IDS_FRIGATE_PIRATEHEAVY_DESCRIPTION"
+	Value "The most powerful ship often used by pirates. It's heavy armor and large caliber weapons make up for its lack of shields."
+StringInfo
 		ID "IDS_Ability_ING_ExpertInstructor_NAME"
 		Value "Expert Instructor"
 StringInfo

@@ -1,0 +1,1032 @@
+effect
+	name "Dialog_ING_Acclamator_Attack"
+	fileName "Dialog_ING_Acclamator_Attack.ogg"
+effect
+	name "Dialog_ING_Acclamator_Attack_2"
+	fileName "Dialog_ING_Acclamator_Attack_2.ogg"
+effect
+	name "Dialog_ING_Acclamator_Attack_3"
+	fileName "Dialog_ING_Acclamator_Attack_3.ogg"
+effect
+	name "Dialog_ING_Acclamator_Built"
+	fileName "Dialog_ING_Acclamator_Built.ogg"
+effect
+	name "Dialog_ING_Acclamator_Jump"
+	fileName "Dialog_ING_Acclamator_Jump.ogg"
+effect
+	name "Dialog_ING_Acclamator_Move"
+	fileName "Dialog_ING_Acclamator_Move.ogg"
+effect
+	name "Dialog_ING_Acclamator_Move_2"
+	fileName "Dialog_ING_Acclamator_Move_2.ogg"
+effect
+	name "Dialog_ING_Acclamator_Move_3"
+	fileName "Dialog_ING_Acclamator_Move_3.ogg"
+effect
+	name "Dialog_ING_Acclamator_Select"
+	fileName "Dialog_ING_Acclamator_Select.ogg"
+effect
+	name "Dialog_ING_Acclamator_Select_2"
+	fileName "Dialog_ING_Acclamator_Select_2.ogg"
+effect
+	name "Dialog_ING_Acclamator_Select_3"
+	fileName "Dialog_ING_Acclamator_Select_3.ogg"
+effect
+	name "Dialog_ING_Acclamator_Select_4"
+	fileName "Dialog_ING_Acclamator_Select_4.ogg"
+effect
+	name "Dialog_ING_Assault_Gunboat_Attack_1"
+	fileName "Dialog_ING_Assault_Gunboat_Attack_1.ogg"
+effect
+	name "Dialog_ING_Assault_Gunboat_Attack_2"
+	fileName "Dialog_ING_Assault_Gunboat_Attack_2.ogg"
+effect
+	name "Dialog_ING_Assault_Gunboat_Attack_3"
+	fileName "Dialog_ING_Assault_Gunboat_Attack_3.ogg"
+effect
+	name "Dialog_ING_Assault_Gunboat_Attack_4"
+	fileName "Dialog_ING_Assault_Gunboat_Attack_4.ogg"
+effect
+	name "Dialog_ING_Assault_Gunboat_Move_1"
+	fileName "Dialog_ING_Assault_Gunboat_Move_1.ogg"
+effect
+	name "Dialog_ING_Assault_Gunboat_Move_2"
+	fileName "Dialog_ING_Assault_Gunboat_Move_2.ogg"
+effect
+	name "Dialog_ING_Assault_Gunboat_Move_3"
+	fileName "Dialog_ING_Assault_Gunboat_Move_3.ogg"
+effect
+	name "Dialog_ING_Assault_Gunboat_Move_4"
+	fileName "Dialog_ING_Assault_Gunboat_Move_4.ogg"
+effect
+	name "Dialog_ING_Assault_Gunboat_Select_1"
+	fileName "Dialog_ING_Assault_Gunboat_Select_1.ogg"
+effect
+	name "Dialog_ING_Assault_Gunboat_Select_2"
+	fileName "Dialog_ING_Assault_Gunboat_Select_2.ogg"
+effect
+	name "Dialog_ING_Assault_Gunboat_Select_3"
+	fileName "Dialog_ING_Assault_Gunboat_Select_3.ogg"
+effect
+	name "Dialog_ING_Assault_Gunboat_Select_4"
+	fileName "Dialog_ING_Assault_Gunboat_Select_4.ogg"
+effect
+	name "Dialog_ING_Broadside_Attack_1"
+	fileName "Dialog_ING_Broadside_Attack_1.ogg"
+effect
+	name "Dialog_ING_Broadside_Attack_2"
+	fileName "Dialog_ING_Broadside_Attack_2.ogg"
+effect
+	name "Dialog_ING_Broadside_Attack_3"
+	fileName "Dialog_ING_Broadside_Attack_3.ogg"
+effect
+	name "Dialog_ING_Broadside_Attack_4"
+	fileName "Dialog_ING_Broadside_Attack_4.ogg"
+effect
+	name "Dialog_ING_Broadside_Built"
+	fileName "Dialog_ING_Broadside_Built.ogg"
+effect
+	name "Dialog_ING_Broadside_Move_1"
+	fileName "Dialog_ING_Broadside_Move_1.ogg"
+effect
+	name "Dialog_ING_Broadside_Move_2"
+	fileName "Dialog_ING_Broadside_Move_2.ogg"
+effect
+	name "Dialog_ING_Broadside_Move_3"
+	fileName "Dialog_ING_Broadside_Move_3.ogg"
+effect
+	name "Dialog_ING_Broadside_Move_4"
+	fileName "Dialog_ING_Broadside_Move_4.ogg"
+effect
+	name "Dialog_ING_Broadside_Select_1"
+	fileName "Dialog_ING_Broadside_Select_1.ogg"
+effect
+	name "Dialog_ING_Broadside_Select_2"
+	fileName "Dialog_ING_Broadside_Select_2.ogg"
+effect
+	name "Dialog_ING_Broadside_Select_3"
+	fileName "Dialog_ING_Broadside_Select_3.ogg"
+effect
+	name "Dialog_ING_Carrack_Attack"
+	fileName "Dialog_ING_Carrack_Attack.ogg"
+effect
+	name "Dialog_ING_Carrack_Attack_2"
+	fileName "Dialog_ING_Carrack_Attack_2.ogg"
+effect
+	name "Dialog_ING_Carrack_Attack_3"
+	fileName "Dialog_ING_Carrack_Attack_3.ogg"
+effect
+	name "Dialog_ING_Carrack_Attack_4"
+	fileName "Dialog_ING_Carrack_Attack_4.ogg"
+effect
+	name "Dialog_ING_Carrack_Built"
+	fileName "Dialog_ING_Carrack_Built.ogg"
+effect
+	name "Dialog_ING_Carrack_Jump"
+	fileName "Dialog_ING_Carrack_Jump.ogg"
+effect
+	name "Dialog_ING_Carrack_Move"
+	fileName "Dialog_ING_Carrack_Move.ogg"
+effect
+	name "Dialog_ING_Carrack_Move_2"
+	fileName "Dialog_ING_Carrack_Move_2.ogg"
+effect
+	name "Dialog_ING_Carrack_Move_3"
+	fileName "Dialog_ING_Carrack_Move_3.ogg"
+effect
+	name "Dialog_ING_Carrack_Move_4"
+	fileName "Dialog_ING_Carrack_Move_4.ogg"
+effect
+	name "Dialog_ING_Carrack_Select"
+	fileName "Dialog_ING_Carrack_Select.ogg"
+effect
+	name "Dialog_ING_Carrack_Select_2"
+	fileName "Dialog_ING_Carrack_Select_2.ogg"
+effect
+	name "Dialog_ING_Carrack_Select_3"
+	fileName "Dialog_ING_Carrack_Select_3.ogg"
+effect
+	name "Dialog_ING_EmpGenericJump"
+	fileName "Dialog_ING_EmpGenericJump.ogg"
+effect
+	name "Dialog_ING_Escort_Carrier_Built"
+	fileName "Dialog_ING_Escort_Carrier_Built.ogg"
+effect
+	name "Dialog_ING_Escort_Carrier_Jump"
+	fileName "Dialog_ING_Escort_Carrier_Jump.ogg"
+effect
+	name "Dialog_ING_Escort_Carrier_Move"
+	fileName "Dialog_ING_Escort_Carrier_Move.ogg"
+effect
+	name "Dialog_ING_Escort_Carrier_Move_2"
+	fileName "Dialog_ING_Escort_Carrier_Move_2.ogg"
+effect
+	name "Dialog_ING_Escort_Carrier_Move_3"
+	fileName "Dialog_ING_Escort_Carrier_Move_3.ogg"
+effect
+	name "Dialog_ING_Escort_Carrier_Select"
+	fileName "Dialog_ING_Escort_Carrier_Select.ogg"
+effect
+	name "Dialog_ING_Escort_Carrier_Select_2"
+	fileName "Dialog_ING_Escort_Carrier_Select_2.ogg"
+effect
+	name "Dialog_ING_Escort_Carrier_Select_3"
+	fileName "Dialog_ING_Escort_Carrier_Select_3.ogg"
+effect
+	name "Dialog_ING_Gladiator_Attack"
+	fileName "Dialog_ING_Gladiator_Attack.ogg"
+effect
+	name "Dialog_ING_Gladiator_Attack_2"
+	fileName "Dialog_ING_Gladiator_Attack_2.ogg"
+effect
+	name "Dialog_ING_Gladiator_Attack_3"
+	fileName "Dialog_ING_Gladiator_Attack_3.ogg"
+effect
+	name "Dialog_ING_Gladiator_Attack_4"
+	fileName "Dialog_ING_Gladiator_Attack_4.ogg"
+effect
+	name "Dialog_ING_Gladiator_Built"
+	fileName "Dialog_ING_Gladiator_Built.ogg"
+effect
+	name "Dialog_ING_Gladiator_Move"
+	fileName "Dialog_ING_Gladiator_Move.ogg"
+effect
+	name "Dialog_ING_Gladiator_Move_2"
+	fileName "Dialog_ING_Gladiator_Move_2.ogg"
+effect
+	name "Dialog_ING_Gladiator_Move_3"
+	fileName "Dialog_ING_Gladiator_Move_3.ogg"
+effect
+	name "Dialog_ING_Gladiator_Move_4"
+	fileName "Dialog_ING_Gladiator_Move_4.ogg"
+effect
+	name "Dialog_ING_Gladiator_Select"
+	fileName "Dialog_ING_Gladiator_Select.ogg"
+effect
+	name "Dialog_ING_Gladiator_Select_2"
+	fileName "Dialog_ING_Gladiator_Select_2.ogg"
+effect
+	name "Dialog_ING_Gladiator_Select_3"
+	fileName "Dialog_ING_Gladiator_Select_3.ogg"
+effect
+	name "Dialog_ING_Gladiator_Select_4"
+	fileName "Dialog_ING_Gladiator_Select_4.ogg"
+effect
+	name "Dialog_ING_Imperial_Scout_Attack"
+	fileName "Dialog_ING_Imperial_Scout_Attack.ogg"
+effect
+	name "Dialog_ING_Imperial_Scout_Attack_2"
+	fileName "Dialog_ING_Imperial_Scout_Attack_2.ogg"
+effect
+	name "Dialog_ING_Imperial_Scout_Attack_3"
+	fileName "Dialog_ING_Imperial_Scout_Attack_3.ogg"
+effect
+	name "Dialog_ING_Imperial_Scout_Attack_4"
+	fileName "Dialog_ING_Imperial_Scout_Attack_4.ogg"
+effect
+	name "Dialog_ING_Imperial_Scout_Jump"
+	fileName "Dialog_ING_Imperial_Scout_Jump.ogg"
+effect
+	name "Dialog_ING_Imperial_Scout_Move"
+	fileName "Dialog_ING_Imperial_Scout_Move.ogg"
+effect
+	name "Dialog_ING_Imperial_Scout_Move_2"
+	fileName "Dialog_ING_Imperial_Scout_Move_2.ogg"
+effect
+	name "Dialog_ING_Imperial_Scout_Move_3"
+	fileName "Dialog_ING_Imperial_Scout_Move_3.ogg"
+effect
+	name "Dialog_ING_Imperial_Scout_Select"
+	fileName "Dialog_ING_Imperial_Scout_Select.ogg"
+effect
+	name "Dialog_ING_Imperial_Scout_Select_2"
+	fileName "Dialog_ING_Imperial_Scout_Select_2.ogg"
+effect
+	name "Dialog_ING_Imperial_Scout_Select_3"
+	fileName "Dialog_ING_Imperial_Scout_Select_3.ogg"
+effect
+	name "Dialog_ING_Imperial_Scout_Select_4"
+	fileName "Dialog_ING_Imperial_Scout_Select_4.ogg"
+effect
+	name "Dialog_ING_Interdictor_Attack"
+	fileName "Dialog_ING_Interdictor_Attack.ogg"
+effect
+	name "Dialog_ING_Interdictor_Attack_2"
+	fileName "Dialog_ING_Interdictor_Attack_2.ogg"
+effect
+	name "Dialog_ING_Interdictor_Attack_3"
+	fileName "Dialog_ING_Interdictor_Attack_3.ogg"
+effect
+	name "Dialog_ING_Interdictor_Attack_4"
+	fileName "Dialog_ING_Interdictor_Attack_4.ogg"
+effect
+	name "Dialog_ING_Interdictor_Attack_5"
+	fileName "Dialog_ING_Interdictor_Attack_5.ogg"
+effect
+	name "Dialog_ING_Interdictor_Built"
+	fileName "Dialog_ING_Interdictor_Built.ogg"
+effect
+	name "Dialog_ING_Interdictor_Jump"
+	fileName "Dialog_ING_Interdictor_Jump.ogg"
+effect
+	name "Dialog_ING_Interdictor_Move"
+	fileName "Dialog_ING_Interdictor_Move.ogg"
+effect
+	name "Dialog_ING_Interdictor_Move_2"
+	fileName "Dialog_ING_Interdictor_Move_2.ogg"
+effect
+	name "Dialog_ING_Interdictor_Move_3"
+	fileName "Dialog_ING_Interdictor_Move_3.ogg"
+effect
+	name "Dialog_ING_Interdictor_SD_Attack_1"
+	fileName "Dialog_ING_Interdictor_SD_Attack_1.ogg"
+effect
+	name "Dialog_ING_Interdictor_SD_Attack_2"
+	fileName "Dialog_ING_Interdictor_SD_Attack_2.ogg"
+effect
+	name "Dialog_ING_Interdictor_SD_Attack_3"
+	fileName "Dialog_ING_Interdictor_SD_Attack_3.ogg"
+effect
+	name "Dialog_ING_Interdictor_SD_Attack_4"
+	fileName "Dialog_ING_Interdictor_SD_Attack_4.ogg"
+effect
+	name "Dialog_ING_Interdictor_SD_Built"
+	fileName "Dialog_ING_Interdictor_SD_Built.ogg"
+effect
+	name "Dialog_ING_Interdictor_SD_Move_1"
+	fileName "Dialog_ING_Interdictor_SD_Move_1.ogg"
+effect
+	name "Dialog_ING_Interdictor_SD_Move_2"
+	fileName "Dialog_ING_Interdictor_SD_Move_2.ogg"
+effect
+	name "Dialog_ING_Interdictor_SD_Move_3"
+	fileName "Dialog_ING_Interdictor_SD_Move_3.ogg"
+effect
+	name "Dialog_ING_Interdictor_SD_Move_4"
+	fileName "Dialog_ING_Interdictor_SD_Move_4.ogg"
+effect
+	name "Dialog_ING_Interdictor_SD_Select_1"
+	fileName "Dialog_ING_Interdictor_SD_Select_1.ogg"
+effect
+	name "Dialog_ING_Interdictor_SD_Select_2"
+	fileName "Dialog_ING_Interdictor_SD_Select_2.ogg"
+effect
+	name "Dialog_ING_Interdictor_SD_Select_3"
+	fileName "Dialog_ING_Interdictor_SD_Select_3.ogg"
+effect
+	name "Dialog_ING_Interdictor_SD_Select_4"
+	fileName "Dialog_ING_Interdictor_SD_Select_4.ogg"
+effect
+	name "Dialog_ING_Interdictor_Select"
+	fileName "Dialog_ING_Interdictor_Select.ogg"
+effect
+	name "Dialog_ING_Interdictor_Select_2"
+	fileName "Dialog_ING_Interdictor_Select_2.ogg"
+effect
+	name "Dialog_ING_Interdictor_Select_3"
+	fileName "Dialog_ING_Interdictor_Select_3.ogg"
+effect
+	name "Dialog_ING_Interdictor_Select_4"
+	fileName "Dialog_ING_Interdictor_Select_4.ogg"
+effect
+	name "Dialog_ING_ISD_Attack"
+	fileName "Dialog_ING_ISD_Attack.ogg"
+effect
+	name "Dialog_ING_ISD_Attack_2"
+	fileName "Dialog_ING_ISD_Attack_2.ogg"
+effect
+	name "Dialog_ING_ISD_Attack_3"
+	fileName "Dialog_ING_ISD_Attack_3.ogg"
+effect
+	name "Dialog_ING_ISD_Attack_4"
+	fileName "Dialog_ING_ISD_Attack_4.ogg"
+effect
+	name "Dialog_ING_ISD_Attack_5"
+	fileName "Dialog_ING_ISD_Attack_5.ogg"
+effect
+	name "Dialog_ING_ISD_Attack_6"
+	fileName "Dialog_ING_ISD_Attack_6.ogg"
+effect
+	name "Dialog_ING_ISD_Built"
+	fileName "Dialog_ING_ISD_Built.ogg"
+effect
+	name "Dialog_ING_ISD_Jump"
+	fileName "Dialog_ING_ISD_Jump.ogg"
+effect
+	name "Dialog_ING_ISD_Move"
+	fileName "Dialog_ING_ISD_Move.ogg"
+effect
+	name "Dialog_ING_ISD_Move_2"
+	fileName "Dialog_ING_ISD_Move_2.ogg"
+effect
+	name "Dialog_ING_ISD_Move_3"
+	fileName "Dialog_ING_ISD_Move_3.ogg"
+effect
+	name "Dialog_ING_ISD_Move_4"
+	fileName "Dialog_ING_ISD_Move_4.ogg"
+effect
+	name "Dialog_ING_ISD_Move_5"
+	fileName "Dialog_ING_ISD_Move_5.ogg"
+effect
+	name "Dialog_ING_ISD_Move_6"
+	fileName "Dialog_ING_ISD_Move_6.ogg"
+effect
+	name "Dialog_ING_ISD_Select"
+	fileName "Dialog_ING_ISD_Select.ogg"
+effect
+	name "Dialog_ING_ISD_Select_2"
+	fileName "Dialog_ING_ISD_Select_2.ogg"
+effect
+	name "Dialog_ING_ISD_Select_3"
+	fileName "Dialog_ING_ISD_Select_3.ogg"
+effect
+	name "Dialog_ING_ISD_Select_4"
+	fileName "Dialog_ING_ISD_Select_4.ogg"
+effect
+	name "Dialog_ING_ISD_Select_5"
+	fileName "Dialog_ING_ISD_Select_5.ogg"
+effect
+	name "Dialog_ING_ISD_Select_6"
+	fileName "Dialog_ING_ISD_Select_6.ogg"
+effect
+	name "Dialog_ING_Lambda_Built"
+	fileName "Dialog_ING_Lambda_Built.ogg"
+effect
+	name "Dialog_ING_Lambda_Move"
+	fileName "Dialog_ING_Lambda_Move.ogg"
+effect
+	name "Dialog_ING_Lambda_Move_2"
+	fileName "Dialog_ING_Lambda_Move_2.ogg"
+effect
+	name "Dialog_ING_Lambda_Move_3"
+	fileName "Dialog_ING_Lambda_Move_3.ogg"
+effect
+	name "Dialog_ING_Lambda_Move_4"
+	fileName "Dialog_ING_Lambda_Move_4.ogg"
+effect
+	name "Dialog_ING_Lambda_Select"
+	fileName "Dialog_ING_Lambda_Select.ogg"
+effect
+	name "Dialog_ING_Lambda_Select_2"
+	fileName "Dialog_ING_Lambda_Select_2.ogg"
+effect
+	name "Dialog_ING_Lambda_Select_3"
+	fileName "Dialog_ING_Lambda_Select_3.ogg"
+effect
+	name "Dialog_ING_Lambda_Select_4"
+	fileName "Dialog_ING_Lambda_Select_4.ogg"
+effect
+	name "Dialog_ING_Lancer_Attack"
+	fileName "Dialog_ING_Lancer_Attack.ogg"
+effect
+	name "Dialog_ING_Lancer_Attack_2"
+	fileName "Dialog_ING_Lancer_Attack_2.ogg"
+effect
+	name "Dialog_ING_Lancer_Attack_3"
+	fileName "Dialog_ING_Lancer_Attack_3.ogg"
+effect
+	name "Dialog_ING_Lancer_Attack_4"
+	fileName "Dialog_ING_Lancer_Attack_4.ogg"
+effect
+	name "Dialog_ING_Lancer_Built"
+	fileName "Dialog_ING_Lancer_Built.ogg"
+effect
+	name "Dialog_ING_Lancer_Jump"
+	fileName "Dialog_ING_Lancer_Jump.ogg"
+effect
+	name "Dialog_ING_Lancer_Move"
+	fileName "Dialog_ING_Lancer_Move.ogg"
+effect
+	name "Dialog_ING_Lancer_Move_2"
+	fileName "Dialog_ING_Lancer_Move_2.ogg"
+effect
+	name "Dialog_ING_Lancer_Move_3"
+	fileName "Dialog_ING_Lancer_Move_3.ogg"
+effect
+	name "Dialog_ING_Lancer_Select"
+	fileName "Dialog_ING_Lancer_Select.ogg"
+effect
+	name "Dialog_ING_Lancer_Select_2"
+	fileName "Dialog_ING_Lancer_Select_2.ogg"
+effect
+	name "Dialog_ING_Lancer_Select_3"
+	fileName "Dialog_ING_Lancer_Select_3.ogg"
+effect
+	name "Dialog_ING_Lancer_Select_4"
+	fileName "Dialog_ING_Lancer_Select_4.ogg"
+effect
+	name "Dialog_ING_Lancer_Select_5"
+	fileName "Dialog_ING_Lancer_Select_5.ogg"
+effect
+	name "Dialog_ING_Piett_Attack_1"
+	fileName "Dialog_ING_Piett_Attack_1.ogg"
+effect
+	name "Dialog_ING_Piett_Attack_2"
+	fileName "Dialog_ING_Piett_Attack_2.ogg"
+effect
+	name "Dialog_ING_Piett_Attack_3"
+	fileName "Dialog_ING_Piett_Attack_3.ogg"
+effect
+	name "Dialog_ING_Piett_Attack_4"
+	fileName "Dialog_ING_Piett_Attack_4.ogg"
+effect
+	name "Dialog_ING_Piett_Attack_5"
+	fileName "Dialog_ING_Piett_Attack_5.ogg"
+effect
+	name "Dialog_ING_Piett_Move_1"
+	fileName "Dialog_ING_Piett_Move_1.ogg"
+effect
+	name "Dialog_ING_Piett_Move_2"
+	fileName "Dialog_ING_Piett_Move_2.ogg"
+effect
+	name "Dialog_ING_Piett_Move_3"
+	fileName "Dialog_ING_Piett_Move_3.ogg"
+effect
+	name "Dialog_ING_Piett_Move_4"
+	fileName "Dialog_ING_Piett_Move_4.ogg"
+effect
+	name "Dialog_ING_Piett_Move_5"
+	fileName "Dialog_ING_Piett_Move_5.ogg"
+effect
+	name "Dialog_ING_Piett_Select_1"
+	fileName "Dialog_ING_Piett_Select_1.ogg"
+effect
+	name "Dialog_ING_Piett_Select_2"
+	fileName "Dialog_ING_Piett_Select_2.ogg"
+effect
+	name "Dialog_ING_Piett_Select_3"
+	fileName "Dialog_ING_Piett_Select_3.ogg"
+effect
+	name "Dialog_ING_Piett_Select_4"
+	fileName "Dialog_ING_Piett_Select_4.ogg"
+effect
+	name "Dialog_ING_Piett_Select_5"
+	fileName "Dialog_ING_Piett_Select_5.ogg"
+effect
+	name "Dialog_ING_Rogriss_Attack_1"
+	fileName "Dialog_ING_Rogriss_Attack_1.ogg"
+effect
+	name "Dialog_ING_Rogriss_Attack_2"
+	fileName "Dialog_ING_Rogriss_Attack_2.ogg"
+effect
+	name "Dialog_ING_Rogriss_Attack_3"
+	fileName "Dialog_ING_Rogriss_Attack_3.ogg"
+effect
+	name "Dialog_ING_Rogriss_Attack_4"
+	fileName "Dialog_ING_Rogriss_Attack_4.ogg"
+effect
+	name "Dialog_ING_Rogriss_Move_1"
+	fileName "Dialog_ING_Rogriss_Move_1.ogg"
+effect
+	name "Dialog_ING_Rogriss_Move_2"
+	fileName "Dialog_ING_Rogriss_Move_2.ogg"
+effect
+	name "Dialog_ING_Rogriss_Move_3"
+	fileName "Dialog_ING_Rogriss_Move_3.ogg"
+effect
+	name "Dialog_ING_Rogriss_Move_4"
+	fileName "Dialog_ING_Rogriss_Move_4.ogg"
+effect
+	name "Dialog_ING_Rogriss_Select_1"
+	fileName "Dialog_ING_Rogriss_Select_1.ogg"
+effect
+	name "Dialog_ING_Rogriss_Select_2"
+	fileName "Dialog_ING_Rogriss_Select_2.ogg"
+effect
+	name "Dialog_ING_Rogriss_Select_3"
+	fileName "Dialog_ING_Rogriss_Select_3.ogg"
+effect
+	name "Dialog_ING_Rogriss_Select_4"
+	fileName "Dialog_ING_Rogriss_Select_4.ogg"
+effect
+	name "Dialog_ING_Sentinel_Attack_1"
+	fileName "Dialog_ING_Sentinel_Attack_1.ogg"
+effect
+	name "Dialog_ING_Sentinel_Built"
+	fileName "Dialog_ING_Sentinel_Built.ogg"
+effect
+	name "Dialog_ING_Sentinel_Move_1"
+	fileName "Dialog_ING_Sentinel_Move_1.ogg"
+effect
+	name "Dialog_ING_Sentinel_Move_2"
+	fileName "Dialog_ING_Sentinel_Move_2.ogg"
+effect
+	name "Dialog_ING_Sentinel_Move_3"
+	fileName "Dialog_ING_Sentinel_Move_3.ogg"
+effect
+	name "Dialog_ING_Sentinel_Move_4"
+	fileName "Dialog_ING_Sentinel_Move_4.ogg"
+effect
+	name "Dialog_ING_Sentinel_Select_1"
+	fileName "Dialog_ING_Sentinel_Select_1.ogg"
+effect
+	name "Dialog_ING_Sentinel_Select_2"
+	fileName "Dialog_ING_Sentinel_Select_2.ogg"
+effect
+	name "Dialog_ING_Sentinel_Select_3"
+	fileName "Dialog_ING_Sentinel_Select_3.ogg"
+effect
+	name "Dialog_ING_Sentinel_Select_4"
+	fileName "Dialog_ING_Sentinel_Select_4.ogg"
+effect
+	name "Dialog_ING_Skipray_Attack_1"
+	fileName "Dialog_ING_Skipray_Attack_1.ogg"
+effect
+	name "Dialog_ING_Skipray_Attack_2"
+	fileName "Dialog_ING_Skipray_Attack_2.ogg"
+effect
+	name "Dialog_ING_Skipray_Attack_3"
+	fileName "Dialog_ING_Skipray_Attack_3.ogg"
+effect
+	name "Dialog_ING_Skipray_Attack_4"
+	fileName "Dialog_ING_Skipray_Attack_4.ogg"
+effect
+	name "Dialog_ING_Skipray_Built"
+	fileName "Dialog_ING_Skipray_Built.ogg"
+effect
+	name "Dialog_ING_Skipray_Move_1"
+	fileName "Dialog_ING_Skipray_Move_1.ogg"
+effect
+	name "Dialog_ING_Skipray_Move_2"
+	fileName "Dialog_ING_Skipray_Move_2.ogg"
+effect
+	name "Dialog_ING_Skipray_Move_3"
+	fileName "Dialog_ING_Skipray_Move_3.ogg"
+effect
+	name "Dialog_ING_Skipray_Move_4"
+	fileName "Dialog_ING_Skipray_Move_4.ogg"
+effect
+	name "Dialog_ING_Skipray_Select_1"
+	fileName "Dialog_ING_Skipray_Select_1.ogg"
+effect
+	name "Dialog_ING_Skipray_Select_2"
+	fileName "Dialog_ING_Skipray_Select_2.ogg"
+effect
+	name "Dialog_ING_Skipray_Select_3"
+	fileName "Dialog_ING_Skipray_Select_3.ogg"
+effect
+	name "Dialog_ING_Skipray_Select_4"
+	fileName "Dialog_ING_Skipray_Select_4.ogg"
+effect
+	name "Dialog_ING_Strike_Cruiser_Attack"
+	fileName "Dialog_ING_Strike_Cruiser_Attack.ogg"
+effect
+	name "Dialog_ING_Strike_Cruiser_Attack_2"
+	fileName "Dialog_ING_Strike_Cruiser_Attack_2.ogg"
+effect
+	name "Dialog_ING_Strike_Cruiser_Attack_3"
+	fileName "Dialog_ING_Strike_Cruiser_Attack_3.ogg"
+effect
+	name "Dialog_ING_Strike_Cruiser_Attack_4"
+	fileName "Dialog_ING_Strike_Cruiser_Attack_4.ogg"
+effect
+	name "Dialog_ING_Strike_Cruiser_Jump"
+	fileName "Dialog_ING_Strike_Cruiser_Jump.ogg"
+effect
+	name "Dialog_ING_Strike_Cruiser_Move"
+	fileName "Dialog_ING_Strike_Cruiser_Move.ogg"
+effect
+	name "Dialog_ING_Strike_Cruiser_Move_2"
+	fileName "Dialog_ING_Strike_Cruiser_Move_2.ogg"
+effect
+	name "Dialog_ING_Strike_Cruiser_Move_3"
+	fileName "Dialog_ING_Strike_Cruiser_Move_3.ogg"
+effect
+	name "Dialog_ING_Strike_Cruiser_Select"
+	fileName "Dialog_ING_Strike_Cruiser_Select.ogg"
+effect
+	name "Dialog_ING_Strike_Cruiser_Select_2"
+	fileName "Dialog_ING_Strike_Cruiser_Select_2.ogg"
+effect
+	name "Dialog_ING_Strike_Cruiser_Select_3"
+	fileName "Dialog_ING_Strike_Cruiser_Select_3.ogg"
+effect
+	name "Dialog_ING_Strike_Cruiser_Select_4"
+	fileName "Dialog_ING_Strike_Cruiser_Select_4.ogg"
+effect
+	name "Dialog_ING_Strike_Cruiser_Select_5"
+	fileName "Dialog_ING_Strike_Cruiser_Select_5.ogg"
+effect
+	name "Dialog_ING_Tector_Attack_1"
+	fileName "Dialog_ING_Tector_Attack_1.ogg"
+effect
+	name "Dialog_ING_Tector_Attack_2"
+	fileName "Dialog_ING_Tector_Attack_2.ogg"
+effect
+	name "Dialog_ING_Tector_Attack_3"
+	fileName "Dialog_ING_Tector_Attack_3.ogg"
+effect
+	name "Dialog_ING_Tector_Attack_4"
+	fileName "Dialog_ING_Tector_Attack_4.ogg"
+effect
+	name "Dialog_ING_Tector_Attack_5"
+	fileName "Dialog_ING_Tector_Attack_5.ogg"
+effect
+	name "Dialog_ING_Tector_Built"
+	fileName "Dialog_ING_Tector_Built.ogg"
+effect
+	name "Dialog_ING_Tector_Jump"
+	fileName "Dialog_ING_Tector_Jump.ogg"
+effect
+	name "Dialog_ING_Tector_Move_1"
+	fileName "Dialog_ING_Tector_Move_1.ogg"
+effect
+	name "Dialog_ING_Tector_Move_2"
+	fileName "Dialog_ING_Tector_Move_2.ogg"
+effect
+	name "Dialog_ING_Tector_Move_3"
+	fileName "Dialog_ING_Tector_Move_3.ogg"
+effect
+	name "Dialog_ING_Tector_Move_4"
+	fileName "Dialog_ING_Tector_Move_4.ogg"
+effect
+	name "Dialog_ING_Tector_Move_5"
+	fileName "Dialog_ING_Tector_Move_5.ogg"
+effect
+	name "Dialog_ING_Tector_Select_1"
+	fileName "Dialog_ING_Tector_Select_1.ogg"
+effect
+	name "Dialog_ING_Tector_Select_2"
+	fileName "Dialog_ING_Tector_Select_2.ogg"
+effect
+	name "Dialog_ING_Tector_Select_3"
+	fileName "Dialog_ING_Tector_Select_3.ogg"
+effect
+	name "Dialog_ING_Tector_Select_4"
+	fileName "Dialog_ING_Tector_Select_4.ogg"
+effect
+	name "Dialog_ING_Thrawn_Attack_1"
+	fileName "Dialog_ING_Thrawn_Attack_1.ogg"
+effect
+	name "Dialog_ING_Thrawn_Attack_2"
+	fileName "Dialog_ING_Thrawn_Attack_2.ogg"
+effect
+	name "Dialog_ING_Thrawn_Attack_3"
+	fileName "Dialog_ING_Thrawn_Attack_3.ogg"
+effect
+	name "Dialog_ING_Thrawn_Attack_4"
+	fileName "Dialog_ING_Thrawn_Attack_4.ogg"
+effect
+	name "Dialog_ING_Thrawn_Attack_5"
+	fileName "Dialog_ING_Thrawn_Attack_5.ogg"
+effect
+	name "Dialog_ING_Thrawn_Attack_6"
+	fileName "Dialog_ING_Thrawn_Attack_6.ogg"
+effect
+	name "Dialog_ING_Thrawn_Move_1"
+	fileName "Dialog_ING_Thrawn_Move_1.ogg"
+effect
+	name "Dialog_ING_Thrawn_Move_2"
+	fileName "Dialog_ING_Thrawn_Move_2.ogg"
+effect
+	name "Dialog_ING_Thrawn_Move_3"
+	fileName "Dialog_ING_Thrawn_Move_3.ogg"
+effect
+	name "Dialog_ING_Thrawn_Move_4"
+	fileName "Dialog_ING_Thrawn_Move_4.ogg"
+effect
+	name "Dialog_ING_Thrawn_Select_1"
+	fileName "Dialog_ING_Thrawn_Select_1.ogg"
+effect
+	name "Dialog_ING_Thrawn_Select_2"
+	fileName "Dialog_ING_Thrawn_Select_2.ogg"
+effect
+	name "Dialog_ING_Thrawn_Select_3"
+	fileName "Dialog_ING_Thrawn_Select_3.ogg"
+effect
+	name "Dialog_ING_Thrawn_Select_4"
+	fileName "Dialog_ING_Thrawn_Select_4.ogg"
+effect
+	name "Dialog_ING_Thrawn_Select_5"
+	fileName "Dialog_ING_Thrawn_Select_5.ogg"
+effect
+	name "Dialog_ING_TIE_Bomber_Attack"
+	fileName "Dialog_ING_TIE_Bomber_Attack.ogg"
+effect
+	name "Dialog_ING_TIE_Bomber_Attack_2"
+	fileName "Dialog_ING_TIE_Bomber_Attack_2.ogg"
+effect
+	name "Dialog_ING_TIE_Bomber_Attack_3"
+	fileName "Dialog_ING_TIE_Bomber_Attack_3.ogg"
+effect
+	name "Dialog_ING_TIE_Bomber_Attack_4"
+	fileName "Dialog_ING_TIE_Bomber_Attack_4.ogg"
+effect
+	name "Dialog_ING_TIE_Bomber_Move"
+	fileName "Dialog_ING_TIE_Bomber_Move.ogg"
+effect
+	name "Dialog_ING_TIE_Bomber_Move_2"
+	fileName "Dialog_ING_TIE_Bomber_Move_2.ogg"
+effect
+	name "Dialog_ING_TIE_Bomber_Move_3"
+	fileName "Dialog_ING_TIE_Bomber_Move_3.ogg"
+effect
+	name "Dialog_ING_TIE_Bomber_Select"
+	fileName "Dialog_ING_TIE_Bomber_Select.ogg"
+effect
+	name "Dialog_ING_TIE_Bomber_Select_2"
+	fileName "Dialog_ING_TIE_Bomber_Select_2.ogg"
+effect
+	name "Dialog_ING_TIE_Bomber_Select_3"
+	fileName "Dialog_ING_TIE_Bomber_Select_3.ogg"
+effect
+	name "Dialog_ING_TIE_Bomber_Select_4"
+	fileName "Dialog_ING_TIE_Bomber_Select_4.ogg"
+effect
+	name "Dialog_ING_TIE_Defender_Attack_1"
+	fileName "Dialog_ING_TIE_Defender_Attack_1.ogg"
+effect
+	name "Dialog_ING_TIE_Defender_Attack_2"
+	fileName "Dialog_ING_TIE_Defender_Attack_2.ogg"
+effect
+	name "Dialog_ING_TIE_Defender_Attack_3"
+	fileName "Dialog_ING_TIE_Defender_Attack_3.ogg"
+effect
+	name "Dialog_ING_TIE_Defender_Attack_4"
+	fileName "Dialog_ING_TIE_Defender_Attack_4.ogg"
+effect
+	name "Dialog_ING_TIE_Defender_Move_1"
+	fileName "Dialog_ING_TIE_Defender_Move_1.ogg"
+effect
+	name "Dialog_ING_TIE_Defender_Move_2"
+	fileName "Dialog_ING_TIE_Defender_Move_2.ogg"
+effect
+	name "Dialog_ING_TIE_Defender_Move_3"
+	fileName "Dialog_ING_TIE_Defender_Move_3.ogg"
+effect
+	name "Dialog_ING_TIE_Defender_Move_4"
+	fileName "Dialog_ING_TIE_Defender_Move_4.ogg"
+effect
+	name "Dialog_ING_TIE_Defender_Select_1"
+	fileName "Dialog_ING_TIE_Defender_Select_1.ogg"
+effect
+	name "Dialog_ING_TIE_Defender_Select_2"
+	fileName "Dialog_ING_TIE_Defender_Select_2.ogg"
+effect
+	name "Dialog_ING_TIE_Defender_Select_3"
+	fileName "Dialog_ING_TIE_Defender_Select_3.ogg"
+effect
+	name "Dialog_ING_TIE_Defender_Select_4"
+	fileName "Dialog_ING_TIE_Defender_Select_4.ogg"
+effect
+	name "Dialog_ING_TIE_Fighter_Attack"
+	fileName "Dialog_ING_TIE_Fighter_Attack.ogg"
+effect
+	name "Dialog_ING_TIE_Fighter_Attack_2"
+	fileName "Dialog_ING_TIE_Fighter_Attack_2.ogg"
+effect
+	name "Dialog_ING_TIE_Fighter_Attack_3"
+	fileName "Dialog_ING_TIE_Fighter_Attack_3.ogg"
+effect
+	name "Dialog_ING_TIE_Fighter_Attack_4"
+	fileName "Dialog_ING_TIE_Fighter_Attack_4.ogg"
+effect
+	name "Dialog_ING_TIE_Fighter_Move"
+	fileName "Dialog_ING_TIE_Fighter_Move.ogg"
+effect
+	name "Dialog_ING_TIE_Fighter_Move_2"
+	fileName "Dialog_ING_TIE_Fighter_Move_2.ogg"
+effect
+	name "Dialog_ING_TIE_Fighter_Move_3"
+	fileName "Dialog_ING_TIE_Fighter_Move_3.ogg"
+effect
+	name "Dialog_ING_TIE_Fighter_Move_4"
+	fileName "Dialog_ING_TIE_Fighter_Move_4.ogg"
+effect
+	name "Dialog_ING_TIE_Fighter_Select"
+	fileName "Dialog_ING_TIE_Fighter_Select.ogg"
+effect
+	name "Dialog_ING_TIE_Fighter_Select_2"
+	fileName "Dialog_ING_TIE_Fighter_Select_2.ogg"
+effect
+	name "Dialog_ING_TIE_Fighter_Select_3"
+	fileName "Dialog_ING_TIE_Fighter_Select_3.ogg"
+effect
+	name "Dialog_ING_TIE_Fighter_Select_4"
+	fileName "Dialog_ING_TIE_Fighter_Select_4.ogg"
+effect
+	name "Dialog_ING_TIE_Interceptor_Attack"
+	fileName "Dialog_ING_TIE_Interceptor_Attack.ogg"
+effect
+	name "Dialog_ING_TIE_Interceptor_Attack_2"
+	fileName "Dialog_ING_TIE_Interceptor_Attack_2.ogg"
+effect
+	name "Dialog_ING_TIE_Interceptor_Attack_3"
+	fileName "Dialog_ING_TIE_Interceptor_Attack_3.ogg"
+effect
+	name "Dialog_ING_TIE_Interceptor_Attack_4"
+	fileName "Dialog_ING_TIE_Interceptor_Attack_4.ogg"
+effect
+	name "Dialog_ING_TIE_Interceptor_Move"
+	fileName "Dialog_ING_TIE_Interceptor_Move.ogg"
+effect
+	name "Dialog_ING_TIE_Interceptor_Move_2"
+	fileName "Dialog_ING_TIE_Interceptor_Move_2.ogg"
+effect
+	name "Dialog_ING_TIE_Interceptor_Move_3"
+	fileName "Dialog_ING_TIE_Interceptor_Move_3.ogg"
+effect
+	name "Dialog_ING_TIE_Interceptor_Select"
+	fileName "Dialog_ING_TIE_Interceptor_Select.ogg"
+effect
+	name "Dialog_ING_TIE_Interceptor_Select_2"
+	fileName "Dialog_ING_TIE_Interceptor_Select_2.ogg"
+effect
+	name "Dialog_ING_TIE_Interceptor_Select_3"
+	fileName "Dialog_ING_TIE_Interceptor_Select_3.ogg"
+effect
+	name "Dialog_ING_Vader_Attack_1"
+	fileName "Dialog_ING_Vader_Attack_1.ogg"
+effect
+	name "Dialog_ING_Vader_Attack_2"
+	fileName "Dialog_ING_Vader_Attack_2.ogg"
+effect
+	name "Dialog_ING_Vader_Attack_3"
+	fileName "Dialog_ING_Vader_Attack_3.ogg"
+effect
+	name "Dialog_ING_Vader_Attack_4"
+	fileName "Dialog_ING_Vader_Attack_4.ogg"
+effect
+	name "Dialog_ING_Vader_Attack_5"
+	fileName "Dialog_ING_Vader_Attack_5.ogg"
+effect
+	name "Dialog_ING_Vader_Attack_6"
+	fileName "Dialog_ING_Vader_Attack_6.ogg"
+effect
+	name "Dialog_ING_Vader_Built"
+	fileName "Dialog_ING_Vader_Built.ogg"
+effect
+	name "Dialog_ING_Vader_Jump"
+	fileName "Dialog_ING_Vader_Jump.ogg"
+effect
+	name "Dialog_ING_Vader_Move_1"
+	fileName "Dialog_ING_Vader_Move_1.ogg"
+effect
+	name "Dialog_ING_Vader_Move_2"
+	fileName "Dialog_ING_Vader_Move_2.ogg"
+effect
+	name "Dialog_ING_Vader_Move_3"
+	fileName "Dialog_ING_Vader_Move_3.ogg"
+effect
+	name "Dialog_ING_Vader_Move_4"
+	fileName "Dialog_ING_Vader_Move_4.ogg"
+effect
+	name "Dialog_ING_Vader_Select_1"
+	fileName "Dialog_ING_Vader_Select_1.ogg"
+effect
+	name "Dialog_ING_Vader_Select_2"
+	fileName "Dialog_ING_Vader_Select_2.ogg"
+effect
+	name "Dialog_ING_Vader_Select_3"
+	fileName "Dialog_ING_Vader_Select_3.ogg"
+effect
+	name "Dialog_ING_Vader_Select_4"
+	fileName "Dialog_ING_Vader_Select_4.ogg"
+effect
+	name "Dialog_ING_Vader_Select_5"
+	fileName "Dialog_ING_Vader_Select_5.ogg"
+effect
+	name "Dialog_ING_Vader_Select_6"
+	fileName "Dialog_ING_Vader_Select_6.ogg"
+effect
+	name "Dialog_ING_Vindicator_Attack_1"
+	fileName "Dialog_ING_Vindicator_Attack_1.ogg"
+effect
+	name "Dialog_ING_Vindicator_Attack_2"
+	fileName "Dialog_ING_Vindicator_Attack_2.ogg"
+effect
+	name "Dialog_ING_Vindicator_Attack_3"
+	fileName "Dialog_ING_Vindicator_Attack_3.ogg"
+effect
+	name "Dialog_ING_Vindicator_Attack_4"
+	fileName "Dialog_ING_Vindicator_Attack_4.ogg"
+effect
+	name "Dialog_ING_Vindicator_Built"
+	fileName "Dialog_ING_Vindicator_Built.ogg"
+effect
+	name "Dialog_ING_Vindicator_Move_1"
+	fileName "Dialog_ING_Vindicator_Move_1.ogg"
+effect
+	name "Dialog_ING_Vindicator_Move_2"
+	fileName "Dialog_ING_Vindicator_Move_2.ogg"
+effect
+	name "Dialog_ING_Vindicator_Move_3"
+	fileName "Dialog_ING_Vindicator_Move_3.ogg"
+effect
+	name "Dialog_ING_Vindicator_Move_4"
+	fileName "Dialog_ING_Vindicator_Move_4.ogg"
+effect
+	name "Dialog_ING_Vindicator_Select_1"
+	fileName "Dialog_ING_Vindicator_Select_1.ogg"
+effect
+	name "Dialog_ING_Vindicator_Select_2"
+	fileName "Dialog_ING_Vindicator_Select_2.ogg"
+effect
+	name "Dialog_ING_Vindicator_Select_3"
+	fileName "Dialog_ING_Vindicator_Select_3.ogg"
+effect
+	name "Dialog_ING_Vindicator_Select_4"
+	fileName "Dialog_ING_Vindicator_Select_4.ogg"
+effect
+	name "Dialog_ING_VSD_Attack"
+	fileName "Dialog_ING_VSD_Attack.ogg"
+effect
+	name "Dialog_ING_VSD_Attack_2"
+	fileName "Dialog_ING_VSD_Attack_2.ogg"
+effect
+	name "Dialog_ING_VSD_Attack_3"
+	fileName "Dialog_ING_VSD_Attack_3.ogg"
+effect
+	name "Dialog_ING_VSD_Attack_4"
+	fileName "Dialog_ING_VSD_Attack_4.ogg"
+effect
+	name "Dialog_ING_VSD_Attack_5"
+	fileName "Dialog_ING_VSD_Attack_5.ogg"
+effect
+	name "Dialog_ING_VSD_Attack_6"
+	fileName "Dialog_ING_VSD_Attack_6.ogg"
+effect
+	name "Dialog_ING_VSD_Attack_7"
+	fileName "Dialog_ING_VSD_Attack_7.ogg"
+effect
+	name "Dialog_ING_VSD_Jump"
+	fileName "Dialog_ING_VSD_Jump.ogg"
+effect
+	name "Dialog_ING_VSD_Move"
+	fileName "Dialog_ING_VSD_Move.ogg"
+effect
+	name "Dialog_ING_VSD_Move_2"
+	fileName "Dialog_ING_VSD_Move_2.ogg"
+effect
+	name "Dialog_ING_VSD_Move_3"
+	fileName "Dialog_ING_VSD_Move_3.ogg"
+effect
+	name "Dialog_ING_VSD_Move_4"
+	fileName "Dialog_ING_VSD_Move_4.ogg"
+effect
+	name "Dialog_ING_VSD_Move_5"
+	fileName "Dialog_ING_VSD_Move_5.ogg"
+effect
+	name "Dialog_ING_VSD_Move_6"
+	fileName "Dialog_ING_VSD_Move_6.ogg"
+effect
+	name "Dialog_ING_VSD_Move_7"
+	fileName "Dialog_ING_VSD_Move_7.ogg"
+effect
+	name "Dialog_ING_VSD_Select"
+	fileName "Dialog_ING_VSD_Select.ogg"
+effect
+	name "Dialog_ING_VSD_Select_2"
+	fileName "Dialog_ING_VSD_Select_2.ogg"
+effect
+	name "Dialog_ING_VSD_Select_3"
+	fileName "Dialog_ING_VSD_Select_3.ogg"
+effect
+	name "Dialog_ING_VSD_Select_4"
+	fileName "Dialog_ING_VSD_Select_4.ogg"
+effect
+	name "Dialog_ING_VSD_Select_5"
+	fileName "Dialog_ING_VSD_Select_5.ogg"
+effect
+	name "Dialog_ING_VSD_Select_6"
+	fileName "Dialog_ING_VSD_Select_6.ogg"

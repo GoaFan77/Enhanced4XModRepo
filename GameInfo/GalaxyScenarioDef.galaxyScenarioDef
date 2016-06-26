@@ -80,7 +80,7 @@ starType
 	designStringId "IDSGalaxyScenarioTypeStarPulsar"
 	orbitBodyTypeCount 1
 	orbitBodyType "PulsarStar"
-planetTypeCount 101
+planetTypeCount 103
 planetType
 	designName "WeightedNonIce"
 	designStringId "IDSGalaxyScenarioTypePlanetWeightedNonIce"
@@ -1148,6 +1148,16 @@ planetType
 	designStringId "IDS_PLANETTYPE_URBAN"
 	orbitBodyTypeCount 1
 	orbitBodyType "UrbanFair"		
+planetType
+	designName "Barren"
+	designStringId "IDS_PLANETTYPE_NOATMOS"
+	orbitBodyTypeCount 1	
+	orbitBodyType "LowAtmosphere"		
+planetType
+	designName "BarrenFair"
+	designStringId "IDS_PLANETTYPE_NOATMOS"
+	orbitBodyTypeCount 1	
+	orbitBodyType "LowAtmosphereFair"		
 orbitBodyTypeCount 90
 orbitBodyType
 	typeName "BlueStar"
