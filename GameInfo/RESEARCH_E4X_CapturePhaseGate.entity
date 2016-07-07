@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCH_E4X_CapturePhaseGate_NAME"
 DescriptionStringID "IDS_RESEARCH_E4X_CapturePhaseGate_DESC"
 researchWindowLocation
 	block 1
-	pos [ 7 , 2 ]
+	pos [ 99 , 2 ]
 ResearchField "NonCombat"
 Prerequisites
 	NumResearchPrerequisites 0
@@ -17,9 +17,9 @@ MinimumArtifactLevel -1
 BaseUpgradeTime 500.000000
 PerLevelUpgradeTime 10.000000
 BaseCost
-	credits 5000.000000
-	metal 1000.000000
-	crystal 1500.000000
+	credits 999999.000000
+	metal 999999.000000
+	crystal 999999.000000
 PerLevelCostIncrease
 	credits 100.000000
 	metal 25.000000
@@ -32,4 +32,4 @@ researchBoolModifiers 0
 researchFloatModifiers 0
 artifactPicture ""
 uniqueOverlayBrush "HeroResearchOverlay"
-dlcId 100000
+dlcId 487289

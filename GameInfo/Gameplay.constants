@@ -444,13 +444,13 @@ GameplayConstants
 		maxSupply 10000
 		strengthPerOwnedPlanet .02
 		strengthPerCargoShip .003
-		strengthPerBounty .00085
-		firstWarningTime 900
-		normalWarningTime 780
+		strengthPerBounty .00040
+		firstWarningTime 1200
+		normalWarningTime 900
 		minSendRaidTime 30
 		maxSendRaidTime 90
 		pirateQuestCooldownTime 300
-		minQuestCredits 500
+		minQuestCredits 1000
 		maxQuestCredits 40000
 		maxNumUpgradesPerRaid 2
 		juicyPlanetModuleThreshold 2
@@ -563,15 +563,15 @@ GameplayConstants
 				maxCount 1
 			randomShipCount 0
 		fleetStrengthLevel:Weak 0
-		fleetStrengthLevel:Moderate 1500
-		fleetStrengthLevel:Strong 4000
-		fleetStrengthLevel:Massive 10000
-		fleetStrengthLevel:Overwhelming 20000
+		fleetStrengthLevel:Moderate 4000
+		fleetStrengthLevel:Strong 8000
+		fleetStrengthLevel:Massive 16000
+		fleetStrengthLevel:Overwhelming 32000
 		raidCost:0 1600
 		raidCost:1 3200
-		raidCost:2 6600
-		raidCost:3 10100
-		raidCost:4 13600
+		raidCost:2 7500
+		raidCost:3 15000
+		raidCost:4 30000
 	buildSpeedData-Slow
 		shipBuildRateGameSpeedScalar 0.0
 		moduleBuildRateGameSpeedScalar 0.0
@@ -1016,19 +1016,19 @@ GameplayConstants
 			randomShip
 				type "CorvetteTECHRebel"
 				weight 2
-		baseFleetCapacity 20.0
-		maxFleetSupplyPerPlanetPopulation .025
+		baseFleetCapacity 10.0
+		maxFleetSupplyPerPlanetPopulation .020
 		fleetSupplyMin 100.0
 		fleetSupplyMax 1000.0
 		fleetSupplyScalarAtMinFleetSupply 1.0
 		fleetSupplyScalarAtMaxFleetSupply 3.75
-		timeBetweenSpawnShipsAtMinFleetSupply 600.0
-		timeBetweenSpawnShipsAtMaxFleetSupply 240.0
-		timeBetweenSpawnShipsVariancePercent .25
-		planetsAtMinFleetSupplyScalar 15
+		timeBetweenSpawnShipsAtMinFleetSupply 1080.0
+		timeBetweenSpawnShipsAtMaxFleetSupply 360.0
+		timeBetweenSpawnShipsVariancePercent .20
+		planetsAtMinFleetSupplyScalar 25
 		planetsAtMaxFleetSupplyScalar 100
 		minPlanetsFleetSupplyScalar 1		
 		maxPlanetsFleetSupplyScalar .15
-		pirateBountyBonusScalar 1.25
-		pirateRaidRaidTimeScalar .85
+		pirateBountyBonusScalar 1.0
+		pirateRaidRaidTimeScalar 1.0
 		
