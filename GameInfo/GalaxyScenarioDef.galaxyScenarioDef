@@ -4470,8 +4470,8 @@ player
 	startingMetal 5000
 	startingCrystal 1000
 	isNormalPlayer FALSE
-	isRaidingPlayer FALSE
-	isInsurgentPlayer TRUE
+	isRaidingPlayer TRUE
+	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
 	isMadVasariPlayer FALSE
 	themeGroup "NPC"
@@ -4487,8 +4487,8 @@ player
 	startingMetal 5000
 	startingCrystal 1000
 	isNormalPlayer FALSE
-	isRaidingPlayer FALSE
-	isInsurgentPlayer TRUE
+	isRaidingPlayer TRUE
+	isInsurgentPlayer FALSE
 	isOccupationPlayer FALSE
 	isMadVasariPlayer FALSE
 	themeGroup "NPC"

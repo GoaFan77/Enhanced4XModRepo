@@ -423,7 +423,7 @@ planetUpgradeDef
 			smugglingPercent 0.045			
 ringsChance 0.050000
 isColonizable TRUE
-planetTypeForResearch "Iron"
+planetTypeForResearch "Asteroid"
 skyboxScalarsCount 5
 skyboxScalars
 	diffuseScalar 1.000000
