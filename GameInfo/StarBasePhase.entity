@@ -1,11 +1,11 @@
 ﻿TXT
 entityType "StarBase"
-ability:0 "Ability_E4X_ResupplyLoyals"
-ability:1 "AbilitySelfDestruct"
-ability:2 ""
-ability:3 "AbilityDestabilizeHyperspacePhase"
-ability:4 ""
-defaultAutoAttackRange "None"
+ability:0 "AbilityDirectionalShield"
+ability:1 "AbilityDebrisVacuum"
+ability:2 "AbilityPhaseGateStarBase"
+ability:3 "AbilityDestabilizeHyperspace"
+ability:4 "AbilityPhaseStarbaseSameOrbitbodyDebuff"
+defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
 prefersToFocusFire TRUE
 usesFighterAttack FALSE
@@ -13,98 +13,90 @@ numRandomDebrisLarge 12
 numRandomDebrisSmall 24
 numSpecificDebris 0
 armorType "Module"
-hudIcon "HUDICON_STARBASE_TECH"
-smallHudIcon "HUDICONSMALL_STARBASE_TECH"
-infoCardIcon "INFOCARDICON_STARBASE_TECH"
-minZoomDistanceMult 2.000000
+hudIcon "HUDICON_STARBASE_PHASE"
+smallHudIcon "HUDICONSMALL_STARBASE_PHASE"
+infoCardIcon "INFOCARDICON_STARBASE_PHASE"
+minZoomDistanceMult 1.500000
 NumWeapons 3
 Weapon
 	WeaponType "Projectile"
 	damageEnums
-		AttackType "CAPITALSHIP"
+		AttackType "ANTIHEAVY"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
 		DamageType "ENERGY"
-		WeaponClassType "LASERTECH"
-	DamagePerBank:FRONT 146.000000
-	DamagePerBank:BACK 146.000000
-	DamagePerBank:LEFT 146.000000
-	DamagePerBank:RIGHT 146.000000
+		WeaponClassType "PULSEGUN"
+	DamagePerBank:FRONT 186.000000
+	DamagePerBank:BACK 186.000000
+	DamagePerBank:LEFT 186.000000
+	DamagePerBank:RIGHT 186.000000
 	Range 8000.000000
 	PreBuffCooldownTime 5.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
-	PointStaggerDelay 0.150000
-	TravelSpeed 4000.000000
+	PointStaggerDelay 0.200000
+	TravelSpeed 3000.000000
 	Duration 0.000000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Projectile"
-		burstCount 5
+		burstCount 3
 		burstDelay 0.350000
 		fireDelay 0.000000
-		muzzleEffectName "Weapon_Tech_StarbaseLaser_Muzzle"
-		muzzleSoundMinRespawnTime 0.300000
+		muzzleEffectName "Weapon_PhaseCapitalPulseGunHeavy_Muzzle"
+		muzzleSoundMinRespawnTime 1.000000
 		muzzleSounds
-			soundCount 3
-			sound "WEAPON_TECHCAPITALLASERMEDIUM_MUZZLE"
-			sound "WEAPON_TECHCAPITALLASERMEDIUM_MUZZLE_ALT1"
-			sound "WEAPON_TECHCAPITALLASERMEDIUM_MUZZLE_ALT2"
-		hitEffectName "Weapon_Tech_StarbaseLaser_Hit"
+			soundCount 2
+			sound "WEAPON_PHASECAPITALPULSEGUNHEAVY_MUZZLE"
+			sound "WEAPON_PHASECAPITALPULSEGUNHEAVY_MUZZLE_ALT1"
+		hitEffectName "Weapon_PhaseCapitalPulseGunHeavy_Hit"
 		hitHullEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_ENERGYMEDIUM_HITHULL"
+			sound "WEAPONIMPACT_ENERGYHEAVY_HITHULL"
 		hitShieldsEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_GENERICMEDIUM_HITSHIELDS"
-		projectileTravelEffectName "Weapon_Tech_StarbaseLaser_Travel"
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_PhaseCapitalPulseGunHeavy_Travel"
 Weapon
-	WeaponType "Beam"
+	WeaponType "Projectile"
 	damageEnums
-		AttackType "CAPITALSHIP"
+		AttackType "ANTIMODULE"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "OVERTIME"
 		DamageType "ENERGY"
-		WeaponClassType "BEAM"
-	DamagePerBank:FRONT 256.000000
-	DamagePerBank:BACK 256.000000
-	DamagePerBank:LEFT 256.000000
-	DamagePerBank:RIGHT 256.000000
-	Range 6500.000000
-	PreBuffCooldownTime 8.000000
+		WeaponClassType "CHAOSBOLT"
+	DamagePerBank:FRONT 164.000000
+	DamagePerBank:BACK 164.000000
+	DamagePerBank:LEFT 164.000000
+	DamagePerBank:RIGHT 164.000000
+	Range 6000.000000
+	PreBuffCooldownTime 9.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting TRUE
-	PointStaggerDelay 0.250000
-	TravelSpeed 0.000000
-	Duration 4.000000
+	PointStaggerDelay 0.900000
+	TravelSpeed 1300.000000
+	Duration 0.000000
 	fireConstraintType "StarBaseUpgradeLevel"
 	requiredStarBaseWeaponLevel 1
 	WeaponEffects
-		weaponType "Beam"
-		burstCount 1
-		burstDelay 0.000000
+		weaponType "Projectile"
+		burstCount 10
+		burstDelay 0.100000
 		fireDelay 0.000000
-		muzzleEffectName "Weapon_Tech_StarbaseBeam_Muzzle"
-		muzzleSoundMinRespawnTime 0.100000
+		muzzleEffectName "Weapon_PhaseStarBaseChaosBolt_Muzzle"
+		muzzleSoundMinRespawnTime 0.300000
 		muzzleSounds
-			soundCount 1
-			sound ""
-		hitEffectName "Weapon_Tech_StarbaseBeam_Hit"
+			soundCount 2
+			sound "WEAPON_PHASECAPITALCHAOSBOLT_MUZZLE_ALT1"
+			sound "WEAPON_PHASECAPITALCHAOSBOLT_MUZZLE"
+		hitEffectName "Weapon_PhaseStarBaseChaosBolt_Hit"
 		hitHullEffectSounds
 			soundCount 1
-			sound ""
+			sound "WEAPONIMPACT_ENERGYHEAVY_HITHULL"
 		hitShieldsEffectSounds
 			soundCount 1
-			sound ""
-		beamEffectSounds
-			soundCount 1
-			sound "WEAPON_TECHSTARBASEBEAMHEAVY_TRAVEL"
-		beamGlowTextureName "TechStarBaseBeam_Glow"
-		beamCoreTextureName "TechStarBaseBeam_Core"
-		beamWidth 80.000000
-		beamGlowColor ffffffff
-		beamCoreColor ffffffff
-		beamTilingRate 8.000000
+			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
+		projectileTravelEffectName "Weapon_PhaseStarBaseChaosBolt_Travel"
 Weapon
 	WeaponType "Missile"
 	damageEnums
@@ -112,17 +104,17 @@ Weapon
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
-		WeaponClassType "MISSILE"
-	DamagePerBank:FRONT 300.000000
-	DamagePerBank:BACK 300.000000
-	DamagePerBank:LEFT 300.000000
-	DamagePerBank:RIGHT 300.000000
+		WeaponClassType "PHASEMISSILE"
+	DamagePerBank:FRONT 325.000000
+	DamagePerBank:BACK 325.000000
+	DamagePerBank:LEFT 325.000000
+	DamagePerBank:RIGHT 325.000000
 	Range 10500.000000
 	PreBuffCooldownTime 10.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.080000
-	TravelSpeed 1000.000000
+	TravelSpeed 1500.000000
 	Duration 0.000000
 	fireConstraintType "StarBaseUpgradeLevel"
 	requiredStarBaseWeaponLevel 2
@@ -131,23 +123,22 @@ Weapon
 		burstCount 2
 		burstDelay 0.600000
 		fireDelay 0.000000
-		muzzleEffectName "Weapon_Tech_MissileCapShip_Muzzle"
-		muzzleSoundMinRespawnTime 0.500000
+		muzzleEffectName "Weapon_PhaseCapitalMissileStarbase_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
-			soundCount 3
-			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
-			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
-			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
-		hitEffectName "Weapon_Tech_MissileCapShip_Hit"
+			soundCount 2
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE_ALT1"
+		hitEffectName "Weapon_PhaseCapitalMissileStarbase_Hit"
 		hitHullEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
 		hitShieldsEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
-		missileTravelEffectName "Weapon_Tech_MissileCapShip_Travel"
+			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_PhaseCapitalMissileStarbase_Travel"
 		missileStartTurningDistance 250.000000
-		missileSlowTurnRate 0.708997
+		missileSlowTurnRate 2.708997
 		missileMaxSlowTurnTime 6.000000
 m_weaponIndexForRange 2
 firingAlignmentType "Default"
@@ -156,37 +147,37 @@ TargetCountPerBank:BACK 4
 TargetCountPerBank:LEFT 4
 TargetCountPerBank:RIGHT 4
 canOnlyTargetStructures FALSE
-ShieldMeshName "Shield_TechStarBase"
+ShieldMeshName "Shield_PhaseStarBase"
 renderShield TRUE
-squadTypeEntityDef:0 "SquadTechCombat"
+squadTypeEntityDef:0 "SquadPhaseCombat"
 squadAntiMatterCost:0 0.000000
-squadTypeEntityDef:1 "SquadTechBomber"
+squadTypeEntityDef:1 "SquadPhaseBomber"
 squadAntiMatterCost:1 0.000000
 squadTypeEntityDef:2 ""
 squadAntiMatterCost:2 0.000000
 squadTypeEntityDef:3 ""
 squadAntiMatterCost:3 0.000000
-mainViewIcon "MainViewIconStarBaseTech"
+mainViewIcon "MainViewIconStarBasePhase"
 experiencePointsForDestroying 150.000000
-nameStringID "IDS_STARBASETECH_NAME"
-picture "PICTURE_STARBASETECH"
+nameStringID "IDS_STARBASEPHASE_NAME"
+picture "PICTURE_STARBASEPHASE"
 statCountType "StarBase"
-creationSourceAbility "Ability_E4X_DeployStarBaseTechLoyals"
-maxUpgradeLevelCount 9
+creationSourceAbility "AbilityDeployStarBasePhase"
+maxUpgradeLevelCount 8
 UpgradeTypeCount 7
-UpgradeType "StarBaseUpgradeTechWeapons"
-UpgradeType "StarBaseUpgradeTechToughness"
-UpgradeType "StarBaseUpgradeTechHangar"
-UpgradeType "StarBaseUpgradeTechTradePort"
-UpgradeType "StarBaseUpgradeTechBlockColonize"
-UpgradeType "StarBaseUpgradeTechFactory"
-UpgradeType "StarBaseUpgradeTechSelfDestruct"
+UpgradeType "StarBaseUpgradePhaseWeapons"
+UpgradeType "StarBaseUpgradePhaseToughness"
+UpgradeType "StarBaseUpgradePhaseHangar"
+UpgradeType "StarBaseUpgradePhaseTradePort"
+UpgradeType "StarBaseUpgradePhaseBlockColonize"
+UpgradeType "StarBaseUpgradePhaseDebrisVacuum"
+UpgradeType "StarBaseUpgradePhaseDirectionalShield"
 MeshNameInfoCount 6
 MeshNameInfo
-	meshName "StarBaseTech"
+	meshName "StarBasePhase"
 	criteriaType "None"
 MeshNameInfo
-	meshName "StarBaseTech-Trade"
+	meshName "StarBasePhase-Trade"
 	criteriaType "StarBaseUpgradeLevel"
 	levelRequirements
 		levelRequirementCount 1
@@ -194,7 +185,7 @@ MeshNameInfo
 			upgradePropertyType "TradePortMeshLevel"
 			upgradeLevel 1
 MeshNameInfo
-	meshName "StarBaseTech-Weapon1"
+	meshName "StarBasePhase-Weapon1"
 	criteriaType "StarBaseUpgradeLevel"
 	levelRequirements
 		levelRequirementCount 1
@@ -202,7 +193,7 @@ MeshNameInfo
 			upgradePropertyType "WeaponUpgradeLevel"
 			upgradeLevel 1
 MeshNameInfo
-	meshName "StarBaseTech-TradeWeapon1"
+	meshName "StarBasePhase-TradeWeapon1"
 	criteriaType "StarBaseUpgradeLevel"
 	levelRequirements
 		levelRequirementCount 2
@@ -213,7 +204,7 @@ MeshNameInfo
 			upgradePropertyType "WeaponUpgradeLevel"
 			upgradeLevel 1
 MeshNameInfo
-	meshName "StarBaseTech-Weapon2"
+	meshName "StarBasePhase-Weapon2"
 	criteriaType "StarBaseUpgradeLevel"
 	levelRequirements
 		levelRequirementCount 1
@@ -221,7 +212,7 @@ MeshNameInfo
 			upgradePropertyType "WeaponUpgradeLevel"
 			upgradeLevel 2
 MeshNameInfo
-	meshName "StarBaseTech-TradeWeapon2"
+	meshName "StarBasePhase-TradeWeapon2"
 	criteriaType "StarBaseUpgradeLevel"
 	levelRequirements
 		levelRequirementCount 2
@@ -237,29 +228,29 @@ NumSoundsFor:ONATTACKORDERISSUED 0
 NumSoundsFor:ONCREATION 0
 NumSoundsFor:ONGENERALORDERISSUED 0
 NumSoundsFor:ONSELECTED 1
-SoundID "STARBASE_TECH_ONSELECTED"
+SoundID "STARBASE_PHASE_ONSELECTED"
 NumSoundsFor:ONSTARTPHASEJUMP 0
-ExplosionName "StarBase0"
+ExplosionName "StarBase1"
 formationRank 3
 minShadow 0.000000
 maxShadow 0.300000
-cargoShipType "FrigateTechTradeShip"
-maxCargoShipCount 3
+cargoShipType "FrigatePhaseTradeShip"
+maxCargoShipCount 5
 cargoShipRespawnTime 25.000000
-baseBuildTime 100.000000
+baseBuildTime 120.000000
 buildEffectName ""
 angularSpeed 0.500000
 rotateSoundName ""
-rotateFacingType "AwayFromOrbitBody"
+rotateFacingType "None"
 rotateConstantly FALSE
-maxAccelerationLinear 0.000000
-maxAccelerationStrafe 0.000000
+maxAccelerationLinear 40.000000
+maxAccelerationStrafe 4.000000
 maxDecelerationLinear 500.000000
-maxAccelerationAngular 1.000000
+maxAccelerationAngular 0.500000
 maxDecelerationAngular 9.999996
-maxSpeedLinear -1.000000
-maxRollRate 2.000000
-maxRollAngle 35.000000
+maxSpeedLinear 325.000000
+maxRollRate 1.000000
+maxRollAngle 15.000000
 mass 10000.000000
 HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
 HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"

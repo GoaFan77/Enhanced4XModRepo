@@ -1,5 +1,29 @@
 TXT
-NumStrings 8357
+NumStrings 8365
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_STARBASEUPGRADEACCESS_CULTURE_DESCRIPTION"
+	Value "Grants Transcencia class starbases access to Evangelization Nodes upgrades, allowing them to spread your empire's culture, repel hostile culture, and increase max allegiance at the immediate planet."
+StringInfo
+	ID "IDS_STARBASEUPGRADEPSICULTURE_DESC"
+	Value "PsiTech telepathy equipment is installed into the starbase, allowing it to broadcast your empire's culture, repel enemy culture, and increase your max allegiance at the nearby planet."
+StringInfo
+	ID "IDS_STARBASEUPGRADEPHASEBLOCKCOLONIZE_NAME"
+	Value "Lockdown Administraton"
+StringInfo
+	ID "IDS_STARBASEUPGRADEPHASEBLOCKCOLONIZE_DESC"
+	Value "Establishes the Vasari government of the planet on the Starbase, allowing it to be run from orbit as in the days of the old Empire. Prevents loss of the planet through enemy bombardment, prevents enemy empire's from colonizing it, and adds a permanent taxable population to the Starbase."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_STARBASEUPGRADEACCESS_BLOCKCOLONIZEPHASE_NAME"
+	Value "Lockdown Administraton"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_STARBASEUPGRADEACCESS_BLOCKCOLONIZEPHASE_DESCRIPTION"
+	Value "Grants Orkulus class starbases access to the Lockdown Administrato nupgrade, which prevent the loss of control of its gravity well's planet through bombardment and denies its colonization by hostile empires. It also adds a taxable population base to the starbase."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_STARBASEUPGRADEACCESS_MASSDISORIENTATION_DESCRIPTION"
+	Value "Grants Transcencia class starbases access to the Mass Disorientation ability, which disables enemy ships within range."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_STARBASEUPGRADEACCESS_RESUPPLY_DESCRIPTION"
+	Value "Grants Argonev class starbases access to Docking Booms, allowing them to repair and refill the antimatter reserves of nearby friendly forces."
 StringInfo
 		ID "IDS_NoString"
 		Value ""

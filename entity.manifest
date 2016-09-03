@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2629
+entityNameCount 2628
 entityName "BuffSuppressionChannelEnd.entity"
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
@@ -2615,7 +2615,6 @@ entityName "SpaceMine_E4X_XP200.entity"
 entityName "StarBaseUpgrade_E4X_BlockColonize.entity"
 entityName "StarBaseUpgrade_E4X_CyberDefensePlatformToughness.entity"
 entityName "StarBaseUpgrade_E4X_NeutralTradeStationTradePort.entity"
-entityName "StarBaseUpgrade_E4X_TechWeaponsLoyals.entity"
 entityName "StarBaseUpgrade_E4X_Toughness.entity"
 entityName "StarBaseUpgrade_E4X_TradePort.entity"
 entityName "StarBase_E4X_Ancient.entity"

@@ -172,9 +172,9 @@ nameStringID "IDS_STARBASETECH_NAME"
 picture "PICTURE_STARBASETECH"
 statCountType "StarBase"
 creationSourceAbility "Ability_E4X_DeployStarBaseTechLoyalsStart"
-maxUpgradeLevelCount 10
+maxUpgradeLevelCount 11
 UpgradeTypeCount 7
-UpgradeType "StarBaseUpgrade_E4X_TechWeaponsLoyals"
+UpgradeType "StarBaseUpgradeTechWeapons"
 UpgradeType "StarBaseUpgradeTechToughness"
 UpgradeType "StarBaseUpgradeTechHangar"
 UpgradeType "StarBaseUpgradeTechTradePort"
@@ -244,7 +244,7 @@ formationRank 3
 minShadow 0.000000
 maxShadow 0.300000
 cargoShipType "FrigateTechTradeShip"
-maxCargoShipCount 5
+maxCargoShipCount 3
 cargoShipRespawnTime 25.000000
 baseBuildTime 100.000000
 buildEffectName ""

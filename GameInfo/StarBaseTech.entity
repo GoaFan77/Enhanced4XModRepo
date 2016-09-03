@@ -173,14 +173,13 @@ picture "PICTURE_STARBASETECH"
 statCountType "StarBase"
 creationSourceAbility "AbilityDeployStarBaseTech"
 maxUpgradeLevelCount 8
-UpgradeTypeCount 8
+UpgradeTypeCount 7
 UpgradeType "StarBaseUpgradeTechWeapons"
 UpgradeType "StarBaseUpgradeTechToughness"
 UpgradeType "StarBaseUpgradeTechHangar"
 UpgradeType "StarBaseUpgradeTechTradePort"
 UpgradeType "StarBaseUpgradeTechBlockColonize"
 UpgradeType "StarBaseUpgradeTechFactory"
-UpgradeType "StarBaseUpgradeTechResupply"
 UpgradeType "StarBaseUpgradeTechSelfDestruct"
 MeshNameInfoCount 6
 MeshNameInfo

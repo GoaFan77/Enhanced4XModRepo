@@ -1,0 +1,108 @@
+﻿TXT
+entityType "StarBaseUpgrade"
+stageCount 4
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADEPHASEWEAPONS_NAME"
+	descStringID "IDS_STARBASEUPGRADEPHASEWEAPONS_DESC0"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradePhaseWeapons0"
+	smallHudIcon "HUDIconStarBaseUpgradePhaseWeapons0"
+	infoCardIcon ""
+	upgradePropertyCount 2
+		upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 150.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 2.500000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 45.000000
+	nameStringID "IDS_STARBASEUPGRADEPHASEWEAPONS_NAME"
+	descStringID "IDS_STARBASEUPGRADEPHASEWEAPONS_DESC0"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradePhaseWeapons0"
+	smallHudIcon "HUDIconStarBaseUpgradePhaseWeapons0"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "WeaponUpgradeLevel"
+		value 1.000000
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 150.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 2.500000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 1800.000000
+		metal 275.000000
+		crystal 150.000000
+	upgradeTime 60.000000
+	nameStringID "IDS_STARBASEUPGRADEPHASEWEAPONS_NAME"
+	descStringID "IDS_STARBASEUPGRADEPHASEWEAPONS_DESC1"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradePhaseWeapons1"
+	smallHudIcon "HUDIconStarBaseUpgradePhaseWeapons1"
+	infoCardIcon ""
+	upgradePropertyCount 3
+	upgradeProperty
+		propertyType "WeaponUpgradeLevel"
+		value 2.000000
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 150.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 2.500000
+	upgradeBoolPropertyCount 0
+stage
+	price
+		credits 2700.000000
+		metal 425.000000
+		crystal 225.000000
+	upgradeTime 75.000000
+	nameStringID "IDS_STARBASEUPGRADEPHASEWEAPONS_NAME"
+	descStringID "IDS_STARBASEUPGRADEPHASEWEAPONS_DESC2"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradePhaseWeapons1"
+	smallHudIcon "HUDIconStarBaseUpgradePhaseWeapons1"
+	infoCardIcon ""
+	upgradePropertyCount 4
+	upgradeProperty
+		propertyType "WeaponUpgradeLevel"
+		value 2.000000
+	upgradeProperty
+		propertyType "WeaponDamage"
+		value 0.200000
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 150.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 2.500000		
+	upgradeBoolPropertyCount 0
+xpModifier 75.000000
