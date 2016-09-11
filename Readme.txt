@@ -467,3 +467,14 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Fixed fleet supply usage of cruiser sized heroes.
 		-Halved the costs of Starbase upgrades that prevent losing a planet to bombardment.
 		-Added a new icon for the abandon structure ability on captureable entities.
+		
+1.811   -Updates to Rebellion 1.85.
+		-Made several adjustments to the rampant militia's spawned by the outlaw sector DLC. In general they are slower to spawn so they don't impact the early game as much.
+		-Adjusted the Smuggling Planet specialization on several planets.
+		
+1.82	-Starbase overhaul.
+			-HTS's Resupply, Advent Mass Disorientation, and Vasari Phase Gate abilities no longer require Starbase upgrades to unlock. Only the research is required.
+			-TEC Starbases already had Resupply by default, so an extra starbase upgrade slot was added.
+			-Advent Induced Reverence upgrade was combined with the culture upgrade.
+			-Vasari's planet protection ability merged with Colony Pods and renamed Lockdown Administration. Protects the planet it orbits from bombardment, colonization and grants tax income.
+			-Adjusted the price of some non-combat starbase upgrades like the TEC's Factory upgrade. 				

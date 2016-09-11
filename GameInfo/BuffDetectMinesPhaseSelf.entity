@@ -6,7 +6,7 @@ stackingLimit 1
 allowFirstSpawnerToStack FALSE
 buffExclusivityForAIType "ExclusiveForAllPlayers"
 isInterruptable TRUE
-isChannelling TRUE
+isChannelling FALSE
 numInstantActions 2
 instantAction
 	buffInstantActionType "ApplyBuffToTargetNoFilterNoRange"
