@@ -477,4 +477,10 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 			-TEC Starbases already had Resupply by default, so an extra starbase upgrade slot was added.
 			-Advent Induced Reverence upgrade was combined with the culture upgrade.
 			-Vasari's planet protection ability merged with Colony Pods and renamed Lockdown Administration. Protects the planet it orbits from bombardment, colonization and grants tax income.
-			-Adjusted the price of some non-combat starbase upgrades like the TEC's Factory upgrade. 				
+			-Adjusted the price of some non-combat starbase upgrades like the TEC's Factory upgrade. 		
+			
+1.83	-Update for Sins 1.90 String Changes.
+		-Antimodule cruisers can now attack all units, not just structures. They are good against titans but deal much less damage against smaller targets.
+		-The Vasari Sivuskras Ruiner minelayer now also doubles as an anti-structure cruiser. It now has a long range disruptor beam, but has no extra debuff for it like other factions have.
+		-Tweaked AI priorities. Defensive AI will now explore planets, AI should develop planet population somewhat faster.
+		-Added Infinite Research minimod.							

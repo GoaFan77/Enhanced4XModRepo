@@ -72,7 +72,9 @@ entities
 			entityDefName "FrigatePhaseGreaterNaniteSwarm"
 			entityDefName "Frigate_E4X_PhaseEnvoyAI"
 	researchInfo
-		count 166
+		count 168
+		entityDefName "RESEARCH_E4X_WeaponMastery"
+		entityDefName "RESEARCH_E4X_SurvivabilityMastery"
 		entityDefName "RESEARCH_E4X_HeroScientistPhaseAccess"
 		entityDefName "RESEARCH_E4X_HeroCombatPhaseAccess"
 		entityDefName "RESEARCH_E4X_HeroLeaderPhaseAccess"

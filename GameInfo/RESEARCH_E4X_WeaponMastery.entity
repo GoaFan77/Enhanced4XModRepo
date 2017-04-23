@@ -1,0 +1,40 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_E4X_WeaponMastery"
+smallHudIcon "HUDICON_E4X_WeaponMastery"
+infoCardIcon ""
+NameStringID "IDS_RESEARCH_E4X_WeaponMastery_NAME"
+DescriptionStringID "IDS_RESEARCH_E4X_WeaponMastery_DESC"
+researchWindowLocation
+	block 0
+	pos [ 99 , 1 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 120.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1800.000000
+	metal 350.000000
+	crystal 550.000000
+PerLevelCostIncrease
+	credits 200.000000
+	metal 50.000000
+	crystal 50.000000
+Tier 7
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 0
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "WeaponDamageAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.010000
+	linkedWeaponClass "Invalid"
+artifactPicture ""
+uniqueOverlayBrush "HeroResearchOverlay"
+dlcId 100001

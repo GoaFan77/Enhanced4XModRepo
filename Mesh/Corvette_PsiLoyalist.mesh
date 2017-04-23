@@ -54,14 +54,14 @@ MeshData
 			 [ 0.000000 1.000000 -0.000000 ]
 			 [ -0.000000 -0.000000 1.000000 ]
 	Point
-		DataString "Weapon-1"
+		DataString "Weapon-2"
 		Position [ -12.3392784 0.48546 -5.1288192 ]
 		Orientation
 			 [ -0.000000 0.000000 1.000000 ]
 			 [ 0.156738 0.987640 -0.000000 ]
 			 [ -0.987640 0.156738 -0.000000 ]
 	Point
-		DataString "Weapon-2"
+		DataString "Weapon-1"
 		Position [ 2.6933106 0.000000 -8.2391334 ]
 		Orientation
 			 [ -1.000000 0.000000 -0.000000 ]
@@ -75,14 +75,14 @@ MeshData
 			 [ 0.000000 1.000000 -0.000000 ]
 			 [ 0.000000 -0.000000 -1.000000 ]
 	Point
-		DataString "Weapon-1"
+		DataString "Weapon-2"
 		Position [ 12.438333 0.48546 -5.1301266 ]
 		Orientation
 			 [ -0.000000 -0.000000 -1.000000 ]
 			 [ -0.156738 0.987640 -0.000000 ]
 			 [ 0.987640 0.156738 -0.000000 ]
 	Point
-		DataString "Weapon-2"
+		DataString "Weapon-1"
 		Position [ -2.6850918 0.000000 -8.2391334 ]
 		Orientation
 			 [ -1.000000 0.000000 -0.000000 ]

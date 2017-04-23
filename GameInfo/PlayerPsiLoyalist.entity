@@ -68,7 +68,9 @@ entities
 			entityDefName "FrigatePsiRefineryShip"
 			entityDefName "Frigate_E4X_PsiEnvoyAI"
 	researchInfo
-		count 167
+		count 169
+		entityDefName "RESEARCH_E4X_WeaponMastery"
+		entityDefName "RESEARCH_E4X_SurvivabilityMastery"		
 		entityDefName "RESEARCH_E4X_HeroTransPsiAccess"		
 		entityDefName "RESEARCH_E4X_HeroLeaderPsiAccess"
 		entityDefName "RESEARCH_E4X_HeroCombatPsiAccess"

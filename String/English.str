@@ -1,5 +1,26 @@
 TXT
-NumStrings 8365
+NumStrings 8380
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_MINELAYERPHASE_DESCRIPTION"
+	Value "Grants access to Sivuskras Ruiner cruisers - a versatile unit strong against structures that can also deploy mines."	
+StringInfo
+	ID "IDS_FRIGATE_PHASEMINELAYER_DESCRIPTION"
+	Value "A supporting cruiser able to devestate structures with a long range disruptor beam and able to lay specialized mines for crippling the enemy."
+StringInfo
+	ID "IDS_COUNTERDESC_FRIGATE_ANTIMODULE"
+	Value "Strong vs. structures, titans."
+StringInfo
+	ID "IDS_RESEARCH_E4X_WeaponMastery_NAME"
+	Value "Weapon Mastery"
+StringInfo
+	ID "IDS_RESEARCH_E4X_WeaponMastery_DESC"
+	Value "Funds further research into fine tuning and optimizing weapon systems. Slightly increases weapon damage, but can be researched multiple times."
+StringInfo
+	ID "IDS_RESEARCH_E4X_SurviveabilityMastery_NAME"
+	Value "Survivability Mastery"
+StringInfo
+	ID "IDS_RESEARCH_E4X_SurviveabilityMastery_DESC"
+	Value "Funds further research into improving ship hulls and shields. Slightly increases durability, but can be researched multiple times."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STARBASEUPGRADEACCESS_CULTURE_DESCRIPTION"
 	Value "Grants Transcencia class starbases access to Evangelization Nodes upgrades, allowing them to spread your empire's culture, repel hostile culture, and increase max allegiance at the immediate planet."
@@ -722,7 +743,7 @@ StringInfo
 	Value "Tip: Be careful how you build your civilian infrastructure in E4X. Research labs, trade ports and refineries all give extra bonuses or penalties, and work best on specific types of planets."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip03"
-	Value "Tip: Each races gets a unique planet bonus on their homeworld in E4X. Adjust your early game strategy accordingly to take advantage of these."
+	Value "Tip: Each race gets a unique planet bonus on their homeworld in E4X. Adjust your early game strategy accordingly to take advantage of these."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip04"
 	Value "Tip: In E4X you no longer need to build several envoy cruisers. Just one can build embassies at all of your allies' planets. Embassies require no fleet supply, so build one on each of your allies worlds!"
@@ -22037,7 +22058,10 @@ StringInfo
 	Value "Planet Detail - High"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityHighestPlanetColor"
-	Value "Planet Detail - Highest"
+	Value "Planet Detail - Higher"
+StringInfo
+	ID "IDSOptionsScreenTextureQualityExtremePlanetColor"
+	Value "Planet Detail - Extreme"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityLowShipColor"
 	Value "Ship Detail - Low"
@@ -22049,7 +22073,10 @@ StringInfo
 	Value "Ship Detail - High"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityHighestShipColor"
-	Value "Ship Detail - Highest"
+	Value "Ship Detail - Higher"
+StringInfo
+	ID "IDSOptionsScreenTextureQualityExtremeShipColor"
+	Value "Ship Detail - Extreme"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityLowShipData"
 	Value "Ship Extras - Low"
@@ -22061,7 +22088,10 @@ StringInfo
 	Value "Ship Extras - High"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityHighestShipData"
-	Value "Ship Extras - Highest"
+	Value "Ship Extras - Higher"
+StringInfo
+	ID "IDSOptionsScreenTextureQualityExtremeShipData"
+	Value "Ship Extras - Extreme"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityLowShipBump"
 	Value "Ship Bump - Low"
@@ -22073,7 +22103,10 @@ StringInfo
 	Value "Ship Bump - High"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityHighestShipBump"
-	Value "Ship Bump - Highest"
+	Value "Ship Bump - Higher"
+StringInfo
+	ID "IDSOptionsScreenTextureQualityExtremeShipBump"
+	Value "Ship Bump - Extreme"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityLowModuleColor"
 	Value "Building Detail - Low"
@@ -22085,7 +22118,10 @@ StringInfo
 	Value "Building Detail - High"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityHighestModuleColor"
-	Value "Building Detail - Highest"
+	Value "Building Detail - Higher"
+StringInfo
+	ID "IDSOptionsScreenTextureQualityExtremeModuleColor"
+	Value "Building Detail - Extreme"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityLowModuleData"
 	Value "Building Extras - Low"
@@ -22097,7 +22133,10 @@ StringInfo
 	Value "Building Extras - High"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityHighestModuleData"
-	Value "Building Extras - Highest"
+	Value "Building Extras - Higher"
+StringInfo
+	ID "IDSOptionsScreenTextureQualityExtremeModuleData"
+	Value "Building Extras - Extreme"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityLowModuleBump"
 	Value "Building Bump - Low"
@@ -22109,7 +22148,10 @@ StringInfo
 	Value "Building Bump - High"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityHighestModuleBump"
-	Value "Building Bump - Highest"
+	Value "Building Bump - Higher"
+StringInfo
+	ID "IDSOptionsScreenTextureQualityExtremeModuleBump"
+	Value "Building Bump - Extreme"
 StringInfo
 	ID "IDSOptionsScreenSoundOptionsReset"
 	Value "Reset"
@@ -22272,6 +22314,9 @@ StringInfo
 StringInfo
 	ID "IDSOptionsScreenUserInterfaceOptionsZoomSensitivity"
 	Value "Zoom Sensitivity:"
+StringInfo
+	ID "IDSOptionsScreenUserInterfaceOptionsUIScale"
+	Value "Interface Scale %:"
 StringInfo
 	ID "IDSEscapeMenuScreenQuitGameTabButton"
 	Value "Quit"
@@ -24761,7 +24806,7 @@ StringInfo
 	Value "High"
 StringInfo
 	ID "IDS_EFFECTOPTIONSSHADOWQUALITY_ULTRA"
-	Value "Ultra"
+	Value "Extreme"
 StringInfo
 	ID "IDS_MONTHSTRING_JANUARY"
 	Value "January"

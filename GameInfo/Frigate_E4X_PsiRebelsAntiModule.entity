@@ -15,13 +15,13 @@ NameStringID "IDS_FRIGATE_PSIANTIMODULE_NAME"
 DescriptionStringID "IDS_FRIGATE_PSIANTIMODULE_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_ANTIMODULE"
 basePrice
-	credits 1050.000000
+	credits 950.000000
 	metal 175.000000
 	crystal 140.000000
-slotCount 18.000000
+slotCount 14.000000
 BuildTime 65.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 54.000000
+ExperiencePointsForDestroying 45.000000
 MaxHullPoints 980.000000
 MaxShieldPoints 560.000000
 HullPointRestoreRate 1.000000
@@ -92,7 +92,7 @@ TargetCountPerBank:FRONT 4
 TargetCountPerBank:BACK 0
 TargetCountPerBank:LEFT 0
 TargetCountPerBank:RIGHT 0
-canOnlyTargetStructures TRUE
+canOnlyTargetStructures FALSE
 hasWeaponLevels FALSE
 mass 2000.000000
 ShieldMeshName "Shield_FrigatePsiAntiModule"

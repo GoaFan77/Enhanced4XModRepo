@@ -70,7 +70,9 @@ entities
 			entityDefName "FrigateTechRefineryShip"
 			entityDefName "Frigate_E4X_TechEnvoyAI"
 	researchInfo
-		count 167
+		count 169
+		entityDefName "RESEARCH_E4X_WeaponMastery"
+		entityDefName "RESEARCH_E4X_SurvivabilityMastery"		
 		entityDefName "RESEARCH_E4X_HeroLeaderTechAccess"
 		entityDefName "RESEARCH_E4X_HeroCommandTechAccess"
 		entityDefName "RESEARCH_E4X_HeroCombatTechAccess"

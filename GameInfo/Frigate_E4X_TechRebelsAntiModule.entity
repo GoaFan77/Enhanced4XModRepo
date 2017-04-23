@@ -95,7 +95,7 @@ TargetCountPerBank:FRONT 1
 TargetCountPerBank:BACK 0
 TargetCountPerBank:LEFT 0
 TargetCountPerBank:RIGHT 0
-canOnlyTargetStructures TRUE
+canOnlyTargetStructures FALSE
 hasWeaponLevels FALSE
 mass 2000.000000
 ShieldMeshName "Shield_FrigateTechAntiModule"

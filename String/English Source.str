@@ -1,5 +1,5 @@
 TXT
-NumStrings 7627
+NumStrings 7635
 StringInfo
 	ID "IDSPlayerAINameTech0"
 	Value "Nitheim Rebels"
@@ -8369,7 +8369,7 @@ StringInfo
 	Value "Truce Amongst Rogues"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TRUCE_AMONGST_ROGUES_DESCRIPTION"
-	Value "A deal is struck between your empire, the remaining unaligned neutral worlds and the Pirates to end petty squabbling, resulting in a Peace Treaty with these factions."
+	Value "A deal is struck to end petty squabbling between your empire and the Pirates resulting in a Peace Treaty."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TWIN_FORTRESSES_NAME"
 	Value "Twin Fortresses"
@@ -19823,7 +19823,10 @@ StringInfo
 	Value "Planet Detail - High"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityHighestPlanetColor"
-	Value "Planet Detail - Highest"
+	Value "Planet Detail - Higher"
+StringInfo
+	ID "IDSOptionsScreenTextureQualityExtremePlanetColor"
+	Value "Planet Detail - Extreme"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityLowShipColor"
 	Value "Ship Detail - Low"
@@ -19835,7 +19838,10 @@ StringInfo
 	Value "Ship Detail - High"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityHighestShipColor"
-	Value "Ship Detail - Highest"
+	Value "Ship Detail - Higher"
+StringInfo
+	ID "IDSOptionsScreenTextureQualityExtremeShipColor"
+	Value "Ship Detail - Extreme"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityLowShipData"
 	Value "Ship Extras - Low"
@@ -19847,7 +19853,10 @@ StringInfo
 	Value "Ship Extras - High"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityHighestShipData"
-	Value "Ship Extras - Highest"
+	Value "Ship Extras - Higher"
+StringInfo
+	ID "IDSOptionsScreenTextureQualityExtremeShipData"
+	Value "Ship Extras - Extreme"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityLowShipBump"
 	Value "Ship Bump - Low"
@@ -19859,7 +19868,10 @@ StringInfo
 	Value "Ship Bump - High"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityHighestShipBump"
-	Value "Ship Bump - Highest"
+	Value "Ship Bump - Higher"
+StringInfo
+	ID "IDSOptionsScreenTextureQualityExtremeShipBump"
+	Value "Ship Bump - Extreme"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityLowModuleColor"
 	Value "Building Detail - Low"
@@ -19871,7 +19883,10 @@ StringInfo
 	Value "Building Detail - High"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityHighestModuleColor"
-	Value "Building Detail - Highest"
+	Value "Building Detail - Higher"
+StringInfo
+	ID "IDSOptionsScreenTextureQualityExtremeModuleColor"
+	Value "Building Detail - Extreme"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityLowModuleData"
 	Value "Building Extras - Low"
@@ -19883,7 +19898,10 @@ StringInfo
 	Value "Building Extras - High"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityHighestModuleData"
-	Value "Building Extras - Highest"
+	Value "Building Extras - Higher"
+StringInfo
+	ID "IDSOptionsScreenTextureQualityExtremeModuleData"
+	Value "Building Extras - Extreme"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityLowModuleBump"
 	Value "Building Bump - Low"
@@ -19895,7 +19913,10 @@ StringInfo
 	Value "Building Bump - High"
 StringInfo
 	ID "IDSOptionsScreenTextureQualityHighestModuleBump"
-	Value "Building Bump - Highest"
+	Value "Building Bump - Higher"
+StringInfo
+	ID "IDSOptionsScreenTextureQualityExtremeModuleBump"
+	Value "Building Bump - Extreme"
 StringInfo
 	ID "IDSOptionsScreenSoundOptionsReset"
 	Value "Reset"
@@ -20058,6 +20079,9 @@ StringInfo
 StringInfo
 	ID "IDSOptionsScreenUserInterfaceOptionsZoomSensitivity"
 	Value "Zoom Sensitivity:"
+StringInfo
+	ID "IDSOptionsScreenUserInterfaceOptionsUIScale"
+	Value "Interface Scale %:"
 StringInfo
 	ID "IDSEscapeMenuScreenQuitGameTabButton"
 	Value "Quit"
@@ -22547,7 +22571,7 @@ StringInfo
 	Value "High"
 StringInfo
 	ID "IDS_EFFECTOPTIONSSHADOWQUALITY_ULTRA"
-	Value "Ultra"
+	Value "Extreme"
 StringInfo
 	ID "IDS_MONTHSTRING_JANUARY"
 	Value "January"
