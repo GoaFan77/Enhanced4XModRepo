@@ -22,11 +22,12 @@ periodicAction
 	targetFilter
 		numOwnerships 1
 		ownership "Enemy"
-		numObjects 4
+		numObjects 5
 		object "Frigate"
 		object "CapitalShip"
 		object "Titan"
 		object "StarBase"
+		object "Corvette"
 		numSpaces 1
 		space "Phase"
 		numConstraints 1
