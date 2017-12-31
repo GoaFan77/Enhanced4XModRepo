@@ -4,7 +4,7 @@ hudIcon "HUDICON_E4X_HolyPilgrimage"
 smallHudIcon "HUDICON_E4X_HolyPilgrimage"
 infoCardIcon ""
 NameStringID "IDS_Ability_E4X_HolyPilgrimage_NAME"
-DescriptionStringID "IDS_Ability_E4X_HolyPilgrimage_DESC"
+DescriptionStringID "IDS_RESEARCH_E4X_ABILITYACCESS_HolyPilgrimage_DESC"
 researchWindowLocation
 	block 0
 	pos [ 2 , 0 ]
