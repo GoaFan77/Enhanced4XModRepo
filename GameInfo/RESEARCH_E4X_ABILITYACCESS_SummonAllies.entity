@@ -4,7 +4,7 @@ hudIcon "HUDICON_E4X_SummonAllies"
 smallHudIcon "HUDICON_E4X_SummonAllies"
 infoCardIcon ""
 NameStringID "IDS_Ability_E4X_SummonAllies_NAME"
-DescriptionStringID "IDS_Ability_E4X_SummonAllies_DESC"
+DescriptionStringID "IDS_RESEARCH_E4X_ABILITYACCESS_SummonAllies_DESC"
 researchWindowLocation
 	block 0
 	pos [ 7 , 3 ]
