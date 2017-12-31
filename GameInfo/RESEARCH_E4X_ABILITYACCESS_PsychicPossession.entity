@@ -4,7 +4,7 @@ hudIcon "HUDICON_E4X_PsychicPossession"
 smallHudIcon "HUDICON_E4X_PsychicPossession"
 infoCardIcon ""
 NameStringID "IDS_Ability_E4X_PsychicPossession_NAME"
-DescriptionStringID "IDS_Ability_E4X_PsychicPossession_DESC"
+DescriptionStringID "IDS_RESEARCH_E4X_ABILITYACCESS_PsychicPossession_DESC"
 researchWindowLocation
 	block 2
 	pos [ 4 , 4 ]
