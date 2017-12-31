@@ -15,9 +15,8 @@ starType
 starType
 	designName "RandomNonGreenStar"
 	designStringId "IDSGalaxyScenarioTypeStarRandomNonGreen"
-	orbitBodyTypeCount 8
+	orbitBodyTypeCount 7
 	orbitBodyType "BlueStar"
-	orbitBodyType "GreenStar"
 	orbitBodyType "RedStar"
 	orbitBodyType "YellowStar"
 	orbitBodyType "OrangeStar"
@@ -35,7 +34,7 @@ starType
 	orbitBodyType "OrangeStar"
 starType
 	designName "RandomSpecialStar"
-	designStringId "IDSGalaxyScenarioTypeStarRandomNonGreen"
+	designStringId "IDSGalaxyScenarioTypeStarSpecialStar"
 	orbitBodyTypeCount 3
 	orbitBodyType "NeutronStar"
 	orbitBodyType "BlackHoleStar"
@@ -57,7 +56,7 @@ starType
 	orbitBodyType "YellowStar"
 starType
 	designName "OrangeStar"
-	designStringId "IDSGalaxyScenarioTypeStarYellow"
+	designStringId "IDSGalaxyScenarioTypeStarOrange"
 	orbitBodyTypeCount 1
 	orbitBodyType "OrangeStar"
 starType
@@ -682,30 +681,32 @@ planetType
 planetType
 	designName "RandomIceVolcanic"
 	designStringId "IDSGalaxyScenarioTypeRandomIceVolcanic"
-	orbitBodyTypeCount 4
-	orbitBodyType "Ice"	
+	orbitBodyTypeCount 5
+	orbitBodyType "Ice"
 	orbitBodyType "Volcanic"
-	orbitBodyType "Cyro"	
+	orbitBodyType "Cyro"
 	orbitBodyType "Igneous"
+	orbitBodyType "Alpine"
 planetType
 	designName "RandomIceVolcanicFair"
 	designStringId "IDSGalaxyScenarioTypeRandomIceVolcanicFair"
-	orbitBodyTypeCount 4
-	orbitBodyType "IceFair"	
+	orbitBodyTypeCount 5
+	orbitBodyType "IceFair"
 	orbitBodyType "VolcanicFair"
-	orbitBodyType "CyroFair"	
-	orbitBodyType "IgneousFair"	
+	orbitBodyType "CyroFair"
+	orbitBodyType "IgneousFair"
+	orbitBodyType "AlpineFair"
 planetType
 	designName "RandomExplicitIceVolcanic"
 	designStringId "IDSGalaxyScenarioTypeExplicitIceVolcanic"
 	orbitBodyTypeCount 2
-	orbitBodyType "Ice"	
+	orbitBodyType "Ice"
 	orbitBodyType "Volcanic"
 planetType
 	designName "RandomCrystal"
 	designStringId "IDSGalaxyScenarioTypeRandomCrystal"
 	orbitBodyTypeCount 4
-	orbitBodyType "Ice"	
+	orbitBodyType "Ice"
 	orbitBodyType "Cyro"
 	orbitBodyType "Oceanic"
 	orbitBodyType "Toxic"
@@ -753,7 +754,7 @@ planetType
 	orbitBodyType "Alpine"	
 planetType
 	designName "RandomExtraFair"
-	designStringId "IDSGalaxyScenarioTypeRandomExtra"
+	designStringId "IDSGalaxyScenarioTypeRandomExtraFair"
 	orbitBodyTypeCount 13
 	orbitBodyType "ColonizeableGasGiantFair"
 	orbitBodyType "CyroFair"
