@@ -4,7 +4,7 @@ hudIcon "HUDICON_E4X_DespoilPlanet"
 smallHudIcon "HUDICON_E4X_DespoilPlanet"
 infoCardIcon ""
 NameStringID "IDS_Ability_E4X_DespoilPlanet_Name"
-DescriptionStringID "IDS_Ability_E4X_DespoilPlanet_DESC"
+DescriptionStringID "IDS_RESEARCH_E4X_ABILITYACCESS_DespoilPlanet_DESC"
 researchWindowLocation
 	block 2
 	pos [ 1 , 0 ]
