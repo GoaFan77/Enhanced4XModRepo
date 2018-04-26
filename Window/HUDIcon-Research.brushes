@@ -6,109 +6,109 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
-		pixelBox [ 158 , 30 , 47 , 33 ]
+		pixelBox [ 158 , 31 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research_Pressed"
-		pixelBox [ 158 , 30 , 47 , 33 ]
+		pixelBox [ 158 , 31 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research_CursorOver"
-		pixelBox [ 158 , 30 , 47 , 33 ]
+		pixelBox [ 158 , 31 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research_Normal"
-		pixelBox [ 158 , 30 , 47 , 33 ]
+		pixelBox [ 158 , 31 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research_Normal"
-		pixelBox [ 158 , 30 , 47 , 33 ]
+		pixelBox [ 158 , 31 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_POPULATIONCAP_IRON_1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
-		pixelBox [ 209 , 30 , 47 , 33 ]
+		pixelBox [ 209 , 31 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research_Pressed"
-		pixelBox [ 209 , 30 , 47 , 33 ]
+		pixelBox [ 209 , 31 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research_CursorOver"
-		pixelBox [ 209 , 30 , 47 , 33 ]
+		pixelBox [ 209 , 31 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research_Normal"
-		pixelBox [ 209 , 30 , 47 , 33 ]
+		pixelBox [ 209 , 31 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research_Normal"
-		pixelBox [ 209 , 30 , 47 , 33 ]
+		pixelBox [ 209 , 31 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_POPULATIONCAP_OCEANIC_0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
-		pixelBox [ 311 , 326 , 47 , 33 ]
+		pixelBox [ 311 , 327 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research_Pressed"
-		pixelBox [ 311 , 326 , 47 , 33 ]
+		pixelBox [ 311 , 327 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research_CursorOver"
-		pixelBox [ 311 , 326 , 47 , 33 ]
+		pixelBox [ 311 , 327 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research_Normal"
-		pixelBox [ 311 , 326 , 47 , 33 ]
+		pixelBox [ 311 , 327 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research_Normal"
-		pixelBox [ 311 , 326 , 47 , 33 ]
+		pixelBox [ 311 , 327 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_POPULATIONCAP_OCEANIC_1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
-		pixelBox [ 362 , 326 , 47 , 33 ]
+		pixelBox [ 362 , 327 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research_Pressed"
-		pixelBox [ 362 , 326 , 47 , 33 ]
+		pixelBox [ 362 , 327 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research_CursorOver"
-		pixelBox [ 362 , 326 , 47 , 33 ]
+		pixelBox [ 362 , 327 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research_Normal"
-		pixelBox [ 362 , 326 , 47 , 33 ]
+		pixelBox [ 362 , 327 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research_Normal"
-		pixelBox [ 362 , 326 , 47 , 33 ]
+		pixelBox [ 362 , 327 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_POPULATIONCAP_BARREN_0"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
-		pixelBox [ 209 , 67 , 47 , 33 ]
+		pixelBox [ 209 , 68 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research_Pressed"
-		pixelBox [ 209 , 67 , 47 , 33 ]
+		pixelBox [ 209 , 68 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research_CursorOver"
-		pixelBox [ 209 , 67 , 47 , 33 ]
+		pixelBox [ 209 , 68 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research_Normal"
-		pixelBox [ 209 , 67 , 47 , 33 ]
+		pixelBox [ 209 , 68 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research_Normal"
-		pixelBox [ 209 , 67 , 47 , 33 ]
+		pixelBox [ 209 , 68 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_POPULATIONCAP_BARREN_1"
 	content "States"
 	Disabled
 		fileName "Buttons_Research_Disabled"
-		pixelBox [ 260 , 30 , 47 , 33 ]
+		pixelBox [ 260 , 31 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research_Pressed"
-		pixelBox [ 260 , 30 , 47 , 33 ]
+		pixelBox [ 260 , 31 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research_CursorOver"
-		pixelBox [ 260 , 30 , 47 , 33 ]
+		pixelBox [ 260 , 31 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research_Normal"
-		pixelBox [ 260 , 30 , 47 , 33 ]
+		pixelBox [ 260 , 31 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research_Normal"
-		pixelBox [ 260 , 30 , 47 , 33 ]
+		pixelBox [ 260 , 31 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PLANETACCESS_OCEANIC"
 	content "States"
@@ -600,91 +600,91 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 772 , 522 , 47 , 33 ]
+		pixelBox [ 772 , 521 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 772 , 522 , 47 , 33 ]
+		pixelBox [ 772 , 521 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 772 , 522 , 47 , 33 ]
+		pixelBox [ 772 , 521 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 772 , 522 , 47 , 33 ]
+		pixelBox [ 772 , 521 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 772 , 522 , 47 , 33 ]
+		pixelBox [ 772 , 521 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_SHAREDNETWORK"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 772 , 559 , 47 , 33 ]
+		pixelBox [ 772 , 558 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 772 , 559 , 47 , 33 ]
+		pixelBox [ 772 , 558 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 772 , 559 , 47 , 33 ]
+		pixelBox [ 772 , 558 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 772 , 559 , 47 , 33 ]
+		pixelBox [ 772 , 558 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 772 , 559 , 47 , 33 ]
+		pixelBox [ 772 , 558 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ALLFORONE"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 772 , 596 , 47 , 33 ]
+		pixelBox [ 772 , 595 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 772 , 596 , 47 , 33 ]
+		pixelBox [ 772 , 595 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 772 , 596 , 47 , 33 ]
+		pixelBox [ 772 , 595 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 772 , 596 , 47 , 33 ]
+		pixelBox [ 772 , 595 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 772 , 596 , 47 , 33 ]
+		pixelBox [ 772 , 595 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PHASICSTRIKE"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 772 , 633 , 47 , 33 ]
+		pixelBox [ 772 , 632 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 772 , 633 , 47 , 33 ]
+		pixelBox [ 772 , 632 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 772 , 633 , 47 , 33 ]
+		pixelBox [ 772 , 632 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 772 , 633 , 47 , 33 ]
+		pixelBox [ 772 , 632 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 772 , 633 , 47 , 33 ]
+		pixelBox [ 772 , 632 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_FRIENDLYJUMPTELEMETRY"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 772 , 670 , 47 , 33 ]
+		pixelBox [ 772 , 669 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 772 , 670 , 47 , 33 ]
+		pixelBox [ 772 , 669 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 772 , 670 , 47 , 33 ]
+		pixelBox [ 772 , 669 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 772 , 670 , 47 , 33 ]
+		pixelBox [ 772 , 669 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 772 , 670 , 47 , 33 ]
+		pixelBox [ 772 , 669 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_SHAREDSHIELDTECH"
 	content "States"
@@ -726,55 +726,55 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 823 , 559 , 47 , 33 ]
+		pixelBox [ 823 , 558 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 823 , 559 , 47 , 33 ]
+		pixelBox [ 823 , 558 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 823 , 559 , 47 , 33 ]
+		pixelBox [ 823 , 558 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 823 , 559 , 47 , 33 ]
+		pixelBox [ 823 , 558 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 823 , 559 , 47 , 33 ]
+		pixelBox [ 823 , 558 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ARMORRESTORATION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 823 , 596 , 47 , 33 ]
+		pixelBox [ 823 , 595 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 823 , 596 , 47 , 33 ]
+		pixelBox [ 823 , 595 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 823 , 596 , 47 , 33 ]
+		pixelBox [ 823 , 595 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 823 , 596 , 47 , 33 ]
+		pixelBox [ 823 , 595 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 823 , 596 , 47 , 33 ]
+		pixelBox [ 823 , 595 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_STARBASEMOBILIZATION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 823 , 633 , 47 , 33 ]
+		pixelBox [ 823 , 632 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 823 , 633 , 47 , 33 ]
+		pixelBox [ 823 , 632 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 823 , 633 , 47 , 33 ]
+		pixelBox [ 823 , 632 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 823 , 633 , 47 , 33 ]
+		pixelBox [ 823 , 632 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 823 , 633 , 47 , 33 ]
+		pixelBox [ 823 , 632 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_VASARI_LOYALIST_CORVETTE"
 	content "States"
@@ -798,109 +798,109 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 619 , 522 , 47 , 33 ]
+		pixelBox [ 619 , 521 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 619 , 522 , 47 , 33 ]
+		pixelBox [ 619 , 521 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 619 , 522 , 47 , 33 ]
+		pixelBox [ 619 , 521 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 619 , 522 , 47 , 33 ]
+		pixelBox [ 619 , 521 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 619 , 522 , 47 , 33 ]
+		pixelBox [ 619 , 521 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_SOLITARYPATH"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 619 , 559 , 47 , 33 ]
+		pixelBox [ 619 , 558 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 619 , 559 , 47 , 33 ]
+		pixelBox [ 619 , 558 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 619 , 559 , 47 , 33 ]
+		pixelBox [ 619 , 558 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 619 , 559 , 47 , 33 ]
+		pixelBox [ 619 , 558 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 619 , 559 , 47 , 33 ]
+		pixelBox [ 619 , 558 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_SHIPBOARDLABS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 619 , 596 , 47 , 33 ]
+		pixelBox [ 619 , 595 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 619 , 596 , 47 , 33 ]
+		pixelBox [ 619 , 595 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 619 , 596 , 47 , 33 ]
+		pixelBox [ 619 , 595 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 619 , 596 , 47 , 33 ]
+		pixelBox [ 619 , 595 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 619 , 596 , 47 , 33 ]
+		pixelBox [ 619 , 595 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_SHIPBOARDLABS_2"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 619 , 707 , 47 , 33 ]
+		pixelBox [ 619 , 706 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 619 , 707 , 47 , 33 ]
+		pixelBox [ 619 , 706 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 619 , 707 , 47 , 33 ]
+		pixelBox [ 619 , 706 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 619 , 707 , 47 , 33 ]
+		pixelBox [ 619 , 706 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 619 , 707 , 47 , 33 ]
+		pixelBox [ 619 , 706 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_MOBILERULERSHIP"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 619 , 633 , 47 , 33 ]
+		pixelBox [ 619 , 632 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 619 , 633 , 47 , 33 ]
+		pixelBox [ 619 , 632 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 619 , 633 , 47 , 33 ]
+		pixelBox [ 619 , 632 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 619 , 633 , 47 , 33 ]
+		pixelBox [ 619 , 632 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 619 , 633 , 47 , 33 ]
+		pixelBox [ 619 , 632 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ENERGETICPULSECHARGING"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 619 , 670 , 47 , 33 ]
+		pixelBox [ 619 , 669 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 619 , 670 , 47 , 33 ]
+		pixelBox [ 619 , 669 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 619 , 670 , 47 , 33 ]
+		pixelBox [ 619 , 669 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 619 , 670 , 47 , 33 ]
+		pixelBox [ 619 , 669 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 619 , 670 , 47 , 33 ]
+		pixelBox [ 619 , 669 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_JUMPSTABILIZATION"
 	content "States"
@@ -942,73 +942,73 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 670 , 559 , 47 , 33 ]
+		pixelBox [ 670 , 558 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 670 , 559 , 47 , 33 ]
+		pixelBox [ 670 , 558 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 670 , 559 , 47 , 33 ]
+		pixelBox [ 670 , 558 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 670 , 559 , 47 , 33 ]
+		pixelBox [ 670 , 558 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 670 , 559 , 47 , 33 ]
+		pixelBox [ 670 , 558 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ACCELERATEWAVECANNONS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 670 , 596 , 47 , 33 ]
+		pixelBox [ 670 , 595 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 670 , 596 , 47 , 33 ]
+		pixelBox [ 670 , 595 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 670 , 596 , 47 , 33 ]
+		pixelBox [ 670 , 595 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 670 , 596 , 47 , 33 ]
+		pixelBox [ 670 , 595 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 670 , 596 , 47 , 33 ]
+		pixelBox [ 670 , 595 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_REGENERATIVEHULLS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 670 , 633 , 47 , 33 ]
+		pixelBox [ 670 , 632 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 670 , 633 , 47 , 33 ]
+		pixelBox [ 670 , 632 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 670 , 633 , 47 , 33 ]
+		pixelBox [ 670 , 632 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 670 , 633 , 47 , 33 ]
+		pixelBox [ 670 , 632 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 670 , 633 , 47 , 33 ]
+		pixelBox [ 670 , 632 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_STRIPPEDTOTHECORE"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 670 , 670 , 47 , 33 ]
+		pixelBox [ 670 , 669 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 670 , 670 , 47 , 33 ]
+		pixelBox [ 670 , 669 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 670 , 670 , 47 , 33 ]
+		pixelBox [ 670 , 669 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 670 , 670 , 47 , 33 ]
+		pixelBox [ 670 , 669 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 670 , 670 , 47 , 33 ]
+		pixelBox [ 670 , 669 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PROTECTIONOFTHEUNITY"
 	content "States"
@@ -1032,19 +1032,19 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 517 , 522 , 47 , 33 ]
+		pixelBox [ 517 , 521 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 517 , 522 , 47 , 33 ]
+		pixelBox [ 517 , 521 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 517 , 522 , 47 , 33 ]
+		pixelBox [ 517 , 521 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 517 , 522 , 47 , 33 ]
+		pixelBox [ 517 , 521 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 517 , 522 , 47 , 33 ]
+		pixelBox [ 517 , 521 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_TITAN_PSIREBEL"
 	content "States"
@@ -1068,19 +1068,19 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 517 , 596 , 47 , 33 ]
+		pixelBox [ 517 , 595 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 517 , 596 , 47 , 33 ]
+		pixelBox [ 517 , 595 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 517 , 596 , 47 , 33 ]
+		pixelBox [ 517 , 595 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 517 , 596 , 47 , 33 ]
+		pixelBox [ 517 , 595 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 517 , 596 , 47 , 33 ]
+		pixelBox [ 517 , 595 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_RETURNOFTHEFALLEN"
 	content "States"
@@ -1104,91 +1104,91 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 466 , 522 , 47 , 33 ]
+		pixelBox [ 466 , 521 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 466 , 522 , 47 , 33 ]
+		pixelBox [ 466 , 521 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 466 , 522 , 47 , 33 ]
+		pixelBox [ 466 , 521 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 466 , 522 , 47 , 33 ]
+		pixelBox [ 466 , 521 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 466 , 522 , 47 , 33 ]
+		pixelBox [ 466 , 521 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_REANIMATION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 466 , 559 , 47 , 33 ]
+		pixelBox [ 466 , 558 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 466 , 559 , 47 , 33 ]
+		pixelBox [ 466 , 558 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 466 , 559 , 47 , 33 ]
+		pixelBox [ 466 , 558 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 466 , 559 , 47 , 33 ]
+		pixelBox [ 466 , 558 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 466 , 559 , 47 , 33 ]
+		pixelBox [ 466 , 558 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_WAILOFTHESACRAFICED"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 466 , 596 , 47 , 33 ]
+		pixelBox [ 466 , 595 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 466 , 596 , 47 , 33 ]
+		pixelBox [ 466 , 595 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 466 , 596 , 47 , 33 ]
+		pixelBox [ 466 , 595 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 466 , 596 , 47 , 33 ]
+		pixelBox [ 466 , 595 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 466 , 596 , 47 , 33 ]
+		pixelBox [ 466 , 595 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ADVENT_REBEL_CORVETTE"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 466 , 633 , 47 , 33 ]
+		pixelBox [ 466 , 632 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 466 , 633 , 47 , 33 ]
+		pixelBox [ 466 , 632 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 466 , 633 , 47 , 33 ]
+		pixelBox [ 466 , 632 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 466 , 633 , 47 , 33 ]
+		pixelBox [ 466 , 632 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 466 , 633 , 47 , 33 ]
+		pixelBox [ 466 , 632 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_CLEANSEANDRENEW"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 466 , 670 , 47 , 33 ]
+		pixelBox [ 466 , 669 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 466 , 670 , 47 , 33 ]
+		pixelBox [ 466 , 669 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 466 , 670 , 47 , 33 ]
+		pixelBox [ 466 , 669 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 466 , 670 , 47 , 33 ]
+		pixelBox [ 466 , 669 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 466 , 670 , 47 , 33 ]
+		pixelBox [ 466 , 669 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ACCLIMATIZATIONOFWILL"
 	content "States"
@@ -1212,73 +1212,73 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 313 , 522 , 47 , 33 ]
+		pixelBox [ 313 , 521 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 313 , 522 , 47 , 33 ]
+		pixelBox [ 313 , 521 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 313 , 522 , 47 , 33 ]
+		pixelBox [ 313 , 521 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 522 , 47 , 33 ]
+		pixelBox [ 313 , 521 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 522 , 47 , 33 ]
+		pixelBox [ 313 , 521 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ADVENT_LOYALIST_CORVETTE"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 313 , 559 , 47 , 33 ]
+		pixelBox [ 313 , 558 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 313 , 559 , 47 , 33 ]
+		pixelBox [ 313 , 558 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 313 , 559 , 47 , 33 ]
+		pixelBox [ 313 , 558 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 559 , 47 , 33 ]
+		pixelBox [ 313 , 558 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 559 , 47 , 33 ]
+		pixelBox [ 313 , 558 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PLANETFORAPLANET"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 313 , 596 , 47 , 33 ]
+		pixelBox [ 313 , 595 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 313 , 596 , 47 , 33 ]
+		pixelBox [ 313 , 595 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 313 , 596 , 47 , 33 ]
+		pixelBox [ 313 , 595 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 596 , 47 , 33 ]
+		pixelBox [ 313 , 595 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 596 , 47 , 33 ]
+		pixelBox [ 313 , 595 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_MINECONTROL"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 313 , 633 , 47 , 33 ]
+		pixelBox [ 313 , 632 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 313 , 633 , 47 , 33 ]
+		pixelBox [ 313 , 632 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 313 , 633 , 47 , 33 ]
+		pixelBox [ 313 , 632 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 633 , 47 , 33 ]
+		pixelBox [ 313 , 632 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 633 , 47 , 33 ]
+		pixelBox [ 313 , 632 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_GLOBALUNITY"
 	content "States"
@@ -1302,55 +1302,55 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 364 , 522 , 47 , 33 ]
+		pixelBox [ 364 , 521 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 364 , 522 , 47 , 33 ]
+		pixelBox [ 364 , 521 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 364 , 522 , 47 , 33 ]
+		pixelBox [ 364 , 521 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 522 , 47 , 33 ]
+		pixelBox [ 364 , 521 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 522 , 47 , 33 ]
+		pixelBox [ 364 , 521 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ANCIENTRETRIBUTION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 364 , 559 , 47 , 33 ]
+		pixelBox [ 364 , 558 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 364 , 559 , 47 , 33 ]
+		pixelBox [ 364 , 558 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 364 , 559 , 47 , 33 ]
+		pixelBox [ 364 , 558 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 559 , 47 , 33 ]
+		pixelBox [ 364 , 558 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 559 , 47 , 33 ]
+		pixelBox [ 364 , 558 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_COWARDSSUBMISSION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 364 , 596 , 47 , 33 ]
+		pixelBox [ 364 , 595 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 364 , 596 , 47 , 33 ]
+		pixelBox [ 364 , 595 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 364 , 596 , 47 , 33 ]
+		pixelBox [ 364 , 595 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 596 , 47 , 33 ]
+		pixelBox [ 364 , 595 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 596 , 47 , 33 ]
+		pixelBox [ 364 , 595 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_TITAN_PSILOYALIST"
 	content "States"
@@ -1374,19 +1374,19 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 364 , 670 , 47 , 33 ]
+		pixelBox [ 364 , 669 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 364 , 670 , 47 , 33 ]
+		pixelBox [ 364 , 669 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 364 , 670 , 47 , 33 ]
+		pixelBox [ 364 , 669 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 670 , 47 , 33 ]
+		pixelBox [ 364 , 669 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 670 , 47 , 33 ]
+		pixelBox [ 364 , 669 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_EXTREMEXENOPHOBIA"
 	content "States"
@@ -1410,37 +1410,37 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 211 , 522 , 47 , 33 ]
+		pixelBox [ 211 , 521 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 211 , 522 , 47 , 33 ]
+		pixelBox [ 211 , 521 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 211 , 522 , 47 , 33 ]
+		pixelBox [ 211 , 521 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 522 , 47 , 33 ]
+		pixelBox [ 211 , 521 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 522 , 47 , 33 ]
+		pixelBox [ 211 , 521 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PIRATEMERCENARIES"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 211 , 559 , 47 , 33 ]
+		pixelBox [ 211 , 558 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 211 , 559 , 47 , 33 ]
+		pixelBox [ 211 , 558 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 211 , 559 , 47 , 33 ]
+		pixelBox [ 211 , 558 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 559 , 47 , 33 ]
+		pixelBox [ 211 , 558 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 559 , 47 , 33 ]
+		pixelBox [ 211 , 558 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_TITAN_TECHREBEL"
 	content "States"
@@ -1464,19 +1464,19 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 211 , 633 , 47 , 33 ]
+		pixelBox [ 211 , 632 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 211 , 633 , 47 , 33 ]
+		pixelBox [ 211 , 632 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 211 , 633 , 47 , 33 ]
+		pixelBox [ 211 , 632 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 633 , 47 , 33 ]
+		pixelBox [ 211 , 632 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 633 , 47 , 33 ]
+		pixelBox [ 211 , 632 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_SAVAGETHRILL"
 	content "States"
@@ -1500,91 +1500,91 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 160 , 522 , 47 , 33 ]
+		pixelBox [ 160 , 521 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 160 , 522 , 47 , 33 ]
+		pixelBox [ 160 , 521 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 160 , 522 , 47 , 33 ]
+		pixelBox [ 160 , 521 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 522 , 47 , 33 ]
+		pixelBox [ 160 , 521 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 522 , 47 , 33 ]
+		pixelBox [ 160 , 521 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_TECH_REBEL_CORVETTE"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 160 , 559 , 47 , 33 ]
+		pixelBox [ 160 , 558 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 160 , 559 , 47 , 33 ]
+		pixelBox [ 160 , 558 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 160 , 559 , 47 , 33 ]
+		pixelBox [ 160 , 558 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 559 , 47 , 33 ]
+		pixelBox [ 160 , 558 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 559 , 47 , 33 ]
+		pixelBox [ 160 , 558 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_WARHEADSPLINTERING"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 160 , 596 , 47 , 33 ]
+		pixelBox [ 160 , 595 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 160 , 596 , 47 , 33 ]
+		pixelBox [ 160 , 595 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 160 , 596 , 47 , 33 ]
+		pixelBox [ 160 , 595 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 596 , 47 , 33 ]
+		pixelBox [ 160 , 595 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 596 , 47 , 33 ]
+		pixelBox [ 160 , 595 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_TRUCEAMONGSTROGUES"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 160 , 633 , 47 , 33 ]
+		pixelBox [ 160 , 632 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 160 , 633 , 47 , 33 ]
+		pixelBox [ 160 , 632 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 160 , 633 , 47 , 33 ]
+		pixelBox [ 160 , 632 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 633 , 47 , 33 ]
+		pixelBox [ 160 , 632 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 633 , 47 , 33 ]
+		pixelBox [ 160 , 632 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PILLAGEDWARCHEST"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 160 , 670 , 47 , 33 ]
+		pixelBox [ 160 , 669 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 160 , 670 , 47 , 33 ]
+		pixelBox [ 160 , 669 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 160 , 670 , 47 , 33 ]
+		pixelBox [ 160 , 669 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 670 , 47 , 33 ]
+		pixelBox [ 160 , 669 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 670 , 47 , 33 ]
+		pixelBox [ 160 , 669 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_BATTLEFIELDPROMOTIONS"
 	content "States"
@@ -1608,19 +1608,19 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 58 , 522 , 47 , 33 ]
+		pixelBox [ 58 , 521 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 58 , 522 , 47 , 33 ]
+		pixelBox [ 58 , 521 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 58 , 522 , 47 , 33 ]
+		pixelBox [ 58 , 521 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 522 , 47 , 33 ]
+		pixelBox [ 58 , 521 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 522 , 47 , 33 ]
+		pixelBox [ 58 , 521 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_TITAN_TECHLOYALIST"
 	content "States"
@@ -1644,37 +1644,37 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 58 , 596 , 47 , 33 ]
+		pixelBox [ 58 , 595 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 58 , 596 , 47 , 33 ]
+		pixelBox [ 58 , 595 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 58 , 596 , 47 , 33 ]
+		pixelBox [ 58 , 595 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 596 , 47 , 33 ]
+		pixelBox [ 58 , 595 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 596 , 47 , 33 ]
+		pixelBox [ 58 , 595 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_TWINFORTRESSES"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 58 , 633 , 47 , 33 ]
+		pixelBox [ 58 , 632 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 58 , 633 , 47 , 33 ]
+		pixelBox [ 58 , 632 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 58 , 633 , 47 , 33 ]
+		pixelBox [ 58 , 632 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 633 , 47 , 33 ]
+		pixelBox [ 58 , 632 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 633 , 47 , 33 ]
+		pixelBox [ 58 , 632 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_WARMEASURESACT"
 	content "States"
@@ -1698,91 +1698,91 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 7 , 522 , 47 , 33 ]
+		pixelBox [ 7 , 521 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 7 , 522 , 47 , 33 ]
+		pixelBox [ 7 , 521 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 7 , 522 , 47 , 33 ]
+		pixelBox [ 7 , 521 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 522 , 47 , 33 ]
+		pixelBox [ 7 , 521 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 522 , 47 , 33 ]
+		pixelBox [ 7 , 521 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_MILITAWEAPONRY"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 7 , 559 , 47 , 33 ]
+		pixelBox [ 7 , 558 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 7 , 559 , 47 , 33 ]
+		pixelBox [ 7 , 558 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 7 , 559 , 47 , 33 ]
+		pixelBox [ 7 , 558 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 559 , 47 , 33 ]
+		pixelBox [ 7 , 558 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 559 , 47 , 33 ]
+		pixelBox [ 7 , 558 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_MILITIAARMOR"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 7 , 596 , 47 , 33 ]
+		pixelBox [ 7 , 595 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 7 , 596 , 47 , 33 ]
+		pixelBox [ 7 , 595 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 7 , 596 , 47 , 33 ]
+		pixelBox [ 7 , 595 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 596 , 47 , 33 ]
+		pixelBox [ 7 , 595 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 596 , 47 , 33 ]
+		pixelBox [ 7 , 595 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_TECH_LOYALIST_CORVET"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 7 , 633 , 47 , 33 ]
+		pixelBox [ 7 , 632 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 7 , 633 , 47 , 33 ]
+		pixelBox [ 7 , 632 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 7 , 633 , 47 , 33 ]
+		pixelBox [ 7 , 632 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 633 , 47 , 33 ]
+		pixelBox [ 7 , 632 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 633 , 47 , 33 ]
+		pixelBox [ 7 , 632 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_NOVALITH_DEREGULATION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 7 , 670 , 47 , 33 ]
+		pixelBox [ 7 , 669 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 7 , 670 , 47 , 33 ]
+		pixelBox [ 7 , 669 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 7 , 670 , 47 , 33 ]
+		pixelBox [ 7 , 669 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 670 , 47 , 33 ]
+		pixelBox [ 7 , 669 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 670 , 47 , 33 ]
+		pixelBox [ 7 , 669 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ARTIFACT_GALAXYTRAVEL"
 	content "Simple"
@@ -8226,109 +8226,109 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 7 , 4 , 47 , 33 ]
+		pixelBox [ 7 , 3 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 7 , 4 , 47 , 33 ]
+		pixelBox [ 7 , 3 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 7 , 4 , 47 , 33 ]
+		pixelBox [ 7 , 3 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 4 , 47 , 33 ]
+		pixelBox [ 7 , 3 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 4 , 47 , 33 ]
+		pixelBox [ 7 , 3 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ENVOY_PROTOTYPE"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 58 , 4 , 47 , 33 ]
+		pixelBox [ 58 , 3 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 58 , 4 , 47 , 33 ]
+		pixelBox [ 58 , 3 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 58 , 4 , 47 , 33 ]
+		pixelBox [ 58 , 3 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 4 , 47 , 33 ]
+		pixelBox [ 58 , 3 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 4 , 47 , 33 ]
+		pixelBox [ 58 , 3 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_DIPLOMATIC_DELEGATION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_UNIVERSAL_NEGOTIATION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 7 , 41 , 47 , 33 ]
+		pixelBox [ 7 , 40 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 7 , 41 , 47 , 33 ]
+		pixelBox [ 7 , 40 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 7 , 41 , 47 , 33 ]
+		pixelBox [ 7 , 40 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 41 , 47 , 33 ]
+		pixelBox [ 7 , 40 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 41 , 47 , 33 ]
+		pixelBox [ 7 , 40 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_BOUNTY_HUNTING"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 58 , 41 , 47 , 33 ]
+		pixelBox [ 58 , 40 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 58 , 41 , 47 , 33 ]
+		pixelBox [ 58 , 40 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 58 , 41 , 47 , 33 ]
+		pixelBox [ 58 , 40 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 41 , 47 , 33 ]
+		pixelBox [ 58 , 40 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 41 , 47 , 33 ]
+		pixelBox [ 58 , 40 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_FOREIGN_GOODS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 107 , 41 , 47 , 33 ]
+		pixelBox [ 107 , 40 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 107 , 41 , 47 , 33 ]
+		pixelBox [ 107 , 40 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 107 , 41 , 47 , 33 ]
+		pixelBox [ 107 , 40 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 107 , 41 , 47 , 33 ]
+		pixelBox [ 107 , 40 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 107 , 41 , 47 , 33 ]
+		pixelBox [ 107 , 40 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_TRADE_PACTS"
 	content "States"
@@ -8388,1312 +8388,1312 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 7 , 115 , 47 , 33 ]
+		pixelBox [ 7 , 114 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 7 , 115 , 47 , 33 ]
+		pixelBox [ 7 , 114 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 7 , 115 , 47 , 33 ]
+		pixelBox [ 7 , 114 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 115 , 47 , 33 ]
+		pixelBox [ 7 , 114 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 115 , 47 , 33 ]
+		pixelBox [ 7 , 114 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_INTER_SPECIES_LINGUISTICS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 313 , 4 , 47 , 33 ]
+		pixelBox [ 313 , 3 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 313 , 4 , 47 , 33 ]
+		pixelBox [ 313 , 3 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 313 , 4 , 47 , 33 ]
+		pixelBox [ 313 , 3 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 4 , 47 , 33 ]
+		pixelBox [ 313 , 3 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 4 , 47 , 33 ]
+		pixelBox [ 313 , 3 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ENVOY_PROTOTYPE_VASARI"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 7 , 115 , 47 , 33 ]
+		pixelBox [ 7 , 114 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 7 , 115 , 47 , 33 ]
+		pixelBox [ 7 , 114 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 7 , 115 , 47 , 33 ]
+		pixelBox [ 7 , 114 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 115 , 47 , 33 ]
+		pixelBox [ 7 , 114 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 115 , 47 , 33 ]
+		pixelBox [ 7 , 114 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_DIPLOMATIC_EXCHANGE"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_XENO_MANIPULATION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 364 , 4 , 47 , 33 ]
+		pixelBox [ 364 , 3 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 364 , 4 , 47 , 33 ]
+		pixelBox [ 364 , 3 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 364 , 4 , 47 , 33 ]
+		pixelBox [ 364 , 3 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 4 , 47 , 33 ]
+		pixelBox [ 364 , 3 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 4 , 47 , 33 ]
+		pixelBox [ 364 , 3 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ADVANCED_XENO_MANIPULATION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 415 , 4 , 47 , 33 ]
+		pixelBox [ 415 , 3 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 415 , 4 , 47 , 33 ]
+		pixelBox [ 415 , 3 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 415 , 4 , 47 , 33 ]
+		pixelBox [ 415 , 3 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 415 , 4 , 47 , 33 ]
+		pixelBox [ 415 , 3 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 415 , 4 , 47 , 33 ]
+		pixelBox [ 415 , 3 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_XENO_TRADE_REGIMEN"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 364 , 41 , 47 , 33 ]
+		pixelBox [ 364 , 40 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 364 , 41 , 47 , 33 ]
+		pixelBox [ 364 , 40 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 364 , 41 , 47 , 33 ]
+		pixelBox [ 364 , 40 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 41 , 47 , 33 ]
+		pixelBox [ 364 , 40 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 41 , 47 , 33 ]
+		pixelBox [ 364 , 40 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_XENO_TRADE_PACT"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 313 , 41 , 47 , 33 ]
+		pixelBox [ 313 , 40 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 313 , 41 , 47 , 33 ]
+		pixelBox [ 313 , 40 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 313 , 41 , 47 , 33 ]
+		pixelBox [ 313 , 40 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 41 , 47 , 33 ]
+		pixelBox [ 313 , 40 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 41 , 47 , 33 ]
+		pixelBox [ 313 , 40 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_INFILTRATION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 415 , 41 , 47 , 33 ]
+		pixelBox [ 415 , 40 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 415 , 41 , 47 , 33 ]
+		pixelBox [ 415 , 40 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 415 , 41 , 47 , 33 ]
+		pixelBox [ 415 , 40 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 415 , 41 , 47 , 33 ]
+		pixelBox [ 415 , 40 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 415 , 41 , 47 , 33 ]
+		pixelBox [ 415 , 40 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_INFORMANT_NETWORK"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 364 , 78 , 47 , 33 ]
+		pixelBox [ 364 , 77 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 364 , 78 , 47 , 33 ]
+		pixelBox [ 364 , 77 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 364 , 78 , 47 , 33 ]
+		pixelBox [ 364 , 77 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 78 , 47 , 33 ]
+		pixelBox [ 364 , 77 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 78 , 47 , 33 ]
+		pixelBox [ 364 , 77 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_MILITARY_LIAISON"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 313 , 78 , 47 , 33 ]
+		pixelBox [ 313 , 77 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 313 , 78 , 47 , 33 ]
+		pixelBox [ 313 , 77 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 313 , 78 , 47 , 33 ]
+		pixelBox [ 313 , 77 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 78 , 47 , 33 ]
+		pixelBox [ 313 , 77 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 78 , 47 , 33 ]
+		pixelBox [ 313 , 77 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PERCEPTION_MATRIX"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 160 , 4 , 47 , 33 ]
+		pixelBox [ 160 , 3 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 160 , 4 , 47 , 33 ]
+		pixelBox [ 160 , 3 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 160 , 4 , 47 , 33 ]
+		pixelBox [ 160 , 3 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 4 , 47 , 33 ]
+		pixelBox [ 160 , 3 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 4 , 47 , 33 ]
+		pixelBox [ 160 , 3 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ENVOY_PROTOTYPE_ADVENT"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 7 , 115 , 47 , 33 ]
+		pixelBox [ 7 , 114 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 7 , 115 , 47 , 33 ]
+		pixelBox [ 7 , 114 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 7 , 115 , 47 , 33 ]
+		pixelBox [ 7 , 114 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 115 , 47 , 33 ]
+		pixelBox [ 7 , 114 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 115 , 47 , 33 ]
+		pixelBox [ 7 , 114 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_UNITY_OUTREACH"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_OVERTURES"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 211 , 4 , 47 , 33 ]
+		pixelBox [ 211 , 3 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 211 , 4 , 47 , 33 ]
+		pixelBox [ 211 , 3 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 211 , 4 , 47 , 33 ]
+		pixelBox [ 211 , 3 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 4 , 47 , 33 ]
+		pixelBox [ 211 , 3 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 4 , 47 , 33 ]
+		pixelBox [ 211 , 3 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_VENDETTA"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 262 , 4 , 47 , 33 ]
+		pixelBox [ 262 , 3 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 262 , 4 , 47 , 33 ]
+		pixelBox [ 262 , 3 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 262 , 4 , 47 , 33 ]
+		pixelBox [ 262 , 3 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 262 , 4 , 47 , 33 ]
+		pixelBox [ 262 , 3 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 262 , 4 , 47 , 33 ]
+		pixelBox [ 262 , 3 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_TRADE_MATRIX"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 211 , 41 , 47 , 33 ]
+		pixelBox [ 211 , 40 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 211 , 41 , 47 , 33 ]
+		pixelBox [ 211 , 40 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 211 , 41 , 47 , 33 ]
+		pixelBox [ 211 , 40 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 41 , 47 , 33 ]
+		pixelBox [ 211 , 40 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 41 , 47 , 33 ]
+		pixelBox [ 211 , 40 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_COMMON_FUTURE"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 160 , 41 , 47 , 33 ]
+		pixelBox [ 160 , 40 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 160 , 41 , 47 , 33 ]
+		pixelBox [ 160 , 40 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 160 , 41 , 47 , 33 ]
+		pixelBox [ 160 , 40 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 41 , 47 , 33 ]
+		pixelBox [ 160 , 40 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 41 , 47 , 33 ]
+		pixelBox [ 160 , 40 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_UNITY_INFLUENCE"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 262 , 41 , 47 , 33 ]
+		pixelBox [ 262 , 40 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 262 , 41 , 47 , 33 ]
+		pixelBox [ 262 , 40 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 262 , 41 , 47 , 33 ]
+		pixelBox [ 262 , 40 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 262 , 41 , 47 , 33 ]
+		pixelBox [ 262 , 40 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 262 , 41 , 47 , 33 ]
+		pixelBox [ 262 , 40 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PSI_DETECTION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 160 , 78 , 47 , 33 ]
+		pixelBox [ 160 , 77 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 160 , 78 , 47 , 33 ]
+		pixelBox [ 160 , 77 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 160 , 78 , 47 , 33 ]
+		pixelBox [ 160 , 77 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 78 , 47 , 33 ]
+		pixelBox [ 160 , 77 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 78 , 47 , 33 ]
+		pixelBox [ 160 , 77 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_SHARED_WILL"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 211 , 78 , 47 , 33 ]
+		pixelBox [ 211 , 77 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 211 , 78 , 47 , 33 ]
+		pixelBox [ 211 , 77 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 211 , 78 , 47 , 33 ]
+		pixelBox [ 211 , 77 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 78 , 47 , 33 ]
+		pixelBox [ 211 , 77 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 78 , 47 , 33 ]
+		pixelBox [ 211 , 77 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_SETTLERS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 7 , 152 , 47 , 33 ]
+		pixelBox [ 7 , 151 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 7 , 152 , 47 , 33 ]
+		pixelBox [ 7 , 151 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 7 , 152 , 47 , 33 ]
+		pixelBox [ 7 , 151 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 152 , 47 , 33 ]
+		pixelBox [ 7 , 151 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 152 , 47 , 33 ]
+		pixelBox [ 7 , 151 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_WORTHY_CAUSE"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 58 , 152 , 47 , 33 ]
+		pixelBox [ 58 , 151 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 58 , 152 , 47 , 33 ]
+		pixelBox [ 58 , 151 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 58 , 152 , 47 , 33 ]
+		pixelBox [ 58 , 151 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 152 , 47 , 33 ]
+		pixelBox [ 58 , 151 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 152 , 47 , 33 ]
+		pixelBox [ 58 , 151 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_CULTURAL_ASSISTANCE"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 160 , 115 , 47 , 33 ]
+		pixelBox [ 160 , 114 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 160 , 115 , 47 , 33 ]
+		pixelBox [ 160 , 114 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 160 , 115 , 47 , 33 ]
+		pixelBox [ 160 , 114 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 115 , 47 , 33 ]
+		pixelBox [ 160 , 114 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 115 , 47 , 33 ]
+		pixelBox [ 160 , 114 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_SACRIFICE"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 211 , 115 , 47 , 33 ]
+		pixelBox [ 211 , 114 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 211 , 115 , 47 , 33 ]
+		pixelBox [ 211 , 114 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 211 , 115 , 47 , 33 ]
+		pixelBox [ 211 , 114 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 115 , 47 , 33 ]
+		pixelBox [ 211 , 114 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 115 , 47 , 33 ]
+		pixelBox [ 211 , 114 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_GRANT_AMNESTY"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 313 , 115 , 47 , 33 ]
+		pixelBox [ 313 , 114 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 313 , 115 , 47 , 33 ]
+		pixelBox [ 313 , 114 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 313 , 115 , 47 , 33 ]
+		pixelBox [ 313 , 114 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 115 , 47 , 33 ]
+		pixelBox [ 313 , 114 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 115 , 47 , 33 ]
+		pixelBox [ 313 , 114 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_MUTUAL_THREAT"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 364 , 115 , 47 , 33 ]
+		pixelBox [ 364 , 114 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 364 , 115 , 47 , 33 ]
+		pixelBox [ 364 , 114 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 364 , 115 , 47 , 33 ]
+		pixelBox [ 364 , 114 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 115 , 47 , 33 ]
+		pixelBox [ 364 , 114 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 115 , 47 , 33 ]
+		pixelBox [ 364 , 114 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_TRADE"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 7 , 189 , 47 , 33 ]
+		pixelBox [ 7 , 188 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 7 , 189 , 47 , 33 ]
+		pixelBox [ 7 , 188 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 7 , 189 , 47 , 33 ]
+		pixelBox [ 7 , 188 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 189 , 47 , 33 ]
+		pixelBox [ 7 , 188 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 189 , 47 , 33 ]
+		pixelBox [ 7 , 188 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_PLANETBOMBING"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 7 , 226 , 47 , 33 ]
+		pixelBox [ 7 , 225 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 7 , 226 , 47 , 33 ]
+		pixelBox [ 7 , 225 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 7 , 226 , 47 , 33 ]
+		pixelBox [ 7 , 225 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 226 , 47 , 33 ]
+		pixelBox [ 7 , 225 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 226 , 47 , 33 ]
+		pixelBox [ 7 , 225 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_METAL"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 58 , 189 , 47 , 33 ]
+		pixelBox [ 58 , 188 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 58 , 189 , 47 , 33 ]
+		pixelBox [ 58 , 188 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 58 , 189 , 47 , 33 ]
+		pixelBox [ 58 , 188 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 189 , 47 , 33 ]
+		pixelBox [ 58 , 188 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 189 , 47 , 33 ]
+		pixelBox [ 58 , 188 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_ARMOR"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 58 , 226 , 47 , 33 ]
+		pixelBox [ 58 , 225 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 58 , 226 , 47 , 33 ]
+		pixelBox [ 58 , 225 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 58 , 226 , 47 , 33 ]
+		pixelBox [ 58 , 225 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 226 , 47 , 33 ]
+		pixelBox [ 58 , 225 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 226 , 47 , 33 ]
+		pixelBox [ 58 , 225 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_THRUSTER"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 109 , 189 , 47 , 33 ]
+		pixelBox [ 109 , 188 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 109 , 189 , 47 , 33 ]
+		pixelBox [ 109 , 188 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 109 , 189 , 47 , 33 ]
+		pixelBox [ 109 , 188 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 189 , 47 , 33 ]
+		pixelBox [ 109 , 188 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 189 , 47 , 33 ]
+		pixelBox [ 109 , 188 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_SUPPLY"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 109 , 226 , 47 , 33 ]
+		pixelBox [ 109 , 225 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 109 , 226 , 47 , 33 ]
+		pixelBox [ 109 , 225 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 109 , 226 , 47 , 33 ]
+		pixelBox [ 109 , 225 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 226 , 47 , 33 ]
+		pixelBox [ 109 , 225 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 226 , 47 , 33 ]
+		pixelBox [ 109 , 225 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_CULTURE"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 160 , 189 , 47 , 33 ]
+		pixelBox [ 160 , 188 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 160 , 189 , 47 , 33 ]
+		pixelBox [ 160 , 188 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 160 , 189 , 47 , 33 ]
+		pixelBox [ 160 , 188 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 189 , 47 , 33 ]
+		pixelBox [ 160 , 188 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 189 , 47 , 33 ]
+		pixelBox [ 160 , 188 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_BEAM"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 160 , 226 , 47 , 33 ]
+		pixelBox [ 160 , 225 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 160 , 226 , 47 , 33 ]
+		pixelBox [ 160 , 225 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 160 , 226 , 47 , 33 ]
+		pixelBox [ 160 , 225 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 226 , 47 , 33 ]
+		pixelBox [ 160 , 225 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 226 , 47 , 33 ]
+		pixelBox [ 160 , 225 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_RESEARCH"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 211 , 189 , 47 , 33 ]
+		pixelBox [ 211 , 188 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 211 , 189 , 47 , 33 ]
+		pixelBox [ 211 , 188 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 211 , 189 , 47 , 33 ]
+		pixelBox [ 211 , 188 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 189 , 47 , 33 ]
+		pixelBox [ 211 , 188 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 189 , 47 , 33 ]
+		pixelBox [ 211 , 188 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_STRIKECRAFT"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 211 , 226 , 47 , 33 ]
+		pixelBox [ 211 , 225 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 211 , 226 , 47 , 33 ]
+		pixelBox [ 211 , 225 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 211 , 226 , 47 , 33 ]
+		pixelBox [ 211 , 225 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 226 , 47 , 33 ]
+		pixelBox [ 211 , 225 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 226 , 47 , 33 ]
+		pixelBox [ 211 , 225 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_ANTIMATTER"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 262 , 189 , 47 , 33 ]
+		pixelBox [ 262 , 188 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 262 , 189 , 47 , 33 ]
+		pixelBox [ 262 , 188 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 262 , 189 , 47 , 33 ]
+		pixelBox [ 262 , 188 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 262 , 189 , 47 , 33 ]
+		pixelBox [ 262 , 188 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 262 , 189 , 47 , 33 ]
+		pixelBox [ 262 , 188 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_SHIELD"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 262 , 226 , 47 , 33 ]
+		pixelBox [ 262 , 225 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 262 , 226 , 47 , 33 ]
+		pixelBox [ 262 , 225 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 262 , 226 , 47 , 33 ]
+		pixelBox [ 262 , 225 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 262 , 226 , 47 , 33 ]
+		pixelBox [ 262 , 225 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 262 , 226 , 47 , 33 ]
+		pixelBox [ 262 , 225 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_METALCRYSTAL"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 313 , 189 , 47 , 33 ]
+		pixelBox [ 313 , 188 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 313 , 189 , 47 , 33 ]
+		pixelBox [ 313 , 188 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 313 , 189 , 47 , 33 ]
+		pixelBox [ 313 , 188 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 189 , 47 , 33 ]
+		pixelBox [ 313 , 188 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 189 , 47 , 33 ]
+		pixelBox [ 313 , 188 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_MARKET"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 313 , 226 , 47 , 33 ]
+		pixelBox [ 313 , 225 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 313 , 226 , 47 , 33 ]
+		pixelBox [ 313 , 225 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 313 , 226 , 47 , 33 ]
+		pixelBox [ 313 , 225 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 226 , 47 , 33 ]
+		pixelBox [ 313 , 225 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 226 , 47 , 33 ]
+		pixelBox [ 313 , 225 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_PHASEJUMP"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 364 , 189 , 47 , 33 ]
+		pixelBox [ 364 , 188 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 364 , 189 , 47 , 33 ]
+		pixelBox [ 364 , 188 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 364 , 189 , 47 , 33 ]
+		pixelBox [ 364 , 188 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 189 , 47 , 33 ]
+		pixelBox [ 364 , 188 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 189 , 47 , 33 ]
+		pixelBox [ 364 , 188 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_WEAPONCOOLDOWN"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 364 , 226 , 47 , 33 ]
+		pixelBox [ 364 , 225 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 364 , 226 , 47 , 33 ]
+		pixelBox [ 364 , 225 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 364 , 226 , 47 , 33 ]
+		pixelBox [ 364 , 225 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 226 , 47 , 33 ]
+		pixelBox [ 364 , 225 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 226 , 47 , 33 ]
+		pixelBox [ 364 , 225 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_SHIPSTRUCTUREREGEN"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 415 , 189 , 47 , 33 ]
+		pixelBox [ 415 , 188 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 415 , 189 , 47 , 33 ]
+		pixelBox [ 415 , 188 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 415 , 189 , 47 , 33 ]
+		pixelBox [ 415 , 188 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 415 , 189 , 47 , 33 ]
+		pixelBox [ 415 , 188 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 415 , 189 , 47 , 33 ]
+		pixelBox [ 415 , 188 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_TACTICALSLOTS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 415 , 226 , 47 , 33 ]
+		pixelBox [ 415 , 225 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 415 , 226 , 47 , 33 ]
+		pixelBox [ 415 , 225 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 415 , 226 , 47 , 33 ]
+		pixelBox [ 415 , 225 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 415 , 226 , 47 , 33 ]
+		pixelBox [ 415 , 225 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 415 , 226 , 47 , 33 ]
+		pixelBox [ 415 , 225 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_LABOR_NEGOTIATIONS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 109 , 115 , 47 , 33 ]
+		pixelBox [ 109 , 114 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 109 , 115 , 47 , 33 ]
+		pixelBox [ 109 , 114 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 109 , 115 , 47 , 33 ]
+		pixelBox [ 109 , 114 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 115 , 47 , 33 ]
+		pixelBox [ 109 , 114 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 115 , 47 , 33 ]
+		pixelBox [ 109 , 114 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ARBITRATETARIFF"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 4 , 47 , 33 ]
+		pixelBox [ 109 , 3 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_DIPLOMATIC_IMMUNITY"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 466 , 4 , 47 , 33 ]
+		pixelBox [ 466 , 3 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 466 , 4 , 47 , 33 ]
+		pixelBox [ 466 , 3 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 466 , 4 , 47 , 33 ]
+		pixelBox [ 466 , 3 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 466 , 4 , 47 , 33 ]
+		pixelBox [ 466 , 3 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 466 , 4 , 47 , 33 ]
+		pixelBox [ 466 , 3 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_POLITICAL_KICKBACKS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 109 , 152 , 47 , 33 ]
+		pixelBox [ 109 , 151 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 109 , 152 , 47 , 33 ]
+		pixelBox [ 109 , 151 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 109 , 152 , 47 , 33 ]
+		pixelBox [ 109 , 151 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 152 , 47 , 33 ]
+		pixelBox [ 109 , 151 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 152 , 47 , 33 ]
+		pixelBox [ 109 , 151 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_EMISSARY_DONATIONS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 262 , 115 , 47 , 33 ]
+		pixelBox [ 262 , 114 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 262 , 115 , 47 , 33 ]
+		pixelBox [ 262 , 114 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 262 , 115 , 47 , 33 ]
+		pixelBox [ 262 , 114 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 262 , 115 , 47 , 33 ]
+		pixelBox [ 262 , 114 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 262 , 115 , 47 , 33 ]
+		pixelBox [ 262 , 114 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_EXPERT_BRIBERY"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 415 , 115 , 47 , 33 ]
+		pixelBox [ 415 , 114 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 415 , 115 , 47 , 33 ]
+		pixelBox [ 415 , 114 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 415 , 115 , 47 , 33 ]
+		pixelBox [ 415 , 114 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 415 , 115 , 47 , 33 ]
+		pixelBox [ 415 , 114 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 415 , 115 , 47 , 33 ]
+		pixelBox [ 415 , 114 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_NANOMEDICINE_OUTREACH"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 415 , 78 , 47 , 33 ]
+		pixelBox [ 415 , 77 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 415 , 78 , 47 , 33 ]
+		pixelBox [ 415 , 77 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 415 , 78 , 47 , 33 ]
+		pixelBox [ 415 , 77 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 415 , 78 , 47 , 33 ]
+		pixelBox [ 415 , 77 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 415 , 78 , 47 , 33 ]
+		pixelBox [ 415 , 77 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_BACKROOM_DEALS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 58 , 115 , 47 , 33 ]
+		pixelBox [ 58 , 114 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 58 , 115 , 47 , 33 ]
+		pixelBox [ 58 , 114 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 58 , 115 , 47 , 33 ]
+		pixelBox [ 58 , 114 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 115 , 47 , 33 ]
+		pixelBox [ 58 , 114 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 115 , 47 , 33 ]
+		pixelBox [ 58 , 114 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_INSPIRED_WRAITH"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 262 , 78 , 47 , 33 ]
+		pixelBox [ 262 , 77 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 262 , 78 , 47 , 33 ]
+		pixelBox [ 262 , 77 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 262 , 78 , 47 , 33 ]
+		pixelBox [ 262 , 77 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 262 , 78 , 47 , 33 ]
+		pixelBox [ 262 , 77 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 262 , 78 , 47 , 33 ]
+		pixelBox [ 262 , 77 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_RAIDER_RELATIONS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 466 , 78 , 47 , 33 ]
+		pixelBox [ 466 , 77 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 466 , 78 , 47 , 33 ]
+		pixelBox [ 466 , 77 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 466 , 78 , 47 , 33 ]
+		pixelBox [ 466 , 77 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 466 , 78 , 47 , 33 ]
+		pixelBox [ 466 , 77 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 466 , 78 , 47 , 33 ]
+		pixelBox [ 466 , 77 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PUBLIC_FORGIVENESS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 7 , 263 , 47 , 33 ]
+		pixelBox [ 7 , 262 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 7 , 263 , 47 , 33 ]
+		pixelBox [ 7 , 262 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 7 , 263 , 47 , 33 ]
+		pixelBox [ 7 , 262 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 263 , 47 , 33 ]
+		pixelBox [ 7 , 262 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 263 , 47 , 33 ]
+		pixelBox [ 7 , 262 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_TRUTH_AND_RECONCILIATION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 160 , 152 , 47 , 33 ]
+		pixelBox [ 160 , 151 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 160 , 152 , 47 , 33 ]
+		pixelBox [ 160 , 151 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 160 , 152 , 47 , 33 ]
+		pixelBox [ 160 , 151 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 152 , 47 , 33 ]
+		pixelBox [ 160 , 151 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 152 , 47 , 33 ]
+		pixelBox [ 160 , 151 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ENEMY_RELATIONS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 466 , 115 , 47 , 33 ]
+		pixelBox [ 466 , 114 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 466 , 115 , 47 , 33 ]
+		pixelBox [ 466 , 114 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 466 , 115 , 47 , 33 ]
+		pixelBox [ 466 , 114 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 466 , 115 , 47 , 33 ]
+		pixelBox [ 466 , 114 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 466 , 115 , 47 , 33 ]
+		pixelBox [ 466 , 114 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_CULTURAL_RELATIONS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 58 , 263 , 47 , 33 ]
+		pixelBox [ 58 , 262 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 58 , 263 , 47 , 33 ]
+		pixelBox [ 58 , 262 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 58 , 263 , 47 , 33 ]
+		pixelBox [ 58 , 262 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 263 , 47 , 33 ]
+		pixelBox [ 58 , 262 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 58 , 263 , 47 , 33 ]
+		pixelBox [ 58 , 262 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_IMPROVED_CULTURAL_RELATIONS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 7 , 4 , 47 , 33 ]
+		pixelBox [ 7 , 3 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 7 , 4 , 47 , 33 ]
+		pixelBox [ 7 , 3 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 7 , 4 , 47 , 33 ]
+		pixelBox [ 7 , 3 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 4 , 47 , 33 ]
+		pixelBox [ 7 , 3 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 7 , 4 , 47 , 33 ]
+		pixelBox [ 7 , 3 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ADVANCED_CULTURAL_RELATIONS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 109 , 263 , 47 , 33 ]
+		pixelBox [ 109 , 262 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 109 , 263 , 47 , 33 ]
+		pixelBox [ 109 , 262 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 109 , 263 , 47 , 33 ]
+		pixelBox [ 109 , 262 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 263 , 47 , 33 ]
+		pixelBox [ 109 , 262 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 109 , 263 , 47 , 33 ]
+		pixelBox [ 109 , 262 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_VOICE_OF_THE_UNITY"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 211 , 152 , 47 , 33 ]
+		pixelBox [ 211 , 151 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 211 , 152 , 47 , 33 ]
+		pixelBox [ 211 , 151 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 211 , 152 , 47 , 33 ]
+		pixelBox [ 211 , 151 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 152 , 47 , 33 ]
+		pixelBox [ 211 , 151 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 152 , 47 , 33 ]
+		pixelBox [ 211 , 151 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_IMPROVED_VOICE_OF_THE_UNITY"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 160 , 4 , 47 , 33 ]
+		pixelBox [ 160 , 3 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 160 , 4 , 47 , 33 ]
+		pixelBox [ 160 , 3 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 160 , 4 , 47 , 33 ]
+		pixelBox [ 160 , 3 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 4 , 47 , 33 ]
+		pixelBox [ 160 , 3 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 4 , 47 , 33 ]
+		pixelBox [ 160 , 3 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ADVANCED_VOICE_OF_THE_UNITY"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 262 , 152 , 47 , 33 ]
+		pixelBox [ 262 , 151 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 262 , 152 , 47 , 33 ]
+		pixelBox [ 262 , 151 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 262 , 152 , 47 , 33 ]
+		pixelBox [ 262 , 151 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 262 , 152 , 47 , 33 ]
+		pixelBox [ 262 , 151 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 262 , 152 , 47 , 33 ]
+		pixelBox [ 262 , 151 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_INTER_SPECIES_RELATIONS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 313 , 152 , 47 , 33 ]
+		pixelBox [ 313 , 151 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 313 , 152 , 47 , 33 ]
+		pixelBox [ 313 , 151 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 313 , 152 , 47 , 33 ]
+		pixelBox [ 313 , 151 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 152 , 47 , 33 ]
+		pixelBox [ 313 , 151 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 152 , 47 , 33 ]
+		pixelBox [ 313 , 151 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_IMPROVED_INTER_SPECIES_RELATIONS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 313 , 4 , 47 , 33 ]
+		pixelBox [ 313 , 3 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 313 , 4 , 47 , 33 ]
+		pixelBox [ 313 , 3 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 313 , 4 , 47 , 33 ]
+		pixelBox [ 313 , 3 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 4 , 47 , 33 ]
+		pixelBox [ 313 , 3 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 4 , 47 , 33 ]
+		pixelBox [ 313 , 3 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_ADVANCED_INTER_SPECIES_RELATIONS"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 364 , 152 , 47 , 33 ]
+		pixelBox [ 364 , 151 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 364 , 152 , 47 , 33 ]
+		pixelBox [ 364 , 151 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 364 , 152 , 47 , 33 ]
+		pixelBox [ 364 , 151 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 152 , 47 , 33 ]
+		pixelBox [ 364 , 151 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 364 , 152 , 47 , 33 ]
+		pixelBox [ 364 , 151 , 47 , 33 ]
 brush
 	name "HUDICON_ABILITY_TECHMODULEDECONSTRUCTION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 160 , 263 , 47 , 33 ]
+		pixelBox [ 160 , 262 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 160 , 263 , 47 , 33 ]
+		pixelBox [ 160 , 262 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 160 , 263 , 47 , 33 ]
+		pixelBox [ 160 , 262 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 263 , 47 , 33 ]
+		pixelBox [ 160 , 262 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 160 , 263 , 47 , 33 ]
+		pixelBox [ 160 , 262 , 47 , 33 ]
 brush
 	name "HUDICON_ABILITY_PSIMODULEDECONSTRUCTION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 211 , 263 , 47 , 33 ]
+		pixelBox [ 211 , 262 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 211 , 263 , 47 , 33 ]
+		pixelBox [ 211 , 262 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 211 , 263 , 47 , 33 ]
+		pixelBox [ 211 , 262 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 263 , 47 , 33 ]
+		pixelBox [ 211 , 262 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 263 , 47 , 33 ]
+		pixelBox [ 211 , 262 , 47 , 33 ]
 brush
 	name "HUDICON_ABILITY_PHASEMODULEDECONSTRUCTION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 262 , 263 , 47 , 33 ]
+		pixelBox [ 262 , 262 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 262 , 263 , 47 , 33 ]
+		pixelBox [ 262 , 262 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 262 , 263 , 47 , 33 ]
+		pixelBox [ 262 , 262 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 262 , 263 , 47 , 33 ]
+		pixelBox [ 262 , 262 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 262 , 263 , 47 , 33 ]
+		pixelBox [ 262 , 262 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_ENERGY_WEAPON_COOLDOWN"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 415 , 189 , 47 , 33 ]
+		pixelBox [ 415 , 188 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 415 , 189 , 47 , 33 ]
+		pixelBox [ 415 , 188 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 415 , 189 , 47 , 33 ]
+		pixelBox [ 415 , 188 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 415 , 189 , 47 , 33 ]
+		pixelBox [ 415 , 188 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 415 , 189 , 47 , 33 ]
+		pixelBox [ 415 , 188 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_MARKET"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 313 , 226 , 47 , 33 ]
+		pixelBox [ 313 , 225 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 313 , 226 , 47 , 33 ]
+		pixelBox [ 313 , 225 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 313 , 226 , 47 , 33 ]
+		pixelBox [ 313 , 225 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 226 , 47 , 33 ]
+		pixelBox [ 313 , 225 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 313 , 226 , 47 , 33 ]
+		pixelBox [ 313 , 225 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_MASS_REDUCTION"
 	content "States"
 	Disabled
 		fileName "Buttons_Research2_Disabled"
-		pixelBox [ 211 , 226 , 47 , 33 ]
+		pixelBox [ 211 , 225 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Research2_Pressed"
-		pixelBox [ 211 , 226 , 47 , 33 ]
+		pixelBox [ 211 , 225 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Research2_CursorOver"
-		pixelBox [ 211 , 226 , 47 , 33 ]
+		pixelBox [ 211 , 225 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 226 , 47 , 33 ]
+		pixelBox [ 211 , 225 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Research2_Normal"
-		pixelBox [ 211 , 226 , 47 , 33 ]
+		pixelBox [ 211 , 225 , 47 , 33 ]

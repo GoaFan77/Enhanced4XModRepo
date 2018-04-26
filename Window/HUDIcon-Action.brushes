@@ -718,91 +718,91 @@ brush
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
-		pixelBox [ 57 , 143 , 46 , 32 ]
+		pixelBox [ 56 , 142 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Main_Pressed"
-		pixelBox [ 57 , 143 , 46 , 32 ]
+		pixelBox [ 56 , 142 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Main_Normal"
-		pixelBox [ 108 , 143 , 46 , 32 ]
+		pixelBox [ 107 , 142 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Main_Normal"
-		pixelBox [ 57 , 143 , 46 , 32 ]
+		pixelBox [ 56 , 142 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Main_Normal"
-		pixelBox [ 57 , 143 , 46 , 32 ]
+		pixelBox [ 56 , 142 , 47 , 33 ]
 brush
 	name "ACTIONICON_PLANET_OPENTITANMANAGEMENT_TECHREBEL"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
-		pixelBox [ 158 , 143 , 47 , 33 ]
+		pixelBox [ 158 , 142 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Main_Pressed"
-		pixelBox [ 158 , 143 , 47 , 33 ]
+		pixelBox [ 158 , 142 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Main_Normal"
-		pixelBox [ 209 , 143 , 47 , 33 ]
+		pixelBox [ 209 , 142 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Main_Normal"
-		pixelBox [ 158 , 143 , 47 , 33 ]
+		pixelBox [ 158 , 142 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Main_Normal"
-		pixelBox [ 158 , 143 , 47 , 33 ]
+		pixelBox [ 158 , 142 , 47 , 33 ]
 brush
 	name "ACTIONICON_PLANET_OPENTITANMANAGEMENT_PSILOYALIST"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
-		pixelBox [ 158 , 179 , 46 , 32 ]
+		pixelBox [ 158 , 179 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Main_Pressed"
-		pixelBox [ 158 , 179 , 46 , 32 ]
+		pixelBox [ 158 , 179 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Main_Normal"
-		pixelBox [ 209 , 179 , 46 , 32 ]
+		pixelBox [ 209 , 179 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Main_Normal"
-		pixelBox [ 158 , 179 , 46 , 32 ]
+		pixelBox [ 158 , 179 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Main_Normal"
-		pixelBox [ 158 , 179 , 46 , 32 ]
+		pixelBox [ 158 , 179 , 47 , 33 ]
 brush
 	name "ACTIONICON_PLANET_OPENTITANMANAGEMENT_PSIREBEL"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
-		pixelBox [ 56 , 180 , 46 , 32 ]
+		pixelBox [ 56 , 179 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Main_Pressed"
-		pixelBox [ 56 , 180 , 46 , 32 ]
+		pixelBox [ 56 , 179 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Main_Normal"
-		pixelBox [ 107 , 180 , 46 , 32 ]
+		pixelBox [ 107 , 179 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Main_Normal"
-		pixelBox [ 56 , 180 , 46 , 32 ]
+		pixelBox [ 56 , 179 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Main_Normal"
-		pixelBox [ 56 , 180 , 46 , 32 ]
+		pixelBox [ 56 , 179 , 47 , 33 ]
 brush
 	name "ACTIONICON_PLANET_OPENTITANMANAGEMENT_PHASELOYALIST"
 	content "States"
 	Disabled
 		fileName "Buttons_Main_Disabled"
-		pixelBox [ 56 , 217 , 46 , 32 ]
+		pixelBox [ 56 , 216 , 47 , 33 ]
 	Pressed
 		fileName "Buttons_Main_Pressed"
-		pixelBox [ 56 , 217 , 46 , 32 ]
+		pixelBox [ 56 , 216 , 47 , 33 ]
 	CursorOver
 		fileName "Buttons_Main_Normal"
-		pixelBox [ 107 , 217 , 46 , 32 ]
+		pixelBox [ 107 , 216 , 47 , 33 ]
 	Focused
 		fileName "Buttons_Main_Normal"
-		pixelBox [ 56 , 217 , 46 , 32 ]
+		pixelBox [ 56 , 216 , 47 , 33 ]
 	Normal
 		fileName "Buttons_Main_Normal"
-		pixelBox [ 56 , 217 , 46 , 32 ]
+		pixelBox [ 56 , 216 , 47 , 33 ]
 brush
 	name "ACTIONICON_PLANET_OPENTITANMANAGEMENT_PHASEREBEL"
 	content "States"
