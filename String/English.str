@@ -1,5 +1,5 @@
 TXT
-NumStrings 8380
+NumStrings 8379
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_MINELAYERPHASE_DESCRIPTION"
 	Value "Grants access to Sivuskras Ruiner cruisers - a versatile unit strong against structures that can also deploy mines."	
@@ -72,9 +72,6 @@ StringInfo
 StringInfo
 	ID "IDS_COUNTERDESC_FRIGATE_Capturer"
 	Value "Strong vs. none. Can capture neutral objects."
-StringInfo
-	ID "IDS_COUNTERDESC_FRIGATE_ANTIMODULE"
-	Value "Strong vs. structures. Can only fire on planet modules and starbases."
 StringInfo
 		ID "IDS_PLANETTYPE_ALPINE"
 		Value "Alpine Planet"
@@ -1895,7 +1892,7 @@ StringInfo
         Value "Reflective Aura"
 StringInfo
         ID "IDS_Ability_E4X_ReflectiveAura_DESC"
-        Value "Kreia uses advanced psi-tech to alter the fabric of reality itself around her Halcyon carrier, creating an aura capable of deflecting a small around of damage and sending it back at the enemy."     
+        Value "Kreia uses advanced psi-tech to alter the fabric of reality itself around her Halcyon carrier, creating an aura capable of deflecting a small amount of damage and sending it back at the enemy."     
 StringInfo
         ID "IDS_Ability_E4X_DisruptionCrystal_NAME"
         Value "Disruption Crystal"
@@ -2159,79 +2156,79 @@ StringInfo
 	Value "Deposits of Polonium are found on this planet attracting large mining businesses resulting in increased maximum population and trade income."
 StringInfo
 	ID "Axeldude_PLANETBONUS_Hurricanes_Name"
-	Value "SURVEY: Severe Hurricanes"
+	Value "Severe Hurricanes"
 StringInfo
 	ID "Axeldude_PLANETBONUS_Hurricanes_Desc"
 	Value "This planet constantly has severe global hurricanes, hindering population and planet development."
 StringInfo
 	ID "Axeldude_PLANETBONUS_HazardousAtmosphere_Name"
-	Value "SURVEY: Hazardous Atmosphere"
+	Value "Hazardous Atmosphere"
 StringInfo
 	ID "Axeldude_PLANETBONUS_HazardousAtmosphere_Desc"
 	Value "Microscopic life forms in the atmosphere cause major health issues to non-native life and may result to death, making this a very undesirable planet."
 StringInfo
 	ID "Axeldude_PLANETBONUS_FertileSoil_Name"
-	Value "SURVEY: Fertile Soil"
+	Value "Fertile Soil"
 StringInfo
 	ID "Axeldude_PLANETBONUS_FertileSoil_Desc"
 	Value "The soil on this planet easily grows crops and other planets, attracting mid-sized farming businesses."
 StringInfo
 	ID "Axeldude_PLANETBONUS_Ruins_Name"
-	Value "SURVEY: Ruins"
+	Value "Ruins"
 StringInfo
 	ID "Axeldude_PLANETBONUS_Ruins_Desc"
 	Value "The ruins scattered across this planet can be used for city centers."
 StringInfo
 	ID "Axeldude_PLANETBONUS_NatSat_Name"
-	Value "SCAN: Natural Satellite"
+	Value "Natural Satellite"
 StringInfo
 	ID "Axeldude_PLANETBONUS_NatSat_Desc"
 	Value "This planet has a natural satellite."
 StringInfo
 	ID "Axeldude_PLANETBONUS_MineralRichSoil_Name"
-	Value "SURVEY: Mineral Rich Soil"
+	Value "Mineral Rich Soil"
 StringInfo
 	ID "Axeldude_PLANETBONUS_MineralRichSoil_Desc"
 	Value "The soil of this planet contains high concentrations of rare minerals, which attracts large businesses."
 StringInfo
 	ID "Axeldude_PLANETBONUS_Blizards_Name"
-	Value "SURVEY: Severe Blizzards"
+	Value "Severe Blizzards"
 StringInfo
 	ID "Axeldude_PLANETBONUS_Blizards_Desc"
 	Value "Constant blizzards hinder all planet development and population."
 StringInfo
 	ID "Axeldude_PLANETBONUS_PoisonousFlora_Name"
-	Value "SURVEY: Poisonous Flora"
+	Value "Poisonous Flora"
 StringInfo
 	ID "Axeldude_PLANETBONUS_PoisonousFlora_Desc"
 	Value "The plant life releases poisonous substances causing shock and paralysis, decreasing desirability."
 StringInfo
 	ID "Axeldude_PLANETBONUS_GreenhouseRD_Name"
-	Value "SCAN: Greenhouse Effect"
+	Value "Greenhouse Effect"
 StringInfo
 	ID "Axeldude_PLANETBONUS_GreenhouseRD_Desc"
 	Value "Scanning shows the atmosphere of this planet has a greenhouse effect, surface temperatures are unusually high, dramatically decreasing desirability."
 StringInfo
 	ID "Axeldude_PLANETBONUS_GreenhouseTFO_Name"
-	Value "SCAN: Greenhouse Effect"
+	Value "Greenhouse Effect"
 StringInfo
 	ID "Axeldude_PLANETBONUS_GreenhouseTFO_Desc"
 	Value "Scanning shows the atmosphere of this planet has a greenhouse effect, surface temperatures are uncomfortably high, decreasing desirability."
 StringInfo
 	ID "Axeldude_PLANETBONUS_GreenhouseIce_Name"
-	Value "SCAN: Greenhouse Effect"
+	Value "Greenhouse Effect"
 StringInfo
 	ID "Axeldude_PLANETBONUS_GreenhouseIce_Desc"
 	Value "Scanning shows the atmosphere of this planet has a greenhouse effect, surface temperatures are milder, increasing desirability."
 StringInfo
 	ID "Axeldude_PLANETBONUS_LowAltitudeDebris_Name"
-	Value "SCAN: Low Altitude Debris"
+	Value "Low Altitude Debris"
 StringInfo
 	ID "Axeldude_PLANETBONUS_LowAltitudeDebris_Desc"
 	Value "Debris floating in the upper atmosphere of this planet damages ships that are trying to land, decreasing trade."
 StringInfo
 	ID "Axeldude_PLANETBONUS_WeakMagneticField_Name"
-	Value "SCAN: Weak Magnetic Field"
+	Value "Weak Magnetic Field"
 StringInfo
 	ID "Axeldude_PLANETBONUS_WeakMagneticField_Desc"
 	Value "Initial scans of this planet reveal a weak magnetic field, causing solar winds to sweep across the surface hindering planet development and decreasing desirability."

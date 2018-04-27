@@ -59,6 +59,7 @@ ZombieRus5 - For getting channeling abilities to work correctly (after we ironed
 Axel Dude - For letting the community use his excellent planet textures even before he released a mod with them (his mod is now available here).
 Genocyber - For his great looking Repair Drone model!
 IskatuMesk - For his awesome library of sound effects released to the community, a few of which are included in this mod.
+Big Bantha - Excellent help proofing reading strings, polishing icons, and finding bugs.
 Seleucia - For his thoughtful analysis and for allowing me to use some of his rebalanced abilities.
 Ue_Carbon - Intelligent Feedback and for letting us use his teamspeak.
 SZ0 - For letting his meshes be used by the community.
@@ -483,4 +484,8 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Antimodule cruisers can now attack all units, not just structures. They are good against titans but deal much less damage against smaller targets.
 		-The Vasari Sivuskras Ruiner minelayer now also doubles as an anti-structure cruiser. It now has a long range disruptor beam, but has no extra debuff for it like other factions have.
 		-Tweaked AI priorities. Defensive AI will now explore planets, AI should develop planet population somewhat faster.
-		-Added Infinite Research minimod.							
+		-Added Infinite Research minimod.		
+		
+1.84	-Pirate scouts can now clear mines.
+		-The VIR ability "Despoil Planet" can no longer be used to render the Occupation world uncolonizeable for a while.
+		-Fixed a bug where non-Vasari AI could unlock phase gates without the non-Vasari Phase Gate minimod active.					
