@@ -57,6 +57,7 @@ The opening track is by Jaja (http://www.ektoplazm.com/free-music/jaja-oum). I d
 Sinperium - For making the phase probe mesh and good feedback.
 ZombieRus5 - For getting channeling abilities to work correctly (after we ironed out a few bugs) and for his many hours of "experimental" modding that lead the rest of us realizing more things are possible than we thought.
 Axel Dude - For letting the community use his excellent planet textures even before he released a mod with them (his mod is now available here).
+BigBantha - For contributing code fixes, new/updated GUI icons, and cleaning up spelling and grammar errors in the English text file.
 Genocyber - For his great looking Repair Drone model!
 IskatuMesk - For his awesome library of sound effects released to the community, a few of which are included in this mod.
 Big Bantha - Excellent help proofing reading strings, polishing icons, and finding bugs.

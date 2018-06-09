@@ -28,8 +28,9 @@ instantAction
 instantAction
 	buffInstantActionType "ApplyBuffToTargetOnWeaponFired"
 	instantActionTriggerType "OnWeaponFired"
-	numWeaponClasses 1
+	numWeaponClasses 2
 	weaponClassForWeaponPassive "FLASHBEAM"
+	weaponClassForWeaponPassive "POINTDEFENSELASER"
 	passiveWeaponEffectChance
 		Level:0 1.000000
 		Level:1 1.000000

@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2630
+entityNameCount 2631
 entityName "BuffSuppressionChannelEnd.entity"
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
@@ -2630,3 +2630,4 @@ entityName "TITAN_TECHLOYALIST2.entity"
 entityName "TITAN_TECHREBEL2.entity"
 entityName "RESEARCH_E4X_WeaponMastery.entity"
 entityName "RESEARCH_E4X_SurvivabilityMastery.entity"
+entityName "Buff_E4X_ReflectiveAuraDamageBuff.entity"
