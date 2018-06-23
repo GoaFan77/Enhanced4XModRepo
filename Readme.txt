@@ -65,6 +65,7 @@ Seleucia - For his thoughtful analysis and for allowing me to use some of his re
 Ue_Carbon - Intelligent Feedback and for letting us use his teamspeak.
 SZ0 - For letting his meshes be used by the community.
 5th Horsemen - Very useful feedback.
+In_dy - Detailed bug reports.
 
 ---Mods---
 
@@ -488,5 +489,12 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Added Infinite Research minimod.		
 		
 1.84	-Pirate scouts can now clear mines.
+		-Fixed the "Advent Freeze" issue where the game could stall for 30+ seconds constantly. Major thanks to In_dy for sending the report that helped find it!
 		-The VIR ability "Despoil Planet" can no longer be used to render the Occupation world uncolonizeable for a while.
-		-Fixed a bug where non-Vasari AI could unlock phase gates without the non-Vasari Phase Gate minimod active.					
+		-The debuff from Despoil Planet now affects Corvettes.
+		-Fixed a bug where non-Vasari AI could unlock phase gates without the non-Vasari Phase Gate minimod active.			
+		-Fixed a number of minor text and icon issues (Thanks BigBantha)!
+		-Titan and Fighters now use ANTIVERYLIGHT damage for anti-figther weapons, since all strikecraft now have very light armor.
+		-The Vasari titan intense beam ship upgrade now correctly works in the Kultorask titan.
+		-Fixed an issue that prevented the TEC homeworld from spreading culture like the others.
+		-Ascended Advent Spirits of the Ascended now affects Corvettes.
