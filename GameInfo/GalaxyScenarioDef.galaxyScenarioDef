@@ -916,7 +916,7 @@ planetType
 	designStringId "IDSGalaxyScenarioTypePlanetAsteroidSpaceJunk"
 	orbitBodyTypeCount 2
 	orbitBodyType "AsteroidSpaceJunk"
-	orbitBodyType "AsteroidSpaceJunk"
+	orbitBodyType "AsteroidSpaceJunkRE"
 planetType
 	designName "AsteroidSpaceJunkFair"
 	designStringId "IDSGalaxyScenarioTypePlanetAsteroidSpaceJunkFair"

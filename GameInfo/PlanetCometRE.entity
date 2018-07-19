@@ -185,7 +185,7 @@ moveAreaRadius 35000.000000
 hyperspaceExitRadius 25000.000000
 isWormhole FALSE
 maxStarBaseCountPerPlayer 2
-maxSpaceMineCountPerPlayer 150
+maxSpaceMineCountPerPlayer 10
 minShadow 0.000000
 maxShadow 0.000000
 ability:0 "AbilityComet"
