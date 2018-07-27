@@ -499,3 +499,5 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Fixed an issue that prevented the TEC homeworld from spreading culture like the others.
 		-Ascended Advent Spirits of the Ascended now affects Corvettes.
 		-Reduced the average number of ships captured by Orthodox Advent's Psychic Possession from 5 to 3-4.
+		
+1.841	-Update Strings for Rebellion version 1.92.

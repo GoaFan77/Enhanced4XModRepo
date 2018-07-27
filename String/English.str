@@ -1,5 +1,5 @@
 TXT
-NumStrings 8463
+NumStrings 8478
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_MINELAYERPHASE_DESCRIPTION"
 	Value "Grants access to Sivuskras Ruiners - versatile units that are strong against structures and can also deploy mines."
@@ -7558,6 +7558,51 @@ StringInfo
 	ID "IDS_DIALOGWINDOW_TITLETEXT_PLAYERTHEMEPICKERWINDOW"
 	Value "Pick Theme"
 StringInfo
+	ID "IDS_GDPRDIALOG_CANCELBUTTON"
+	Value "Decline"
+StringInfo
+	ID "IDS_GDPRDialogTitle"
+	Value "Internet Multiplayer Data Protection"
+StringInfo
+	ID "IDS_GDPRParagraph0"
+	Value "The internet multiplayer service collects various data. The specific data and the reasons for collection are listed below:"
+StringInfo
+	ID "IDS_GDPRParagraph1"
+	Value "Steam/GOG Id: Required for Steam/GOG integrated services and as a primary key to uniquely identify player database records."
+StringInfo
+	ID "IDS_GDPRParagraph2"
+	Value "Account Name: Required to display the name associated with the Steam/GOG Id."
+StringInfo
+	ID "IDS_GDPRParagraph3"
+	Value "Account Actions: Required to track account, server, and network problems."
+StringInfo
+	ID "IDS_GDPRParagraph4"
+	Value "Friends: Required for in-game friend functionality."
+StringInfo
+	ID "IDS_GDPRParagraph5"
+	Value "Game History and Stats: Required to help balance the game, perform gameplay analytics, track bugs, and to display the in-game win-loss record."
+StringInfo
+	ID "IDS_GDPRParagraph6"
+	Value "Player Chat: Required to review hostile behavior, abuse, toxicity, and hate speech."
+StringInfo
+	ID "IDS_GDPRParagraph7"
+	Value "IP Address: Required to manage problem players and track network problems."
+StringInfo
+	ID "IDS_GDPRParagraph8"
+	Value "Data Protection Acceptance: Required to prove players clicked 'Accept' below."
+StringInfo
+	ID "IDS_GDPRParagraph9"
+	Value "Stardock's full privacy policy can be found by clicking the 'Privacy Policy' button below."
+StringInfo
+	ID "IDS_GDPRParagraph10"
+	Value "If you agree to this data being collected and you agree to the terms of the linked privacy policy click 'Accept' to access internet multiplayer."
+StringInfo
+	ID "IDS_GDPRParagraph11"
+	Value "If you ever wish for your data to be retrieved, corrected, updated, or deleted please contact support@stardock.com"
+StringInfo
+	ID "IDS_GDPRParagraph12"
+	Value "In the future we may update the data being collected or the reasons for collection. You will be asked to 'Accept' or 'Decline' again if any changes are made."
+StringInfo
 	ID "IDSConfirmVideoChangesDialogTitle"
 	Value "Confirm Changes"
 StringInfo
@@ -7640,7 +7685,7 @@ StringInfo
 	Value "To add a player as a Steam friend they must be playing the Steam version of Sins of a Solar Empire: Rebellion"
 StringInfo
 	ID "IDS_ICOLOGINERROR_GOGGALAXYNOTLOADED"
-	Value "To play on Ironclad Online (ICO) you must load GOG Galaxy and restart the game"
+	Value "To play Internet Multiplayer you must load GOG Galaxy and restart the game"
 StringInfo
 	ID "IDS_CONNECTFAILED_REJECTED_BY_HOST"
 	Value "Connect Failed: Game Already Started."
@@ -14300,7 +14345,7 @@ StringInfo
 	Value "Your galaxy scenario file differs from the host's."
 StringInfo
 	ID "IDS_DISCONNECTEDFROMICOSERVER"
-	Value "Disconnected from Ironclad Online."
+	Value "Disconnected from Internet Multiplayer."
 StringInfo
 	ID "IDS_INVALIDICOSERVERVERSIONNUMBER"
 	Value "Old version of Sins detected. Ensure you have the latest update."
@@ -14327,10 +14372,10 @@ StringInfo
 	Value "Unknown login failure."
 StringInfo
 	ID "IDS_ICOLOGINSCREEN_FAILEDLOGIN_TEMPBAN"
-	Value "Due to abusive behavior online your account has been temporarily banned from the ICO server. Please try to log in again after %s %d."
+	Value "Due to abusive behavior online your account has been temporarily banned. Please try to log in again after %s %d."
 StringInfo
 	ID "IDS_ICOLOGINSCREEN_FAILEDLOGIN_PERMABAN"
-	Value "Due to abusive behavior online your account has been permanently banned from ICO server."
+	Value "Due to abusive behavior online your account has been permanently banned."
 StringInfo
 	ID "IDS_ICOLOGINSCREEN_ADDACCOUNTRESPONSE_SUCCESS"
 	Value "Account registration successful."
@@ -20768,7 +20813,7 @@ StringInfo
 	Value "Hosting Failure"
 StringInfo
 	ID "IDSIcoDetectedGameServerCannotBeJoinedMessage"
-	Value "ICO has detected that most players cannot join your game. This is usually caused by firewall and/or router configurations. For more information on resolving this issue, please see the Sins FAQ at http://www.sinsofasolarempire.com."
+	Value "We've has detected that most players cannot join your game. This is usually caused by firewall and/or router configurations. For more information on resolving this issue, please see the Sins FAQ at http://www.sinsofasolarempire.com."
 StringInfo
 	ID "IDSIcoCustomGameInfoHumanPlayerCount"
 	Value "Humans:"
@@ -21683,13 +21728,13 @@ StringInfo
 	Value "LAN/Direct Connect"
 StringInfo
 	ID "IDSMainMenuScreenIcoButton"
-	Value "ICO Internet Multiplayer"
+	Value "Internet Multiplayer"
 StringInfo
 	ID "IDSMainMenuScreenOptionsButton"
 	Value "Options"
 StringInfo
-	ID "IDSMainMenuScreenUpdateButton"
-	Value "Download Updates"
+	ID "IDSMainMenuScreenPrivacyPolicyButton"
+	Value "Privacy Policy"
 StringInfo
 	ID "IDSMainMenuScreenRebellionButton"
 	Value "Sins: Rebellion Upgrade"
@@ -21932,7 +21977,7 @@ StringInfo
 	Value "Name:"
 StringInfo
 	ID "IDSICOLoginScreenTitle"
-	Value "ICO LOGIN"
+	Value "Login"
 StringInfo
 	ID "IDSICOLoginScreenCloseButton"
 	Value "Back"
@@ -22058,7 +22103,7 @@ StringInfo
 	Value "Logged In"
 StringInfo
 	ID "IDSICOLobbyScreenTitle"
-	Value "ICO"
+	Value "Online"
 StringInfo
 	ID "IDSICOLobbyScreenCloseButton"
 	Value "Logout"
@@ -22139,7 +22184,7 @@ StringInfo
 	Value "Ok"
 StringInfo
 	ID "IDSICOLobbyScreenHostCapabilityStatusStringOutsideClientsCannotJoin"
-	Value "IP is not visible. Enable Alloy to route connections through ICO so you can host."
+	Value "IP is not visible. Enable Alloy to route connections through our servers so you can host."
 StringInfo
 	ID "IDSICOPlayerInfoPlayerName"
 	Value "Name:"
@@ -24758,7 +24803,7 @@ StringInfo
 	Value "Whisper from %s: %s"
 StringInfo
 	ID "IDSChatFormatICOReceivedServerMessage"
-	Value "ICO Server: %s"
+	Value "Server: %s"
 StringInfo
 	ID "IDSChatFormatICOJoinedChannel"
 	Value "Joined Channel '%s' as '%s'"
