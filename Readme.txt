@@ -501,3 +501,8 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Reduced the average number of ships captured by Orthodox Advent's Psychic Possession from 5 to 3-4.
 		
 1.841	-Update Strings for Rebellion version 1.92.
+		-Corrected the number of mines that can be deployed at Comets.
+		-Vasari Assault Nanites from the Rankulus Battleship can now target ships.
+		-Fixed an issue where the Pirate Trading base random encounter would not always spawn at Space Junks.
+		
+1.85	-Reduced antimodule damage against capitalships, heavy cruisers, light frigates, and corvettes.

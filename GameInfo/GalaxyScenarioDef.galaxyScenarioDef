@@ -705,10 +705,13 @@ planetType
 planetType
 	designName "RandomCrystal"
 	designStringId "IDSGalaxyScenarioTypeRandomCrystal"
-	orbitBodyTypeCount 4
-	orbitBodyType "Ice"
+	orbitBodyTypeCount 7
+	orbitBodyType "Ice"	
 	orbitBodyType "Cyro"
 	orbitBodyType "Oceanic"
+	orbitBodyType "Ice"	
+	orbitBodyType "Cyro"
+	orbitBodyType "Oceanic"	
 	orbitBodyType "Toxic"
 planetType
 	designName "RandomMetal"
