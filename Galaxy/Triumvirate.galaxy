@@ -58,8 +58,7 @@ star
 		quickStartUpgradeLevelForInfrastructure 0
 		planetItems
 			templateName ""
-			subTemplates 1
-			template "Template:DefaultHomePlanetSetup"
+			subTemplates 0
 			groups 0
 		spawnProbability 1.000000
 		useDefaultTemplate TRUE
@@ -84,8 +83,7 @@ star
 		quickStartUpgradeLevelForInfrastructure 0
 		planetItems
 			templateName ""
-			subTemplates 1
-			template "Template:DefaultHomePlanetSetup"
+			subTemplates 0
 			groups 0
 		spawnProbability 1.000000
 		useDefaultTemplate TRUE
@@ -470,8 +468,7 @@ star
 		quickStartUpgradeLevelForInfrastructure 0
 		planetItems
 			templateName ""
-			subTemplates 1
-			template "Template:DefaultHomePlanetSetup"
+			subTemplates 0
 			groups 0
 		spawnProbability 1.000000
 		useDefaultTemplate TRUE
@@ -496,8 +493,7 @@ star
 		quickStartUpgradeLevelForInfrastructure 0
 		planetItems
 			templateName ""
-			subTemplates 1
-			template "Template:DefaultHomePlanetSetup"
+			subTemplates 0
 			groups 0
 		spawnProbability 1.000000
 		useDefaultTemplate TRUE
@@ -1517,8 +1513,7 @@ star
 		quickStartUpgradeLevelForInfrastructure 0
 		planetItems
 			templateName ""
-			subTemplates 1
-			template "Template:DefaultHomePlanetSetup"
+			subTemplates 0
 			groups 0
 		spawnProbability 1.000000
 		useDefaultTemplate TRUE
@@ -1543,8 +1538,7 @@ star
 		quickStartUpgradeLevelForInfrastructure 0
 		planetItems
 			templateName ""
-			subTemplates 1
-			template "Template:DefaultHomePlanetSetup"
+			subTemplates 0
 			groups 0
 		spawnProbability 1.000000
 		useDefaultTemplate TRUE
