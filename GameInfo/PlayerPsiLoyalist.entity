@@ -1,8 +1,9 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 193
 entityType "Player"
 raceNameStringID "IDS_PLAYERRACENAME_PSILOYALIST"
 canColonize TRUE
-isPsi TRUE
+playerRaceType "Psi"
 isSelectable TRUE
 selectablePriorty 4
 randomCapitalShipNamePrefix "IDS_CAPITALSHIPNAME_PSI"
@@ -68,7 +69,7 @@ entities
 			entityDefName "FrigatePsiRefineryShip"
 			entityDefName "Frigate_E4X_PsiEnvoyAI"
 	researchInfo
-		count 169
+		count 171
 		entityDefName "RESEARCH_E4X_WeaponMastery"
 		entityDefName "RESEARCH_E4X_SurvivabilityMastery"		
 		entityDefName "RESEARCH_E4X_HeroTransPsiAccess"		
@@ -238,6 +239,8 @@ entities
 		entityDefName "RESEARCHSUBJECT_PLANETACCESS_OCEANICPSI"
 		entityDefName "RESEARCHSUBJECT_POPULATIONCAPBARRENPSI0"
 		entityDefName "RESEARCHSUBJECT_POPULATIONCAPBARRENPSI1"
+		entityDefName "RESEARCHSUBJECT_MINORFACTIONABILITYLEVELPSI0"
+		entityDefName "RESEARCHSUBJECT_MINORFACTIONABILITYLEVELPSI1"		
 	starBaseInfo
 		count 2
 		entityDefName "StarBasePsi"
@@ -420,7 +423,7 @@ gameEventData
 	GameEventSound:AllyDiplomaticVictoryComplete "EVENTPSI_ALLYDIPLOMATICVICTORYCOMPLETE"
 	GameEventSound:EnemyDiplomaticVictoryHalfway "EVENTPSI_ENEMYDIPLOMATICVICTORYHALFWAY"
 	GameEventSound:EnemyDiplomaticVictoryComplete "EVENTPSI_ENEMYDIPLOMATICVICTORYCOMPLETE"
-	GameEventSound:OccupationVictoryStarted ""
+	GameEventSound:OccupationVictoryStarted "EVENTPSI_OCCUPATIONVICTORYSTARTED"
 	GameEventSound:OccupationVictoryHalfway "EVENTPSI_OCCUPATIONVICTORYHALFWAY"
 	GameEventSound:OccupationVictoryComplete "EVENTPSI_OCCUPATIONVICTORYCOMPLETE"
 	GameEventSound:AllyOccupationVictoryStarted "EVENTPSI_ALLYOCCUPATIONVICTORYSTARTED"
@@ -475,6 +478,7 @@ gameEventData
 	GameEventSound:UseAbilityUnmetConstraintCanSpreadWeaponDamage "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintCanPhaseDodge "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintHasAbilityWithCooldown "UI_COMMON_DEFAULTERROR"
+	GameEventSound:UseAbilityUnmetConstraintHasColonizeAbility "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintHasAntimatter "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintHasPhaseMissiles "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintHasPopulation "UI_COMMON_DEFAULTERROR"
@@ -485,9 +489,11 @@ gameEventData
 	GameEventSound:UseAbilityUnmetConstraintHasWeapons "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintIsCargoShip "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintIsExplored "UI_COMMON_DEFAULTERROR"
+	GameEventSound:UseAbilityUnmetConstraintNotIsExplored "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintIsResourceExtractor "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintIsMovingToLocalOrbitBody "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintIsPsi "UI_COMMON_DEFAULTERROR"
+	GameEventSound:UseAbilityUnmetConstraintNotIsTech "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintLinkedCargoShip "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintLinkedSquad "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintNotSelf "UI_COMMON_DEFAULTERROR"
@@ -499,12 +505,15 @@ gameEventData
 	GameEventSound:UseAbilityUnmetConstraintNotInvulnerable "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintIsInFriendlyGravityWell "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetConstraintIsInNonFriendlyGravityWell "UI_COMMON_DEFAULTERROR"
+	GameEventSound:UseAbilityUnmetConstraintNotIsMinorFactionOwned "UI_COMMON_DEFAULTERROR"
+	GameEventSound:UseAbilityUnmetConstraintNotIsOutlaw "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetOwnerLinked "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetOwnerPlayer "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetOwnerFriendly "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetOwnerHostile "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetOwnerNoOwner "UI_COMMON_DEFAULTERROR"
 	GameEventSound:UseAbilityUnmetOwnerAlliedOrEnemy "UI_COMMON_DEFAULTERROR"
+	GameEventSound:UseAbilityUnmetOwnerUncontrolledMinorFaction "UI_COMMON_DEFAULTERROR"
 	GameEventSound:GameStart ""
 	GameEventSound:GameWin "EVENTPSI_GAMEWIN"
 	GameEventSound:AllyGameWin "EVENTPSI_ALLIEDGAMEWIN"
@@ -784,7 +793,7 @@ hudSkinData
 	UserActionIconUpgradePlanetTacticalModules "ActionIconPlanetUpgradeTacticalModules"
 	UserActionIconUpgradePlanetSocial "ActionIconPlanetUpgradeSocial"
 	UserActionIconUpgradePlanetIndustry "ActionIconPlanetUpgradeIndustry"
-	UserActionIconUpgradePlanetSmuggler "ActionIconPlanetUpgradeSmuggler"	
+	UserActionIconUpgradePlanetSmuggler "ActionIconPlanetUpgradeSmuggler"
 	UserActionIconBuildResourceAsteroidExtractor "ActionIconBuildResourceAsteroidExtractor"
 	UserActionIconPing "BottomWindowButtonPing"
 	UserActionIconPingAllyAttack "ActionIconPingAllyAttack"

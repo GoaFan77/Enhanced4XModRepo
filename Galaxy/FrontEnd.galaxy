@@ -1,5 +1,5 @@
 TXT
-versionNumber 5
+versionNumber 193
 isBrowsable FALSE
 browsePictureName ""
 browseName ""
@@ -84,3 +84,4 @@ starCount 1
 				maxCount 2
 				planetTypeCount 1
 				planetType "TerranFair"
+dlcID 204880

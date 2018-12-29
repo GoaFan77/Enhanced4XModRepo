@@ -1,5 +1,5 @@
 TXT
-versionNumber 5
+versionNumber 193
 isBrowsable TRUE
 browsePictureName "ScenarioPicture-Fiefdoms"
 browseName "Random - Huge Fiefdoms"
@@ -544,3 +544,4 @@ starCount 11
 				maxCount 1
 				planetTypeCount 1
 				planetType "RandomMetal"
+dlcID 204880

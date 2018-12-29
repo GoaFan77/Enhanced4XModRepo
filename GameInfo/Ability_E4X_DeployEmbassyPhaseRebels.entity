@@ -4,8 +4,9 @@ buffInstantActionType "ApplyTargettedBuffToSelf"
 instantActionTriggerType "AlwaysPerform"
 buffType "Buff_E4X_DeployEmbassyPhaseRebelsSelf"
 targetFilter
-	numOwnerships 1
+	numOwnerships 2
 	ownership "Allied"
+	ownership "UncontrolledMinorFaction"
 	numObjects 1
 	object "Planet"
 	numSpaces 1

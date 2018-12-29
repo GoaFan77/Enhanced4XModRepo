@@ -1,5 +1,5 @@
 TXT
-versionNumber 5
+versionNumber 193
 isBrowsable TRUE
 browsePictureName "ScenarioPicture-Arena"
 browseName "Random - Huge Arena"
@@ -444,3 +444,4 @@ starCount 6
 				maxCount 2
 				planetTypeCount 1
 				planetType "RandomTrue"
+dlcID 204880

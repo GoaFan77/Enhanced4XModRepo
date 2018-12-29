@@ -1,36 +1,36 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 193
 entityType "Ability"
 buffInstantActionType "ApplyTargettedBuffToSelf"
 instantActionTriggerType "AlwaysPerform"
-buffType "Buff_E4X_DeployEmbassyPsiSelf"
+buffType "BuffGoodWillOnSelfMinorFaction"
 targetFilter
-	numOwnerships 2
-	ownership "Allied"
+	numOwnerships 1
 	ownership "UncontrolledMinorFaction"
 	numObjects 1
 	object "Planet"
 	numSpaces 1
 	space "Normal"
-	numConstraints 0
+	numConstraints 1
+	constraint "IsExplored"
 range
-	Level:0 7500.000000
-	Level:1 7500.000000
-	Level:2 7500.000000
-	Level:3 7500.000000
+	Level:0 8000.000000
+	Level:1 8000.000000
+	Level:2 0.000000
+	Level:3 0.000000
 effectInfo
 	effectAttachInfo
 		attachType "Invalid"
 	smallEffectName ""
 	mediumEffectName ""
 	largeEffectName ""
-	soundID "EFFECT_DEPLOYCOMBATTURRET"
-needsToFaceTarget FALSE
+	soundID ""
+needsToFaceTarget TRUE
 canCollideWithTarget TRUE
 moveThruTarget FALSE
 isUltimateAbility FALSE
 maxNumLevels 1
-levelSourceType "ResearchWithoutBase"
-improveSourceResearchSubject "RESEARCHSUBJECT_ENVOY_PROTOTYPE_ADVENT"
+levelSourceType "FixedLevel0"
 aiUseTime "OnlyWhenOrbitingEnemyOrAlliedPlanet"
 aiUseTargetCondition "Any"
 isAutoCastAvailable TRUE
@@ -38,23 +38,19 @@ isAutoCastOnByDefault TRUE
 pickRandomPlanetToExploreForAutoCastTarget FALSE
 ignoreNonCombatShipsForAutoCastTarget TRUE
 onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
-useCostType "Resources"
-resourceCost
-	credits 275.000000
-	metal 35.000000
-	crystal 5.000000
+useCostType "None"
 cooldownTime
-	Level:0 120.000000
-	Level:1 120.000000
-	Level:2 120.000000
-	Level:3 120.000000
-orderAcknowledgementType "ONGENERALORDERISSUED"
+	Level:0 60.000000
+	Level:1 60.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
 researchPrerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-nameStringID "IDS_Ability_E4X_DeployEmbassy_NAME"
-descStringID "IDS_Ability_E4X_DeployEmbassy_DESC"
-hudIcon "HUDICON_PLANETMODULE_PSIORBITALNONCOMBATLABORATORY"
-smallHudIcon "HUDICONSMALL_PLANETMODULE_PSIORBITALNONCOMBATLABORATORY"
+nameStringID "IDS_ABILITY_GOODWILLMINORFACTION_NAME"
+descStringID "IDS_ABILITY_GOODWILLMINORFACTION_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_DIPLOMATICIMMUNITY"
+smallHudIcon "HUDICON_ABILITY_DIPLOMATICIMMUNITY"
 infoCardIcon ""

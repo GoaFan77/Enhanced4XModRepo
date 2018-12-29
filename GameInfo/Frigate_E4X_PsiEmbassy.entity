@@ -1,4 +1,5 @@
-﻿TXT
+TXT2
+SinsArchiveVersion 193
 entityType "Frigate"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn FALSE
@@ -6,8 +7,9 @@ prefersToFocusFire TRUE
 usesFighterAttack FALSE
 autoJoinFleetDefault FALSE
 canBomb FALSE
-typeCount 1
+typeCount 2
 frigateRoleType "Envoy"
+frigateRoleType "MinorFactionCapturer"
 statCountType "FrigateEnvoy"
 mainViewIcon "MAINVIEWICON_PLANETMODULE_PSIORBITALNONCOMBATLABORATORY"
 picture "PLANETMODULEPICTURE_PSIORBITALNONCOMBATLABORATORY"
@@ -28,6 +30,7 @@ HullPointRestoreRate 1.000000
 ShieldPointRestoreRate 2.000000
 BaseArmorPoints 0.000000
 maxMitigation 0.600000
+relationshipChangeRate 0.000667
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
@@ -87,7 +90,7 @@ HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
 HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_TECHSUPPORTSHIP"
 ability:0 ""
-ability:1 "AbilityGoodwill"
+ability:1 "AbilityGoodwillMinorFaction"
 ability:2 "AbilityCulturalAssistance"
 ability:3 "AbilityHarmony"
 ability:4 "AbilityCulturalIntegrity"
