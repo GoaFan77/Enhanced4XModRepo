@@ -7,7 +7,7 @@ NameStringID "IDS_Ability_E4X_UnityRevolt_NAME"
 DescriptionStringID "IDS_RESEARCH_E4X_ABILITYACCESS_UnityRevolt_DESC"
 researchWindowLocation
 	block 0
-	pos [ 5 , 5 ]
+	pos [ 5 , 6 ]
 ResearchField "Diplomacy"
 Prerequisites
 	NumResearchPrerequisites 1

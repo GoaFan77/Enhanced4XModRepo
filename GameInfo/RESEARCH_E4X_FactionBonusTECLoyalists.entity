@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCH_E4X_FactionBonusTECLoyals_NAME"
 DescriptionStringID "IDS_RESEARCH_E4X_FactionBonusTECLoyals_DESC"
 researchWindowLocation
 	block 0
-	pos [ 0 , 4 ]
+	pos [ 0 , 6 ]
 ResearchField "Diplomacy"
 Prerequisites
 	NumResearchPrerequisites 0

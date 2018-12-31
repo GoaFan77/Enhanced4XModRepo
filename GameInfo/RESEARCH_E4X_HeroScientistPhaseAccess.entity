@@ -7,7 +7,7 @@ NameStringID "IDS_Capitalship_E4X_HeroScientistPhase_NAME"
 DescriptionStringID "IDS_Capitalship_E4X_HeroScientistPhase_DESC"
 researchWindowLocation
 	block 0
-	pos [ 1 , 6 ]
+	pos [ 1 , 7 ]
 ResearchField "Diplomacy"
 Prerequisites
 	NumResearchPrerequisites 0

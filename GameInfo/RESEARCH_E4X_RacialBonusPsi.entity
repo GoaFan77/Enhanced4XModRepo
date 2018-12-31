@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCH_E4X_RacialBonusPsi_NAME"
 DescriptionStringID "IDS_RESEARCH_E4X_RacialBonusPsi_DESC"
 researchWindowLocation
 	block 0
-	pos [ 0 , 5 ]
+	pos [ 0 , 7 ]
 ResearchField "Diplomacy"
 Prerequisites
 	NumResearchPrerequisites 0

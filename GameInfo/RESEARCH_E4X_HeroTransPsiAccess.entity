@@ -7,7 +7,7 @@ NameStringID "IDS_Capitalship_E4X_HeroTransPsi_NAME"
 DescriptionStringID "IDS_Capitalship_E4X_HeroTransPsi_DESC"
 researchWindowLocation
 	block 0
-	pos [ 5 , 6 ]
+	pos [ 5 , 7 ]
 ResearchField "Diplomacy"
 Prerequisites
 	NumResearchPrerequisites 0

@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCH_E4X_ABILITYACCESS_MineProbe_NAME"
 DescriptionStringID "IDS_RESEARCH_E4X_ABILITYACCESS_MineProbe_DESC"
 researchWindowLocation
 	block 0
-	pos [ 2 , 5 ]
+	pos [ 2 , 6 ]
 ResearchField "Diplomacy"
 Prerequisites
 	NumResearchPrerequisites 0

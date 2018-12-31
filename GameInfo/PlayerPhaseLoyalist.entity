@@ -866,7 +866,7 @@ researchScreenData
 	Diplomacy
 		blockCount 1
 		block
-			area [ 50 , 93 , 690 , 326 ]
+			area [ 50 , 93 , 690 , 380 ]
 			backdrop "ResearchScreenBlockBackdropDefense0Phase"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorDefense0Phase"
 			title "IDSResearchScreenBlockTitleDiplomacy0Phase"
