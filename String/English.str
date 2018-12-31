@@ -21564,7 +21564,7 @@ StringInfo
 StringInfo
 	ID "IDS_RESEARCHFLOATMODIFIER_MASSREDUCTION"
 	Value "Mass reduction:"
-tringInfo
+StringInfo
 	ID "IDS_RESEARCHFLOATMODIFIER_MINORFACTIONABILITYLEVEL"
 	Value "Minor Faction ability level:"
 StringInfo
