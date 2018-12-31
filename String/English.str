@@ -5062,6 +5062,21 @@ StringInfo
 	ID "IDS_INFOCARD_LABEL_ABILITYHULLCOST"
 	Value "Hull cost"
 StringInfo
+	ID "DS_INFOCARD_LABEL_ABILITYSHIPSLOTCOST"
+	Value "Supply cost"
+StringInfo
+	ID "IDS_INFOCARD_LABEL_ABILITYCAPITALSHIPSLOTCOST"
+	Value "Crew cost"
+StringInfo
+	ID "IDS_INFOCARD_LABEL_CREDITCOST"
+	Value "Credit cost"
+StringInfo
+	ID "IDS_INFOCARD_LABEL_METALCOST"
+	Value "Metal cost"
+StringInfo
+	ID "IDS_INFOCARD_LABEL_CRYSTALCOST"
+	Value "Crystal cost"
+StringInfo
 	ID "IDS_INFOCARD_LABEL_ABILITYCOOLDOWN"
 	Value "Cooldown time"
 StringInfo
@@ -5197,6 +5212,9 @@ StringInfo
 	ID "IDS_INFOCARD_BUFFOVERTIME_POPULATIONKILLEDRATEPERC"
 	Value "Population killed /sec"
 StringInfo
+	ID "IDS_INFOCARD_BUFFOVERTIME_POPULATIONSTEALRATEPERC"
+	Value "Population stolen /sec"
+StringInfo
 	ID "IDS_INFOCARD_BUFFOVERTIME_DAMAGERATETOTARGET"
 	Value "Damage done /sec"
 StringInfo
@@ -5297,22 +5315,25 @@ StringInfo
 	Value "Next ability used will be amplified"
 StringInfo
 	ID "IDS_INFOCARD_BUFFBOOL_IMMUNTETONONULTIMATEDISABLE"
-	Value "Cannot be Disabled"
+	Value "Cannot be disabled"
 StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_WEAPONCOOLDOWN"
-	Value "Weapon Cooldown"
+	Value "Weapon cooldown"
 StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_PLANETBOMBINGCOOLDOWN"
-	Value "Bombardment Cooldown"
+	Value "Bombardment cooldown"
+StringInfo
+	ID "IDS_INFOCARD_BUFFADJUSTMENT_PLANETBOMBINGDAMAGE"
+	Value "Bombardment damage output"
 StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_PLANETBOMBINGDAMAGEABSORPTION"
-	Value "Bombing Damage Absorption"
+	Value "Planet bombing absorption"
 StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_ENERGYWEAPONCOOLDOWN"
-	Value "Energy Weapon Cooldown"
+	Value "Energy weapon cooldown"
 StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_WEAPONRANGE"
-	Value "Weapon Range"
+	Value "Weapon range"
 StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_DAMAGEOUTPUT"
 	Value "Damage output"
@@ -5325,6 +5346,9 @@ StringInfo
 StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_ENERGYDAMAGEOUTPUT"
 	Value "Energy damage output"
+StringInfo
+	ID "IDS_INFOCARD_BUFFADJUSTMENT_ANTIMODULEDAMAGEOUTPUT"
+	Value "Damage output vs Structures"
 StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_DAMAGEREDUCTION"
 	Value "Damage reduction"
@@ -5515,14 +5539,32 @@ StringInfo
 	ID "IDS_INFOCARD_BUFFVALUE_CREDITSEARNED"
 	Value "Credits earned"
 StringInfo
+	ID "IDS_INFOCARD_BUFFVALUE_CREDITSEARNEDPERSHIPSLOT"
+	Value "Credits per fleet supply"
+StringInfo
+	ID "IDS_INFOCARD_BUFFVALUE_METALEARNED"
+	Value "Metal earned"
+StringInfo
+	ID "IDS_INFOCARD_BUFFVALUE_CRYSTALEARNED"
+	Value "Crystal earned"
+StringInfo
 	ID "IDS_INFOCARD_BUFFVALUE_RELATIONSHIPINCREASE"
 	Value "Relationship increase"
+StringInfo
+	ID "IDS_INFOCARD_BUFFVALUE_RAIDFLEETSUPPLY"
+	Value "Raid fleet supply"
+StringInfo
+	ID "IDS_INFOCARD_BUFFVALUE_SHIPSSPAWNEDCOUNT"
+	Value "Ships created"
 StringInfo
 	ID "IDS_INFOCARD_BUFFVALUE_MAXHULLPOINTS"
 	Value "Max Hull Points"
 StringInfo
 	ID "IDS_INFOCARD_BUFFVALUE_MAXSHIELDPOINTS"
 	Value "Max Shield Points"
+StringInfo
+	ID "IDS_INFOCARD_BUFFVALUE_CULTURESPREAD"
+	Value "Culture spread rate"
 StringInfo
 	ID "IDS_INFOCARD_STRINGINFO_BOUNTYAGAINSTPLAYERNAME"
 	Value "Bounty against *VALUE0*"
@@ -5617,6 +5659,9 @@ StringInfo
 	ID "IDS_CANUSEABILITYSTATUS_MINELIMITREACHED"
 	Value "Too many Mines in gravity well."
 StringInfo
+	ID "IDS_CANUSEABILITYSTATUS_NOTOWNED"
+	Value "You don't control this unit."
+StringInfo
 	ID "IDS_INFOCARD_RELATIONSHIPBONUS"
 	Value "Relationship Bonus: "
 StringInfo
@@ -5655,6 +5700,12 @@ StringInfo
 StringInfo
 	ID "IDS_INFOCARD_STRINGINFO_CAPITALSHIPABILITYLEVEL"
 	Value "*SPACING20* *VALUE0*: *SPACING170* *VALUE1*"
+StringInfo
+	ID "IDS_INFOCARD_STRINGINFO_MINORFACTIONABILITIESHEADER"
+	Value "Minor Faction Abilities:"
+StringInfo
+	ID "IDS_INFOCARD_STRINGINFO_MINORFACTIONABILITYNAME"
+	Value "*SPACING20* *VALUE0*"
 StringInfo
 	ID "IDS_INFOCARD_STRINGINFO_HYPERPSACEMOVE_CLEARINGORBIT"
 	Value "*VALUE0* Phase Jumping to *VALUE1* *VALUE2*"
@@ -5748,6 +5799,9 @@ StringInfo
 StringInfo
 	ID "IDS_INFOCARD_STRINGINFO_COST"
 	Value "Cost: *VALUE0*"
+StringInfo
+	ID "IDS_INFOCARD_STRINGINFO_RESOURCESGAINED"
+	Value "Gain: *VALUE0*"
 StringInfo
 	ID "IDS_INFOCARD_STRINGINFO_CANREQUESTSHIPSTATUS"
 	Value "*VALUE0*"
@@ -6463,6 +6517,9 @@ StringInfo
 	ID "IDS_INFOCARD_CAPITALSHIPATTACK_AUTOATTACK"
 	Value "Auto-Attack status: *VALUE0*"
 StringInfo
+	ID "IDS_INFOCARD_CAPITALSHIP_AUTOSQUADBUILD"
+	Value "Auto-Build Squads status: *VALUE0*"
+StringInfo
 	ID "IDS_INFOCARD_CAPITALSHIPTOGGLEGROUPHYPERSPACE_NAME"
 	Value "Toggle Group Jumps"
 StringInfo
@@ -6711,6 +6768,9 @@ StringInfo
 StringInfo
 	ID "IDS_USERINPUTID_MAPPINGLABEL_TOGGLEAUTOATTACK"
 	Value "Toggle auto-attack."
+StringInfo
+	ID "IDS_USERINPUTID_MAPPINGLABEL_TOGGLEAUTOSQUADBUILD"
+	Value "Toggle auto-build squads."
 StringInfo
 	ID "IDS_USERINPUTID_MAPPINGLABEL_TOGGLEAUTOJOINFLEET"
 	Value "Toggle auto-join."
@@ -7021,8 +7081,11 @@ StringInfo
 	ID "IDS_GAMEMESSAGE_MODULECOMPLETE"
 	Value "Construction of %s on %s complete."
 StringInfo
-	ID "IDS_GAMEMESSAGE_MOVECANNOTTRAVELBETWEENPLANETS"
-	Value "This unit cannot Phase Jump."
+	ID "IDS_GAMEMESSAGE_MOVECANNOTTRAVELBETWEENPLANETSCANNOTHYPERSPACE"
+	Value "This unit cannot phase jump."
+StringInfo
+	ID "IDS_GAMEMESSAGE_MOVECANNOTTRAVELBETWEENPLANETSNOCONTROLLABLEMOVERS"
+	Value "This unit cannot be issued orders."
 StringInfo
 	ID "IDS_GAMEMESSAGE_NOVALIDPATH"
 	Value "No valid Phase Space route to target."
@@ -7307,7 +7370,10 @@ StringInfo
 	Value "Mine limit in this gravity well has been reached."
 StringInfo
 	ID "IDS_GAMEMESSAGE_TOOMANYCANNONS"
-	Value "Your empire cannot build any more superweapons."
+	Value "Your empire cannot build any more superweapons. Acquire more planets."
+StringInfo
+	ID "IDS_GAMEMESSAGE_SUPERWEAPONSDISABLED"
+	Value "Superweapons are disabled by the host."	
 StringInfo
 	ID "IDS_GAMEMESSAGE_STARBASEUPGRADENOTENOUGHUPGRADEPOINTS"
 	Value "%s cannot support any further upgrades."
@@ -7390,6 +7456,9 @@ StringInfo
 	ID "IDS_GAMEMESSAGE_USEABILITYUNMETCONSTRAINTHASABILITYWITHCOOLDOWN"
 	Value "Target must have a non-passive ability."
 StringInfo
+	ID "IDS_GAMEMESSAGE_USEABILITYUNMETCONSTRAINTHASCOLONIZEABILITY"
+	Value "Target must be able to colonize planets."
+StringInfo
 	ID "IDS_GAMEMESSAGE_USEABILITYUNMETCONSTRAINTHASANTIMATTER"
 	Value "Target must have Antimatter."
 StringInfo
@@ -7405,8 +7474,14 @@ StringInfo
 	ID "IDS_GAMEMESSAGE_USEABILITYUNMETCONSTRAINTISEXPLORED"
 	Value "Target must be an explored orbit body."
 StringInfo
+	ID "IDS_GAMEMESSAGE_USEABILITYUNMETCONSTRAINTNOTISEXPLORED"
+	Value "Target must be an unexplored orbit body."
+StringInfo
 	ID "IDS_GAMEMESSAGE_USEABILITYUNMETCONSTRAINTISPSI"
 	Value "Target must be Advent."
+StringInfo
+	ID "IDS_GAMEMESSAGE_USEABILITYUNMETCONSTRAINTNOTISTECH"
+	Value "Target must not be TEC."
 StringInfo
 	ID "IDS_GAMEMESSAGE_USEABILITYUNMETCONSTRAINTISRESOURCEEXTRACTOR"
 	Value "Target must be a Resource Extractor."
@@ -7459,6 +7534,21 @@ StringInfo
 	ID "IDS_GAMEMESSAGE_USEABILITYUNMETCONSTRAINTISINNONFRIENDLYGRAVITYWELL"
 	Value "Target must be in a non-friendly gravity well."
 StringInfo
+	ID "IDS_GAMEMESSAGE_USEABILITYUNMETCONSTRAINTISNOTHOMEWORLD"
+	Value "Target must be an ally or enemy's Capital Planet."
+StringInfo
+	ID "IDS_GAMEMESSAGE_USEABILITYUNMETCONSTRAINTISHOMEWORLD"
+	Value "Target cannot be a player's Capital"
+StringInfo
+	ID "IDS_GAMEMESSAGE_USEABILITYUNMETCONSTRAINTISOCCUPATIONPLANET"
+	Value "Target cannot be the Artifact World"
+StringInfo
+	ID "IDS_GAMEMESSAGE_USEABILITYUNMETCONSTRAINTNOTISMINORFACTIONOWNED"
+	Value "Target must not belong to a Minor Faction."
+StringInfo
+	ID "IDS_GAMEMESSAGE_USEABILITYUNMETCONSTRAINTNOTISOUTLAW"
+	Value "Target must not belong to a Rampant Militia."
+StringInfo
 	ID "IDS_GAMEMESSAGE_USEABILITYUNMETOWNERPLAYER"
 	Value "Target must belong to your empire."
 StringInfo
@@ -7473,6 +7563,9 @@ StringInfo
 StringInfo
 	ID "IDS_GAMEMESSAGE_USEABILITYUNMETOWNERALLIEDORENEMY"
 	Value "Can only be used on allied or enemy targets."
+StringInfo
+	ID "IDS_GAMEMESSAGE_USEABILITYUNMETOWNERUNCONTROLLEDMINORFACTION"
+	Value "Can only be used on unallied Minor Faction targets."
 StringInfo
 	ID "IDS_GAMEMESSAGE_USEABILITYUNMETCONSTRAINTISNOTHOMEWORLD"
 	Value "Target must be an ally or enemy's Capital Planet."
@@ -7766,7 +7859,7 @@ StringInfo
 	Value "?"
 StringInfo
 	ID "IDS_UNDETECTED_PLANET_NAME"
-	Value "an undiscovered world"
+	Value "An undiscovered world"
 StringInfo
 	ID "IDS_NO_PLAYEROWNER_NAME"
 	Value "None"
@@ -7898,7 +7991,10 @@ StringInfo
 	Value "Space Mine limit reached."
 StringInfo
 	ID "IDS_CANBUILDPLANETMODULESTATUS_TOOMANYCANNONS"
-	Value "Superweapon limit reached."
+	Value "Limit reached. Acquire more Planets."
+StringInfo
+	ID "IDS_CANBUILDPLANETMODULESTATUS_SUPERWEAPONSDISABLED"
+	Value "Superweapons are disabled by the host."
 StringInfo
 	ID "IDS_TARGETFILTER_START"
 	Value "Targets "
@@ -7957,6 +8053,9 @@ StringInfo
 	ID "IDS_TARGETOWNERSHIP_ALLIEDORENEMY"
 	Value "allied or enemy"
 StringInfo
+	ID "IDS_TARGETOWNERSHIP_UNCONTROLLEDMINORFACTION"
+	Value "unallied Minor Faction owned"
+StringInfo
 	ID "IDS_TARGETSPACE_NORMAL"
 	Value "normal space"
 StringInfo
@@ -8011,6 +8110,9 @@ StringInfo
 	ID "IDS_TARGETCONSTRAINT_HASABILITYWITHCOOLDOWN"
 	Value "have a non-passive ability"
 StringInfo
+	ID "IDS_TARGETCONSTRAINT_HASCOLONIZEABILITY"
+	Value "be able to colonize planets"
+StringInfo
 	ID "IDS_TARGETCONSTRAINT_HASANTMATTERPOOL"
 	Value "have Antimatter pool"
 StringInfo
@@ -8041,11 +8143,17 @@ StringInfo
 	ID "IDS_TARGETCONSTRAINT_ISEXPLORED"
 	Value "be explored"
 StringInfo
+	ID "IDS_TARGETCONSTRAINT_NOTISEXPLORED"
+	Value "be unexplored"
+StringInfo
 	ID "IDS_TARGETCONSTRAINT_ISRESOURCEEXTRACTOR"
 	Value "be a Resource Extractor"
 StringInfo
 	ID "IDS_TARGETCONSTRAINT_ISPSI"
 	Value "be Advent"
+StringInfo
+	ID "IDS_TARGETCONSTRAINT_NOTISTECH"
+	Value "not be TEC"
 StringInfo
 	ID "IDS_TARGETCONSTRAINT_WITHINCURRENTSOLARSYSTEM"
 	Value "be within the current star system"
@@ -8085,6 +8193,15 @@ StringInfo
 StringInfo
 	ID "IDS_TARGETCONSTRAINT_ISNOTSTARBASECONSTRUCTOR"
 	Value "not be a Star Base Constructor"
+StringInfo
+	ID "IDS_TARGETCONSTRAINT_NOTISILLUSIONSHIP"
+	Value "not be an illusion ship"
+StringInfo
+	ID "IDS_TARGETCONSTRAINT_NOTISMINORFACTIONOWNED"
+	Value "not be owned by a Minor Faction"
+StringInfo
+	ID "IDS_TARGETCONSTRAINT_NOTISOUTLAW"
+	Value "not be militia"
 StringInfo
 	ID "IDS_PLAYERRACENAME_PIRATE"
 	Value "Pirate"
@@ -8561,7 +8678,7 @@ StringInfo
 	Value "Cultural Integrity"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ABILITYACCESS_CULTURALINTEGRITY_DESCRIPTION"
-	Value "Grants the Cultural Integrity ability to Advent Embassies, allowing the station to halt all bombing damage to a planet for a period of time."
+	Value "Grants the Cultural Integrity ability to Advent Embassies, allowing the station to reduce all bombing damage to a planet for a period of time."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ABILITYACCESS_SACRIFICE_NAME"
 	Value "Sacrifice"
@@ -9882,6 +9999,42 @@ StringInfo
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_MINE_CONTROL_DESCRIPTION"
 	Value "Grants the Mine Control ability to Aeria Drone Hosts, allowing them to bring enemy mines under your control."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_MINORFACTIONABILITYLEVELPHASE0_NAME"
+	Value "Coerced Rewards"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_MINORFACTIONABILITYLEVELPHASE0_DESCRIPTION"
+	Value "Improves the effect of Minor Faction planet abilities."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_MINORFACTIONABILITYLEVELPHASE1_NAME"
+	Value "Dominate the Weak"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_MINORFACTIONABILITYLEVELPHASE1_DESCRIPTION"
+	Value "Improves the effect of Minor Faction planet abilities."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_MINORFACTIONABILITYLEVELPSI0_NAME"
+	Value "Aligned Interests"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_MINORFACTIONABILITYLEVELPSI0_DESCRIPTION"
+	Value "Improves the effect of Minor Faction planet abilities."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_MINORFACTIONABILITYLEVELPSI1_NAME"
+	Value "Harmonious Relations"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_MINORFACTIONABILITYLEVELPSI1_DESCRIPTION"
+	Value "Improves the effect of Minor Faction planet abilities."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_MINORFACTIONABILITYLEVELTECH0_NAME"
+	Value "Brokered Trust"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_MINORFACTIONABILITYLEVELTECH0_DESCRIPTION"
+	Value "Improves the effect of Minor Faction planet abilities."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_MINORFACTIONABILITYLEVELTECH1_NAME"
+	Value "Earned Loyalty"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_MINORFACTIONABILITYLEVELTECH1_DESCRIPTION"
+	Value "Improves the effect of Minor Faction planet abilities."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_MOBILE_RULERSHIP_NAME"
 	Value "Mobile Rulership"
@@ -12418,6 +12571,12 @@ StringInfo
 	ID "IDS_ABILITY_GOODWILL_DESCRIPTION"
 	Value "Goodwill missions are sent to the surface, generating higher relations with the planet's owner. The bonus degrades if the Embassy is destroyed."
 StringInfo
+	ID "IDS_ABILITY_GOODWILLMINORFACTION_NAME"
+	Value "Goodwill"
+StringInfo
+	ID "IDS_ABILITY_GOODWILLMINORFACTION_DESCRIPTION"
+	Value "Goodwill missions are sent to the surface, causing the Minor Faction to ally with your empire until the missions end."
+StringInfo
 	ID "IDS_ABILITY_GRANTAMNESTY_NAME"
 	Value "Grant Amnesty"
 StringInfo
@@ -12582,6 +12741,234 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_MINE_CONTROL_DESCRIPTION"
 	Value "Novice Psintegrat are able to bring nearby enemy mines under your control."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONANTIMATTERRESTOREBONUS_NAME"
+	Value "Vigor of the Alutar"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONANTIMATTERRESTOREBONUS_DESCRIPTION"
+	Value "Grants a long duration bonus to antimatter regeneration to all of your ships and structures."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONANTIMODULEDAMAGEBONUS_NAME"
+	Value "Penetrating Warheads"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONANTIMODULEDAMAGEBONUS_DESCRIPTION"
+	Value "Grants a long duration bonus to damage against orbital structures to all of your ships and structures."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONARMORBONUS_NAME"
+	Value "Retrofitted Armor"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONARMORBONUS_DESCRIPTION"
+	Value "Grants a long duration armor bonus to all of your ships  and structures."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONBOMBINGDAMAGEBONUS_NAME"
+	Value "Contraband Munitions"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONBOMBINGDAMAGEBONUS_DESCRIPTION"
+	Value "Grants a long duration bombing damage bonus to all of your ships."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONBOMBINGDAMAGEBONUSPHASE_NAME"
+	Value "Precision Warheads"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONBOMBINGDAMAGEBONUSPHASE_DESCRIPTION"
+	Value "Grants a long duration bombing damage bonus to all of your ships."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONCOLONIZEBONUS_NAME"
+	Value "Colonial Supplies"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONCOLONIZEBONUS_DESCRIPTION"
+	Value "Extra supplies are loaded onto to all your colony ships, granting the next planet they colonize a long duration bonus to population growth and planet upgrade build rate."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONCULTURERESISTANCE_NAME"
+	Value "Isolationist Propaganda"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONCULTURERESISTANCE_DESCRIPTION"
+	Value "The Minor Faction distributes anti-xeno propaganda on your adjacent worlds, making them more resistant to enemy culture spread for a moderate duration."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONEXPLORENEARBYPLANETS_NAME"
+	Value "Scouting Report"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONEXPLORENEARBYPLANETS_DESCRIPTION"
+	Value "The Minor Faction shares their stellar cartography, revealing a number of unexplored nearby planets to you."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONFARSIGHT_NAME"
+	Value "Clairvoyance"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONFARSIGHT_DESCRIPTION"
+	Value "The local Psintegrat scry a distant planet on your behalf, making it visible to you for a brief period of time."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONHYPERSPACESPEEDBONUS_NAME"
+	Value "Jump Field Stabilizers"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONHYPERSPACESPEEDBONUS_DESCRIPTION"
+	Value "Grants a long duration bonus to the phase jump travel speed of all your ships."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONREPAIRSHIPS_NAME"
+	Value "Repair Ships"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONREPAIRSHIPS_DESCRIPTION"
+	Value "Regenerates the hull of your ships in orbit over a short duration."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSACRIFICEPOPULATIONFORDAMAGE_NAME"
+	Value "Euphoric Sacrifice"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSACRIFICEPOPULATIONFORDAMAGE_DESCRIPTION"
+	Value "The entire planet's population participates in an apocalyptic ritual to deal damage to all ships and structures at adjacent planets. A large fraction of them lose their lives in the process."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSCRAPFRIGATES_NAME"
+	Value "Scrap For Parts"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSCRAPFRIGATES_DESCRIPTION"
+	Value "The Scrappers dismantle the targeted frigates and give you credits based on their fleet supply cost."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSELLCAPITALSHIPPHASESCOUT_NAME"
+	Value "Buy Antorak Marauder"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSELLCAPITALSHIPPHASESCOUT_DESCRIPTION"
+	Value "The Minor Faction sells you a capital ship capable of generating a Phase Gate end point."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSELLFRIGATESANTIFIGHTER_NAME"
+	Value "Used Flak Frigates"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSELLFRIGATESANTIFIGHTER_DESCRIPTION"
+	Value "The Minor Faction sells you a collection of used Garda Flak Frigates, Defense Vessels and Junsurak Sentinels."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSELLFRIGATESHEAVY_NAME"
+	Value "Used Heavy Cruisers"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSELLFRIGATESHEAVY_DESCRIPTION"
+	Value "The Minor Faction sells you a collection of used Kodiak Heavy Cruisers, Destra Crusaders and Skarovas Enforcers."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSELLFRIGATESLONGRANGE_NAME"
+	Value "Used Ranged Frigates"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSELLFRIGATESLONGRANGE_DESCRIPTION"
+	Value "The Minor Faction sells you a collection of used Javelis LRM Frigates, Illuminator Vessels and Kanrak Assailants."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSHIELDRESTOREBONUS_NAME"
+	Value "Shroud of the Alutar"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSHIELDRESTOREBONUS_DESCRIPTION"
+	Value "Grants a long duration shield regeneration bonus to all of your ships and structures."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNANTIMODULERAID_NAME"
+	Value "Launch Demolition Raid"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNANTIMODULERAID_DESCRIPTION"
+	Value "The Minor Faction rallies its forces and sends ships to attack enemy structures at the target planet."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNATTACKRAID_NAME"
+	Value "Launch Offensive Raid"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNATTACKRAID_DESCRIPTION"
+	Value "The Minor Faction rallies its forces and sends ships to attack enemies at the target planet."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNATTACKRAIDNONTECHTARGET_NAME"
+	Value "Xeno Assault Raid"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNATTACKRAIDNONTECHTARGET_DESCRIPTION"
+	Value "The Minor Faction sends a strike force at an alien controlled target planet."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNDEFENSERAID_NAME"
+	Value "Launch Defensive Raid"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNDEFENSERAID_DESCRIPTION"
+	Value "The Minor Faction rallies its forces and sends ships to defend a target friendly planet."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNDEFENSERAIDPSIUTILITY_NAME"
+	Value "Launch Support Raid"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNDEFENSERAIDPSIUTILITY_DESCRIPTION"
+	Value "The Minor Faction sends Iconus Guardians and other specialized ships to defend a target friendly planet."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNRANDOMATTACKRAIDS_NAME"
+	Value "Relentless Evangelists"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNRANDOMATTACKRAIDS_DESCRIPTION"
+	Value "The Minor Faction sends many waves of ships to attack random planets."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNREMOTEATTACKRAIDPHASE_NAME"
+	Value "Remote Attack Raid"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNREMOTEATTACKRAIDPHASE_DESCRIPTION"
+	Value "The Minor Faction uses their phase tunneling technology to send a strike force directly to the target planet."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNSCOUTRAID_NAME"
+	Value "Dispatch Scouting Party"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNSCOUTRAID_DESCRIPTION"
+	Value "The Minor Faction sends some of its scouts to the target planet."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNSIEGERAID_NAME"
+	Value "Launch Siege Raid"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPAWNSIEGERAID_DESCRIPTION"
+	Value "The Minor Faction rallies its forces and sends ships to bombard the target planet."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPEEDBONUS_NAME"
+	Value "Tachyon Boosters"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPEEDBONUS_DESCRIPTION"
+	Value "Grants a long duration bonus to the sub-light movement speed of all of your ships."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPREADCULTURE_NAME"
+	Value "Zealous Advocates"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSPREADCULTURE_DESCRIPTION"
+	Value "The Minor Faction preaches the virtues of your empire, causing your culture to spread from the planet for a long duration."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSTEALADJACENTPLANETPOPULATION_NAME"
+	Value "Compelled Pilgrimage"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONSTEALADJACENTPLANETPOPULATION_DESCRIPTION"
+	Value "A fraction of the people on adjacent worlds are entralled by the Minor Faction's culture and emigrate to fully partake in it."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONWEAPONDAMAGEBONUS_NAME"
+	Value "Kinetic Amplifiers"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONWEAPONDAMAGEBONUS_DESCRIPTION"
+	Value "Grants a long duration bonus to the weapon damage of all of your ships and structures."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONTRADECREDITSFORCRYSTAL_NAME"
+	Value "Sell Crystal"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONTRADECREDITSFORCRYSTAL_DESCRIPTION"
+	Value "The Minor Faction buys Crystal from your empire with Credits."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONTRADECREDITSFORMETAL_NAME"
+	Value "Sell Metal"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONTRADECREDITSFORMETAL_DESCRIPTION"
+	Value "The Minor Faction buys Metal from your empire with Credits."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONTRADECRYSTALFORCREDITS_NAME"
+	Value "Buy Crystal"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONTRADECRYSTALFORCREDITS_DESCRIPTION"
+	Value "The Minor Faction sells Crystal to your empire in exchange for Credits."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONTRADECRYSTALFORCREDITSBETTERRATE_NAME"
+	Value "Buy Bulk Crystal"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONTRADECRYSTALFORMETAL_NAME"
+	Value "Trade Crystal"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONTRADECRYSTALFORMETAL_DESCRIPTION"
+	Value "The Minor Faction exchanges its Crystal for your empire's Metal."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONTRADEMETALFORCREDITS_NAME"
+	Value "Buy Metal"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONTRADEMETALFORCREDITS_DESCRIPTION"
+	Value "The Minor Faction sells Metal to your empire in exchange for Credits."
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONTRADEMETALFORCREDITSBETTERRATE_NAME"
+	Value "Buy Bulk Metal"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONTRADEMETALFORCRYSTAL_NAME"
+	Value "Trade Metal"
+StringInfo
+	ID "IDS_ABILITY_MINORFACTIONTRADEMETALFORCRYSTAL_DESCRIPTION"
+	Value "The Minor Faction exchanges its Metal for your empire's Crystal."
 StringInfo
 	ID "IDS_ABILITY_MISSILEBARRAGE_NAME"
 	Value "Missile Barrage"
@@ -14152,6 +14539,15 @@ StringInfo
 	ID "IDS_AUTOATTACKSTATE_ALL"
 	Value "All Auto-Attacking"
 StringInfo
+	ID "IDS_AUTOSQUADBUILDSTATE_NONE"
+	Value "None Auto-Building"
+StringInfo
+	ID "IDS_AUTOSQUADBUILDSTATE_SOME"
+	Value "Some Auto-Building"
+StringInfo
+	ID "IDS_AUTOSQUADBUILDSTATE_ALL"
+	Value "All Auto-Building"
+StringInfo
 	ID "IDSGameOverDialogCancelButton"
 	Value "Keep Playing"
 StringInfo
@@ -14949,6 +15345,9 @@ StringInfo
 StringInfo
 	ID "IDS_UIMAPPINGNAME_TOGGLEAUTOATTACK"
 	Value "Toggle Auto-Attack"
+StringInfo
+	ID "IDS_UIMAPPINGNAME_TOGGLEAUTOSQUADBUILD"
+	Value "Toggle Auto-Build Squads"
 StringInfo
 	ID "IDS_UIMAPPINGNAME_TOGGLEAUTOJOINFLEET"
 	Value "Toggle Auto-Join Fleet"
@@ -20848,14 +21247,41 @@ StringInfo
 	ID "IDSIcoCustomGameInfoArePiratesActiveFalse"
 	Value "False"
 StringInfo
-	ID "IDSIcoCustomGameInfoAreOutlawSectorsActive"
-	Value "Outlaw Sectors:"
+	ID "IDSIcoCustomGameInfoAreOutlawSectorsMilitiaActive"
+	Value "Rampant Militias:"
 StringInfo
-	ID "IDSIcoCustomGameInfoAreOutlawSectorsActiveTrue"
-	Value "Enabled"
+	ID "IDSIcoCustomGameInfoAreOutlawSectorsMilitiaActiveTrue"
+	Value "True"
 StringInfo
-	ID "IDSIcoCustomGameInfoAreOutlawSectorsActiveFalse"
-	Value "Enabled"
+	ID "IDSIcoCustomGameInfoAreOutlawSectorsMilitiaActiveFalse"
+	Value "False"
+StringInfo
+	ID "IDSIcoCustomGameInfoAreMinorFactionsActive"
+	Value "Minor Factions:"
+StringInfo
+	ID "IDSIcoCustomGameInfoAreMinorFactionsActiveTrue"
+	Value "True"
+StringInfo
+	ID "IDSIcoCustomGameInfoAreMinorFactionsActiveFalse"
+	Value "False"
+StringInfo
+	ID "IDSIcoCustomGameInfoAreSuperWeaponsActive"
+	Value "Super Weapons:"
+StringInfo
+	ID "IDSIcoCustomGameInfoAreSuperWeaponsActiveTrue"
+	Value "True"
+StringInfo
+	ID "IDSIcoCustomGameInfoAreSuperWeaponsActiveFalse"
+	Value "False"
+StringInfo
+	ID "IDSIcoCustomGameInfoIsAISurrenderActive"
+	Value "AI Surrender:"
+StringInfo
+	ID "IDSIcoCustomGameInfoIsAISurrenderActiveTrue"
+	Value "True"
+StringInfo
+	ID "IDSIcoCustomGameInfoIsAISurrenderActiveFalse"
+	Value "False"
 StringInfo
 	ID "IDSIcoCustomGameInfoUseQuickStart"
 	Value "Quick Start:"
@@ -21138,6 +21564,9 @@ StringInfo
 StringInfo
 	ID "IDS_RESEARCHFLOATMODIFIER_MASSREDUCTION"
 	Value "Mass reduction:"
+tringInfo
+	ID "IDS_RESEARCHFLOATMODIFIER_MINORFACTIONABILITYLEVEL"
+	Value "Minor Faction ability level:"
 StringInfo
 	ID "IDS_RESEARCHFLOATMODIFIER_MODULEBUILDRATEADJUSTMENT"
 	Value "Structure build rate increase:"
@@ -23293,11 +23722,29 @@ StringInfo
 	ID "IDSGameOptionsArePiratesActiveFalse"
 	Value "Pirates Inactive"
 StringInfo
-	ID "IDSGameOptionsAreOutlawSectorsActiveTrue"
-	Value "Outlaw Sectors"
+	ID "IDSGameOptionsAreOutlawSectorsMilitiaActiveTrue"
+	Value "Rampant Militias"
 StringInfo
-	ID "IDSGameOptionsAreOutlawSectorsActiveFalse"
-	Value "No Outlaw Sectors"
+	ID "IDSGameOptionsAreOutlawSectorsMilitiaActiveFalse"
+	Value "No Rampant Militias"
+StringInfo
+	ID "IDSGameOptionsAreMinorFactionsActiveTrue"
+	Value "Minor Factions"
+StringInfo
+	ID "IDSGameOptionsAreMinorFactionsActiveFalse"
+	Value "No Minor Factions"
+StringInfo
+	ID "IDSGameOptionsAreSuperWeaponsActiveTrue"
+	Value "Super Weapons"
+StringInfo
+	ID "IDSGameOptionsAreSuperWeaponsActiveFalse"
+	Value "No Super Weapons"
+StringInfo
+	ID "IDSGameOptionsIsAISurrenderActiveTrue"
+	Value "AI Surrender"
+StringInfo
+	ID "IDSGameOptionsIsAISurrenderActiveFalse"
+	Value "No AI Surrender"
 StringInfo
 	ID "IDSGameOptionsIsBlackMarketEnabledTrue"
 	Value "Black Market Enabled"
@@ -24105,6 +24552,57 @@ StringInfo
 StringInfo
 	ID "IDSScenarioPlayerNameMilitia22"
 	Value "C-42 Drifters"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionTech0"
+	Value "Danoba Free Miners"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionTech1"
+	Value "Grost Scrappers Union"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionTech2"
+	Value "Renzo's Resistance Fighters"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionTech3"
+	Value "Yannock Ordnance Specialists"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionTech4"
+	Value "Naibor Liberation Front"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionTech5"
+	Value "Eivonn's Fine Frigates"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionTech6"
+	Value "Pranast United"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionPsi0"
+	Value "Alutar Enclave"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionPsi1"
+	Value "Free Minds of Hobari"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionPsi2"
+	Value "Nilari Cultists"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionPsi3"
+	Value "Laesinda Dominion"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionPsi4"
+	Value "Anundi Collective"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionPhase0"
+	Value "Viturak Transport Cabal"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionPhase1"
+	Value "Jiskun Expeditionary Force"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionPhase2"
+	Value "Korvaska War Profiteers"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionPhase3"
+	Value "Arankul Mercenaries"
+StringInfo
+	ID "IDSScenarioPlayerNameMinorFactionPhase4"
+	Value "Skaransul Cooperative"
 StringInfo
 	ID "IDSLoadScreenTip00"
 	Value "Tip: Hold down 'Alt' on your keyboard to quickly see health bars, a tactical grid, attack ranges, unit orders, and more."
@@ -25204,6 +25702,30 @@ StringInfo
 	ID "IDS_GAMEOPTION_OUTLAWSECTORSACTIVE_DESCRIPTION"
 	Value "Activates: Smuggling Specialization - steal trade profits at the cost of tax corruption. Rampant Militias - they grow, raid and repopulate, so it's best to make them yours. Pirate Turf - Pirates will now attack multiple players and all Bounty is given a bonus supplement."
 StringInfo
+	ID "IDS_GAMEOPTION_OUTLAWSECTORSMILITIAACTIVE_NAME"
+	Value "Rampant Militias"
+StringInfo
+	ID "IDS_GAMEOPTION_OUTLAWSECTORSMILITIAACTIVE_DESCRIPTION"
+	Value "Autonomous planetary militias will grow, raid nearby systems, and repopulate over time. Use them to help defend your worlds, or coordinate your attacks with their strikes for maximum impact."
+StringInfo
+	ID "IDS_GAMEOPTION_MINORFACTIONSACTIVE_NAME"
+	Value "Minor Factions"
+StringInfo
+	ID "IDS_GAMEOPTION_MINORFACTIONSACTIVE_DESCRIPTION"
+	Value "Upstart forces will spawn on select worlds. Exert control over them with envoys and gain access to their unique abilities and advantages."
+StringInfo
+	ID "IDS_GAMEOPTION_SUPERWEAPONSACTIVE_NAME"
+	Value "Super Weapons"
+StringInfo
+	ID "IDS_GAMEOPTION_SUPERWEAPONSACTIVE_DESCRIPTION"
+	Value "Determines if players can build super weapons."
+StringInfo
+	ID "IDS_GAMEOPTION_AISURRENDERACTIVE_NAME"
+	Value "AI Surrender"
+StringInfo
+	ID "IDS_GAMEOPTION_AISURRENDERACTIVE_DESCRIPTION"
+	Value "Determines if AI players will surrender when they calculate that a loss is inevitable."
+StringInfo
 	ID "IDS_GAMEOPTION_FLEETSIZE_NAME"
 	Value "Fleet Size"
 StringInfo
@@ -25383,6 +25905,9 @@ StringInfo
 StringInfo
 	ID "IDS_DLC_NAME_487280"
 	Value "Outlaw Sectors"
+StringInfo
+	ID "IDS_DLC_NAME_974650"
+	Value "Minor Factions"
 StringInfo
 	ID "IDSGalaxyInfoWindowSaveFileMissingDLC"
 	Value "This save file requires the following DLC to play: %s."
