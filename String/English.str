@@ -1,5 +1,23 @@
 TXT
-NumStrings 8652
+NumStrings 8659
+StringInfo
+        ID "IDS_Ability_E4X_MinorFactionMiningEquipment_NAME"
+        Value "Danoba Mining Equipment"
+StringInfo
+        ID "IDS_Ability_E4X_MinorFactionMiningEquipment_DESC"
+        Value "Purchases specialized mining equipment that grants a bonus to metal and crystal mining rates at the indicated planet, which is active until you lose control of it."
+StringInfo
+        ID "IDS_Ability_E4X_MinorFactionPlanetaryDefenseSystem_NAME"
+        Value "Planetary Defense System"
+StringInfo
+        ID "IDS_Ability_E4X_MinorFactionPlanetaryDefenseSystem_DESC"
+        Value "Grants the ability to build planetary defenses at the indicated planet. Over several minutes defensive weapons will be added to the planet, and last until the world is lost."
+StringInfo
+        ID "IDS_Ability_E4X_MinorFactionScornOfTheUnity_NAME"
+        Value "Scorn of the Unity"
+StringInfo
+        ID "IDS_Ability_E4X_MinorFactionScornOfTheUnity_DESC"
+        Value "The wrath of the unity at this planet curses the targeted planet for a time, causing it to take more damage from bombardment." 
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_MINELAYERPHASE_DESCRIPTION"
 	Value "Grants access to Sivuskras Ruiners - versatile units that are strong against structures and can also deploy mines."

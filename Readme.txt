@@ -505,4 +505,11 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Vasari Assault Nanites from the Rankulus Battleship can now target ships.
 		-Fixed an issue where the Pirate Trading base random encounter would not always spawn at Space Junks.
 		
-1.85	-Reduced antimodule damage against capitalships, heavy cruisers, light frigates, and corvettes.
+1.85	-Update for Rebellion 1.93 / Minor factions DLC	
+			-Mod now works with minor factions. Use embassies to capture them.
+			-Buffed Minor Faction starting forces.
+		-Added new abilities to minor factions with only 2 abilities
+		-Greatly increased embassy HP now that they are more of a target.
+		-Envoy Diplomatic Immunity now no longer prevents abilities from being used, but duration reduced to 20 seconds.
+		-Reduced antimodule damage against capitalships, heavy cruisers, light frigates, and corvettes.
+		-Fixed XP from killing Corvettes.

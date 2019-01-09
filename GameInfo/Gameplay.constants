@@ -1228,7 +1228,7 @@ GameplayConstants
 			planetAbilities
 				ability:0 "AbilityMinorFactionTradeMetalForCreditsBetterRate"
 				ability:1 "AbilityMinorFactionTradeCrystalForCreditsBetterRate"
-				ability:2 ""
+				ability:2 "Ability_E4X_MinorFactionMiningEquipment"
 				ability:3 ""
 				ability:4 ""
 		minorFactionPlayerDef
@@ -1251,8 +1251,8 @@ GameplayConstants
 			name "TechDemolitionists"
 			planetAbilities
 				ability:0 "AbilityMinorFactionSpawnAntiModuleRaidTech"
-				ability:1 "AbilityMinorFactionAntiModuleDamageBonus"
-				ability:2 ""
+				ability:1 "AbilityMinorFactionSpawnAttackRaidTech"
+				ability:2 "AbilityMinorFactionAntiModuleDamageBonus"
 				ability:3 ""
 				ability:4 ""
 		minorFactionPlayerDef
@@ -1268,7 +1268,7 @@ GameplayConstants
 			planetAbilities
 				ability:0 "AbilityMinorFactionRepairShips"
 				ability:1 "AbilityMinorFactionSpawnDefenseRaidTech"
-				ability:2 ""
+				ability:2 "Ability_E4X_MinorFactionPlanetaryDefenseSystem"
 				ability:3 ""
 				ability:4 ""
 		minorFactionPlayerDef
@@ -1308,7 +1308,7 @@ GameplayConstants
 			planetAbilities
 				ability:0 "AbilityMinorFactionSpawnAttackRaidPsi"
 				ability:1 "AbilityMinorFactionSpawnSiegeRaidPsi"
-				ability:2 ""
+				ability:2 "Ability_E4X_MinorFactionScornOftheUnity"
 				ability:3 ""
 				ability:4 ""
 		minorFactionPlayerDef
