@@ -1191,10 +1191,10 @@ GameplayConstants
 		minConnectionDistanceToSameFactionPlanets 5
 		minAdjacentPlanetCount 2
 		infrastructurePlanetUpgradeLevel 2
-		populationPlanetUpgradeLevel 3
+		populationPlanetUpgradeLevel 4
 		civilianModulesUpgradeLevel 2
-		tacticalModulesUpgradeLevel 1
-		planetIncomeScalar 0.33333
+		tacticalModulesUpgradeLevel 2
+		planetIncomeScalar 0.40000
 		planetCultureRepelAdditiveBonus 1.5
 		spawnTime 600
 		spawnTimeVariance 120
@@ -1221,7 +1221,7 @@ GameplayConstants
 				ability:0 "AbilityMinorFactionSpawnAttackRaidPhase"
 				ability:1 "AbilityMinorFactionSpawnDefenseRaidPhase"
 				ability:2 "AbilityMinorFactionTradeCreditsForMetal"
-				ability:3 ""
+				ability:3 "Ability_E4X_MinorFactionNanoRestoration"
 				ability:4 ""
 		minorFactionPlayerDef
 			name "TechMiners"

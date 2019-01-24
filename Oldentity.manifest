@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2716
+entityNameCount 2719
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2716,3 +2716,6 @@ entityName "TITAN_PSILOYALIST2.entity"
 entityName "TITAN_PSIREBEL2.entity"
 entityName "TITAN_TECHLOYALIST2.entity"
 entityName "TITAN_TECHREBEL2.entity"
+entityName "Ability_E4X_TECPlanetDefensesFlag.entity"
+entityName "Buff_E4X_TECPlanetDefensesFlag.entity"
+entityName "SpaceMine_E4X_TECPlanetDefensesFlag.entity"

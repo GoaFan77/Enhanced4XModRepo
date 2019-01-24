@@ -1,17 +1,24 @@
 ﻿TXT2
 SinsArchiveVersion 193
 entityType "Ability"
-buffInstantActionType "ApplyBuffToTargetNoRange"
+buffInstantActionType "ApplyBuffToAllFirstSpawnerShipsAndStructures"
 instantActionTriggerType "AlwaysPerform"
-buffType "Buff_E4X_ScornOfTheUnity"
+buffType "Buff_E4X_MinorFactionNanoRestoration"
 targetFilter
 	numOwnerships 1
-	ownership "Enemy"
-	numObjects 1
-	object "Planet"
+	ownership "Player"
+	numObjects 6
+	object "CapitalShip"
+	object "Frigate"
+	object "StarBase"
+	object "Titan"
+	object "Corvette"
+	object "PlanetModule"
 	numSpaces 1
 	space "Normal"
-	numConstraints 0
+	numConstraints 2
+	constraint "NotIsMinorFactionOwned"
+	constraint "NotIsOutlaw"
 effectInfo
 	effectAttachInfo
 		attachType "Invalid"
@@ -30,15 +37,15 @@ aiUseTime "Invalid"
 aiUseTargetCondition "Invalid"
 isAutoCastAvailable FALSE
 isAutoCastOnByDefault FALSE
-pickRandomPlanetToExploreForAutoCastTarget TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
 ignoreNonCombatShipsForAutoCastTarget TRUE
 onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
 useCostType "Resources"
 creditCost
-	Level:0 800.000000
-	Level:1 1000.000000
-	Level:2 1200.000000
-	Level:3 1200.000000
+	Level:0 2800.000000
+	Level:1 2800.000000
+	Level:2 2800.000000
+	Level:3 2800.000000
 metalCost
 	Level:0 0.000000
 	Level:1 0.000000
@@ -59,8 +66,8 @@ researchPrerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-nameStringID "IDS_Ability_E4X_MinorFactionScornOfTheUnity_NAME"
-descStringID "IDS_Ability_E4X_MinorFactionScornOfTheUnity_DESC"
-hudIcon "HUDICON_E4X_MinorFactionScornOfTheUnity"
-smallHudIcon "HUDICON_E4X_MinorFactionScornOfTheUnity"
+nameStringID "IDS_Ability_E4X_MinorFactionNanoRestoration_NAME"
+descStringID "IDS_Ability_E4X_MinorFactionNanoRestoration_DESC"
+hudIcon "HUDICON_ABILITY_NANOHULLREPAIR"
+smallHudIcon "HUDICON_ABILITY_NANOHULLREPAIR"
 infoCardIcon ""
