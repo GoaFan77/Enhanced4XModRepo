@@ -14,10 +14,10 @@ targetFilter
 	numConstraints 1
 	constraint "IsExplored"
 range
-	Level:0 8000.000000
-	Level:1 8000.000000
-	Level:2 0.000000
-	Level:3 0.000000
+	Level:0 9000.000000
+	Level:1 9000.000000
+	Level:2 9000.000000
+	Level:3 9000.000000
 effectInfo
 	effectAttachInfo
 		attachType "Invalid"
@@ -25,7 +25,7 @@ effectInfo
 	mediumEffectName ""
 	largeEffectName ""
 	soundID ""
-needsToFaceTarget TRUE
+needsToFaceTarget FALSE
 canCollideWithTarget TRUE
 moveThruTarget FALSE
 isUltimateAbility FALSE

@@ -3048,10 +3048,9 @@ planetItemsTemplate
 	groups 0
 planetItemsTemplate
 	templateName "Template:DefaultStart_Ferrus"
-	subTemplates 3
+	subTemplates 2
 		template "Template:DefaultHomePlanetSetup"
 		template "Template:LocalMilitiaStrong"
-		template "Template:RandomTechMinerColony"
 	groups 0
 planetItemsTemplate
 	templateName "Template:DefaultStart_Greenhouse"
@@ -3702,7 +3701,7 @@ planetItemsTemplate
 				type "NoPlanetOwnerWithChance"
 				param "0.0"
 			owner "RandomEncounterPsi"
-			colonizeChance 1
+			colonizeChance 0
 			items 5
 				item "Psi:Frigate:Light"
 				item "Psi:Frigate:Light"
@@ -3731,10 +3730,10 @@ planetItemsTemplate
 	groups 3
 		group
 			condition
-				type "NoPlanetOwnerWithChance"
+				type "PlanetOwnerIsMilitiaWithChance"
 				param "0.0"
-			owner "RandomEncounterTEC"
-			colonizeChance 1
+			owner "RandomMilitia"
+			colonizeChance 0
 			items 16
 				item "Tech:CapitalShip:Colony"
 				item "Tech:Frigate:Light"
@@ -3777,7 +3776,7 @@ planetItemsTemplate
 				type "NoPlanetOwnerWithChance"
 				param "0.0"
 			owner "RandomEncounterPhase"
-			colonizeChance 1
+			colonizeChance 0
 			items 26
 				item "Phase:CapitalShip:Scout"
 				item "Phase:Frigate:Utility1"
@@ -3850,7 +3849,7 @@ planetItemsTemplate
 				type "NoPlanetOwnerWithChance"
 				param "0.0"
 			owner "RandomEncounterPsi"
-			colonizeChance 1
+			colonizeChance 0
 			items 24
 				item "Psi:CapitalShip:BattlePsionic"
 				item "Psi:Frigate:Colony"
@@ -3921,7 +3920,7 @@ planetItemsTemplate
 				type "Always"
 				param ""
 			owner "Pirate"
-			colonizeChance 1
+			colonizeChance 0
 			items 9
 				item "Other:Starbase:NeutralTradeStation"
 				item "Pirate:Frigate:Heavy"
@@ -4057,12 +4056,9 @@ planetItemsTemplate
 				item "Ancient:Entity:EnergyHarvester"
 planetItemsTemplate
 	templateName "Template:ArtifactEntities"
-	subTemplates 6
-		template "Template:AncientCannon"
+	subTemplates 3
 		template "Template:AncientShieldGenerator"
 		template "Template:AncientStarBase"
-		template "Template:AncientBioWeapon"
-		template "Template:AncientPhaseTunneler"
 		template "Template:StarArtifact"							
 	groups 0
 planetItemsTemplate
@@ -4073,15 +4069,13 @@ planetItemsTemplate
 	groups 0		
 planetItemsTemplate
 	templateName "Template:LocalMilitia_Desert"
-	subTemplates 3
-		template "Template:RandomAdventSpicePlanet"
+	subTemplates 2
 		template "Template:LocalMilitiaStrong"
 		template "Template:ArtifactEntities"
 	groups 0
 planetItemsTemplate
 	templateName "Template:LocalMilitia_Volcanic"
-	subTemplates 3
-		template "Template:RandomTechMinerColony"
+	subTemplates 2
 		template "Template:LocalMilitiaMedium"
 		template "Template:ArtifactEntities"
 	groups 0
@@ -4100,8 +4094,7 @@ planetItemsTemplate
 	groups 0
 planetItemsTemplate
 	templateName "Template:LocalMilitia_DeadAsteroid"
-	subTemplates 2
-		template "Template:RandomAdventArtifact"
+	subTemplates 1
 		template "Template:ArtifactEntities"
 	groups 0
 planetItemsTemplate
@@ -4111,14 +4104,12 @@ planetItemsTemplate
 	groups 0
 planetItemsTemplate
 	templateName "Template:LocalMilitia_PlasmaStorm"
-	subTemplates 2
+	subTemplates 1
 		template "Template:LocalMilitiaMediumUncolonizable"
-		template "Template:RandomVasariPirateBattle"
 	groups 0
 planetItemsTemplate
 	templateName "Template:LocalMilitia_Ice"
-	subTemplates 3
-		template "Template:RandomVasariWeaponsTesting"
+	subTemplates 2
 		template "Template:LocalMilitiaMedium"
 		template "Template:ArtifactEntities"
 	groups 0
@@ -4391,7 +4382,7 @@ planetItemsTemplate
 				param "DefaultTech"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 27
+			items 28
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4419,6 +4410,7 @@ planetItemsTemplate
 				item "Tech:Frigate:Heavy"
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"	
+				item "Other:Flag:TECMilitia"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
@@ -4498,7 +4490,7 @@ planetItemsTemplate
 				param "TechMiners"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 33
+			items 34
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4532,13 +4524,14 @@ planetItemsTemplate
 				item "Tech:Frigate:Utility1"
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"
+				item "Other:Flag:TECMilitia"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
 				param "TechScrappers"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 30
+			items 31
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4569,13 +4562,14 @@ planetItemsTemplate
 				item "Tech:Frigate:Utility1"
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"
+				item "Other:Flag:TECMilitia"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
 				param "TechSiegeRaiders"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 35
+			items 36
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4611,13 +4605,14 @@ planetItemsTemplate
 				item "Tech:Frigate:Utility0"
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"
+				item "Other:Flag:TECMilitia"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
 				param "TechDemolitionists"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 32
+			items 33
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4650,13 +4645,14 @@ planetItemsTemplate
 				item "Tech:Frigate:AntiModule"
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"
+				item "Other:Flag:TECMilitia"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
 				param "TechXenophobes"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 35
+			items 36
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4692,13 +4688,14 @@ planetItemsTemplate
 				item "Tech:Corvette:Rebel"
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"
+				item "Other:Flag:TECMilitia"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
 				param "TechDefensive"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 34
+			items 35
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4733,6 +4730,7 @@ planetItemsTemplate
 				item "Tech:Frigate:Heavy"
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"
+				item "Other:Flag:TECMilitia"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"

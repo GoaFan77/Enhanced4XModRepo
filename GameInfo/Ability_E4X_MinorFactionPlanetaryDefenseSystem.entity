@@ -61,6 +61,6 @@ researchPrerequisites
 	RequiredCompletedResearchSubjects 0
 nameStringID "IDS_Ability_E4X_MinorFactionPlanetaryDefenseSystem_NAME"
 descStringID "IDS_Ability_E4X_MinorFactionPlanetaryDefenseSystem_DESC"
-hudIcon "HUDICON_ABILITY_MINORFACTIONFARSIGHT"
-smallHudIcon "HUDICON_ABILITY_MINORFACTIONFARSIGHT"
+hudIcon "HUDICON_E4X_PlanetaryDefensesAccess"
+smallHudIcon "HUDICON_E4X_PlanetaryDefensesAccess"
 infoCardIcon ""

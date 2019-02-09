@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 190
+brushCount 192
 brush
 	name "Planet_E4X_CyberFortressNormal"
 	content "Simple"
@@ -1870,7 +1870,43 @@ brush
 		pixelBox [ 357 , 371 , 47 , 33 ]
 	Normal
 		fileName "E4X_Icons_Normal"
-		pixelBox [ 357 , 371 , 47 , 33 ]						
+		pixelBox [ 357 , 371 , 47 , 33 ]		
+brush
+	name "HUDICON_E4X_MinorFactionMiningEquipment"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 408 , 371 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 408 , 371 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 408 , 371 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 371 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 371 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_MinorFactionScornOfTheUnity"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 459 , 371 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 459 , 371 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 459 , 371 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 371 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 371 , 47 , 33 ]										
 brush
 	name "HUDICON_E4X_UpgradeDrainingBeams"
 	content "States"

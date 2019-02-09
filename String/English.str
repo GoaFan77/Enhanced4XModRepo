@@ -1,5 +1,11 @@
 TXT
-NumStrings 8659
+NumStrings 8661
+StringInfo
+        ID "IDS_Ability_E4X_MinorFactionNanoRestoration_NAME"
+        Value "Nano Restoration"
+StringInfo
+        ID "IDS_Ability_E4X_MinorFactionNanoRestoration_DESC"
+        Value "A coat of beneficial nanobots is applied to all ships in the gravity well. These nanobots help with repairs and increase hull restoration rates."
 StringInfo
         ID "IDS_Ability_E4X_MinorFactionMiningEquipment_NAME"
         Value "Danoba Mining Equipment"
