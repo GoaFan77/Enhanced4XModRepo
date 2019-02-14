@@ -423,7 +423,7 @@ gameEventData
 	GameEventSound:AllyDiplomaticVictoryComplete "EVENTPSI_ALLYDIPLOMATICVICTORYCOMPLETE"
 	GameEventSound:EnemyDiplomaticVictoryHalfway "EVENTPSI_ENEMYDIPLOMATICVICTORYHALFWAY"
 	GameEventSound:EnemyDiplomaticVictoryComplete "EVENTPSI_ENEMYDIPLOMATICVICTORYCOMPLETE"
-	GameEventSound:OccupationVictoryStarted "EVENTPSI_OCCUPATIONVICTORYSTARTED"
+	GameEventSound:OccupationVictoryStarted ""
 	GameEventSound:OccupationVictoryHalfway "EVENTPSI_OCCUPATIONVICTORYHALFWAY"
 	GameEventSound:OccupationVictoryComplete "EVENTPSI_OCCUPATIONVICTORYCOMPLETE"
 	GameEventSound:AllyOccupationVictoryStarted "EVENTPSI_ALLYOCCUPATIONVICTORYSTARTED"

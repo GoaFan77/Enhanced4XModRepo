@@ -1041,8 +1041,8 @@ effect
 	type "Effect"
 	is3D TRUE
 	priority 5
-	threshold 10000.000000
-	minAttenuationDist 500.000000
+	threshold 25000.000000
+	minAttenuationDist 2000.000000
 	maxNumPlayingSimultaneously 1
 	isLooping TRUE
 	isResident FALSE
