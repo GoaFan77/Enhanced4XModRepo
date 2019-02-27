@@ -37,7 +37,7 @@ MeshData
 			 [ 0.000000 1.000000 0.000000 ]
 			 [ -0.000000 0.000000 -1.000000 ]
 	Point
-		DataString "Exhaust2"
+		DataString "Exhaust"
 		Position [ 24.110619 -9.777987 -338.472717 ]
 		Orientation
 			 [ -1.000000 0.000000 0.000000 ]
@@ -51,14 +51,14 @@ MeshData
 			 [ 0.000000 1.000000 0.000000 ]
 			 [ -0.000000 0.000000 -1.000000 ]
 	Point
-		DataString "Exhaust2"
+		DataString "Exhaust"
 		Position [ -15.219306 -9.777987 -338.472717 ]
 		Orientation
 			 [ -1.000000 0.000000 0.000000 ]
 			 [ 0.000000 1.000000 0.000000 ]
 			 [ -0.000000 0.000000 -1.000000 ]
 	Point
-		DataString "Exhaust2"
+		DataString "Exhaust"
 		Position [ -15.219306 20.311815 -337.101990 ]
 		Orientation
 			 [ -1.000000 0.000000 0.000000 ]
@@ -72,7 +72,7 @@ MeshData
 			 [ 0.000000 1.000000 0.000000 ]
 			 [ -0.000000 0.000000 -1.000000 ]
 	Point
-		DataString "Exhaust2"
+		DataString "Exhaust"
 		Position [ 24.110620 20.311815 -337.101990 ]
 		Orientation
 			 [ -1.000000 0.000000 0.000000 ]
@@ -233,28 +233,28 @@ MeshData
 			 [ 0.000000 1.000000 0.000000 ]
 			 [ 0.000000 0.000000 1.000000 ]
 	Point
-		DataString "Flair_Blink1"
+		DataString "Flair-Flair_Blink"
 		Position [ 38.707104 84.709061 119.420357 ]
 		Orientation
 			 [ 1.000000 0.000000 0.000000 ]
 			 [ 0.000000 1.000000 0.000000 ]
 			 [ 0.000000 0.000000 1.000000 ]
 	Point
-		DataString "Flair_Blink2"
+		DataString "Flair-Flair_Blink"
 		Position [ -33.480415 78.265266 20.980703 ]
 		Orientation
 			 [ 1.000000 0.000000 0.000000 ]
 			 [ 0.000000 1.000000 0.000000 ]
 			 [ 0.000000 0.000000 1.000000 ]
 	Point
-		DataString "Flair_Blink3"
+		DataString "Flair-Flair_Blink"
 		Position [ 7.060364 4.914036 456.216644 ]
 		Orientation
 			 [ 1.000000 0.000000 0.000000 ]
 			 [ 0.000000 1.000000 0.000000 ]
 			 [ 0.000000 0.000000 1.000000 ]
 	Point
-		DataString "Flair_Bowtiespin1"
+		DataString "Flair-Flair_Bowtiespin"
 		Position [ -23.813467 72.031677 -189.506348 ]
 		Orientation
 			 [ 1.000000 0.000000 0.000000 ]

@@ -1,5 +1,11 @@
 TXT
-NumStrings 8661
+NumStrings 8663
+StringInfo
+        ID "IDS_Ability_E4X_MinorFactionSpreadCultureGeneric_NAME"
+        Value "Cultural Cooperation"
+StringInfo
+        ID "IDS_Ability_E4X_MinorFactionSpreadCultureGeneric_DESC"
+        Value "The Minor Faction uses its influence to support the perception of your empire, causing your culture to spread from the planet for a long duration."
 StringInfo
         ID "IDS_Ability_E4X_MinorFactionNanoRestoration_NAME"
         Value "Nano Restoration"
