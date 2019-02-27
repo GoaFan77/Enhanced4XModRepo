@@ -424,7 +424,7 @@ gameEventData
 	GameEventSound:AllyDiplomaticVictoryComplete "EVENTTECH_ALLYDIPLOMATICVICTORYCOMPLETE"
 	GameEventSound:EnemyDiplomaticVictoryHalfway "EVENTTECH_ENEMYDIPLOMATICVICTORYHALFWAY"
 	GameEventSound:EnemyDiplomaticVictoryComplete "EVENTTECH_ENEMYDIPLOMATICVICTORYCOMPLETE"
-	GameEventSound:OccupationVictoryStarted "EVENTTECH_OCCUPATIONVICTORYSTARTED"
+	GameEventSound:OccupationVictoryStarted ""
 	GameEventSound:OccupationVictoryHalfway "EVENTTECH_OCCUPATIONVICTORYHALFWAY"
 	GameEventSound:OccupationVictoryComplete "EVENTTECH_OCCUPATIONVICTORYCOMPLETE"
 	GameEventSound:AllyOccupationVictoryStarted "EVENTTECH_ALLYOCCUPATIONVICTORYSTARTED"
