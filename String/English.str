@@ -1,5 +1,11 @@
 TXT
-NumStrings 8663
+NumStrings 8665
+StringInfo
+        ID "IDS_Ability_E4X_MinorFactionTradeCreditsForCrystalBetterRate_NAME"
+        Value "Sell Bulk Crystal"
+StringInfo
+        ID "IDS_Ability_E4X_MinorFactionTradeCreditsForMetalBetterRate_NAME"
+        Value "Sell Bulk Metal"
 StringInfo
         ID "IDS_Ability_E4X_MinorFactionSpreadCultureGeneric_NAME"
         Value "Cultural Cooperation"

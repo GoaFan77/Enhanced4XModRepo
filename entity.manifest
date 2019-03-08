@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2722
+entityNameCount 2729
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2722,3 +2722,10 @@ entityName "SpaceMine_E4X_TECPlanetDefensesFlag.entity"
 entityName "Ability_E4X_MinorFactionNanoRestoration.entity"
 entityName "Buff_E4X_MinorFactionNanoRestoration.entity"
 entityName "Ability_E4X_MinorFactionSpreadCultureGeneric.entity"
+entityName "Ability_E4X_Grant200XPFlag.entity"
+entityName "Buff_E4X_Grant200XPFlag.entity"
+entityName "Ability_E4X_Grant1000XPFlag.entity"
+entityName "Buff_E4X_Grant1000XPFlag.entity"
+entityName "Ability_E4X_MinorFactionTradeCreditsForCrystalBetterRate.entity"
+entityName "Ability_E4X_MinorFactionTradeCreditsForMetalBetterRate.entity"
+entityName "Buff_E4X_KillPlanetFlag.entity"

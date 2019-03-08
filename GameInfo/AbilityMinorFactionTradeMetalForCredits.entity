@@ -1,9 +1,15 @@
 ﻿TXT2
 SinsArchiveVersion 193
 entityType "Ability"
-buffInstantActionType "ApplyBuffToSelf"
+buffInstantActionType "GiveResourceToPlayer"
 instantActionTriggerType "AlwaysPerform"
-buffType "BuffMinorFactionSpreadCulture"
+resourceType "Metal"
+resourceAmount
+	Level:0 300.000000
+	Level:1 300.000000
+	Level:2 300.000000
+	Level:3 300.000000
+resourceAmountScalarType "Flat"
 effectInfo
 	effectAttachInfo
 		attachType "Invalid"
@@ -27,10 +33,10 @@ ignoreNonCombatShipsForAutoCastTarget TRUE
 onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
 useCostType "Resources"
 creditCost
-	Level:0 750.000000
+	Level:0 1000.000000
 	Level:1 1000.000000
-	Level:2 1250.000000
-	Level:3 1250.000000
+	Level:2 1000.000000
+	Level:3 1000.000000
 metalCost
 	Level:0 0.000000
 	Level:1 0.000000
@@ -42,17 +48,17 @@ crystalCost
 	Level:2 0.000000
 	Level:3 0.000000
 cooldownTime
-	Level:0 600.000000
-	Level:1 600.000000
-	Level:2 600.000000
-	Level:3 600.000000
+	Level:0 300.000000
+	Level:1 240.000000
+	Level:2 180.000000
+	Level:3 180.000000
 orderAcknowledgementType "ONGENERALORDERISSUED"
 researchPrerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-nameStringID "IDS_Ability_E4X_MinorFactionSpreadCultureGeneric_NAME"
-descStringID "IDS_Ability_E4X_MinorFactionSpreadCultureGeneric_DESC"
-hudIcon "HUDICON_RESEARCHSUBJECT_SHIPSLOTINCREASE"
-smallHudIcon "HUDICON_RESEARCHSUBJECT_SHIPSLOTINCREASE"
+nameStringID "IDS_ABILITY_MINORFACTIONTRADEMETALFORCREDITS_NAME"
+descStringID "IDS_ABILITY_MINORFACTIONTRADEMETALFORCREDITS_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_MINORFACTIONTRADEMETALFORCREDITS"
+smallHudIcon "HUDICON_ABILITY_MINORFACTIONTRADEMETALFORCREDITS"
 infoCardIcon ""

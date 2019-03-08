@@ -1,9 +1,15 @@
 ﻿TXT2
 SinsArchiveVersion 193
 entityType "Ability"
-buffInstantActionType "ApplyBuffToSelf"
+buffInstantActionType "GiveResourceToPlayer"
 instantActionTriggerType "AlwaysPerform"
-buffType "BuffMinorFactionSpreadCulture"
+resourceType "Credits"
+resourceAmount
+	Level:0 1800.000000
+	Level:1 1800.000000
+	Level:2 1800.000000
+	Level:3 1800.000000
+resourceAmountScalarType "Flat"
 effectInfo
 	effectAttachInfo
 		attachType "Invalid"
@@ -27,32 +33,32 @@ ignoreNonCombatShipsForAutoCastTarget TRUE
 onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
 useCostType "Resources"
 creditCost
-	Level:0 750.000000
-	Level:1 1000.000000
-	Level:2 1250.000000
-	Level:3 1250.000000
+	Level:0 0.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
 metalCost
 	Level:0 0.000000
 	Level:1 0.000000
 	Level:2 0.000000
 	Level:3 0.000000
 crystalCost
-	Level:0 0.000000
-	Level:1 0.000000
-	Level:2 0.000000
-	Level:3 0.000000
+	Level:0 500.000000
+	Level:1 500.000000
+	Level:2 500.000000
+	Level:3 500.000000
 cooldownTime
-	Level:0 600.000000
-	Level:1 600.000000
-	Level:2 600.000000
-	Level:3 600.000000
+	Level:0 300.000000
+	Level:1 240.000000
+	Level:2 180.000000
+	Level:3 180.000000
 orderAcknowledgementType "ONGENERALORDERISSUED"
 researchPrerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-nameStringID "IDS_Ability_E4X_MinorFactionSpreadCultureGeneric_NAME"
-descStringID "IDS_Ability_E4X_MinorFactionSpreadCultureGeneric_DESC"
-hudIcon "HUDICON_RESEARCHSUBJECT_SHIPSLOTINCREASE"
-smallHudIcon "HUDICON_RESEARCHSUBJECT_SHIPSLOTINCREASE"
+nameStringID "IDS_Ability_E4X_MinorFactionTradeCreditsForCrystalBetterRate_NAME"
+descStringID "IDS_ABILITY_MINORFACTIONTRADECREDITSFORCRYSTAL_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_MINORFACTIONTRADECREDITSFORCRYSTAL"
+smallHudIcon "HUDICON_ABILITY_MINORFACTIONTRADECREDITSFORCRYSTAL"
 infoCardIcon ""

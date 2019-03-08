@@ -1,7 +1,7 @@
 ﻿TXT
 entityType "SpaceMine"
 ability:0 "Ability_E4X_KillPlanetFlag"
-ability:1 "Ability_E4X_FlagSelfDestruct"
+ability:1 ""
 ability:2 ""
 ability:3 ""
 ability:4 ""
@@ -43,7 +43,7 @@ NumSoundsFor:ONGENERALORDERISSUED 0
 NumSoundsFor:ONSELECTED 1
 SoundID "MINE_TECH_ONSELECTED"
 NumSoundsFor:ONSTARTPHASEJUMP 0
-maxHullPoints 500.000000
+maxHullPoints 5000.000000
 hullPointRestoreRate 0.000000
 maxShieldPoints 0.000000
 shieldPointRestoreRate 0.000000

@@ -505,7 +505,7 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Vasari Assault Nanites from the Rankulus Battleship can now target ships.
 		-Fixed an issue where the Pirate Trading base random encounter would not always spawn at Space Junks.
 		
-1.85	-Update for Rebellion 1.93 / Minor factions DLC	
+1.85	-Update for Rebellion 1.94 / Minor factions DLC	
 			-Mod now works with minor factions. Use embassies to capture them.
 			-Buffed Minor Faction starting forces.
 		-Added new abilities to minor factions with limited utility.
@@ -513,6 +513,7 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 			-Danoba Free Miners can sell you Mining Equipment to increase metal and crystal mining rates until you lose control of the target planet.
 			-Pranast United will now let you purchase TEC Planetary Defense Systems (Planetary Weapons) on a planet of your choice. The regular buildup time still applies.
 			-Laesinda Dominion can now force an enemy planet to take increased damage for a time with their Scorn of the Unity.
+		-Minor Faction abilities that trade resources now benefit from Minor Faction ability upgrade techs. Trade cooldown reduced by 1 minute per level. 
 		-Greatly increased embassy HP now that they are more of a target.
 		-Envoy Diplomatic Immunity now no longer prevents abilities from being used, but duration reduced to 20 seconds.
 		-Reduced antimodule damage against capitalships, heavy cruisers, light frigates, and corvettes.

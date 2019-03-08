@@ -1,18 +1,22 @@
 ﻿TXT
 entityType "Ability"
-buffInstantActionType "ApplyBuffToLocalOrbitBody"
+buffInstantActionType "ApplyBuffToTargetsAtOrbitBody"
 instantActionTriggerType "AlwaysPerform"
-buffType "Buff_E4X_KillPlanetFlag"
+buffType "Buff_E4X_Grant1000XPFlag"
 targetFilter
-	numOwnerships 3
+	numOwnerships 1
 	ownership "Player"
-	ownership "Allied"
-	ownership "Enemy"
-	numObjects 1
-	object "Planet"
+	numObjects 2
+	object "CapitalShip"
+	object "Titan"
 	numSpaces 1
 	space "Normal"
 	numConstraints 0
+maxTargetCount
+	Level:0 -1.000000
+	Level:1 -1.000000
+	Level:2 -1.000000
+	Level:3 -1.000000	
 effectInfo
 	effectAttachInfo
 		attachType "Invalid"

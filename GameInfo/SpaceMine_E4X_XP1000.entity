@@ -1,6 +1,6 @@
 ﻿TXT
 entityType "SpaceMine"
-ability:0 ""
+ability:0 "Ability_E4X_Grant1000XPFlag"
 ability:1 ""
 ability:2 ""
 ability:3 ""
@@ -49,6 +49,6 @@ maxShieldPoints 0.000000
 shieldPointRestoreRate 0.000000
 maxShieldMitigation 0.000000
 armorPoints 0.000000
-experiencePointsForDestroying 1000.000000
+experiencePointsForDestroying 0.000000
 baseMaxAntiMatter 0.000000
 baseAntiMatterRestoreRate 0.000000

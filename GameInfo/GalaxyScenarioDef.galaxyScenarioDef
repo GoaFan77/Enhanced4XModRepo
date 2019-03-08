@@ -16,8 +16,9 @@ starType
 starType
 	designName "RandomNonGreenStar"
 	designStringId "IDSGalaxyScenarioTypeStarRandomNonGreen"
-	orbitBodyTypeCount 7
+	orbitBodyTypeCount 8
 	orbitBodyType "BlueStar"
+	orbitBodyType "GreenStar"
 	orbitBodyType "RedStar"
 	orbitBodyType "YellowStar"
 	orbitBodyType "OrangeStar"
@@ -2621,49 +2622,39 @@ planetItemsTemplate
 	templateName "Template:DefaultHomePlanetSetup"
 	subTemplates 1
 		template "Template:DefaultMinorFaction"
-	groups 24
+	groups 12
 		group
 			condition
 				type "PlanetOwnerIsRaceNormalStart"
 				param "TechLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 6
+			items 7
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"
 				item "Tech:Module:CommandCenterLoyalists"
 				item "Tech:Frigate:StarBaseConstructorLoyalistStart"
+				item "Bonus:TECHomeworld"
 		group
 			condition
 				type "PlanetOwnerIsRaceNormalStart"
 				param "TechRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 6
+			items 7
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"
 				item "Tech:Module:CommandCenter"
 				item "Tech:Module:PirateEmbassy"
+				item "Bonus:TECHomeworld"
 		group
 			condition
 				type "PlanetOwnerIsRaceNormalStart"
 				param "PsiLoyalist"
-			owner "PlanetOwner"
-			colonizeChance 1
-			items 5
-				item "Psi:Module:FrigateFactory"
-				item "Psi:Module:FrigateFactory"
-				item "Psi:Frigate:Constructor"
-				item "Psi:Frigate:Constructor"
-				item "Psi:Module:CommandCenterLoyalist"
-		group
-			condition
-				type "PlanetOwnerIsRaceNormalStart"
-				param "PsiRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 6
@@ -2671,12 +2662,41 @@ planetItemsTemplate
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Frigate:Constructor"
 				item "Psi:Frigate:Constructor"
+				item "Psi:Module:CommandCenterLoyalist"
+				item "Bonus:AdventHomeworld"
+		group
+			condition
+				type "PlanetOwnerIsRaceNormalStart"
+				param "PsiRebel"
+			owner "PlanetOwner"
+			colonizeChance 1
+			items 7
+				item "Psi:Module:FrigateFactory"
+				item "Psi:Module:FrigateFactory"
+				item "Psi:Frigate:Constructor"
+				item "Psi:Frigate:Constructor"
 				item "Psi:Module:CommandCenter"
 				item "Psi:Module:AntiMatterRechargerRebel"
+				item "Bonus:AdventHomeworld"
 		group
 			condition
 				type "PlanetOwnerIsRaceNormalStart"
 				param "PhaseLoyalist"
+			owner "PlanetOwner"
+			colonizeChance 1
+			items 8
+				item "Phase:Module:FrigateFactory"
+				item "Phase:Module:FrigateFactory"
+				item "Phase:Frigate:Constructor"
+				item "Phase:Frigate:Constructor"
+				item "Phase:Module:CommandCenter"
+				item "Phase:Module:TitanFactory"
+				item "Phase:Frigate:ColonyLoyalists"
+				item "Bonus:VasariHomeworld"
+		group
+			condition
+				type "PlanetOwnerIsRaceNormalStart"
+				param "PhaseRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 7
@@ -2685,28 +2705,15 @@ planetItemsTemplate
 				item "Phase:Frigate:Constructor"
 				item "Phase:Frigate:Constructor"
 				item "Phase:Module:CommandCenter"
-				item "Phase:Module:TitanFactory"
-				item "Phase:Frigate:ColonyLoyalists"
-		group
-			condition
-				type "PlanetOwnerIsRaceNormalStart"
-				param "PhaseRebel"
-			owner "PlanetOwner"
-			colonizeChance 1
-			items 6
-				item "Phase:Module:FrigateFactory"
-				item "Phase:Module:FrigateFactory"
-				item "Phase:Frigate:Constructor"
-				item "Phase:Frigate:Constructor"
-				item "Phase:Module:CommandCenter"
 				item "Phase:Module:PhaseGateRebels"
+				item "Bonus:VasariHomeworld"
 		group
 			condition
 				type "PlanetOwnerIsRaceQuickStart"
 				param "TechLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 13
+			items 14
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
@@ -2720,13 +2727,14 @@ planetItemsTemplate
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Scout"
 				item "Tech:Frigate:Scout"
+				item "Bonus:TECHomeworld"
 		group
 			condition
 				type "PlanetOwnerIsRaceQuickStart"
 				param "PsiLoyalist"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 12
+			items 13
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
@@ -2739,10 +2747,75 @@ planetItemsTemplate
 				item "Psi:Frigate:Constructor"
 				item "Psi:Frigate:Scout"
 				item "Psi:Frigate:Scout"
+				item "Bonus:AdventHomeworld"
 		group
 			condition
 				type "PlanetOwnerIsRaceQuickStart"
 				param "PhaseLoyalist"
+			owner "PlanetOwner"
+			colonizeChance 1
+			items 15
+				item "Phase:Module:FrigateFactory"
+				item "Phase:Module:FrigateFactory"
+				item "Phase:Module:CapitalShipFactory"
+				item "Phase:Module:MetalExtractor"
+				item "Phase:Module:MetalExtractor"
+				item "Phase:Module:CrystalExtractor"
+				item "Phase:Module:CrystalExtractor"
+				item "Phase:Module:CommandCenter"
+				item "Phase:Frigate:Constructor"
+				item "Phase:Frigate:Constructor"
+				item "Phase:Frigate:Scout"
+				item "Phase:Frigate:Scout"
+				item "Phase:Module:TitanFactory"
+				item "Phase:Frigate:ColonyLoyalists"
+				item "Bonus:VasariHomeworld"
+		group
+			condition
+				type "PlanetOwnerIsRaceQuickStart"
+				param "TechRebel"
+			owner "PlanetOwner"
+			colonizeChance 1
+			items 14
+				item "Tech:Module:FrigateFactory"
+				item "Tech:Module:FrigateFactory"
+				item "Tech:Module:CapitalShipFactory"
+				item "Tech:Module:MetalExtractor"
+				item "Tech:Module:MetalExtractor"
+				item "Tech:Module:CrystalExtractor"
+				item "Tech:Module:CrystalExtractor"
+				item "Tech:Module:CommandCenter"
+				item "Tech:Module:PirateEmbassy"
+				item "Tech:Frigate:Constructor"
+				item "Tech:Frigate:Constructor"
+				item "Tech:Frigate:Scout"
+				item "Tech:Frigate:Scout"
+				item "Bonus:TECHomeworld"
+		group
+			condition
+				type "PlanetOwnerIsRaceQuickStart"
+				param "PsiRebel"
+			owner "PlanetOwner"
+			colonizeChance 1
+			items 14
+				item "Psi:Module:FrigateFactory"
+				item "Psi:Module:FrigateFactory"
+				item "Psi:Module:CapitalShipFactory"
+				item "Psi:Module:MetalExtractor"
+				item "Psi:Module:MetalExtractor"
+				item "Psi:Module:CrystalExtractor"
+				item "Psi:Module:CrystalExtractor"
+				item "Psi:Module:CommandCenter"
+				item "Psi:Frigate:Constructor"
+				item "Psi:Frigate:Constructor"
+				item "Psi:Frigate:Scout"
+				item "Psi:Frigate:Scout"
+				item "Psi:Module:AntiMatterRechargerRebel"
+				item "Bonus:AdventHomeworld"
+		group
+			condition
+				type "PlanetOwnerIsRaceQuickStart"
+				param "PhaseRebel"
 			owner "PlanetOwner"
 			colonizeChance 1
 			items 14
@@ -2758,164 +2831,8 @@ planetItemsTemplate
 				item "Phase:Frigate:Constructor"
 				item "Phase:Frigate:Scout"
 				item "Phase:Frigate:Scout"
-				item "Phase:Module:TitanFactory"
-				item "Phase:Frigate:ColonyLoyalists"
-		group
-			condition
-				type "PlanetOwnerIsRaceQuickStart"
-				param "TechRebel"
-			owner "PlanetOwner"
-			colonizeChance 1
-			items 13
-				item "Tech:Module:FrigateFactory"
-				item "Tech:Module:FrigateFactory"
-				item "Tech:Module:CapitalShipFactory"
-				item "Tech:Module:MetalExtractor"
-				item "Tech:Module:MetalExtractor"
-				item "Tech:Module:CrystalExtractor"
-				item "Tech:Module:CrystalExtractor"
-				item "Tech:Module:CommandCenter"
-				item "Tech:Module:PirateEmbassy"
-				item "Tech:Frigate:Constructor"
-				item "Tech:Frigate:Constructor"
-				item "Tech:Frigate:Scout"
-				item "Tech:Frigate:Scout"
-		group
-			condition
-				type "PlanetOwnerIsRaceQuickStart"
-				param "PsiRebel"
-			owner "PlanetOwner"
-			colonizeChance 1
-			items 13
-				item "Psi:Module:FrigateFactory"
-				item "Psi:Module:FrigateFactory"
-				item "Psi:Module:CapitalShipFactory"
-				item "Psi:Module:MetalExtractor"
-				item "Psi:Module:MetalExtractor"
-				item "Psi:Module:CrystalExtractor"
-				item "Psi:Module:CrystalExtractor"
-				item "Psi:Module:CommandCenter"
-				item "Psi:Frigate:Constructor"
-				item "Psi:Frigate:Constructor"
-				item "Psi:Frigate:Scout"
-				item "Psi:Frigate:Scout"
-				item "Psi:Module:AntiMatterRechargerRebel"
-		group
-			condition
-				type "PlanetOwnerIsRaceQuickStart"
-				param "PhaseRebel"
-			owner "PlanetOwner"
-			colonizeChance 1
-			items 13
-				item "Phase:Module:FrigateFactory"
-				item "Phase:Module:FrigateFactory"
-				item "Phase:Module:CapitalShipFactory"
-				item "Phase:Module:MetalExtractor"
-				item "Phase:Module:MetalExtractor"
-				item "Phase:Module:CrystalExtractor"
-				item "Phase:Module:CrystalExtractor"
-				item "Phase:Module:CommandCenter"
-				item "Phase:Frigate:Constructor"
-				item "Phase:Frigate:Constructor"
-				item "Phase:Frigate:Scout"
-				item "Phase:Frigate:Scout"
 				item "Phase:Module:PhaseGateRebels"
-		group
-			condition
-				type "PlanetOwnerIsRaceQuickStart"
-				param "TechLoyalist"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1
-				item "Bonus:TECHomeworld"
-		group
-			condition
-				type "PlanetOwnerIsRaceNormalStart"
-				param "TechLoyalist"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1
-				item "Bonus:TECHomeworld"				
-		group
-			condition
-				type "PlanetOwnerIsRaceQuickStart"
-				param "PsiLoyalist"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1		
-				item "Bonus:AdventHomeworld"
-		group
-			condition
-				type "PlanetOwnerIsRaceNormalStart"
-				param "PsiLoyalist"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1		
-				item "Bonus:AdventHomeworld"
-		group
-			condition
-				type "PlanetOwnerIsRaceQuickStart"
-				param "PhaseLoyalist"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1
-				item "Bonus:VasariHomeworld"
-		group
-			condition
-				type "PlanetOwnerIsRaceNormalStart"
-				param "PhaseLoyalist"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1
-				item "Bonus:VasariHomeworld"
-		group
-			condition
-				type "PlanetOwnerIsRaceQuickStart"
-				param "TechRebel"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1
-				item "Bonus:TECHomeworld"
-		group
-			condition
-				type "PlanetOwnerIsRaceNormalStart"
-				param "TechRebel"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1
-				item "Bonus:TECHomeworld"				
-		group
-			condition
-				type "PlanetOwnerIsRaceQuickStart"
-				param "PsiRebel"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1		
-				item "Bonus:AdventHomeworld"
-		group
-			condition
-				type "PlanetOwnerIsRaceNormalStart"
-				param "PsiRebel"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1		
-				item "Bonus:AdventHomeworld"
-		group
-			condition
-				type "PlanetOwnerIsRaceQuickStart"
-				param "PhaseRebel"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1
-				item "Bonus:VasariHomeworld"
-		group
-			condition
-				type "PlanetOwnerIsRaceNormalStart"
-				param "PhaseRebel"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1
-				item "Bonus:VasariHomeworld"
+				item "Bonus:VasariHomeworld"	
 planetItemsTemplate
 	templateName "Template:DefaultStart_Terran"
 	subTemplates 2
@@ -2991,8 +2908,8 @@ planetItemsTemplate
 planetItemsTemplate
 	templateName "Template:DefaultStart_Ice"
 	subTemplates 2
-		template "Template:LocalMilitia_Ice"
 		template "Template:DefaultHomePlanetSetup"
+		template "Template:LocalMilitia_Ice"
 	groups 0
 planetItemsTemplate
 	templateName "Template:DefaultStart_TerranFair"
@@ -3048,9 +2965,10 @@ planetItemsTemplate
 	groups 0
 planetItemsTemplate
 	templateName "Template:DefaultStart_Ferrus"
-	subTemplates 2
+	subTemplates 3
 		template "Template:DefaultHomePlanetSetup"
 		template "Template:LocalMilitiaStrong"
+		template "Template:RandomTechMinerColony"
 	groups 0
 planetItemsTemplate
 	templateName "Template:DefaultStart_Greenhouse"
@@ -3659,7 +3577,7 @@ planetItemsTemplate
 		group
 			condition
 				type "NoPlanetOwnerWithChance"
-				param "0.0"
+				param "0.25"
 			owner "RandomEncounterPhase"
 			colonizeChance 0
 			items 9
@@ -3695,46 +3613,31 @@ planetItemsTemplate
 planetItemsTemplate
 	templateName "Template:RandomAdventArtifact"
 	subTemplates 0
-	groups 3
+	groups 1
 		group
 			condition
 				type "NoPlanetOwnerWithChance"
-				param "0.0"
+				param "0.1"
 			owner "RandomEncounterPsi"
-			colonizeChance 0
-			items 5
+			colonizeChance 1
+			items 6
 				item "Psi:Frigate:Light"
 				item "Psi:Frigate:Light"
 				item "Psi:Frigate:AntiFighter"
 				item "Psi:Frigate:Carrier"
 				item "Psi:Frigate:Colony"
-		group
-			condition
-				type "PlanetOwnerIsRaceQuickStart"
-				param "PsiLoyalist"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1
-				item "Artifact:AntimatterRegen"
-		group
-			condition
-				type "PlanetOwnerIsRaceNormalStart"
-				param "PsiLoyalist"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1
 				item "Artifact:AntimatterRegen"
 planetItemsTemplate
 	templateName "Template:RandomTechMinerColony"
 	subTemplates 0
-	groups 3
+	groups 1
 		group
 			condition
-				type "PlanetOwnerIsMilitiaWithChance"
-				param "0.0"
-			owner "RandomMilitia"
-			colonizeChance 0
-			items 16
+				type "NoPlanetOwnerWithChance"
+				param "0.10"
+			owner "RandomEncounterTEC"
+			colonizeChance 1
+			items 18
 				item "Tech:CapitalShip:Colony"
 				item "Tech:Frigate:Light"
 				item "Tech:Frigate:Utility1"
@@ -3751,33 +3654,19 @@ planetItemsTemplate
 				item "Tech:Module:GaussDefense"
 				item "Tech:Module:GaussDefense"
 				item "Other:Flag:TECMilitia"
-		group
-			condition
-				type "PlanetOwnerIsMilitia"
-				param ""
-			owner "NoOwner"
-			colonizeChance 0
-			items 1
-				item "Bonus:MetalMiners"
-		group
-			condition
-				type "PlanetOwnerIsMilitia"
-				param ""
-			owner "Pirate"
-			colonizeChance 0
-			items 1
 				item "Other:Flag:Grant200XP"
+				item "Bonus:MetalMiners"
 planetItemsTemplate
 	templateName "Template:RandomVasariWeaponsTesting"
 	subTemplates 0
-	groups 5
+	groups 1
 		group
 			condition
 				type "NoPlanetOwnerWithChance"
-				param "0.0"
+				param "0.10"
 			owner "RandomEncounterPhase"
-			colonizeChance 0
-			items 26
+			colonizeChance 1
+			items 30
 				item "Phase:CapitalShip:Scout"
 				item "Phase:Frigate:Utility1"
 				item "Phase:Module:HangarDefense"
@@ -3804,53 +3693,21 @@ planetItemsTemplate
 				item "Phase:Frigate:Siege"
 				item "Phase:Frigate:AntiFighter"	
 				item "Phase:Module:HangarDefense"
-		group
-			condition
-				type "PlanetOwnerIsRaceNormalStart"
-				param "PhaseLoyalist"
-			owner "RandomMilitia"
-			colonizeChance 0
-			items 3
 				item "Other:Flag:Grant200XP"
 				item "Other:Flag:Grant200XP"
 				item "Other:Flag:Grant200XP"
-		group
-			condition
-				type "PlanetOwnerIsRaceQuickStart"
-				param "PhaseLoyalist"
-			owner "RandomMilitia"
-			colonizeChance 0
-			items 3
-				item "Other:Flag:Grant200XP"
-				item "Other:Flag:Grant200XP"
-				item "Other:Flag:Grant200XP"
-		group
-			condition
-				type "PlanetOwnerIsRaceQuickStart"
-				param "PhaseLoyalist"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1
-				item "Bonus:WeaponTestGrounds"
-		group
-			condition
-				type "PlanetOwnerIsRaceNormalStart"
-				param "PhaseLoyalist"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1
 				item "Bonus:WeaponTestGrounds"
 planetItemsTemplate
 	templateName "Template:RandomAdventSpicePlanet"
 	subTemplates 0
-	groups 5
+	groups 1
 		group
 			condition
 				type "NoPlanetOwnerWithChance"
-				param "0.0"
+				param "0.10"
 			owner "RandomEncounterPsi"
-			colonizeChance 0
-			items 24
+			colonizeChance 1
+			items 28
 				item "Psi:CapitalShip:BattlePsionic"
 				item "Psi:Frigate:Colony"
 				item "Psi:Frigate:Light"
@@ -3874,42 +3731,10 @@ planetItemsTemplate
 				item "Psi:Frigate:LongRange"
 				item "Psi:Frigate:Heavy"
 				item "Psi:Frigate:Heavy"	
-				item "Psi:Module:HangarDefense"		
-		group
-			condition
-				type "PlanetOwnerIsRaceNormalStart"
-				param "PsiLoyalist"
-			owner "RandomMilitia"
-			colonizeChance 0
-			items 3
+				item "Psi:Module:HangarDefense"
 				item "Other:Flag:Grant200XP"
 				item "Other:Flag:Grant200XP"
 				item "Other:Flag:Grant200XP"
-		group
-			condition
-				type "PlanetOwnerIsRaceQuickStart"
-				param "PsiLoyalist"
-			owner "RandomMilitia"
-			colonizeChance 0
-			items 3
-				item "Other:Flag:Grant200XP"
-				item "Other:Flag:Grant200XP"
-				item "Other:Flag:Grant200XP"
-		group
-			condition
-				type "PlanetOwnerIsRaceQuickStart"
-				param "PsiLoyalist"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1
-				item "Bonus:SpiceTrade"
-		group
-			condition
-				type "PlanetOwnerIsRaceNormalStart"
-				param "PsiLoyalist"
-			owner "NoOwner"
-			colonizeChance 0
-			items 1
 				item "Bonus:SpiceTrade"
 planetItemsTemplate
 	templateName "Template:PirateTradeSector"
@@ -3934,131 +3759,86 @@ planetItemsTemplate
 planetItemsTemplate
 	templateName "Template:AncientCannon"
 	subTemplates 0	
-	groups 2
+	groups 1
 		group
 			condition
 				type "NoPlanetOwnerWithChance"
-				param "0.033"
+				param "0.03"
 			owner "RandomMilitia"
 			colonizeChance 1
 			items 2
 				item "Ancient:Entity:PlanetCannon"
 				item "Other:Flag:KillPlanet"
-		group
-			condition
-				type "PlanetOwnerIsMilitiaWithChance"
-				param "0.033"
-			owner "PlanetOwner"
-			colonizeChance 0
-			items 1
-				item "Ancient:Entity:PlanetCannon"
 planetItemsTemplate
 	templateName "Template:AncientShieldGenerator"
 	subTemplates 0	
-	groups 2
+	groups 1
 		group
 			condition
 				type "NoPlanetOwnerWithChance"
 				param "0.033"
 			owner "RandomMilitia"
-			colonizeChance 0
-			items 1
-				item "Ancient:Entity:ShieldGenerator"
-		group
-			condition
-				type "PlanetOwnerIsMilitiaWithChance"
-				param "0.033"
-			owner "PlanetOwner"
 			colonizeChance 0
 			items 1
 				item "Ancient:Entity:ShieldGenerator"
 planetItemsTemplate
 	templateName "Template:AncientStarBase"
 	subTemplates 0	
-	groups 2
+	groups 1
 		group
 			condition
 				type "NoPlanetOwnerWithChance"
 				param "0.033"
 			owner "RandomMilitia"
-			colonizeChance 0
-			items 1
-				item "Ancient:Entity:StarbaseConstructor"
-		group
-			condition
-				type "PlanetOwnerIsMilitiaWithChance"
-				param "0.033"
-			owner "PlanetOwner"
 			colonizeChance 0
 			items 1
 				item "Ancient:Entity:StarbaseConstructor"
 planetItemsTemplate
 	templateName "Template:AncientBioWeapon"
 	subTemplates 0	
-	groups 2
+	groups 1
 		group
 			condition
 				type "NoPlanetOwnerWithChance"
-				param "0.033"
+				param "0.03"
 			owner "RandomMilitia"
 			colonizeChance 1
 			items 2
 				item "Ancient:Entity:BioWeapon"
 				item "Other:Flag:KillPlanet"
-		group
-			condition
-				type "PlanetOwnerIsMilitiaWithChance"
-				param "0.033"
-			owner "PlanetOwner"
-			colonizeChance 0
-			items 1
-				item "Ancient:Entity:BioWeapon"
 planetItemsTemplate
 	templateName "Template:AncientPhaseTunneler"
 	subTemplates 0	
-	groups 2
+	groups 1
 		group
 			condition
 				type "NoPlanetOwnerWithChance"
-				param "0.033"
+				param "0.03"
 			owner "RandomMilitia"
 			colonizeChance 1
 			items 2
 				item "Ancient:Entity:PhaseTunneler"
 				item "Other:Flag:KillPlanet"
-		group
-			condition
-				type "PlanetOwnerIsMilitiaWithChance"
-				param "0.033"
-			owner "PlanetOwner"
-			colonizeChance 0
-			items 1
-				item "Ancient:Entity:PhaseTunneler"
 planetItemsTemplate
 	templateName "Template:StarArtifact"
 	subTemplates 0	
-	groups 2
+	groups 1
 		group
 			condition
 				type "NoPlanetOwnerWithChance"
 				param "0.033"
 			owner "RandomMilitia"
-			colonizeChance 0
-			items 1
-				item "Ancient:Entity:EnergyHarvester"
-		group
-			condition
-				type "PlanetOwnerIsMilitiaWithChance"
-				param "0.033"
-			owner "PlanetOwner"
 			colonizeChance 0
 			items 1
 				item "Ancient:Entity:EnergyHarvester"
 planetItemsTemplate
 	templateName "Template:ArtifactEntities"
-	subTemplates 3
+	subTemplates 6
+		template "Template:AncientCannon"
 		template "Template:AncientShieldGenerator"
 		template "Template:AncientStarBase"
+		template "Template:AncientBioWeapon"
+		template "Template:AncientPhaseTunneler"
 		template "Template:StarArtifact"							
 	groups 0
 planetItemsTemplate
@@ -4069,13 +3849,15 @@ planetItemsTemplate
 	groups 0		
 planetItemsTemplate
 	templateName "Template:LocalMilitia_Desert"
-	subTemplates 2
+	subTemplates 3
+		template "Template:RandomAdventSpicePlanet"
 		template "Template:LocalMilitiaStrong"
 		template "Template:ArtifactEntities"
 	groups 0
 planetItemsTemplate
 	templateName "Template:LocalMilitia_Volcanic"
-	subTemplates 2
+	subTemplates 3
+		template "Template:RandomTechMinerColony"
 		template "Template:LocalMilitiaMedium"
 		template "Template:ArtifactEntities"
 	groups 0
@@ -4094,7 +3876,8 @@ planetItemsTemplate
 	groups 0
 planetItemsTemplate
 	templateName "Template:LocalMilitia_DeadAsteroid"
-	subTemplates 1
+	subTemplates 2
+		template "Template:RandomAdventArtifact"
 		template "Template:ArtifactEntities"
 	groups 0
 planetItemsTemplate
@@ -4104,12 +3887,14 @@ planetItemsTemplate
 	groups 0
 planetItemsTemplate
 	templateName "Template:LocalMilitia_PlasmaStorm"
-	subTemplates 1
+	subTemplates 2
 		template "Template:LocalMilitiaMediumUncolonizable"
+		template "Template:RandomVasariPirateBattle"
 	groups 0
 planetItemsTemplate
 	templateName "Template:LocalMilitia_Ice"
-	subTemplates 2
+	subTemplates 3
+		template "Template:RandomVasariWeaponsTesting"
 		template "Template:LocalMilitiaMedium"
 		template "Template:ArtifactEntities"
 	groups 0
@@ -4156,14 +3941,14 @@ planetItemsTemplate
 planetItemsTemplate
 	templateName "Template:PirateBase"
 	subTemplates 0
-	groups 2
+	groups 1
 		group
 			condition
 				type "Always"
 				param ""
 			owner "Pirate"
 			colonizeChance 1
-			items 84
+			items 86
 				item "Pirate:Frigate:Heavy"
 				item "Pirate:Frigate:Heavy"
 				item "Pirate:Frigate:Heavy"
@@ -4248,13 +4033,6 @@ planetItemsTemplate
 				item "Other:Module:NeutralTradePort"
 				item "Pirate:Module:PirateCommandCenter"
 				item "Pirate:Capitalship:PirateLeader"
-		group
-			condition
-				type "Always"
-				param ""
-			owner "RandomMilitia"
-			colonizeChance 0
-			items 2
 				item "Other:Flag:Grant200XP"
 				item "Other:Flag:Grant1000XP"
 planetItemsTemplate
@@ -4300,14 +4078,14 @@ planetItemsTemplate
 planetItemsTemplate
 	templateName "Template:OccupiedPlanet"
 	subTemplates 0
-	groups 2
+	groups 1
 		group
 			condition
 				type "Always"
 				param ""
 			owner "Occupation"
 			colonizeChance 1
-			items 52
+			items 53
 				item "Phase:StarBase"
 				item "Phase:Titan:Rebel"
 				item "Phase:Frigate:LongRange"
@@ -4360,18 +4138,7 @@ planetItemsTemplate
 				item "Phase:Corvette:Rebel"
 				item "Phase:Corvette:Rebel"
 				item "Phase:Corvette:Rebel"
-		group
-			condition
-				type "Always"
-				param ""
-			owner "RandomMilitia"
-			colonizeChance 0
-			items 5
-				item "Other:Flag:Grant200XP"
-				item "Other:Flag:Grant200XP"
-				item "Other:Flag:Grant200XP"
-				item "Other:Flag:Grant200XP"
-				item "Other:Flag:Grant200XP"
+				item "Other:Flag:Grant1000XP"
 planetItemsTemplate
 	templateName "Template:DefaultMinorFaction"
 	subTemplates 0
@@ -4449,7 +4216,7 @@ planetItemsTemplate
 				param "DefaultPhase"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 34
+			items 35
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
 				item "Phase:Module:TradePort"
@@ -4484,6 +4251,7 @@ planetItemsTemplate
 				item "Phase:Corvette:Loyalist"
 				item "Phase:Frigate:Constructor"
 				item "Phase:Frigate:Constructor"
+				item "Other:Flag:Grant200XP"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
@@ -4569,7 +4337,7 @@ planetItemsTemplate
 				param "TechSiegeRaiders"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 36
+			items 37
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4606,13 +4374,14 @@ planetItemsTemplate
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"
 				item "Other:Flag:TECMilitia"
+				item "Other:Flag:Grant200XP"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
 				param "TechDemolitionists"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 33
+			items 34
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4646,6 +4415,7 @@ planetItemsTemplate
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"
 				item "Other:Flag:TECMilitia"
+				item "Other:Flag:Grant200XP"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
@@ -4854,7 +4624,7 @@ planetItemsTemplate
 				param "PsiDoomCult"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 30
+			items 31
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
 				item "Psi:Module:TradePort"
@@ -4885,13 +4655,14 @@ planetItemsTemplate
 				item "Psi:Frigate:Utility1"
 				item "Psi:Frigate:Constructor"
 				item "Psi:Frigate:Constructor"
+				item "Other:Flag:Grant200XP"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
 				param "PsiSiegeRaiders"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 33
+			items 34
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
 				item "Psi:Module:TradePort"
@@ -4925,6 +4696,7 @@ planetItemsTemplate
 				item "Psi:Frigate:Siege"
 				item "Psi:Frigate:Constructor"
 				item "Psi:Frigate:Constructor"
+				item "Other:Flag:Grant200XP"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
@@ -4967,7 +4739,7 @@ planetItemsTemplate
 				param "PhaseExpedition"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 34
+			items 35
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
 				item "Phase:Module:TradePort"
@@ -5002,13 +4774,14 @@ planetItemsTemplate
 				item "Phase:Corvette:Loyalist"			
 				item "Phase:Frigate:Constructor"
 				item "Phase:Frigate:Constructor"
+				item "Other:Flag:Grant200XP"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
 				param "PhaseArmsDealers"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 31
+			items 32
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
 				item "Phase:Module:TradePort"
@@ -5039,7 +4812,8 @@ planetItemsTemplate
 				item "Phase:Frigate:Heavy"
 				item "Phase:Frigate:Siege"
 				item "Phase:Frigate:Constructor"
-				item "Phase:Frigate:Constructor"	
+				item "Phase:Frigate:Constructor"
+				item "Other:Flag:Grant200XP"
 validPictureGroups 3
 pictureGroup "PlayerPhase"
 pictureGroup "PlayerPsi"
@@ -5110,7 +4884,7 @@ player
 	startingCredits 10000
 	startingMetal 5000
 	startingCrystal 1000
-	playerType "NPCMilitia"
+	playerType "NPCPirateRaider"
 	themeGroup "NPC"
 	themeIndex 15
 	pictureGroup "PlayerTech"

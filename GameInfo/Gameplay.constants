@@ -1186,7 +1186,7 @@ GameplayConstants
 		planet "PlanetShipGraveyard"
 		planet "PlanetDeadAsteroid"
 		planet "Planet_E4X_CyberFortress"
-		colonizablePlanetsWithMinorFactionsPercent 0.333333
+		colonizablePlanetsWithMinorFactionsPercent 0.400000
 		minConnectionDistanceToColonizedPlanets 2
 		minConnectionDistanceToSameFactionPlanets 5
 		minAdjacentPlanetCount 2

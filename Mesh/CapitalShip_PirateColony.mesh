@@ -28,7 +28,7 @@ MeshData
 		Specular ffffffff
 		Emissive ffffffff
 		Glossiness 32.000000
-	NumPoints 44
+	NumPoints 43
 	Point
 		DataString "Exhaust"
 		Position [ 6.315938 -48.310230 -324.721802 ]
@@ -249,13 +249,6 @@ MeshData
 	Point
 		DataString "Flair-Flair_Blink"
 		Position [ 7.060364 4.914036 456.216644 ]
-		Orientation
-			 [ 1.000000 0.000000 0.000000 ]
-			 [ 0.000000 1.000000 0.000000 ]
-			 [ 0.000000 0.000000 1.000000 ]
-	Point
-		DataString "Flair-Flair_Bowtiespin"
-		Position [ -23.813467 72.031677 -189.506348 ]
 		Orientation
 			 [ 1.000000 0.000000 0.000000 ]
 			 [ 0.000000 1.000000 0.000000 ]
