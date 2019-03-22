@@ -507,14 +507,17 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		
 1.85	-Update for Rebellion 1.94 / Minor factions DLC	
 			-Mod now works with minor factions. Use embassies to capture them.
-			-Buffed Minor Faction starting forces.
+			-Added more Minor Faction starting forces.
 		-Added new abilities to minor factions with limited utility.
 			-Arankul Mercenaries now provide Nano Restoration, which you can purchase to increase your ships hull restore rate.
 			-Danoba Free Miners can sell you Mining Equipment to increase metal and crystal mining rates until you lose control of the target planet.
 			-Pranast United will now let you purchase TEC Planetary Defense Systems (Planetary Weapons) on a planet of your choice. The regular buildup time still applies.
 			-Laesinda Dominion can now force an enemy planet to take increased damage for a time with their Scorn of the Unity.
-		-Minor Faction abilities that trade resources now benefit from Minor Faction ability upgrade techs. Trade cooldown reduced by 1 minute per level. 
+		-Minor Faction abilities that trade resources now benefit from Minor Faction ability upgrade techs. Trade cooldown reduced by 1 minute per level.
 		-Greatly increased embassy HP now that they are more of a target.
 		-Envoy Diplomatic Immunity now no longer prevents abilities from being used, but duration reduced to 20 seconds.
 		-Reduced antimodule damage against capitalships, heavy cruisers, light frigates, and corvettes.
+		-Somewhat reduced chance of random encounters of NPC owned planets, to prevent crowding out areas for Minor Factions to spawn.
 		-Fixed XP from killing Corvettes.
+		-Fixed a vanilla Sins bug with the Triumvirate map's starting forces (thanks GulSurvives for always picking the worst maps!)
+		-
