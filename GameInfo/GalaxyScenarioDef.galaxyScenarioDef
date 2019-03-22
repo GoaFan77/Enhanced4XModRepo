@@ -1525,7 +1525,7 @@ orbitBodyType
 	typeName "CyberFortress"
 	entityDefName "Planet_E4X_CyberFortress"
 	defaultTemplateName "Template:CyberFortress"	
-planetItemTypeCount 355
+planetItemTypeCount 356
 planetItemType
 	designName "Phase:Module:MineExplosive"
 	entityDefName "SpaceMinePhaseExplosive"
@@ -2582,6 +2582,9 @@ planetItemType
 planetItemType
 	designName "Other:Flag:Grant1000XP"
 	entityDefName "SpaceMine_E4X_XP1000"
+planetItemType
+	designName "Other:Flag:MinorFaction"
+	entityDefName "Frigate_E4X_MinorFactionFlag"
 planetItemType
 	designName "Other:Flag:TECPlanetaryDefenses"
 	entityDefName "SpaceMine_E4X_TECPlanetDefensesFlag"	
@@ -4216,7 +4219,7 @@ planetItemsTemplate
 				param "DefaultPhase"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 35
+			items 34
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
 				item "Phase:Module:TradePort"
@@ -4251,7 +4254,6 @@ planetItemsTemplate
 				item "Phase:Corvette:Loyalist"
 				item "Phase:Frigate:Constructor"
 				item "Phase:Frigate:Constructor"
-				item "Other:Flag:Grant200XP"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
@@ -4337,7 +4339,7 @@ planetItemsTemplate
 				param "TechSiegeRaiders"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 37
+			items 36
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4374,14 +4376,13 @@ planetItemsTemplate
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"
 				item "Other:Flag:TECMilitia"
-				item "Other:Flag:Grant200XP"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
 				param "TechDemolitionists"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 34
+			items 33
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4415,7 +4416,6 @@ planetItemsTemplate
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"
 				item "Other:Flag:TECMilitia"
-				item "Other:Flag:Grant200XP"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
@@ -4624,7 +4624,7 @@ planetItemsTemplate
 				param "PsiDoomCult"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 31
+			items 30
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
 				item "Psi:Module:TradePort"
@@ -4655,14 +4655,13 @@ planetItemsTemplate
 				item "Psi:Frigate:Utility1"
 				item "Psi:Frigate:Constructor"
 				item "Psi:Frigate:Constructor"
-				item "Other:Flag:Grant200XP"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
 				param "PsiSiegeRaiders"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 34
+			items 33
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
 				item "Psi:Module:TradePort"
@@ -4696,7 +4695,6 @@ planetItemsTemplate
 				item "Psi:Frigate:Siege"
 				item "Psi:Frigate:Constructor"
 				item "Psi:Frigate:Constructor"
-				item "Other:Flag:Grant200XP"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
@@ -4732,14 +4730,14 @@ planetItemsTemplate
 				item "Phase:Corvette:Rebel"
 				item "Phase:Corvette:Rebel"
 				item "Phase:Frigate:Constructor"
-				item "Phase:Frigate:Constructor"
+				item "Phase:Frigate:Constructor"				
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
 				param "PhaseExpedition"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 35
+			items 34
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
 				item "Phase:Module:TradePort"
@@ -4774,14 +4772,13 @@ planetItemsTemplate
 				item "Phase:Corvette:Loyalist"			
 				item "Phase:Frigate:Constructor"
 				item "Phase:Frigate:Constructor"
-				item "Other:Flag:Grant200XP"
 		group
 			condition
 				type "PlanetOwnerIsMinorFactionWithFactionName"
 				param "PhaseArmsDealers"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 32
+			items 31
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
 				item "Phase:Module:TradePort"
@@ -4813,7 +4810,6 @@ planetItemsTemplate
 				item "Phase:Frigate:Siege"
 				item "Phase:Frigate:Constructor"
 				item "Phase:Frigate:Constructor"
-				item "Other:Flag:Grant200XP"
 validPictureGroups 3
 pictureGroup "PlayerPhase"
 pictureGroup "PlayerPsi"

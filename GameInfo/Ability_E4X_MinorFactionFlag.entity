@@ -1,9 +1,8 @@
-﻿TXT2
-SinsArchiveVersion 193
+﻿TXT
 entityType "Ability"
 buffInstantActionType "ApplyBuffToSelf"
 instantActionTriggerType "AlwaysPerform"
-buffType "BuffPlanetShieldOnSpawner"
+buffType "Buff_E4X_MinorFactionFlagSelf"
 effectInfo
 	effectAttachInfo
 		attachType "Invalid"
@@ -15,9 +14,8 @@ needsToFaceTarget FALSE
 canCollideWithTarget TRUE
 moveThruTarget FALSE
 isUltimateAbility FALSE
-maxNumLevels 3
-levelSourceType "ResearchStartsAt0"
-improveSourceResearchSubject "RESEARCHSUBJECT_PLANETMODULEIMPROVEMENT_TECHSHIELDGENERATOR"
+maxNumLevels 1
+levelSourceType "FixedLevel0"
 aiUseTime "Invalid"
 aiUseTargetCondition "Invalid"
 isAutoCastAvailable FALSE
@@ -30,8 +28,8 @@ researchPrerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
-nameStringID "IDS_ABILITY_PLANETSHIELD_NAME"
-descStringID "IDS_ABILITY_PLANETSHIELD_DESCRIPTION"
-hudIcon "HUDICON_SUPPORTABILITY_PLANETSHIELD"
-smallHudIcon "HUDICON_SUPPORTABILITY_PLANETSHIELD"
+nameStringID "IDS_Ability_E4X_PsiCivicLab_Name"
+descStringID "IDS_Ability_E4X_PsiCivicLab_DESC"
+hudIcon "HUDICON_RESEARCHSUBJECT_PLANETUPGRADERATE"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_PLANETUPGRADERATE"
 infoCardIcon ""

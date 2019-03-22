@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 193
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -7,35 +8,22 @@ allowFirstSpawnerToStack FALSE
 buffExclusivityForAIType "ExclusiveForAllPlayers"
 isInterruptable FALSE
 isChannelling FALSE
-numInstantActions 1
-instantAction
-	buffInstantActionType "RemoveBuffOfType"
-	instantActionTriggerType "OnBuffFinish"
-	buffTypeToRemove "BuffPlanetShieldSpawner"
+numInstantActions 0
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 1
 entityModifier
 	buffEntityModifierType "PlanetBombingDamageAbsorption"
 	value
-		Level:0 0.500000
-		Level:1 0.700000
-		Level:2 0.900000
-		Level:3 0.900000
+		Level:0 0.300000
+		Level:1 0.500000
+		Level:2 0.800000
+		Level:3 0.800000
 numEntityBoolModifiers 1
 entityBoolModifier "HasShieldMeshEffect"
-numFinishConditions 3
+numFinishConditions 2
 finishCondition
 	finishConditionType "FirstSpawnerNoLongerHasBuff"
 	buffTypeToQuery "BuffPlanetShieldOnSpawner"
-finishCondition
-	finishConditionType "ResearchNotMet"
-	researchPrerequisites
-		NumResearchPrerequisites 1
-		ResearchPrerequisite
-			Subject "RESEARCHSUBJECT_PLANETMODULEACCESS_TECHSHIELDGENERATOR"
-			Level 1
-		RequiredFactionNameID ""
-		RequiredCompletedResearchSubjects 0
 finishCondition
 	finishConditionType "OwnerChanged"

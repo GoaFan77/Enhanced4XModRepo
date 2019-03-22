@@ -1,12 +1,13 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 193
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
 stackingLimit 1
 allowFirstSpawnerToStack FALSE
 buffExclusivityForAIType "ExclusiveForAllPlayers"
-isInterruptable FALSE
-isChannelling FALSE
+isInterruptable TRUE
+isChannelling TRUE
 numInstantActions 1
 instantAction
 	buffInstantActionType "PlayPersistantAttachedEffect"
@@ -19,14 +20,35 @@ instantAction
 		mediumEffectName "Buff_PlanetShieldSelf"
 		largeEffectName "Buff_PlanetShieldSelf"
 		soundID "EFFECT_SHIELDGENERATOR_LOOP"
-numPeriodicActions 0
+numPeriodicActions 1
+periodicAction
+	actionCountType "Infinite"
+	actionIntervalTime
+		Level:0 1.000000
+		Level:1 1.000000
+		Level:2 1.000000
+		Level:3 1.000000
+	buffInstantActionType "ApplyBuffToLocalOrbitBody"
+	instantActionTriggerType "AlwaysPerform"
+	buffType "BuffPlanetShieldOnPlanet"
+	targetFilter
+		numOwnerships 1
+		ownership "Player"
+		numObjects 1
+		object "Planet"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
 numOverTimeActions 0
 numEntityModifiers 0
-numEntityBoolModifiers 1
-entityBoolModifier "DisableAbilities"
-numFinishConditions 2
-finishCondition
-	finishConditionType "LastSpawnerNoLongerHasBuff"
-	buffTypeToQuery "BuffPlanetShieldOnPlanet"
+numEntityBoolModifiers 0
+numFinishConditions 1
 finishCondition
 	finishConditionType "OwnerChanged"

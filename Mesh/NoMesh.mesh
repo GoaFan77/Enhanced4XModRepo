@@ -1,0 +1,49 @@
+﻿TXT
+MeshData
+	maxDiffuseMipLevel 0
+	hasValidTangents TRUE
+	BoundingRadius 3.442573
+	MaxBoundingExtents [ 1.768913 2.574352 2.049875 ]
+	MinBoundingExtents [ -1.768913 -2.574966 -2.116000 ]
+	NumMaterials 1
+	Material
+		DiffuseTextureFileName "NoTexture.dds"
+		SelfIlluminationTextureFileName "NoTexture.dds"
+		NormalTextureFileName "NoTexture.dds"
+		DisplacementTextureFileName ""
+		TeamColorTextureFileName ""
+		Diffuse ffffffff
+		Ambient ffffffff
+		Specular ffffffff
+		Emissive ffffffff
+		Glossiness 32.000000
+	NumPoints 3
+	Point
+		DataString "Center"
+		Position [ 0.000000 0.000000 0.000000 ]
+		Orientation
+			 [ 1.000000 0.000000 0.000000 ]
+			 [ 0.000000 1.000000 0.000000 ]
+			 [ 0.000000 0.000000 1.000000 ]
+	Point
+		DataString "Above"
+		Position [ 0.000000 2.651113 0.000000 ]
+		Orientation
+			 [ 1.000000 0.000000 0.000000 ]
+			 [ 0.000000 1.000000 0.000000 ]
+			 [ 0.000000 0.000000 1.000000 ]
+	Point
+		DataString "Aura"
+		Position [ 0.000000 -1.545458 0.000000 ]
+		Orientation
+			 [ 1.000000 0.000000 0.000000 ]
+			 [ 0.000000 1.000000 0.000000 ]
+			 [ 0.000000 0.000000 1.000000 ]
+	NumVertices 0
+	NumTriangles 0
+	NumCachedVertexIndicesInDirection:UP 0
+	NumCachedVertexIndicesInDirection:DOWN 0
+	NumCachedVertexIndicesInDirection:LEFT 0
+	NumCachedVertexIndicesInDirection:RIGHT 0
+	NumCachedVertexIndicesInDirection:FRONT 0
+	NumCachedVertexIndicesInDirection:BACK 0
