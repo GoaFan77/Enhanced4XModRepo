@@ -1,0 +1,40 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_SOLITARYPATH"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_SOLITARYPATH"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_SOLITARY_PATH_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_SOLITARY_PATH_DESCRIPTION"
+researchWindowLocation
+	block 0
+	pos [ 4 , 3 ]
+ResearchField "Diplomacy"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 75.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 1200.000000
+	metal 200.000000
+	crystal 325.000000
+PerLevelCostIncrease
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 4
+onlyWorksIfTierLabsExist FALSE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 1
+researchModifier
+	modifierType "ShipMaxSlotsWhenOnlyAlliedWithSameRaceSameFactionPlayers"
+	baseValue 0.000000
+	perLevelValue 75.000000
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880
