@@ -1,41 +1,41 @@
 TXT
 NumStrings 8665
 StringInfo
-        ID "IDS_Ability_E4X_MinorFactionTradeCreditsForCrystalBetterRate_NAME"
-        Value "Sell Bulk Crystal"
+	ID "IDS_Ability_E4X_MinorFactionTradeCreditsForCrystalBetterRate_NAME"
+	Value "Sell Bulk Crystal"
 StringInfo
-        ID "IDS_Ability_E4X_MinorFactionTradeCreditsForMetalBetterRate_NAME"
-        Value "Sell Bulk Metal"
+	ID "IDS_Ability_E4X_MinorFactionTradeCreditsForMetalBetterRate_NAME"
+	Value "Sell Bulk Metal"
 StringInfo
-        ID "IDS_Ability_E4X_MinorFactionSpreadCultureGeneric_NAME"
-        Value "Cultural Cooperation"
+	ID "IDS_Ability_E4X_MinorFactionSpreadCultureGeneric_NAME"
+	Value "Cultural Cooperation"
 StringInfo
-        ID "IDS_Ability_E4X_MinorFactionSpreadCultureGeneric_DESC"
-        Value "The Minor Faction uses its influence to support the perception of your empire, causing your culture to spread from the planet for a long duration."
+	ID "IDS_Ability_E4X_MinorFactionSpreadCultureGeneric_DESC"
+	Value "The Minor Faction uses its influence to support the perception of your empire, causing your culture to spread from the planet for a long duration."
 StringInfo
-        ID "IDS_Ability_E4X_MinorFactionNanoRestoration_NAME"
-        Value "Nano Restoration"
+	ID "IDS_Ability_E4X_MinorFactionNanoRestoration_NAME"
+	Value "Nano Restoration"
 StringInfo
-        ID "IDS_Ability_E4X_MinorFactionNanoRestoration_DESC"
-        Value "A coat of beneficial nanobots is applied to all ships in the gravity well. These nanobots help with repairs and increase hull restoration rates."
+	ID "IDS_Ability_E4X_MinorFactionNanoRestoration_DESC"
+	Value "A coat of beneficial nanobots is applied to all ships in the gravity well. These nanobots help with repairs and increase hull restoration rates."
 StringInfo
-        ID "IDS_Ability_E4X_MinorFactionMiningEquipment_NAME"
-        Value "Danoba Mining Equipment"
+	ID "IDS_Ability_E4X_MinorFactionMiningEquipment_NAME"
+	Value "Danoba Mining Equipment"
 StringInfo
-        ID "IDS_Ability_E4X_MinorFactionMiningEquipment_DESC"
-        Value "Purchases specialized mining equipment that grants a bonus to metal and crystal mining rates at the indicated planet, which is active until you lose control of it."
+	ID "IDS_Ability_E4X_MinorFactionMiningEquipment_DESC"
+	Value "Purchases specialized mining equipment that grants a bonus to metal and crystal mining rates at the indicated planet, which is active until you lose control of it."
 StringInfo
-        ID "IDS_Ability_E4X_MinorFactionPlanetaryDefenseSystem_NAME"
-        Value "Planetary Defense System"
+	ID "IDS_Ability_E4X_MinorFactionPlanetaryDefenseSystem_NAME"
+	Value "Planetary Defense System"
 StringInfo
-        ID "IDS_Ability_E4X_MinorFactionPlanetaryDefenseSystem_DESC"
-        Value "Grants the ability to build planetary defenses at the indicated planet. Over several minutes defensive weapons will be added to the planet, and last until the world is lost."
+	ID "IDS_Ability_E4X_MinorFactionPlanetaryDefenseSystem_DESC"
+	Value "Grants the ability to build planetary defenses at the indicated planet. Over several minutes defensive weapons will be added to the planet, and last until the world is lost."
 StringInfo
-        ID "IDS_Ability_E4X_MinorFactionScornOfTheUnity_NAME"
-        Value "Scorn of the Unity"
+	ID "IDS_Ability_E4X_MinorFactionScornOfTheUnity_NAME"
+	Value "Scorn of the Unity"
 StringInfo
-        ID "IDS_Ability_E4X_MinorFactionScornOfTheUnity_DESC"
-        Value "The wrath of the unity at this planet curses the targeted planet for a time, causing it to take more damage from bombardment." 
+	ID "IDS_Ability_E4X_MinorFactionScornOfTheUnity_DESC"
+	Value "The wrath of the unity at this planet curses the targeted planet for a time, causing it to take more damage from bombardment." 
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_MINELAYERPHASE_DESCRIPTION"
 	Value "Grants access to Sivuskras Ruiners - versatile units that are strong against structures and can also deploy mines."
@@ -82,8 +82,8 @@ StringInfo
 	ID "IDS_RESEARCHSUBJECT_STARBASEUPGRADEACCESS_RESUPPLY_DESCRIPTION"
 	Value "Grants the Resupply ability to Argonev-class starbases, allowing them to repair and refill the Antimatter reserves of nearby friendly forces."
 StringInfo
-		ID "IDS_NoString"
-		Value ""
+	ID "IDS_NoString"
+	Value ""
 StringInfo
 	ID "IDS_FRIGATE_PIRATEANTIFIGHTER_DESCRIPTION"
 	Value "A well-armored Pirate escort ship, it can fire on fighters and cause heavy damage to structures with powerful explosives."
@@ -91,11 +91,11 @@ StringInfo
 	ID "IDS_FRIGATE_PIRATEHEAVY_DESCRIPTION"
 	Value "The most powerful ship in use by Pirates. Its heavy armor and large caliber weapons make up for its lack of Shields."
 StringInfo
-		ID "IDS_Ability_E4X_ExpertInstructor_NAME"
-		Value "Expert Instructor"
+	ID "IDS_Ability_E4X_ExpertInstructor_NAME"
+	Value "Expert Instructor"
 StringInfo
-		ID "IDS_Ability_E4X_ExpertInstructor_DESC"
-		Value "As one of the most famous and experienced leaders in the navy, Admiral Kol is uniquely able to bring new leaders and crews under his wing and get them up to speed. Grants experience to the given Capital Ship or Titan."
+	ID "IDS_Ability_E4X_ExpertInstructor_DESC"
+	Value "As one of the most famous and experienced leaders in the navy, Admiral Kol is uniquely able to bring new leaders and crews under his wing and get them up to speed. Grants experience to the given Capital Ship or Titan."
 StringInfo
 	ID "IDS_COUNTERDESC_FRIGATE_CaptureColonize"
 	Value "Strong vs. none. Can colonize planets. Can capture neutral objects."
@@ -109,20 +109,20 @@ StringInfo
 	ID "IDS_COUNTERDESC_FRIGATE_Capturer"
 	Value "Strong vs. none. Can capture neutral objects."
 StringInfo
-		ID "IDS_PLANETTYPE_ALPINE"
-		Value "Alpine Planet"
+	ID "IDS_PLANETTYPE_ALPINE"
+	Value "Alpine Planet"
 StringInfo
-		ID "IDS_PLANETTYPE_URBAN"
-		Value "Urban Planet"
+	ID "IDS_PLANETTYPE_URBAN"
+	Value "Urban Planet"
 StringInfo
-		ID "IDS_PLANETTYPE_TOXIC"
-		Value "Contaminated Planet"
+	ID "IDS_PLANETTYPE_TOXIC"
+	Value "Contaminated Planet"
 StringInfo
-		ID "IDS_Ability_ING_UncolonizeablePlanet_NAME"
-		Value "Uncolonizable Planet"
+	ID "IDS_Ability_ING_UncolonizeablePlanet_NAME"
+	Value "Uncolonizable Planet"
 StringInfo
-		ID "IDS_Ability_ING_UncolonizeablePlanet_DESC"
-		Value "This is an uncolonizable planet. You probably already knew this, but this is here more for the mod than for you. Really, this does nothing."
+	ID "IDS_Ability_ING_UncolonizeablePlanet_DESC"
+	Value "This is an uncolonizable planet. You probably already knew this, but this is here more for the mod than for you. Really, this does nothing."
 StringInfo
 	ID "IDS_ABILITY_STAR_BLACKHOLE_DESCRIPTION"
 	Value "Somehow a Black Hole has formed in this system without destroying the planets orbiting it. The intense gravity makes Phase Jumps more difficult and has a chance to suck in and destroy ships passing by."
@@ -172,29 +172,29 @@ StringInfo
 	ID "IDS_INFOCARD_BUFFADJUSTMENT_CHANCETOABSORBWITHSHIELDS"
 	Value "Shield Bypass Resistance"
 StringInfo
-		ID "IDS_PlanetBonus_E4X_UnchartedNavigationRoute_NAME"
-		Value "Uncharted Navigation Route"
+	ID "IDS_PlanetBonus_E4X_UnchartedNavigationRoute_NAME"
+	Value "Uncharted Navigation Route"
 StringInfo
-		ID "IDS_PlanetBonus_E4X_UnchartedNavigationRoute_DESC"
-		Value "The chaotic asteroids and debris in this sector have prevented the creation of safe navigation charts, causing trade to avoid this area and ships to take slightly more damage."
+	ID "IDS_PlanetBonus_E4X_UnchartedNavigationRoute_DESC"
+	Value "The chaotic asteroids and debris in this sector have prevented the creation of safe navigation charts, causing trade to avoid this area and ships to take slightly more damage."
 StringInfo
-		ID "IDS_PlanetBonus_E4X_UncolRareCrystal_NAME"
-		Value "Rare Crystal Deposits"
+	ID "IDS_PlanetBonus_E4X_UncolRareCrystal_NAME"
+	Value "Rare Crystal Deposits"
 StringInfo
-		ID "IDS_PlanetBonus_E4X_UncolRareCrystal_DESC"
-		Value "The types of Crystals found in the asteroids of this gravity well are unusually refined, increasing the efficiency of refining operations and their yield."
+	ID "IDS_PlanetBonus_E4X_UncolRareCrystal_DESC"
+	Value "The types of Crystals found in the asteroids of this gravity well are unusually refined, increasing the efficiency of refining operations and their yield."
 StringInfo
-		ID "IDS_PlanetBonus_E4X_UncolRareMetal_NAME"
-		Value "Metal Asteroid Cluster"
+	ID "IDS_PlanetBonus_E4X_UncolRareMetal_NAME"
+	Value "Metal Asteroid Cluster"
 StringInfo
-		ID "IDS_PlanetBonus_E4X_UncolRareMetal_DESC"
-		Value "This gravity well has an unusually high concentration of Metal asteroids, making mining operations more productive."
+	ID "IDS_PlanetBonus_E4X_UncolRareMetal_DESC"
+	Value "This gravity well has an unusually high concentration of Metal asteroids, making mining operations more productive."
 StringInfo
-		ID "IDS_PlanetBonus_E4X_UncolTargetingInterference_NAME"
-		Value "Sensor Static"
+	ID "IDS_PlanetBonus_E4X_UncolTargetingInterference_NAME"
+	Value "Sensor Static"
 StringInfo
-		ID "IDS_PlanetBonus_E4X_UncolTargetingInterference_DESC"
-		Value "Periodic bursts of strong electromagnetic radiation are occasionally picked up by sensors as additional targets, causing confusion in ship firing computers and lowering the effective damage all ships take in the gravity well."
+	ID "IDS_PlanetBonus_E4X_UncolTargetingInterference_DESC"
+	Value "Periodic bursts of strong electromagnetic radiation are occasionally picked up by sensors as additional targets, causing confusion in ship firing computers and lowering the effective damage all ships take in the gravity well."
 StringInfo
 	ID "IDSGalaxyScenarioTypeStarOrange"
 	Value "Orange Star"
@@ -202,8 +202,8 @@ StringInfo
 	ID "IDSGalaxyScenarioTypeStarSpecialStar"
 	Value "Random Special Star"
 StringInfo
-		ID "IDSGalaxyScenarioTypeStarStandardStar"
-		Value "Random Main Sequence Star"
+	ID "IDSGalaxyScenarioTypeStarStandardStar"
+	Value "Random Main Sequence Star"
 StringInfo
 	ID "IDS_PLANETMODULE_E4X_CapturedPhaseGate_NAME"
 	Value "Prototype Phase Stabilizer"
@@ -211,74 +211,74 @@ StringInfo
 	ID "IDS_PLANETMODULE_E4X_CapturedPhaseGate_DESC"
 	Value "Creates a Phase Stabilizer Node which allows your empire's ships to travel directly between this planet and any other Phase Stabilizer in the star system. Requires the Non-Vasari Phase Gate Minimod."
 StringInfo
-		ID "IDS_PlanetBonus_E4X_CyberPlanet_NAME"
-		Value "Automated Construction Protocols"
+	ID "IDS_PlanetBonus_E4X_CyberPlanet_NAME"
+	Value "Automated Construction Protocols"
 StringInfo
-		ID "IDS_PlanetBonus_E4X_CyberPlanet_DESC"
-		Value "The massive drone construction facilities the rogue AI has built on this planet appear to be completely modular, allowing us to easily repurpose them for our war effort. Ship and structure costs and build times are dramatically reduced."
+	ID "IDS_PlanetBonus_E4X_CyberPlanet_DESC"
+	Value "The massive drone construction facilities the rogue AI has built on this planet appear to be completely modular, allowing us to easily repurpose them for our war effort. Ship and structure costs and build times are dramatically reduced."
 StringInfo
 	ID "IDS_PLANETBONUS_SALVAGEROUTPOST_NAME"
 	Value "Salvager Outpost"
 StringInfo
-        ID "IDS_RESEARCH_E4X_CapturePhaseGate_NAME"
-        Value "Capture Phase Gate"
+	ID "IDS_RESEARCH_E4X_CapturePhaseGate_NAME"
+	Value "Capture Phase Gate"
 StringInfo
-        ID "IDS_RESEARCH_E4X_CapturePhaseGate_DESC"
-        Value "Funds a secret project to capture a Vasari Phase Gate and reverse engineer it, allowing you to construct prototype versions of these structures yourself. While the effort will be very expensive and time consuming, the ability to move forces between distant worlds should be worth the cost."
+	ID "IDS_RESEARCH_E4X_CapturePhaseGate_DESC"
+	Value "Funds a secret project to capture a Vasari Phase Gate and reverse engineer it, allowing you to construct prototype versions of these structures yourself. While the effort will be very expensive and time consuming, the ability to move forces between distant worlds should be worth the cost."
 StringInfo
 	ID "IDS_PLANETTYPE_GASGIANT"
 	Value "Uncolonizable Gas Giant"
 StringInfo
-        ID "IDS_CAPITALSHIP_E4X_PirateLeader_NAME"
-        Value "* Pirate Captain"
+	ID "IDS_CAPITALSHIP_E4X_PirateLeader_NAME"
+	Value "* Pirate Captain"
 StringInfo
-        ID "IDS_CAPITALSHIP_E4X_PirateLeader_DESC"
-        Value "Leadarrr of the Pirate scum, he guarrds their base and their booty, and leads his maties into battle! Cross him at your own risk, but he will gladly work for a share of the loot."
+	ID "IDS_CAPITALSHIP_E4X_PirateLeader_DESC"
+	Value "Leadarrr of the Pirate scum, he guarrds their base and their booty, and leads his maties into battle! Cross him at your own risk, but he will gladly work for a share of the loot."
 StringInfo
-        ID "IDS_Ability_E4X_PirateIonBlast_DESC"
-        Value "A modified version of the Akkan's Ion Cannon, this weapon is slower firing and, in addition to entirely disabling the target enemy ships, it also short circuits their airlocks. Frigates that are destroyed while disabled will be captured and brought under your control."
+	ID "IDS_Ability_E4X_PirateIonBlast_DESC"
+	Value "A modified version of the Akkan's Ion Cannon, this weapon is slower firing and, in addition to entirely disabling the target enemy ships, it also short circuits their airlocks. Frigates that are destroyed while disabled will be captured and brought under your control."
 StringInfo
-        ID "IDS_Ability_E4X_PirateWrath_NAME"
-        Value "Pirate's Wrath"
+	ID "IDS_Ability_E4X_PirateWrath_NAME"
+	Value "Pirate's Wrath"
 StringInfo
-        ID "IDS_Ability_E4X_PirateWrath_DESC"
-        Value "Yarrr!!! We will take our enemy's Credits from their cold dead hands and make them walk the airlock! Increases damage output and places Bounty on enemies when your ships are attacked, but reduces passive regeneration rates."
+	ID "IDS_Ability_E4X_PirateWrath_DESC"
+	Value "Yarrr!!! We will take our enemy's Credits from their cold dead hands and make them walk the airlock! Increases damage output and places Bounty on enemies when your ships are attacked, but reduces passive regeneration rates."
 StringInfo
-        ID "IDS_Ability_E4X_PirateCaptainMinions_NAME"
-        Value "Come Me Hearties!"
+	ID "IDS_Ability_E4X_PirateCaptainMinions_NAME"
+	Value "Come Me Hearties!"
 StringInfo
-        ID "IDS_Ability_E4X_PirateCaptainMinions_DESC"
-        Value "Come lend me some help lads! Here be plenty o' booty and booze for all! Summons a group of Pirate Corsairs to fight in battle for a few minutes."
+	ID "IDS_Ability_E4X_PirateCaptainMinions_DESC"
+	Value "Come lend me some help lads! Here be plenty o' booty and booze for all! Summons a group of Pirate Corsairs to fight in battle for a few minutes."
 StringInfo
-        ID "IDS_Ability_E4X_TemporaryPirateShip_NAME"
-        Value "Temporary Pirate Lackey"
+	ID "IDS_Ability_E4X_TemporaryPirateShip_NAME"
+	Value "Temporary Pirate Lackey"
 StringInfo
-        ID "IDS_Ability_E4X_TemporaryPirateShip_DESC"
-        Value "This booty better be good, or I'm gettin' out o' here. Ye have 5 minutes."
+	ID "IDS_Ability_E4X_TemporaryPirateShip_DESC"
+	Value "This booty better be good, or I'm gettin' out o' here. Ye have 5 minutes."
 StringInfo
-        ID "IDS_Ability_E4X_TakeNoPrisoners_NAME"
-        Value "Take No Prisoners"
+	ID "IDS_Ability_E4X_TakeNoPrisoners_NAME"
+	Value "Take No Prisoners"
 StringInfo
-        ID "IDS_Ability_E4X_TakeNoPrisoners_DESC"
-        Value "Grrr, these lads insist on fightin' the haarrrd way. Fine, all ships, take no prisoners! We'll see how all those fancy shields work in a Pirrrate brawl. Incoming weapons fire may bypass the Shields of all ships in the gravity well."
+	ID "IDS_Ability_E4X_TakeNoPrisoners_DESC"
+	Value "Grrr, these lads insist on fightin' the haarrrd way. Fine, all ships, take no prisoners! We'll see how all those fancy shields work in a Pirrrate brawl. Incoming weapons fire may bypass the Shields of all ships in the gravity well."
 StringInfo
-        ID "IDS_Ability_E4X_SummonPirates_NAME"
-        Value "Hire Pirate Band"
+	ID "IDS_Ability_E4X_SummonPirates_NAME"
+	Value "Hire Pirate Band"
 StringInfo
-        ID "IDS_Ability_E4X_SummonPirates_DESC"
-        Value "Contacts a band of Pirates to serve under your command, for a pile of cold hard Credits of course."
+	ID "IDS_Ability_E4X_SummonPirates_DESC"
+	Value "Contacts a band of Pirates to serve under your command, for a pile of cold hard Credits of course."
 StringInfo
-        ID "IDS_PLANETMODULE_E4X_PirateCommandCenter_NAME"
-        Value "Pirate Outpost"
+	ID "IDS_PLANETMODULE_E4X_PirateCommandCenter_NAME"
+	Value "Pirate Outpost"
 StringInfo
-        ID "IDS_PLANETMODULE_E4X_PirateCommandCenter_DESC"
-        Value "A Pirate base of operations, if captured its communication systems can be used to obtain help from the criminal underworld... for a price."
+	ID "IDS_PLANETMODULE_E4X_PirateCommandCenter_DESC"
+	Value "A Pirate base of operations, if captured its communication systems can be used to obtain help from the criminal underworld... for a price."
 StringInfo
-        ID "IDS_Ability_E4X_AbandonStructure_NAME"
-        Value "Abandon Structure"
+	ID "IDS_Ability_E4X_AbandonStructure_NAME"
+	Value "Abandon Structure"
 StringInfo
-        ID "IDS_Ability_E4X_AbandonStructure_DESC"
-        Value "Evacuates your personnel from the captured structure, reverting it to neutral control."
+	ID "IDS_Ability_E4X_AbandonStructure_DESC"
+	Value "Evacuates your personnel from the captured structure, reverting it to neutral control."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_TRADEINCOME_DESCRIPTION"
 	Value "An atomic scale scanning and reordering system, it allows all manner of products to be spatially compressed in order to make for more efficient transport through your empire's trade network. Also reduces the cost of logistics upgrades."
@@ -403,23 +403,23 @@ StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPVOLCANICPHASE1_DESCRIPTION"
 	Value "Genetic alteration granting the ability to breathe normally toxic atmospheric gases is imposed on all inhabitants of Volcanic and Inhospitable planets, thus raising their population cap."
 StringInfo
-        ID "IDS_Ability_E4X_DeployPlanetaryDefenses_NAME"
-        Value "Construct Planetary Defenses"
+	ID "IDS_Ability_E4X_DeployPlanetaryDefenses_NAME"
+	Value "Construct Planetary Defenses"
 StringInfo
-        ID "IDS_Ability_E4X_DeployPlanetaryDefenses_DESC"
-        Value "Creates the infrastructure needed to begin construction of planetary defenses, with extra health and weapons being added over time. This is only needed on planets aside from your homeworld that were colonized before researching the technology."
+	ID "IDS_Ability_E4X_DeployPlanetaryDefenses_DESC"
+	Value "Creates the infrastructure needed to begin construction of planetary defenses, with extra health and weapons being added over time. This is only needed on planets aside from your homeworld that were colonized before researching the technology."
 StringInfo
-        ID "IDS_Ability_E4X_TECLoyalsAutoConstructStarbase_NAME"
-        Value "Automated Construction"
+	ID "IDS_Ability_E4X_TECLoyalsAutoConstructStarbase_NAME"
+	Value "Automated Construction"
 StringInfo
-        ID "IDS_Ability_E4X_TECLoyalsAutoConstructStarbase_DESC"
-        Value "This constructor has been reserved for the homeworld, and will automatically deploy itself wherever it is after 3 minutes."
+	ID "IDS_Ability_E4X_TECLoyalsAutoConstructStarbase_DESC"
+	Value "This constructor has been reserved for the homeworld, and will automatically deploy itself wherever it is after 3 minutes."
 StringInfo
-        ID "IDS_Ability_E4X_DisablePhaseJump_NAME"
-        Value "No Phase Drive"
+	ID "IDS_Ability_E4X_DisablePhaseJump_NAME"
+	Value "No Phase Drive"
 StringInfo
-        ID "IDS_Ability_E4X_DisablePhaseJump_DESC"
-        Value "This vessel does not have a Phase Drive, and thus cannot leave the gravity well."
+	ID "IDS_Ability_E4X_DisablePhaseJump_DESC"
+	Value "This vessel does not have a Phase Drive, and thus cannot leave the gravity well."
 StringInfo
 	ID "IDS_PLANETDETAILSINFOCARD_CANNOTCOLONIZEASREQUIRESRESEARCH"
 	Value "Requires %s research to colonize."
@@ -427,41 +427,41 @@ StringInfo
 	ID "IDS_GAMEMESSAGE_COLONIZENEEDPREREQUISITERESEARCH"
 	Value "Requires %s research to colonize."
 StringInfo
-        ID "IDS_RESEARCH_E4X_BLAarmor_NAME"
-        Value "Blast Resistant Armor"
+	ID "IDS_RESEARCH_E4X_BLAarmor_NAME"
+	Value "Blast Resistant Armor"
 StringInfo
-        ID "IDS_RESEARCH_E4X_BLAarmor_DESC"
-        Value "Develops new alloys that make armor plating more resistant to explosions but also heavier, increasing survivability at the expense of speed. Defensive structures gain an extra Armor bonus as more armor can be fit without concern for mobility."
+	ID "IDS_RESEARCH_E4X_BLAarmor_DESC"
+	Value "Develops new alloys that make armor plating more resistant to explosions but also heavier, increasing survivability at the expense of speed. Defensive structures gain an extra Armor bonus as more armor can be fit without concern for mobility."
 StringInfo
-        ID "IDS_Starbase_E4X_CyberDefensePlatform_NAME"
-        Value "Prometheus Starbase"
+	ID "IDS_Starbase_E4X_CyberDefensePlatform_NAME"
+	Value "Prometheus Starbase"
 StringInfo
-        ID "IDS_Frigate_E4X_CyberAntiFighterSwarm_NAME"
-        Value "Cyber Defense Drone"
+	ID "IDS_Frigate_E4X_CyberAntiFighterSwarm_NAME"
+	Value "Cyber Defense Drone"
 StringInfo
-        ID "IDS_Frigate_E4X_CyberLongRangeSwarm_NAME"
-        Value "Cyber Focus Drone"
+	ID "IDS_Frigate_E4X_CyberLongRangeSwarm_NAME"
+	Value "Cyber Focus Drone"
 StringInfo
-        ID "IDS_Frigate_E4X_CyberLightSwarm_NAME"
-        Value "Cyber Pursuit Drone"
+	ID "IDS_Frigate_E4X_CyberLightSwarm_NAME"
+	Value "Cyber Pursuit Drone"
 StringInfo
-        ID "IDS_Frigate_E4X_CyberSupportSwarm_NAME"
-        Value "Cyber Repair Drone"
+	ID "IDS_Frigate_E4X_CyberSupportSwarm_NAME"
+	Value "Cyber Repair Drone"
 StringInfo
-        ID "IDS_Frigate_E4X_CyberHeavySwarm_NAME"
-        Value "Cyber Battle Drone"
+	ID "IDS_Frigate_E4X_CyberHeavySwarm_NAME"
+	Value "Cyber Battle Drone"
 StringInfo
-        ID "IDS_RESEARCH_E4X_RestrictUncolonizeablePlanets_NAME"
-        Value "Unavailable"
+	ID "IDS_RESEARCH_E4X_RestrictUncolonizeablePlanets_NAME"
+	Value "Unavailable"
 StringInfo
-		ID "IDS_PLANETMODULE_E4X_NeutralTradeStation"
-		Value "Trade Station"
+	ID "IDS_PLANETMODULE_E4X_NeutralTradeStation"
+	Value "Trade Station"
 StringInfo
-        ID "IDS_Ability_E4X_DisruptRangefinders_NAME"
-        Value "Damage Rangefinders"
+	ID "IDS_Ability_E4X_DisruptRangefinders_NAME"
+	Value "Damage Rangefinders"
 StringInfo
-        ID "IDS_Ability_E4X_DisruptRangefinders_DESC"
-        Value "The Corvette's weapons have a chance to damage enemy tracking and positioning systems, reducing the target's combat range."
+	ID "IDS_Ability_E4X_DisruptRangefinders_DESC"
+	Value "The Corvette's weapons have a chance to damage enemy tracking and positioning systems, reducing the target's combat range."
 StringInfo
 	ID "IDS_PLAYERRACENAME_PHASE"
 	Value "Vasari"
@@ -529,239 +529,239 @@ StringInfo
 	ID "IDS_RACESELECTDIALOG_SELECTPHASELOYALIST"
 	Value "Select the VCC"
 StringInfo
-        ID "IDS_PlanetBonus_E4X_CarbonCompounds_NAME"
-        Value "Valuable Carbon Compounds"
+	ID "IDS_PlanetBonus_E4X_CarbonCompounds_NAME"
+	Value "Valuable Carbon Compounds"
 StringInfo
-        ID "IDS_PlanetBonus_E4X_CarbonCompounds_DESC"
-        Value "This planet contains a number of carbon compounds used in advanced manufacturing in abundance on its surface, greatly increasing the trade income generated from this planet."
+	ID "IDS_PlanetBonus_E4X_CarbonCompounds_DESC"
+	Value "This planet contains a number of carbon compounds used in advanced manufacturing in abundance on its surface, greatly increasing the trade income generated from this planet."
 StringInfo
-        ID "IDS_Ability_E4X_PlanetAgricultural_NAME"
-        Value "Agricultural Surplus"
+	ID "IDS_Ability_E4X_PlanetAgricultural_NAME"
+	Value "Agricultural Surplus"
 StringInfo
-        ID "IDS_Ability_E4X_PlanetAgricultural_DESC"
-        Value "Allows the export of the vast amounts of food this planet produces to other planets in your empire. After one of your trade ships visits this planet, every owned planet of yours that ship visits will gain a bonus to its population cap and growth."
+	ID "IDS_Ability_E4X_PlanetAgricultural_DESC"
+	Value "Allows the export of the vast amounts of food this planet produces to other planets in your empire. After one of your trade ships visits this planet, every owned planet of yours that ship visits will gain a bonus to its population cap and growth."
 StringInfo
-        ID "IDS_PLANETTYPE_HYDROCARBON"
-        Value "Hydrocarbon Planet"
+	ID "IDS_PLANETTYPE_HYDROCARBON"
+	Value "Hydrocarbon Planet"
 StringInfo
-        ID "IDS_PLANETTYPE_AGRICULTURAL"
-        Value "Agricultural Planet"
+	ID "IDS_PLANETTYPE_AGRICULTURAL"
+	Value "Agricultural Planet"
 StringInfo
-        ID "IDSGalaxyScenarioTypePlanetColGiant"
-        Value "Colonizable Gas Giant"
+	ID "IDSGalaxyScenarioTypePlanetColGiant"
+	Value "Colonizable Gas Giant"
 StringInfo
-        ID "IDS_PLANETTYPE_CYRO"
-        Value "Cryo Planet"
+	ID "IDS_PLANETTYPE_CYRO"
+	Value "Cryo Planet"
 StringInfo
-        ID "IDS_PLANETTYPE_DESOLATE"
-        Value "Desolate Planet"
+	ID "IDS_PLANETTYPE_DESOLATE"
+	Value "Desolate Planet"
 StringInfo
-        ID "IDS_PLANETTYPE_IGNEOUS"
-        Value "Inhospitable Planet"
+	ID "IDS_PLANETTYPE_IGNEOUS"
+	Value "Inhospitable Planet"
 StringInfo
-        ID "IDS_PLANETTYPE_NOATMOS"
-        Value "Barren Planet"
+	ID "IDS_PLANETTYPE_NOATMOS"
+	Value "Barren Planet"
 StringInfo
-        ID "IDS_PLANETTYPE_INDUSTRIAL"
-        Value "Industrial Planet"
+	ID "IDS_PLANETTYPE_INDUSTRIAL"
+	Value "Industrial Planet"
 StringInfo
-        ID "IDS_PLANETTYPE_OCEANIC"
-        Value "Oceanic Planet"
+	ID "IDS_PLANETTYPE_OCEANIC"
+	Value "Oceanic Planet"
 StringInfo
-        ID "IDS_PLANETTYPE_SWAMP"
-        Value "Swamp Planet"
+	ID "IDS_PLANETTYPE_SWAMP"
+	Value "Swamp Planet"
 StringInfo
-        ID "IDS_PLANETTYPE_FOREST"
-        Value "Rainforest Planet"
+	ID "IDS_PLANETTYPE_FOREST"
+	Value "Rainforest Planet"
 StringInfo
-        ID "IDS_PLANETTYPE_ICEGIANT"
-        Value "Uncolonizable Ice Giant"
+	ID "IDS_PLANETTYPE_ICEGIANT"
+	Value "Uncolonizable Ice Giant"
 StringInfo
-        ID "IDS_RESEARCH_E4X_UnlockUpgrades_NAME"
-        Value "Starship Modification"
+	ID "IDS_RESEARCH_E4X_UnlockUpgrades_NAME"
+	Value "Starship Modification"
 StringInfo
-        ID "IDS_RESEARCH_E4X_UnlockUpgrades_DESC"
-        Value "Enables your Capital Ship and Titan Factories to refit their unit types with special upgrades to increase their utility."
+	ID "IDS_RESEARCH_E4X_UnlockUpgrades_DESC"
+	Value "Enables your Capital Ship and Titan Factories to refit their unit types with special upgrades to increase their utility."
 StringInfo
-        ID "IDS_RESEARCH_E4X_HeroicValor_NAME"
-        Value "Heroic Valor"
+	ID "IDS_RESEARCH_E4X_HeroicValor_NAME"
+	Value "Heroic Valor"
 StringInfo
-        ID "IDS_RESEARCH_E4X_HeroicValor_DESC"
-        Value "The bold exploits of your armed forces makes it easier to recruit the best heroes of your race, compensating for the logistics of maintaining hero units."
+	ID "IDS_RESEARCH_E4X_HeroicValor_DESC"
+	Value "The bold exploits of your armed forces makes it easier to recruit the best heroes of your race, compensating for the logistics of maintaining hero units."
 StringInfo
 	ID "IDS_ABILTIY_PIRATEMERCENARIES_DESCRIPTION"
 	Value "A purchase order is sent out, summoning a Pirate mercenary fleet to the targeted owned gravity well."
 StringInfo
-        ID "IDS_Ability_E4X_FrigateFactoryRepair_NAME"
-        Value "Emergency Repair"
+	ID "IDS_Ability_E4X_FrigateFactoryRepair_NAME"
+	Value "Emergency Repair"
 StringInfo
-        ID "IDS_Ability_E4X_FrigateFactoryRepair_DESC"
-        Value "The Frigate Factory stops production to repair the specified target."
+	ID "IDS_Ability_E4X_FrigateFactoryRepair_DESC"
+	Value "The Frigate Factory stops production to repair the specified target."
 StringInfo
-        ID "IDS_Ability_E4X_AdventCapDisableOnDeathUpgrade_NAME"
-        Value "Shockwave of Ascension"
+	ID "IDS_Ability_E4X_AdventCapDisableOnDeathUpgrade_NAME"
+	Value "Shockwave of Ascension"
 StringInfo
-        ID "IDS_Ability_E4X_AdventCapDisableOnDeathUpgrade_DESC"
-        Value "The Psintegrat in charge of the Capital Ship is trained to channel the massive energy released on her consciousness joining the beyond, disabling all enemy ships nearby upon the death of the Capital Ship."
+	ID "IDS_Ability_E4X_AdventCapDisableOnDeathUpgrade_DESC"
+	Value "The Psintegrat in charge of the Capital Ship is trained to channel the massive energy released on her consciousness joining the beyond, disabling all enemy ships nearby upon the death of the Capital Ship."
 StringInfo
-        ID "IDS_Ability_E4X_AdventCapFluctuatingShieldsUpgrade_NAME"
-        Value "Fluctuating Shields"
+	ID "IDS_Ability_E4X_AdventCapFluctuatingShieldsUpgrade_NAME"
+	Value "Fluctuating Shields"
 StringInfo
-        ID "IDS_Ability_E4X_AdventCapFluctuatingShieldsUpgrade_DESC"
-        Value "Modifies the shield generators on the Capital Ship to constantly alter the distance of the shield from the ship, creating a vibration effect that makes it harder for Phase Missiles to bypass the Shields."
+	ID "IDS_Ability_E4X_AdventCapFluctuatingShieldsUpgrade_DESC"
+	Value "Modifies the shield generators on the Capital Ship to constantly alter the distance of the shield from the ship, creating a vibration effect that makes it harder for Phase Missiles to bypass the Shields."
 StringInfo
-        ID "IDS_Ability_E4X_AdventCapStreamlinedPropulsionUpgrade_NAME"
-        Value "Streamlined Propulsion"
+	ID "IDS_Ability_E4X_AdventCapStreamlinedPropulsionUpgrade_NAME"
+	Value "Streamlined Propulsion"
 StringInfo
-        ID "IDS_Ability_E4X_AdventCapStreamlinedPropulsionUpgrade_DESC"
-        Value "Modifies the propulsion systems aboard the Capital Ship to take advantage of more efficient thrusters, improving its maneuverability and speed."
+	ID "IDS_Ability_E4X_AdventCapStreamlinedPropulsionUpgrade_DESC"
+	Value "Modifies the propulsion systems aboard the Capital Ship to take advantage of more efficient thrusters, improving its maneuverability and speed."
 StringInfo
-        ID "IDS_Ability_E4X_AdventLoyalistTitanUnityMassCrippleUpgrade_NAME"
-        Value "Unity's Wrath"
+	ID "IDS_Ability_E4X_AdventLoyalistTitanUnityMassCrippleUpgrade_NAME"
+	Value "Unity's Wrath"
 StringInfo
-        ID "IDS_Ability_E4X_AdventLoyalistTitanUnityMassCrippleUpgrade_DESC"
-        Value "A cybernetic implant is installed in the Psintegrat of the Coronata, forcing her to relive the pain of the expulsion of the Unity, making her wrath stronger and enabling the Unity Mass ability to overwhelm defensive subsystems on the target."
+	ID "IDS_Ability_E4X_AdventLoyalistTitanUnityMassCrippleUpgrade_DESC"
+	Value "A cybernetic implant is installed in the Psintegrat of the Coronata, forcing her to relive the pain of the expulsion of the Unity, making her wrath stronger and enabling the Unity Mass ability to overwhelm defensive subsystems on the target."
 StringInfo
-        ID "IDS_Ability_E4X_AdventRebelTitanHealingBonusUpgrade_NAME"
-        Value "Divine Reformation"
+	ID "IDS_Ability_E4X_AdventRebelTitanHealingBonusUpgrade_NAME"
+	Value "Divine Reformation"
 StringInfo
-        ID "IDS_Ability_E4X_AdventRebelTitanHealingBonusUpgrade_DESC"
-        Value "Teaches the Psintegrat of the Eradica to channel excess power into enhancing the regenerative powers of her ship, increasing the amount of Hull and Shield Points gained from restoration abilities."
+	ID "IDS_Ability_E4X_AdventRebelTitanHealingBonusUpgrade_DESC"
+	Value "Teaches the Psintegrat of the Eradica to channel excess power into enhancing the regenerative powers of her ship, increasing the amount of Hull and Shield Points gained from restoration abilities."
 StringInfo
-        ID "IDS_Ability_E4X_AdventTitanAntimatterRegenerationUpgrade_NAME"
-        Value "Reactor Overclocking"
+	ID "IDS_Ability_E4X_AdventTitanAntimatterRegenerationUpgrade_NAME"
+	Value "Reactor Overclocking"
 StringInfo
-        ID "IDS_Ability_E4X_AdventTitanAntimatterRegenerationUpgrade_DESC"
-        Value "Modifies the Antimatter reactors aboard the Titan to cool themselves to absolute zero when not in use, allowing the reactors to be overclocked to higher speeds, increasing Antimatter regeneration."
+	ID "IDS_Ability_E4X_AdventTitanAntimatterRegenerationUpgrade_DESC"
+	Value "Modifies the Antimatter reactors aboard the Titan to cool themselves to absolute zero when not in use, allowing the reactors to be overclocked to higher speeds, increasing Antimatter regeneration."
 StringInfo
-        ID "IDS_Ability_E4X_AdventTitanStrikecraftRetaliationUpgrade_NAME"
-        Value "Energy Redirection"
+	ID "IDS_Ability_E4X_AdventTitanStrikecraftRetaliationUpgrade_NAME"
+	Value "Energy Redirection"
 StringInfo
-        ID "IDS_Ability_E4X_AdventTitanStrikecraftRetaliationUpgrade_DESC"
-        Value "Enables Titans to channel wasted Antimatter when abilities are used into low-intensity shockwaves that are harmless to larger ships but dangerous to strikecraft."
+	ID "IDS_Ability_E4X_AdventTitanStrikecraftRetaliationUpgrade_DESC"
+	Value "Enables Titans to channel wasted Antimatter when abilities are used into low-intensity shockwaves that are harmless to larger ships but dangerous to strikecraft."
 StringInfo
-        ID "IDS_Ability_E4X_TECCapBackupPhaseDriveUpgrade_NAME"
-        Value "Emergency Jump Drive"
+	ID "IDS_Ability_E4X_TECCapBackupPhaseDriveUpgrade_NAME"
+	Value "Emergency Jump Drive"
 StringInfo
-        ID "IDS_Ability_E4X_TECCapBackupPhaseDriveUpgrade_DESC"
-        Value "Installs a secondary Phase Drive on the targeted Capital Ship, allowing it to escape from the effects of a Phase Jump Inhibitor. After use, it will take 10 minutes for the drive to recharge."
+	ID "IDS_Ability_E4X_TECCapBackupPhaseDriveUpgrade_DESC"
+	Value "Installs a secondary Phase Drive on the targeted Capital Ship, allowing it to escape from the effects of a Phase Jump Inhibitor. After use, it will take 10 minutes for the drive to recharge."
 StringInfo
-        ID "IDS_Ability_E4X_TECCapCoreArmorUpgrade_NAME"
-        Value "Improved Core Armor"
+	ID "IDS_Ability_E4X_TECCapCoreArmorUpgrade_NAME"
+	Value "Improved Core Armor"
 StringInfo
-        ID "IDS_Ability_E4X_TECCapCoreArmorUpgrade_DESC"
-        Value "Installs extra Armor plating around critical components of the Capital Ship, such as the engines, power generators, and the bridge, increasing the durability of the ship's Hull."
+	ID "IDS_Ability_E4X_TECCapCoreArmorUpgrade_DESC"
+	Value "Installs extra Armor plating around critical components of the Capital Ship, such as the engines, power generators, and the bridge, increasing the durability of the ship's Hull."
 StringInfo
-        ID "IDS_Ability_E4X_TECCapEnhancedNukesUpgrade_NAME"
-        Value "Improved Warhead Launchers"
+	ID "IDS_Ability_E4X_TECCapEnhancedNukesUpgrade_NAME"
+	Value "Improved Warhead Launchers"
 StringInfo
-        ID "IDS_Ability_E4X_TECCapEnhancedNukesUpgrade_DESC"
-        Value "Upgrades the warhead pylons on the targeted Capital Ships with a faster loading mechanism and larger capacity, increasing the rate of fire of planetary bombardment."
+	ID "IDS_Ability_E4X_TECCapEnhancedNukesUpgrade_DESC"
+	Value "Upgrades the warhead pylons on the targeted Capital Ships with a faster loading mechanism and larger capacity, increasing the rate of fire of planetary bombardment."
 StringInfo
-        ID "IDS_Ability_E4X_TECLoyalistTitanDrainingBeamsUpgrade_NAME"
-        Value "Energy-Draining Beams"
+	ID "IDS_Ability_E4X_TECLoyalistTitanDrainingBeamsUpgrade_NAME"
+	Value "Energy-Draining Beams"
 StringInfo
-        ID "IDS_Ability_E4X_TECLoyalistTitanDrainingBeamsUpgrade_DESC"
-        Value "Upgrades the Ankylon's Beam arrays with prototype technology that allows the beams to siphon off enemy Shields to restore its own."
+	ID "IDS_Ability_E4X_TECLoyalistTitanDrainingBeamsUpgrade_DESC"
+	Value "Upgrades the Ankylon's Beam arrays with prototype technology that allows the beams to siphon off enemy Shields to restore its own."
 StringInfo
-        ID "IDS_Ability_E4X_TECRebelTitanRailgunDisableUpgrade_NAME"
-        Value "Pulse Charged Shells"
+	ID "IDS_Ability_E4X_TECRebelTitanRailgunDisableUpgrade_NAME"
+	Value "Pulse Charged Shells"
 StringInfo
-        ID "IDS_Ability_E4X_TECRebelTitanRailgunDisableUpgrade_DESC"
-        Value "Replaces the Ragnarov's standard Railgun shell with special pulse charged shells, giving a chance to disable targets hit by Railgun blasts."
+	ID "IDS_Ability_E4X_TECRebelTitanRailgunDisableUpgrade_DESC"
+	Value "Replaces the Ragnarov's standard Railgun shell with special pulse charged shells, giving a chance to disable targets hit by Railgun blasts."
 StringInfo
-        ID "IDS_Ability_E4X_TECTitanFlakUpgrade_NAME"
-        Value "Heavy Flak Shells"
+	ID "IDS_Ability_E4X_TECTitanFlakUpgrade_NAME"
+	Value "Heavy Flak Shells"
 StringInfo
-        ID "IDS_Ability_E4X_TECTitanFlakUpgrade_DESC"
-        Value "Upgrades to the Titan's flak shells greatly improve the potency of the shrapnel, damaging all fighters near targets hit by the Titan's Flak guns."
+	ID "IDS_Ability_E4X_TECTitanFlakUpgrade_DESC"
+	Value "Upgrades to the Titan's flak shells greatly improve the potency of the shrapnel, damaging all fighters near targets hit by the Titan's Flak guns."
 StringInfo
-        ID "IDS_Ability_E4X_TECTitanMaintenanceDronesUpgrade_NAME"
-        Value "Maintenance Drones"
+	ID "IDS_Ability_E4X_TECTitanMaintenanceDronesUpgrade_NAME"
+	Value "Maintenance Drones"
 StringInfo
-        ID "IDS_Ability_E4X_TECTitanMaintenanceDronesUpgrade_DESC"
-        Value "Installs autonomous maintenance drone depots on the Titan, which assist in repairing the hull of the Titan and keep its weapons in top condition, allowing them to be fired more rapidly."
+	ID "IDS_Ability_E4X_TECTitanMaintenanceDronesUpgrade_DESC"
+	Value "Installs autonomous maintenance drone depots on the Titan, which assist in repairing the hull of the Titan and keep its weapons in top condition, allowing them to be fired more rapidly."
 StringInfo
-        ID "IDS_Ability_E4X_VasariCapCheaperAbilitiesUpgrade_NAME"
-        Value "Antimatter Conservation"
+	ID "IDS_Ability_E4X_VasariCapCheaperAbilitiesUpgrade_NAME"
+	Value "Antimatter Conservation"
 StringInfo
-        ID "IDS_Ability_E4X_VasariCapCheaperAbilitiesUpgrade_DESC"
-        Value "Installs a series of Antimatter insulation systems around the power systems of Vasari Capital Ships, reducing the Antimatter costs of non-Ultimate abilities."
+	ID "IDS_Ability_E4X_VasariCapCheaperAbilitiesUpgrade_DESC"
+	Value "Installs a series of Antimatter insulation systems around the power systems of Vasari Capital Ships, reducing the Antimatter costs of non-Ultimate abilities."
 StringInfo
-        ID "IDS_Ability_E4X_VasariCapJumpShieldRestoreUpgrade_NAME"
-        Value "Phased Regeneration"
+	ID "IDS_Ability_E4X_VasariCapJumpShieldRestoreUpgrade_NAME"
+	Value "Phased Regeneration"
 StringInfo
-        ID "IDS_Ability_E4X_VasariCapJumpShieldRestoreUpgrade_DESC"
-        Value "Allows Vasari Capital Ships to direct some of the energy dispersed when exiting Phase Space into their shield generators, regenerating some Shields every time they exit Phase Space."
+	ID "IDS_Ability_E4X_VasariCapJumpShieldRestoreUpgrade_DESC"
+	Value "Allows Vasari Capital Ships to direct some of the energy dispersed when exiting Phase Space into their shield generators, regenerating some Shields every time they exit Phase Space."
 StringInfo
-        ID "IDS_Ability_E4X_VasariCapPulseShieldInterferenceUpgrade_NAME"
-        Value "Pulse Shield Interference"
+	ID "IDS_Ability_E4X_VasariCapPulseShieldInterferenceUpgrade_NAME"
+	Value "Pulse Shield Interference"
 StringInfo
-        ID "IDS_Ability_E4X_VasariCapPulseShieldInterferenceUpgrade_DESC"
-        Value "Reconfigures Pulse weapons aboard the targeted Capital Ship to work on frequencies that can disrupt shields, giving them a chance to cause the target's shields to fail and let weapons bypass Shields and Mitigation."
+	ID "IDS_Ability_E4X_VasariCapPulseShieldInterferenceUpgrade_DESC"
+	Value "Reconfigures Pulse weapons aboard the targeted Capital Ship to work on frequencies that can disrupt shields, giving them a chance to cause the target's shields to fail and let weapons bypass Shields and Mitigation."
 StringInfo
-        ID "IDS_Ability_E4X_VasariLoyalistTitanStunShotsUpgrade_NAME"
-        Value "Stun Shots"
+	ID "IDS_Ability_E4X_VasariLoyalistTitanStunShotsUpgrade_NAME"
+	Value "Stun Shots"
 StringInfo
-        ID "IDS_Ability_E4X_VasariLoyalistTitanStunShotsUpgrade_DESC"
-        Value "Charges the energy weapons on the Vorastra to give them a chance to overload enemy power systems, briefly disabling their systems."
+	ID "IDS_Ability_E4X_VasariLoyalistTitanStunShotsUpgrade_DESC"
+	Value "Charges the energy weapons on the Vorastra to give them a chance to overload enemy power systems, briefly disabling their systems."
 StringInfo
-        ID "IDS_Ability_E4X_VasariRebelTitanVoodooAuraUpgrade_NAME"
-        Value "Voodoo Aura"
+	ID "IDS_Ability_E4X_VasariRebelTitanVoodooAuraUpgrade_NAME"
+	Value "Voodoo Aura"
 StringInfo
-        ID "IDS_Ability_E4X_VasariRebelTitanVoodooAuraUpgrade_DESC"
-        Value "Upgrades the Kultorask's shield arrays with highly experimental technology that can warp enemy shots through time and space to send them right back, causing all targets attacking the Titan to take damage."
+	ID "IDS_Ability_E4X_VasariRebelTitanVoodooAuraUpgrade_DESC"
+	Value "Upgrades the Kultorask's shield arrays with highly experimental technology that can warp enemy shots through time and space to send them right back, causing all targets attacking the Titan to take damage."
 StringInfo
-        ID "IDS_Ability_E4X_VasariTitanInfernalHullUpgrade_NAME"
-        Value "Infernal Hull"
+	ID "IDS_Ability_E4X_VasariTitanInfernalHullUpgrade_NAME"
+	Value "Infernal Hull"
 StringInfo
-        ID "IDS_Ability_E4X_VasariTitanInfernalHullUpgrade_DESC"
-        Value "Reinforces the Titan's hull with extremely strong extradimensional metals that sometimes collect on ships after a Phase Jump, greatly increasing the strength of the Titan's superstructure."
+	ID "IDS_Ability_E4X_VasariTitanInfernalHullUpgrade_DESC"
+	Value "Reinforces the Titan's hull with extremely strong extradimensional metals that sometimes collect on ships after a Phase Jump, greatly increasing the strength of the Titan's superstructure."
 StringInfo
-        ID "IDS_Ability_E4X_VasariTitanIntenseBeamUpgrade_NAME"
-        Value "Precise Pulse Beams"
+	ID "IDS_Ability_E4X_VasariTitanIntenseBeamUpgrade_NAME"
+	Value "Precise Pulse Beams"
 StringInfo
-        ID "IDS_Ability_E4X_VasariTitanIntenseBeamUpgrade_DESC"
-        Value "Reconfigures the Titan's antifighter Pulse Beams to produce narrower, more precise beams, allowing them to cut right through weak strikecraft hulls, destroying them instantly."
+	ID "IDS_Ability_E4X_VasariTitanIntenseBeamUpgrade_DESC"
+	Value "Reconfigures the Titan's antifighter Pulse Beams to produce narrower, more precise beams, allowing them to cut right through weak strikecraft hulls, destroying them instantly."
 StringInfo
-        ID "IDSGalaxyScenarioTypeSecretRandomEncounters"
-        Value "Classified"
+	ID "IDSGalaxyScenarioTypeSecretRandomEncounters"
+	Value "Classified"
 StringInfo
-        ID "IDS_E4X_UnknownPlayer"
-        Value "Unknown"
+	ID "IDS_E4X_UnknownPlayer"
+	Value "Unknown"
 StringInfo
-        ID "IDS_Planet_E4X_CyberFortress_NAME"
-        Value "Cybernetic Planet"
+	ID "IDS_Planet_E4X_CyberFortress_NAME"
+	Value "Cybernetic Planet"
 StringInfo
-        ID "IDS_Ability_E4X_PhaseAntiStructureDebuff_NAME"
-        Value "Disintegration Beam"
+	ID "IDS_Ability_E4X_PhaseAntiStructureDebuff_NAME"
+	Value "Disintegration Beam"
 StringInfo
-        ID "IDS_Ability_E4X_PhaseAntiStructureDebuff_DESC"
-        Value "The Disintegration Beam of the Karnath Swarm is particularly corrosive to heavy structural armor, giving it a chance to inflict extra damage over time and forcing certain structures to stop working."
+	ID "IDS_Ability_E4X_PhaseAntiStructureDebuff_DESC"
+	Value "The Disintegration Beam of the Karnath Swarm is particularly corrosive to heavy structural armor, giving it a chance to inflict extra damage over time and forcing certain structures to stop working."
 StringInfo
-        ID "IDS_Ability_E4X_PsiAntiStructureDebuff_NAME"
-        Value "Disruptive Plasma Bursts"
+	ID "IDS_Ability_E4X_PsiAntiStructureDebuff_NAME"
+	Value "Disruptive Plasma Bursts"
 StringInfo
-        ID "IDS_Ability_E4X_PsiAntiStructureDebuff_DESC"
-        Value "Highly-energized plasma bursts give a chance of disrupting a target's Shield and ability systems, increasing damage done and disabling abilities for a time."
+	ID "IDS_Ability_E4X_PsiAntiStructureDebuff_DESC"
+	Value "Highly-energized plasma bursts give a chance of disrupting a target's Shield and ability systems, increasing damage done and disabling abilities for a time."
 StringInfo
-        ID "IDS_Ability_E4X_TechAntiStructureDebuff_NAME"
-        Value "High-Impact Missiles"
+	ID "IDS_Ability_E4X_TechAntiStructureDebuff_NAME"
+	Value "High-Impact Missiles"
 StringInfo
-        ID "IDS_Ability_E4X_TechAntiStructureDebuff_DESC"
-        Value "The extreme damage of the Ogrov's neutron torpedoes can disable systems on enemy targets, reducing their weapon accuracy and auto-repair systems."
+	ID "IDS_Ability_E4X_TechAntiStructureDebuff_DESC"
+	Value "The extreme damage of the Ogrov's neutron torpedoes can disable systems on enemy targets, reducing their weapon accuracy and auto-repair systems."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ABILITYACCESS_PhaseAssaultMine_NAME"
-        Value "Karnath Assault Swarm"
+	ID "IDS_RESEARCH_E4X_ABILITYACCESS_PhaseAssaultMine_NAME"
+	Value "Karnath Assault Swarm"
 StringInfo
-        ID "IDS_RESEARCH_E4X_ABILITYACCESS_PhaseAssaultMine_DESC"
-        Value "Allows Sivuskras Ruiners to deploy Karnath Assault Swarms, nanites with Disintegrator weapons capable of doing great damage to structures. They are vulnerable to mine fields however."
+	ID "IDS_RESEARCH_E4X_ABILITYACCESS_PhaseAssaultMine_DESC"
+	Value "Allows Sivuskras Ruiners to deploy Karnath Assault Swarms, nanites with Disintegrator weapons capable of doing great damage to structures. They are vulnerable to mine fields however."
 StringInfo
-        ID "IDS_Ability_E4X_SpawnPhaseAssaultMine_NAME"
-        Value "Deploy Assault Swarm"
+	ID "IDS_Ability_E4X_SpawnPhaseAssaultMine_NAME"
+	Value "Deploy Assault Swarm"
 StringInfo
-        ID "IDS_Ability_E4X_SpawnPhaseAssaultMine_DESC"
-        Value "Launches a Karnath Assault Swarm into Phase Space, which is immune to normal weapons but will be destroyed instantly by minefields. They require the Ruiner to stay in its gravity well to relay instructions."
+	ID "IDS_Ability_E4X_SpawnPhaseAssaultMine_DESC"
+	Value "Launches a Karnath Assault Swarm into Phase Space, which is immune to normal weapons but will be destroyed instantly by minefields. They require the Ruiner to stay in its gravity well to relay instructions."
 StringInfo
 	ID "IDS_Frigate_E4X_PhaseAntiModuleSwarm"
 	Value "Karnath Assault Swarm"
@@ -853,785 +853,785 @@ StringInfo
     ID "IDS_ABILITY_UNYIELDINGWILL_DESCRIPTION"
     Value "When the Titan's Hull is depleted, it will become invulnerable for a short period of time. Natural regeneration will be disabled, but if the Titan's Hull is repaired above zero, it will survive. This effect can only be activated once every 10 minutes. Ability cooldowns are also greatly reduced and extra Antimatter is generated."
 StringInfo
-        ID "IDS_Ability_E4X_DarkColonyShip_NAME"
-        Value "Dark Colony Frigate"
+	ID "IDS_Ability_E4X_DarkColonyShip_NAME"
+	Value "Dark Colony Frigate"
 StringInfo
-        ID "IDS_Ability_E4X_DarkColonyShip_DESC"
-        Value "Summons a Colony Frigate from the Dark Fleet."
+	ID "IDS_Ability_E4X_DarkColonyShip_DESC"
+	Value "Summons a Colony Frigate from the Dark Fleet."
 StringInfo
-        ID "IDS_Ability_E4X_SummonAllies_NAME"
-        Value "Request Allies"
+	ID "IDS_Ability_E4X_SummonAllies_NAME"
+	Value "Request Allies"
 StringInfo
-        ID "IDS_Ability_E4X_SummonAllies_DESC"
-        Value "Strengthened ties with Advent and Trader groups allows you to request your allies' aid, giving you a small task force of allied ships to command."
+	ID "IDS_Ability_E4X_SummonAllies_DESC"
+	Value "Strengthened ties with Advent and Trader groups allows you to request your allies' aid, giving you a small task force of allied ships to command."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ABILITYACCESS_SummonAllies_DESC"
-        Value "Grants the Request Allies ability to Phase Stabilizer structures, allowing you to request a small task force of allied ships to command."
+	ID "IDS_RESEARCH_E4X_ABILITYACCESS_SummonAllies_DESC"
+	Value "Grants the Request Allies ability to Phase Stabilizer structures, allowing you to request a small task force of allied ships to command."
 StringInfo
-        ID "IDS_RESEARCH_E4X_EnhancedEmbassies_NAME"
-        Value "Enhanced Embassies"
+	ID "IDS_RESEARCH_E4X_EnhancedEmbassies_NAME"
+	Value "Enhanced Embassies"
 StringInfo
-        ID "IDS_RESEARCH_E4X_EnhancedEmbassies_DESC"
-        Value "Additional focus on training diplomats and working with allies leads to faster results from Embassies, improving how fast you earn Relationship Points and giving stronger Embassy bonuses to your allies."
+	ID "IDS_RESEARCH_E4X_EnhancedEmbassies_DESC"
+	Value "Additional focus on training diplomats and working with allies leads to faster results from Embassies, improving how fast you earn Relationship Points and giving stronger Embassy bonuses to your allies."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ForgedAlliance_NAME"
-        Value "Forged Alliance"
+	ID "IDS_RESEARCH_E4X_ForgedAlliance_NAME"
+	Value "Forged Alliance"
 StringInfo
-        ID "IDS_RESEARCH_E4X_ForgedAlliance_DESC"
-        Value "Closer military ties with your allies increases the resolve of both of your militaries, buffing your ships' offensive power when they Phase Jump into an allied gravity well, while boosting the morale and defense of any allies present."
+	ID "IDS_RESEARCH_E4X_ForgedAlliance_DESC"
+	Value "Closer military ties with your allies increases the resolve of both of your militaries, buffing your ships' offensive power when they Phase Jump into an allied gravity well, while boosting the morale and defense of any allies present."
 StringInfo
-        ID "IDS_RESEARCH_E4X_PhasicImmunity_NAME"
-        Value "Phasic Immunity"
+	ID "IDS_RESEARCH_E4X_PhasicImmunity_NAME"
+	Value "Phasic Immunity"
 StringInfo
-        ID "IDS_RESEARCH_E4X_PhasicImmunity_DESC"
-        Value "Allows your ships to harvest some of the extra energy released upon exiting Phase Space to power anti-jump inhibition devices, making all of your ships immune from inhibitor jamming for several minutes after finishing a Phase Jump."
+	ID "IDS_RESEARCH_E4X_PhasicImmunity_DESC"
+	Value "Allows your ships to harvest some of the extra energy released upon exiting Phase Space to power anti-jump inhibition devices, making all of your ships immune from inhibitor jamming for several minutes after finishing a Phase Jump."
 StringInfo
-        ID "IDS_RESEARCH_E4X_WeaponDamageDisruptors_NAME"
-        Value "Overcharged Disintegrators"
+	ID "IDS_RESEARCH_E4X_WeaponDamageDisruptors_NAME"
+	Value "Overcharged Disintegrators"
 StringInfo
-        ID "IDS_RESEARCH_E4X_WeaponDamageDisruptors_DESC"
-        Value "Refinements to Disintegrator designs have halved the size needed to generate a given charge, allowing many additional generators to power your Disintegrator cannons, greatly increasing damage and range."
+	ID "IDS_RESEARCH_E4X_WeaponDamageDisruptors_DESC"
+	Value "Refinements to Disintegrator designs have halved the size needed to generate a given charge, allowing many additional generators to power your Disintegrator cannons, greatly increasing damage and range."
 StringInfo
-        ID "IDS_Ability_E4X_DespoilPlanet_Name"
-        Value "Despoil Planet"
+	ID "IDS_Ability_E4X_DespoilPlanet_Name"
+	Value "Despoil Planet"
 StringInfo
-        ID "IDS_Ability_E4X_DespoilPlanet_DESC"
-        Value "The Colony Frigate releases a swarm of nanites on the target planet, which terraform the it to be hostile to life, causing the planet to be uncolonizable for a long period of time."
+	ID "IDS_Ability_E4X_DespoilPlanet_DESC"
+	Value "The Colony Frigate releases a swarm of nanites on the target planet, which terraform the it to be hostile to life, causing the planet to be uncolonizable for a long period of time."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ABILITYACCESS_DespoilPlanet_DESC"
-        Value "Grants the Despoil Planet ability to Jarun Migrators, allowing them to terraform uncolonized planets to be hostile to life, causing it to be uncolonizable for a long period of time."
+	ID "IDS_RESEARCH_E4X_ABILITYACCESS_DespoilPlanet_DESC"
+	Value "Grants the Despoil Planet ability to Jarun Migrators, allowing them to terraform uncolonized planets to be hostile to life, causing it to be uncolonizable for a long period of time."
 StringInfo
-        ID "IDS_Ability_E4X_IsCultureCenter_NAME"
-        Value "Culture Center"
+	ID "IDS_Ability_E4X_IsCultureCenter_NAME"
+	Value "Culture Center"
 StringInfo
-        ID "IDS_Ability_E4X_IsCultureCenter_DESC"
-        Value "This structure is a Culture Center, capable of spreading your civilization's Culture throughout the galaxy."
+	ID "IDS_Ability_E4X_IsCultureCenter_DESC"
+	Value "This structure is a Culture Center, capable of spreading your civilization's Culture throughout the galaxy."
 StringInfo
-        ID "IDS_Ability_E4X_HolyPilgrimage_NAME"
-        Value "Pilgrims of the Unity"
+	ID "IDS_Ability_E4X_HolyPilgrimage_NAME"
+	Value "Pilgrims of the Unity"
 StringInfo
-        ID "IDS_Ability_E4X_HolyPilgrimage_DESC"
-        Value "Newly converted pilgrims flock to key holy sites across your empire, increasing tax income on any planet with a Temple of Communion."
+	ID "IDS_Ability_E4X_HolyPilgrimage_DESC"
+	Value "Newly converted pilgrims flock to key holy sites across your empire, increasing tax income on any planet with a Temple of Communion."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ABILITYACCESS_HolyPilgrimage_DESC"
-        Value "Grants the Pilgrims of the Unity ability to Temples of Communion, allowing them to increase tax income on their local planet."
+	ID "IDS_RESEARCH_E4X_ABILITYACCESS_HolyPilgrimage_DESC"
+	Value "Grants the Pilgrims of the Unity ability to Temples of Communion, allowing them to increase tax income on their local planet."
 StringInfo
-        ID "IDS_RESEARCH_E4X_UltimateTrancendence_NAME"
-        Value "Ultimate Transcendence"
+	ID "IDS_RESEARCH_E4X_UltimateTrancendence_NAME"
+	Value "Ultimate Transcendence"
 StringInfo
-        ID "IDS_RESEARCH_E4X_UltimateTrancendence_DESC"
-		 Value "Your spiritual leaders have reached a level of enlightenment capable of maintaining constant communication to those in the beyond, making it easier to bring back true believers and converts to life."
+	ID "IDS_RESEARCH_E4X_UltimateTrancendence_DESC"
+	 Value "Your spiritual leaders have reached a level of enlightenment capable of maintaining constant communication to those in the beyond, making it easier to bring back true believers and converts to life."
 StringInfo
-        ID "IDS_RESEARCH_E4X_EternalIllumination_NAME"
-        Value "Eternal Illumination"
+	ID "IDS_RESEARCH_E4X_EternalIllumination_NAME"
+	Value "Eternal Illumination"
 StringInfo
-        ID "IDS_RESEARCH_E4X_EternalIllumination_DESC"
-        Value "As your scientists achieve a new level of ascension, they have discovered new ways to manipulate energy, increasing the power of all of your energy weapons."
+	ID "IDS_RESEARCH_E4X_EternalIllumination_DESC"
+	Value "As your scientists achieve a new level of ascension, they have discovered new ways to manipulate energy, increasing the power of all of your energy weapons."
 StringInfo
-        ID "IDS_Ability_E4X_EnergyAbsorbtion_NAME"
-        Value "Shield Redistribution"
+	ID "IDS_Ability_E4X_EnergyAbsorbtion_NAME"
+	Value "Shield Redistribution"
 StringInfo
-        ID "IDS_Ability_E4X_EnergyAbsorbtion_DESC"
-        Value "The Domina Subjugator absorbs energy from a hostile target's Shields to be given to a friendly target within range."
+	ID "IDS_Ability_E4X_EnergyAbsorbtion_DESC"
+	Value "The Domina Subjugator absorbs energy from a hostile target's Shields to be given to a friendly target within range."
 StringInfo
-        ID "IDS_Ability_E4X_SpiritsOfTheAssended_NAME"
-        Value "Spirits of the Ascended"
+	ID "IDS_Ability_E4X_SpiritsOfTheAssended_NAME"
+	Value "Spirits of the Ascended"
 StringInfo
-        ID "IDS_Ability_E4X_SpiritsOfTheAssended_DESC"
-        Value "The saved souls of your ship's fallen crews linger for a while and obstruct enemy fire, temporarily reducing the damage taken by nearby friendly forces when one of your ships is destroyed."
+	ID "IDS_Ability_E4X_SpiritsOfTheAssended_DESC"
+	Value "The saved souls of your ship's fallen crews linger for a while and obstruct enemy fire, temporarily reducing the damage taken by nearby friendly forces when one of your ships is destroyed."
 StringInfo
-        ID "IDS_Ability_E4X_PsychicPossession_NAME"
-        Value "Psychic Possession"
+	ID "IDS_Ability_E4X_PsychicPossession_NAME"
+	Value "Psychic Possession"
 StringInfo
-        ID "IDS_Ability_E4X_PsychicPossession_DESC"
-        Value "Should a Temple of Communion be destroyed, the religious officials stationed there will use the broadcasting equipment to invade the consciousness of hostile forces in the gravity well. If they successfully overpower their hosts, the ships will come under your control."
+	ID "IDS_Ability_E4X_PsychicPossession_DESC"
+	Value "Should a Temple of Communion be destroyed, the religious officials stationed there will use the broadcasting equipment to invade the consciousness of hostile forces in the gravity well. If they successfully overpower their hosts, the ships will come under your control."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ABILITYACCESS_PsychicPossession_DESC"
-        Value "Grants the Psychic Possession ability to Temples of Communion, potentially allowing them to convert hostile forces in the gravity well upon their destruction."
+	ID "IDS_RESEARCH_E4X_ABILITYACCESS_PsychicPossession_DESC"
+	Value "Grants the Psychic Possession ability to Temples of Communion, potentially allowing them to convert hostile forces in the gravity well upon their destruction."
 StringInfo
-        ID "IDS_Condition_E4X_TECMilitia_NAME"
-        Value "Is Trader Militia"
+	ID "IDS_Condition_E4X_TECMilitia_NAME"
+	Value "Is Trader Militia"
 StringInfo
-        ID "IDS_Ability_E4X_TaRAssimulatePlanet_NAME"
-        Value "Common Cause"
+	ID "IDS_Ability_E4X_TaRAssimulatePlanet_NAME"
+	Value "Common Cause"
 StringInfo
-        ID "IDS_Ability_E4X_TaRAssimulatePlanet_DESC"
-        Value "Special representatives on this colony frigate convince neutral Trader militias or colonies to join against the foreign menaces, integrating them into your empire. The process will take time however, and neither your colony frigate nor acquired forces will be able to Phase Jump for a while."
+	ID "IDS_Ability_E4X_TaRAssimulatePlanet_DESC"
+	Value "Special representatives on this colony frigate convince neutral Trader militias or colonies to join against the foreign menaces, integrating them into your empire. The process will take time however, and neither your colony frigate nor acquired forces will be able to Phase Jump for a while."
 StringInfo
-        ID "IDS_Ability_E4X_SiegeModeModule_NAME"
-        Value "Siege Mode"
+	ID "IDS_Ability_E4X_SiegeModeModule_NAME"
+	Value "Siege Mode"
 StringInfo
-        ID "IDS_Ability_E4X_SiegeModeModule_DESC"
-        Value "Your Ogrov Torpedo Cruiser disables its engines and enters siege mode, making it more resistant to damage and boosting its range and rate of fire."
+	ID "IDS_Ability_E4X_SiegeModeModule_DESC"
+	Value "Your Ogrov Torpedo Cruiser disables its engines and enters siege mode, making it more resistant to damage and boosting its range and rate of fire."
 StringInfo
-        ID "IDS_Ability_E4X_SiegeModeSiege_NAME"
-        Value "Siege Mode"
+	ID "IDS_Ability_E4X_SiegeModeSiege_NAME"
+	Value "Siege Mode"
 StringInfo
-        ID "IDS_Ability_E4X_SiegeModeSiege_DESC"
-        Value "Your Krosov Siege Frigate disables its engines and enters siege mode, making it more resistant to damage and boosting bombardment speed."
+	ID "IDS_Ability_E4X_SiegeModeSiege_DESC"
+	Value "Your Krosov Siege Frigate disables its engines and enters siege mode, making it more resistant to damage and boosting bombardment speed."
 StringInfo
-        ID "IDS_RESEARCH_E4X_SiegeMode_NAME"
-        Value "Siege Mode"
+	ID "IDS_RESEARCH_E4X_SiegeMode_NAME"
+	Value "Siege Mode"
 StringInfo
-        ID "IDS_RESEARCH_E4X_SiegeMode_DESC"
-        Value "Grants the Siege Mode ability to Krosov Siege Frigates and Ogrov Torpedo Cruisers, allowing them to improve their offensive and defensive capacities at the expense of mobility."
+	ID "IDS_RESEARCH_E4X_SiegeMode_DESC"
+	Value "Grants the Siege Mode ability to Krosov Siege Frigates and Ogrov Torpedo Cruisers, allowing them to improve their offensive and defensive capacities at the expense of mobility."
 StringInfo
-        ID "IDS_PLANETMODULE_E4X_PirateEmbassy_NAME"
-        Value "Pirate Embassy"
+	ID "IDS_PLANETMODULE_E4X_PirateEmbassy_NAME"
+	Value "Pirate Embassy"
 StringInfo
-        ID "IDS_PLANETMODULE_E4X_PirateEmbassy_DESC"
-        Value "An outpost where you can negotiate with a local Pirate lord."
+	ID "IDS_PLANETMODULE_E4X_PirateEmbassy_DESC"
+	Value "An outpost where you can negotiate with a local Pirate lord."
 StringInfo
-        ID "IDS_RESEARCH_E4X_GenocidalIndoctrination_NAME"
-        Value "Genocidal Indoctrination"
+	ID "IDS_RESEARCH_E4X_GenocidalIndoctrination_NAME"
+	Value "Genocidal Indoctrination"
 StringInfo
-        ID "IDS_RESEARCH_E4X_GenocidalIndoctrination_DESC"
-        Value "A new generation of training and reward programs have wiped out any remaining sympathy for enemy civilians, making your forces so bloodthirsty that they are healed and gain buffs to damage and bombardment if they are orbiting an enemy planet that gets destroyed."
+	ID "IDS_RESEARCH_E4X_GenocidalIndoctrination_DESC"
+	Value "A new generation of training and reward programs have wiped out any remaining sympathy for enemy civilians, making your forces so bloodthirsty that they are healed and gain buffs to damage and bombardment if they are orbiting an enemy planet that gets destroyed."
 StringInfo
-        ID "IDS_Ability_E4X_NovalithSupercharge_NAME"
-        Value "Novalith Supercharging"
+	ID "IDS_Ability_E4X_NovalithSupercharge_NAME"
+	Value "Novalith Supercharging"
 StringInfo
-        ID "IDS_Ability_E4X_NovalithSupercharge_DESC"
-        Value "Improvements to the Novalith's power core allow it to recharge its propulsion rails faster, greatly increasing the rate of fire."
+	ID "IDS_Ability_E4X_NovalithSupercharge_DESC"
+	Value "Improvements to the Novalith's power core allow it to recharge its propulsion rails faster, greatly increasing the rate of fire."
 StringInfo
-        ID "IDS_RESEARCH_E4X_PlanetaryDefensesAccess_NAME"
-        Value "Planetary Fortifications"
+	ID "IDS_RESEARCH_E4X_PlanetaryDefensesAccess_NAME"
+	Value "Planetary Fortifications"
 StringInfo
-        ID "IDS_Ability_E4X_PlanetaryDefensesAccess_DESC"
-        Value "The Trader Central Government gives grants to your colonized planets to upgrade their defenses, allowing them to get gradually higher planetary defenses and weapons the longer you control them."
+	ID "IDS_Ability_E4X_PlanetaryDefensesAccess_DESC"
+	Value "The Trader Central Government gives grants to your colonized planets to upgrade their defenses, allowing them to get gradually higher planetary defenses and weapons the longer you control them."
 StringInfo
-        ID "IDS_Ability_E4X_Frenzy_NAME"
-        Value "Frenzy"
+	ID "IDS_Ability_E4X_Frenzy_NAME"
+	Value "Frenzy"
 StringInfo
-        ID "IDS_Ability_E4X_Frenzy_DESC"
-        Value "The xenophobic propaganda of the HTS makes their fleets extremely eager for combat. Each time a ship deals the killing blow to an enemy, that ship gains a boost to damage until it leaves the gravity well."
+	ID "IDS_Ability_E4X_Frenzy_DESC"
+	Value "The xenophobic propaganda of the HTS makes their fleets extremely eager for combat. Each time a ship deals the killing blow to an enemy, that ship gains a boost to damage until it leaves the gravity well."
 StringInfo
-        ID "IDS_RESEARCH_E4X_FactionBonusPhaseLoyals_NAME"
-        Value "Vasari Central Command"
+	ID "IDS_RESEARCH_E4X_FactionBonusPhaseLoyals_NAME"
+	Value "Vasari Central Command"
 StringInfo
-        ID "IDS_RESEARCH_E4X_FactionBonusPhaseLoyals_DESC"
-        Value "Your faction is the Vasari Central Command (VCC), lead by the Overlords of the migration fleet. Fearing their ancient pursuers, they are more desperate than ever to leave Trader space, and will do anything to acquire supplies for the journey. The VCC starts with an improved Colony Frigate and a Titan Factory, and they get discounted Crew researches, allowing them to deploy their mobile exodus fleet more easily. Their Pulse weapons are also more effective at long range, and Wave Cannons can fire faster."
+	ID "IDS_RESEARCH_E4X_FactionBonusPhaseLoyals_DESC"
+	Value "Your faction is the Vasari Central Command (VCC), lead by the Overlords of the migration fleet. Fearing their ancient pursuers, they are more desperate than ever to leave Trader space, and will do anything to acquire supplies for the journey. The VCC starts with an improved Colony Frigate and a Titan Factory, and they get discounted Crew researches, allowing them to deploy their mobile exodus fleet more easily. Their Pulse weapons are also more effective at long range, and Wave Cannons can fire faster."
 StringInfo
-        ID "IDS_RESEARCH_E4X_FactionBonusPhaseRebels_NAME"
-        Value "Vasari Ind. Republic"
+	ID "IDS_RESEARCH_E4X_FactionBonusPhaseRebels_NAME"
+	Value "Vasari Ind. Republic"
 StringInfo
-        ID "IDS_RESEARCH_E4X_FactionBonusPhaseRebels_DESC"
-        Value "Your faction is the Vasari Independent Republic (VIR), a breakaway group of Vasari frontline units and diplomats. Having seen for themselves the capacity of their enemies and just as fearful of the growing terror, the VIR has decided that it's best to put aside differences and make a run for it together. Focusing on hit-and-run tactics and diplomatic outreach, the VIR has an easier time making alliances, can move faster, build Phase Gates without research, and have longer range Phase Missiles."
+	ID "IDS_RESEARCH_E4X_FactionBonusPhaseRebels_DESC"
+	Value "Your faction is the Vasari Independent Republic (VIR), a breakaway group of Vasari frontline units and diplomats. Having seen for themselves the capacity of their enemies and just as fearful of the growing terror, the VIR has decided that it's best to put aside differences and make a run for it together. Focusing on hit-and-run tactics and diplomatic outreach, the VIR has an easier time making alliances, can move faster, build Phase Gates without research, and have longer range Phase Missiles."
 StringInfo
-        ID "IDS_RESEARCH_E4X_FactionBonusPsiLoyals_NAME"
-        Value "Orthodox Advent"
+	ID "IDS_RESEARCH_E4X_FactionBonusPsiLoyals_NAME"
+	Value "Orthodox Advent"
 StringInfo
-        ID "IDS_RESEARCH_E4X_FactionBonusPsiLoyals_DESC"
-        Value "Your faction is the Orthodox Advent, lead by the main hierarchy of the Advent that has existed for millennia. They seek to convert all nonbelievers to follow the Unity and inflict justice on the Traders for their expulsion. Their Culture is more effective, and Temples of Communion can be built without research. Culture spreads from their homeworld at a greatly increased rate, and their worlds grow faster and are more resistant to bombardment than others."
+	ID "IDS_RESEARCH_E4X_FactionBonusPsiLoyals_DESC"
+	Value "Your faction is the Orthodox Advent, lead by the main hierarchy of the Advent that has existed for millennia. They seek to convert all nonbelievers to follow the Unity and inflict justice on the Traders for their expulsion. Their Culture is more effective, and Temples of Communion can be built without research. Culture spreads from their homeworld at a greatly increased rate, and their worlds grow faster and are more resistant to bombardment than others."
 StringInfo
-        ID "IDS_RESEARCH_E4X_FactionBonusPsiRebels_NAME"
-        Value "Ascended Advent"
+	ID "IDS_RESEARCH_E4X_FactionBonusPsiRebels_NAME"
+	Value "Ascended Advent"
 StringInfo
-        ID "IDS_RESEARCH_E4X_FactionBonusPsiRebels_DESC"
-        Value "Your faction is the Ascended Advent, a sect of the Advent who broke away after sensing a growing darkness from within the Unity. Now focusing more on transcending to a higher state within the Unity, the Ascended have much stronger special abilities. All of their ships can subtly protect others for a brief time when destroyed, and carry greater Antimatter reserves. They can also build Domina Subjugators from the start of the game."
+	ID "IDS_RESEARCH_E4X_FactionBonusPsiRebels_DESC"
+	Value "Your faction is the Ascended Advent, a sect of the Advent who broke away after sensing a growing darkness from within the Unity. Now focusing more on transcending to a higher state within the Unity, the Ascended have much stronger special abilities. All of their ships can subtly protect others for a brief time when destroyed, and carry greater Antimatter reserves. They can also build Domina Subjugators from the start of the game."
 StringInfo
-        ID "IDS_RESEARCH_E4X_FactionBonusTECLoyals_NAME"
-        Value "Trader Emergency Coalition"
+	ID "IDS_RESEARCH_E4X_FactionBonusTECLoyals_NAME"
+	Value "Trader Emergency Coalition"
 StringInfo
-        ID "IDS_RESEARCH_E4X_FactionBonusTECLoyals_DESC"
-        Value "Your faction is the Trader Emergency Coalition (TEC), the remnants of the core Coalition that formed over a quarter century ago. Faced with the hard reality of being unable to expel the invaders, they are determined to never let another Trader world fall. They can build both higher quantities and qualities of defenses, can upgrade planet defense capacities cheaper and faster, have more Armor, and can deploy starbases faster and with their Resupply ability already included."
+	ID "IDS_RESEARCH_E4X_FactionBonusTECLoyals_DESC"
+	Value "Your faction is the Trader Emergency Coalition (TEC), the remnants of the core Coalition that formed over a quarter century ago. Faced with the hard reality of being unable to expel the invaders, they are determined to never let another Trader world fall. They can build both higher quantities and qualities of defenses, can upgrade planet defense capacities cheaper and faster, have more Armor, and can deploy starbases faster and with their Resupply ability already included."
 StringInfo
-        ID "IDS_RESEARCH_E4X_FactionBonusTECRebels_NAME"
-        Value "Human Trader State"
+	ID "IDS_RESEARCH_E4X_FactionBonusTECRebels_NAME"
+	Value "Human Trader State"
 StringInfo
-        ID "IDS_RESEARCH_E4X_FactionBonusTECRebels_DESC"
-        Value "Your faction is the Human Trader State (HTS), a collection of defecting Trader worlds whose leaders are committed to bringing a swift and bloody end to the war, even if it means committing the genocide of xenos and deviant humanity alike. Their ships can be built faster, fire faster and do more damage with every kill, and are better at planetary bombardment. They also begin able to build better Krosov Siege Frigates and Ogrov Torpedo Cruisers without research."
+	ID "IDS_RESEARCH_E4X_FactionBonusTECRebels_DESC"
+	Value "Your faction is the Human Trader State (HTS), a collection of defecting Trader worlds whose leaders are committed to bringing a swift and bloody end to the war, even if it means committing the genocide of xenos and deviant humanity alike. Their ships can be built faster, fire faster and do more damage with every kill, and are better at planetary bombardment. They also begin able to build better Krosov Siege Frigates and Ogrov Torpedo Cruisers without research."
 StringInfo
-        ID "IDS_RESEARCH_E4X_RacialBonusTEC_NAME"
-        Value "Traders"
+	ID "IDS_RESEARCH_E4X_RacialBonusTEC_NAME"
+	Value "Traders"
 StringInfo
-        ID "IDS_RESEARCH_E4X_RacialBonusTEC_DESC"
-        Value "You are playing as the Traders, a race of humans that specializes is economic strength, production, development, and tough warships."
+	ID "IDS_RESEARCH_E4X_RacialBonusTEC_DESC"
+	Value "You are playing as the Traders, a race of humans that specializes is economic strength, production, development, and tough warships."
 StringInfo
-        ID "IDS_RESEARCH_E4X_RacialBonusPsi_NAME"
-        Value "Advent"
+	ID "IDS_RESEARCH_E4X_RacialBonusPsi_NAME"
+	Value "Advent"
 StringInfo
-        ID "IDS_RESEARCH_E4X_RacialBonusPsi_DESC"
-        Value "You are playing as the Advent, a race of telepathically connected humans specializing in cultural influence, powerful special abilities, and powerful Shields."
+	ID "IDS_RESEARCH_E4X_RacialBonusPsi_DESC"
+	Value "You are playing as the Advent, a race of telepathically connected humans specializing in cultural influence, powerful special abilities, and powerful Shields."
 StringInfo
-        ID "IDS_RESEARCH_E4X_RacialBonusPhase_NAME"
-        Value "Vasari"
+	ID "IDS_RESEARCH_E4X_RacialBonusPhase_NAME"
+	Value "Vasari"
 StringInfo
-        ID "IDS_RESEARCH_E4X_RacialBonusPhase_DESC"
-        Value "You are playing as the Vasari, an extra galactic race of former imperialists now running from a faceless terror. They specialize in keeping power through a blend terror, resourcefulness, and desperation."
+	ID "IDS_RESEARCH_E4X_RacialBonusPhase_DESC"
+	Value "You are playing as the Vasari, an extra galactic race of former imperialists now running from a faceless terror. They specialize in keeping power through a blend terror, resourcefulness, and desperation."
 StringInfo
-        ID "IDS_E4X_TECRandomEncounterPlayer"
-        Value "Trader Outliers"
+	ID "IDS_E4X_TECRandomEncounterPlayer"
+	Value "Trader Outliers"
 StringInfo
-        ID "IDS_E4X_PsiRandomEncounterPlayer"
-        Value "Order of Nilaya"
+	ID "IDS_E4X_PsiRandomEncounterPlayer"
+	Value "Order of Nilaya"
 StringInfo
-        ID "IDS_E4X_PhaseRandomEncounterPlayer"
-        Value "Vasari Remnants"
+	ID "IDS_E4X_PhaseRandomEncounterPlayer"
+	Value "Vasari Remnants"
 StringInfo
-        ID "IDS_GAMEMESSAGE_PLAYERFLEETARRIVEDTOFLEETBEACON"
-        Value "New units have arrived at %s."
+	ID "IDS_GAMEMESSAGE_PLAYERFLEETARRIVEDTOFLEETBEACON"
+	Value "New units have arrived at %s."
 StringInfo
-        ID "IDS_RESEARCHSUBJECT_PACT_MARKET_DESCRIPTION"
-        Value "A mutual understanding with merchants is reached, giving both factions better rates when purchasing from the Black Market. Credit and resource costs for ships and structures are also reduced slightly."
+	ID "IDS_RESEARCHSUBJECT_PACT_MARKET_DESCRIPTION"
+	Value "A mutual understanding with merchants is reached, giving both factions better rates when purchasing from the Black Market. Credit and resource costs for ships and structures are also reduced slightly."
 StringInfo
-        ID "IDS_RESEARCHSUBJECT_PACT_TACTICALSLOTS_DESCRIPTION"
-        Value "Joint improvements to planetary defense systems result in mutually improved tactical structures that are tougher and deal more damage. You can also build a few more such structures per planet."
+	ID "IDS_RESEARCHSUBJECT_PACT_TACTICALSLOTS_DESCRIPTION"
+	Value "Joint improvements to planetary defense systems result in mutually improved tactical structures that are tougher and deal more damage. You can also build a few more such structures per planet."
 StringInfo
-        ID "IDS_RESEARCHSUBJECT_PACT_WEAPONCOOLDOWN_DESCRIPTION"
-        Value "Improvements to targeting systems allow the Capital Ships and starbases of both factions to attack an extra target per bank. Capital Ships also become more effective at repelling Culture."
+	ID "IDS_RESEARCHSUBJECT_PACT_WEAPONCOOLDOWN_DESCRIPTION"
+	Value "Improvements to targeting systems allow the Capital Ships and starbases of both factions to attack an extra target per bank. Capital Ships also become more effective at repelling Culture."
 StringInfo
-        ID "IDS_ABILITY_ABILITYGUIDANCE_DESCRIPTION"
-        Value "Boosts the mental focus of nearby crews, allowing them to reduce ability cooldowns and Antimatter costs by operating more efficiently."
+	ID "IDS_ABILITY_ABILITYGUIDANCE_DESCRIPTION"
+	Value "Boosts the mental focus of nearby crews, allowing them to reduce ability cooldowns and Antimatter costs by operating more efficiently."
 StringInfo
-        ID "IDS_ABILITY_ADAPTIVESHIELD_DESCRIPTION"
-        Value "Unlocks an experimental shield unit that reduces damage taken and makes it less likely that Phase Missiles will bypass its Shields."
+	ID "IDS_ABILITY_ADAPTIVESHIELD_DESCRIPTION"
+	Value "Unlocks an experimental shield unit that reduces damage taken and makes it less likely that Phase Missiles will bypass its Shields."
 StringInfo
-        ID "IDS_ABILITY_FARSIGHT_DESCRIPTION"
-        Value "Allows the viewing of a distant planet for a brief period of time. Also reveals detailed information about the planet's fortifications, increasing the damage the planet takes from bombardment."
+	ID "IDS_ABILITY_FARSIGHT_DESCRIPTION"
+	Value "Allows the viewing of a distant planet for a brief period of time. Also reveals detailed information about the planet's fortifications, increasing the damage the planet takes from bombardment."
 StringInfo
-        ID "IDS_ABILITY_GAUSSBLAST_DESCRIPTION"
-        Value "Fires a high-velocity armor-piercing slug at the target, which deals a high amount of physical damage and temporarily cripples its engine and weapons systems."
+	ID "IDS_ABILITY_GAUSSBLAST_DESCRIPTION"
+	Value "Fires a high-velocity armor-piercing slug at the target, which deals a high amount of physical damage and temporarily cripples its engine and weapons systems."
 StringInfo
-        ID "IDS_ABILITY_INCENDIARYSHELLS_DESCRIPTION"
-        Value "Autocannons and Missiles on this ship carry an igniting payload, which have a chance to deal additional damage and slightly decrease the target's Armor for a brief duration on impact."
+	ID "IDS_ABILITY_INCENDIARYSHELLS_DESCRIPTION"
+	Value "Autocannons and Missiles on this ship carry an igniting payload, which have a chance to deal additional damage and slightly decrease the target's Armor for a brief duration on impact."
 StringInfo
-        ID "IDS_ABILITY_TAUNT_DESCRIPTION"
-        Value "Antagonizes nearby hostile forces into attacking this ship over their current targets. Also reduces the damage taken for the duration."
+	ID "IDS_ABILITY_TAUNT_DESCRIPTION"
+	Value "Antagonizes nearby hostile forces into attacking this ship over their current targets. Also reduces the damage taken for the duration."
 StringInfo
-        ID "IDSMainMenuScreenTitle"
-        Value "Enhanced 4X Mod"
+	ID "IDSMainMenuScreenTitle"
+	Value "Enhanced 4X Mod"
 StringInfo
-        ID "IDS_Ability_E4X_SpaceMinePsi_NAME"
-        Value "Deploy Homing Mine"
+	ID "IDS_Ability_E4X_SpaceMinePsi_NAME"
+	Value "Deploy Homing Mine"
 StringInfo
-        ID "IDS_Ability_E4X_SpaceMinePsi_DESC"
-        Value "The Drone Host launches a Homing Mine from its hangar bay, which deploys around the carrier."
+	ID "IDS_Ability_E4X_SpaceMinePsi_DESC"
+	Value "The Drone Host launches a Homing Mine from its hangar bay, which deploys around the carrier."
 StringInfo
-        ID "IDS_Ability_E4X_TradeIncrease_NAME"
-        Value "Goods Production"
+	ID "IDS_Ability_E4X_TradeIncrease_NAME"
+	Value "Goods Production"
 StringInfo
-        ID "IDS_Ability_E4X_TradeIncrease_DESC"
-        Value "The materials produced at this Refinery increase the total number of trade goods this planet has to export, boosting trade income."
+	ID "IDS_Ability_E4X_TradeIncrease_DESC"
+	Value "The materials produced at this Refinery increase the total number of trade goods this planet has to export, boosting trade income."
 StringInfo
-        ID "IDS_Ability_E4X_TradeReduction_NAME"
-        Value "Limited Cargo"
+	ID "IDS_Ability_E4X_TradeReduction_NAME"
+	Value "Limited Cargo"
 StringInfo
-        ID "IDS_Ability_E4X_TradeReduction_DESC"
-        Value "The limited number of goods available for export result in multiple Trade Ports competing for products, reducing the number of goods carried by each cargo ship and reducing trade income."
+	ID "IDS_Ability_E4X_TradeReduction_DESC"
+	Value "The limited number of goods available for export result in multiple Trade Ports competing for products, reducing the number of goods carried by each cargo ship and reducing trade income."
 StringInfo
-        ID "IDS_Ability_E4X_DeployEmbassy_NAME"
-        Value "Establish Embassy"
+	ID "IDS_Ability_E4X_DeployEmbassy_NAME"
+	Value "Establish Embassy"
 StringInfo
-        ID "IDS_Ability_E4X_DeployEmbassy_DESC"
-        Value "Sets up an Embassy at the current planet to represent your empire's interests. The Embassy has all the features of the vanilla Envoy Cruisers, but is immobile and has no way to defend itself."
+	ID "IDS_Ability_E4X_DeployEmbassy_DESC"
+	Value "Sets up an Embassy at the current planet to represent your empire's interests. The Embassy has all the features of the vanilla Envoy Cruisers, but is immobile and has no way to defend itself."
 StringInfo
-        ID "IDS_Frigate_E4X_PhaseEmbassy_NAME"
-        Value "Vasari Embassy"
+	ID "IDS_Frigate_E4X_PhaseEmbassy_NAME"
+	Value "Vasari Embassy"
 StringInfo
-        ID "IDS_Frigate_E4X_PhaseEmbassy_DESC"
-        Value "An Embassy dedicated to advancing the plots of the Vasari and rewarding their allies."
+	ID "IDS_Frigate_E4X_PhaseEmbassy_DESC"
+	Value "An Embassy dedicated to advancing the plots of the Vasari and rewarding their allies."
 StringInfo
-        ID "IDS_Frigate_E4X_PsiEmbassy_NAME"
-        Value "Advent Embassy"
+	ID "IDS_Frigate_E4X_PsiEmbassy_NAME"
+	Value "Advent Embassy"
 StringInfo
-        ID "IDS_Frigate_E4X_PsiEmbassy_DESC"
-        Value "An Embassy dedicated to serving the Unity and all of its friends."
+	ID "IDS_Frigate_E4X_PsiEmbassy_DESC"
+	Value "An Embassy dedicated to serving the Unity and all of its friends."
 StringInfo
-        ID "IDS_Frigate_E4X_TechEmbassy_NAME"
-        Value "Trader Embassy"
+	ID "IDS_Frigate_E4X_TechEmbassy_NAME"
+	Value "Trader Embassy"
 StringInfo
-        ID "IDS_Frigate_E4X_TechEmbassy_DESC"
-        Value "An Embassy dedicated to protecting Trader interests and gaining influence with foreigners."
+	ID "IDS_Frigate_E4X_TechEmbassy_DESC"
+	Value "An Embassy dedicated to protecting Trader interests and gaining influence with foreigners."
 StringInfo
-        ID "IDS_Ability_E4X_DeployProbeMine_NAME"
-        Value "Deploy Phase Probe"
+	ID "IDS_Ability_E4X_DeployProbeMine_NAME"
+	Value "Deploy Phase Probe"
 StringInfo
-        ID "IDS_Ability_E4X_DeployProbeMine_DESC"
-        Value "Deploys a small probe that can provide intelligence on enemy or neutral worlds from the safety of Phase Space. Can only be removed by scouts."
+	ID "IDS_Ability_E4X_DeployProbeMine_DESC"
+	Value "Deploys a small probe that can provide intelligence on enemy or neutral worlds from the safety of Phase Space. Can only be removed by scouts."
 StringInfo
-        ID "IDS_Ability_E4X_PsychicInterference_NAME"
-        Value "Psychic Interference"
+	ID "IDS_Ability_E4X_PsychicInterference_NAME"
+	Value "Psychic Interference"
 StringInfo
-        ID "IDS_Ability_E4X_PsychicInterference_DESC"
-        Value "Psionic probes into the consciousness of the gunners at the targeted enemy planet reduce their concentration, reducing their accuracy and range."
+	ID "IDS_Ability_E4X_PsychicInterference_DESC"
+	Value "Psionic probes into the consciousness of the gunners at the targeted enemy planet reduce their concentration, reducing their accuracy and range."
 StringInfo
-        ID "IDS_Ability_E4X_UnityRevolt_NAME"
-        Value "Unity Proselytizers"
+	ID "IDS_Ability_E4X_UnityRevolt_NAME"
+	Value "Unity Proselytizers"
 StringInfo
-        ID "IDS_Ability_E4X_UnityRevolt_DESC"
-        Value "Sends proselytizers to the targeted planet who volunteer to go behind enemy lines to get others to join the Unity. Their converts then stop paying taxes to the planet owner and donate to your empire instead."
+	ID "IDS_Ability_E4X_UnityRevolt_DESC"
+	Value "Sends proselytizers to the targeted planet who volunteer to go behind enemy lines to get others to join the Unity. Their converts then stop paying taxes to the planet owner and donate to your empire instead."
 StringInfo
-        ID "IDS_Ability_E4X_Sanctions_NAME"
-        Value "Impose Sanctions"
+	ID "IDS_Ability_E4X_Sanctions_NAME"
+	Value "Impose Sanctions"
 StringInfo
-        ID "IDS_Ability_E4X_Sanctions_DESC"
-        Value "Strict sanctions are imposed on the targeted planet, threatening any company who does business there with being locked out of the Trader economic system, substantially reducing trade income."
+	ID "IDS_Ability_E4X_Sanctions_DESC"
+	Value "Strict sanctions are imposed on the targeted planet, threatening any company who does business there with being locked out of the Trader economic system, substantially reducing trade income."
 StringInfo
-        ID "IDS_Ability_E4X_StopBuilding_NAME"
-        Value "Workers Revolt"
+	ID "IDS_Ability_E4X_StopBuilding_NAME"
+	Value "Workers Revolt"
 StringInfo
-        ID "IDS_Ability_E4X_StopBuilding_DESC"
-        Value "Sends a team of Trader labor specialists to the planet, who incite a planet-wide strike over envy of the superior Trader quality of life, stopping all orbital construction for its duration."
+	ID "IDS_Ability_E4X_StopBuilding_DESC"
+	Value "Sends a team of Trader labor specialists to the planet, who incite a planet-wide strike over envy of the superior Trader quality of life, stopping all orbital construction for its duration."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ABILITYACCESS_MineProbe_NAME"
-        Value "Phasic Communications"
+	ID "IDS_RESEARCH_E4X_ABILITYACCESS_MineProbe_NAME"
+	Value "Phasic Communications"
 StringInfo
-        ID "IDS_RESEARCH_E4X_ABILITYACCESS_MineProbe_DESC"
-        Value "Grants the Deploy Phase Probe ability to Envoy Cruisers, allowing them to deploy probes which can report on enemy movements from the safety of Phase Space."
+	ID "IDS_RESEARCH_E4X_ABILITYACCESS_MineProbe_DESC"
+	Value "Grants the Deploy Phase Probe ability to Envoy Cruisers, allowing them to deploy probes which can report on enemy movements from the safety of Phase Space."
 StringInfo
-        ID "IDS_Ability_E4X_MineProbeSpy_DESC"
-        Value "Allows the probe to report on enemy movements while safely hidden in Phase Space."
+	ID "IDS_Ability_E4X_MineProbeSpy_DESC"
+	Value "Allows the probe to report on enemy movements while safely hidden in Phase Space."
 StringInfo
-        ID "IDS_Ability_E4X_MineProbeSpy_NAME"
-        Value "Phasic Spying"
+	ID "IDS_Ability_E4X_MineProbeSpy_NAME"
+	Value "Phasic Spying"
 StringInfo
-        ID "IDS_SpaceMine_E4X_Probe_NAME"
-        Value "Phase Probe"
+	ID "IDS_SpaceMine_E4X_Probe_NAME"
+	Value "Phase Probe"
 StringInfo
-        ID "IDS_Ability_E4X_MetalNanites_NAME"
-        Value "Metal Nanites"
+	ID "IDS_Ability_E4X_MetalNanites_NAME"
+	Value "Metal Nanites"
 StringInfo
-        ID "IDS_Ability_E4X_MetalNanites_DESC"
-        Value "Releases a swarm of metal-eating nanobots upon the targeted planet. Severe Metal shortages lead to increased build and development times, and slows down all enemy Hull repairs in the gravity well."
+	ID "IDS_Ability_E4X_MetalNanites_DESC"
+	Value "Releases a swarm of metal-eating nanobots upon the targeted planet. Severe Metal shortages lead to increased build and development times, and slows down all enemy Hull repairs in the gravity well."
 StringInfo
-        ID "IDS_Ability_E4X_FreezePopulation_NAME"
-        Value "Forced Sterilization"
+	ID "IDS_Ability_E4X_FreezePopulation_NAME"
+	Value "Forced Sterilization"
 StringInfo
-        ID "IDS_Ability_E4X_FreezePopulation_DESC"
-        Value "Infects the population of the targeted planet with a potent nanovirus strain that attacks the reproductive system, rendering its victims sterile. Population growth is stopped and the max population is reduced until a cure can be developed."
+	ID "IDS_Ability_E4X_FreezePopulation_DESC"
+	Value "Infects the population of the targeted planet with a potent nanovirus strain that attacks the reproductive system, rendering its victims sterile. Population growth is stopped and the max population is reduced until a cure can be developed."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ABILITYACCESS_FreezePopulation_DESC"
-        Value "Grants the Forced Sterilization ability to Voruntak Envoys, allowing them to infect enemy planets with a potent nanovirus that stops population growth and lowers the maximum population."
+	ID "IDS_RESEARCH_E4X_ABILITYACCESS_FreezePopulation_DESC"
+	Value "Grants the Forced Sterilization ability to Voruntak Envoys, allowing them to infect enemy planets with a potent nanovirus that stops population growth and lowers the maximum population."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ABILITYACCESS_MetalNanites_DESC"
-        Value "Grants the Metal Nanites ability to Voruntak Envoys, allowing them to create an infestation of metal eating nanites on enemy planets, reducing hull repair rates and increasing development and build times."
+	ID "IDS_RESEARCH_E4X_ABILITYACCESS_MetalNanites_DESC"
+	Value "Grants the Metal Nanites ability to Voruntak Envoys, allowing them to create an infestation of metal eating nanites on enemy planets, reducing hull repair rates and increasing development and build times."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ABILITYACCESS_PsychicInterference_DESC"
-        Value "Grants the Psychic Interference ability to Herald Envoys, allowing them to psionically disrupt the concentration of gunners around enemy planets, reducing the effectiveness of their weapons."
+	ID "IDS_RESEARCH_E4X_ABILITYACCESS_PsychicInterference_DESC"
+	Value "Grants the Psychic Interference ability to Herald Envoys, allowing them to psionically disrupt the concentration of gunners around enemy planets, reducing the effectiveness of their weapons."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ABILITYACCESS_Sanctions_DESC"
-        Value "Grants the Impose Sanctions ability to Neruda Envoy Cruisers, allowing them to impose sanctions on enemy planets, reducing their trade income."
+	ID "IDS_RESEARCH_E4X_ABILITYACCESS_Sanctions_DESC"
+	Value "Grants the Impose Sanctions ability to Neruda Envoy Cruisers, allowing them to impose sanctions on enemy planets, reducing their trade income."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ABILITYACCESS_StopBuilding_DESC"
-        Value "Grants the Workers Revolt ability to Neruda Envoy Cruisers, allowing them to incite worker rebellions on enemy planets, preventing any new orbital structures from being constructed."
+	ID "IDS_RESEARCH_E4X_ABILITYACCESS_StopBuilding_DESC"
+	Value "Grants the Workers Revolt ability to Neruda Envoy Cruisers, allowing them to incite worker rebellions on enemy planets, preventing any new orbital structures from being constructed."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ABILITYACCESS_UnityRevolt_DESC"
-        Value "Grants the Unity Proselytizers ability to Herald Envoys, allowing them to establish Unity proselytizers on enemy planets, whose faithful will pay taxes to your empire instead."
+	ID "IDS_RESEARCH_E4X_ABILITYACCESS_UnityRevolt_DESC"
+	Value "Grants the Unity Proselytizers ability to Herald Envoys, allowing them to establish Unity proselytizers on enemy planets, whose faithful will pay taxes to your empire instead."
 StringInfo
-        ID "IDS_Ability_E4X_AntimatterRegen_Name"
-        Value "Antimatter Clustering"
+	ID "IDS_Ability_E4X_AntimatterRegen_Name"
+	Value "Antimatter Clustering"
 StringInfo
-        ID "IDS_Ability_E4X_AntimatterRegen_DESC"
-        Value "The large Antimatter reserves of the Temple of Renewal makes it easier to attract Antimatter particles in its vicinity, increasing the rate of Antimatter regeneration of nearby friendly entities."
+	ID "IDS_Ability_E4X_AntimatterRegen_DESC"
+	Value "The large Antimatter reserves of the Temple of Renewal makes it easier to attract Antimatter particles in its vicinity, increasing the rate of Antimatter regeneration of nearby friendly entities."
 StringInfo
-        ID "IDS_Ability_E4X_PhaseCivicLab_Name"
-        Value "Civil Engineering"
+	ID "IDS_Ability_E4X_PhaseCivicLab_Name"
+	Value "Civil Engineering"
 StringInfo
-        ID "IDS_Ability_E4X_PhaseCivicLab_DESC"
-        Value "Civil engineering experts employed at this laboratory find ways to make your garrisons more resistant to planetary bombardment, increasing planet health."
+	ID "IDS_Ability_E4X_PhaseCivicLab_DESC"
+	Value "Civil engineering experts employed at this laboratory find ways to make your garrisons more resistant to planetary bombardment, increasing planet health."
 StringInfo
-        ID "IDS_Ability_E4X_PhaseMilitaryLab_Name"
-        Value "High Quality Munitions"
+	ID "IDS_Ability_E4X_PhaseMilitaryLab_Name"
+	Value "High Quality Munitions"
 StringInfo
-        ID "IDS_Ability_E4X_PhaseMilitaryLab_DESC"
-        Value "This laboratory specializes in constructing higher quality weapons and ammunitions, which are distributed to nearby allied units for a small damage boost."
+	ID "IDS_Ability_E4X_PhaseMilitaryLab_DESC"
+	Value "This laboratory specializes in constructing higher quality weapons and ammunitions, which are distributed to nearby allied units for a small damage boost."
 StringInfo
-        ID "IDS_Ability_E4X_PsiCivicLab_Name"
-        Value "Agricultural Improvements"
+	ID "IDS_Ability_E4X_PsiCivicLab_Name"
+	Value "Agricultural Improvements"
 StringInfo
-        ID "IDS_Ability_E4X_PsiCivicLab_DESC"
-        Value "Experts at this laboratory help develop crops more adapted to the local planet's environment, increasing food yields and maximum population size."
+	ID "IDS_Ability_E4X_PsiCivicLab_DESC"
+	Value "Experts at this laboratory help develop crops more adapted to the local planet's environment, increasing food yields and maximum population size."
 StringInfo
-        ID "IDS_Ability_E4X_PsiMilitaryLab_Name"
-        Value "Shield Technicians"
+	ID "IDS_Ability_E4X_PsiMilitaryLab_Name"
+	Value "Shield Technicians"
 StringInfo
-        ID "IDS_Ability_E4X_PsiMilitaryLab_DESC"
-        Value "Highly skilled technicians at this laboratory can help other ships with their shield systems, allowing nearby ships to regenerate Shields faster."
+	ID "IDS_Ability_E4X_PsiMilitaryLab_DESC"
+	Value "Highly skilled technicians at this laboratory can help other ships with their shield systems, allowing nearby ships to regenerate Shields faster."
 StringInfo
-        ID "IDS_Ability_E4X_TechCivicLab_Name"
-        Value "Consumer Technology"
+	ID "IDS_Ability_E4X_TechCivicLab_Name"
+	Value "Consumer Technology"
 StringInfo
-        ID "IDS_Ability_E4X_TechCivicLab_DESC"
-        Value "Technological advances brought by this research lab lead to new products being developed that can be sold on the interplanetary markets, increasing trade income."
+	ID "IDS_Ability_E4X_TechCivicLab_DESC"
+	Value "Technological advances brought by this research lab lead to new products being developed that can be sold on the interplanetary markets, increasing trade income."
 StringInfo
-        ID "IDS_Ability_E4X_TechMilitaryLab_Name"
-        Value "Targeting Suite"
+	ID "IDS_Ability_E4X_TechMilitaryLab_Name"
+	Value "Targeting Suite"
 StringInfo
-        ID "IDS_Ability_E4X_TechMilitaryLab_DESC"
-        Value "Allows the advanced tracking systems of this research lab, normally used for weapons testing, to assist friendly ships, slightly increasing their maximum range."
+	ID "IDS_Ability_E4X_TechMilitaryLab_DESC"
+	Value "Allows the advanced tracking systems of this research lab, normally used for weapons testing, to assist friendly ships, slightly increasing their maximum range."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ArtifactCostReduction_NAME"
-        Value "Efficient Bureaucracy"
+	ID "IDS_RESEARCH_E4X_ArtifactCostReduction_NAME"
+	Value "Efficient Bureaucracy"
 StringInfo
-        ID "IDS_RESEARCH_E4X_ArtifactCostReduction_DESC"
-        Value "A super efficient management program greatly increases your workers' productivity, reducing the costs of all ships and structures."
+	ID "IDS_RESEARCH_E4X_ArtifactCostReduction_DESC"
+	Value "A super efficient management program greatly increases your workers' productivity, reducing the costs of all ships and structures."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ArtifactExperienceBonus_NAME"
-        Value "Hidden Academy"
+	ID "IDS_RESEARCH_E4X_ArtifactExperienceBonus_NAME"
+	Value "Hidden Academy"
 StringInfo
-        ID "IDS_RESEARCH_E4X_ArtifactExperienceBonus_DESC"
-        Value "A secret officer academy on this planet improves the quality of your training facilities, allowing you to purchase an additional Capital Ship level and increases the amount of experience your Capital Ships and Titans receive in battle."
+	ID "IDS_RESEARCH_E4X_ArtifactExperienceBonus_DESC"
+	Value "A secret officer academy on this planet improves the quality of your training facilities, allowing you to purchase an additional Capital Ship level and increases the amount of experience your Capital Ships and Titans receive in battle."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ArtifactMindReading_NAME"
-        Value "Advanced Neuro-Center"
+	ID "IDS_RESEARCH_E4X_ArtifactMindReading_NAME"
+	Value "Advanced Neuro-Center"
 StringInfo
-        ID "IDS_RESEARCH_E4X_ArtifactMindReading_DESC"
-        Value "An unknown experimental medical facility on this planet has developed a portable scanner that can read the minds of your populace, allowing dissidents to be quickly dealt with thus increasing maximum loyalty. Also gives a chance to take control of enemy ships when fleeing from your empire."
+	ID "IDS_RESEARCH_E4X_ArtifactMindReading_DESC"
+	Value "An unknown experimental medical facility on this planet has developed a portable scanner that can read the minds of your populace, allowing dissidents to be quickly dealt with thus increasing maximum loyalty. Also gives a chance to take control of enemy ships when fleeing from your empire."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ArtifactResourceIncome_NAME"
-        Value "Separation Plant"
+	ID "IDS_RESEARCH_E4X_ArtifactResourceIncome_NAME"
+	Value "Separation Plant"
 StringInfo
-        ID "IDS_RESEARCH_E4X_ArtifactResourceIncome_DESC"
-        Value "A facility of unknown origin on this planet has the capacity to separate rock from Metal and Crystal without using energy, and compact them into ultra-dense sheets for easy export to Refineries."
+	ID "IDS_RESEARCH_E4X_ArtifactResourceIncome_DESC"
+	Value "A facility of unknown origin on this planet has the capacity to separate rock from Metal and Crystal without using energy, and compact them into ultra-dense sheets for easy export to Refineries."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ArtifactOrbitalSlots_NAME"
-        Value "Astronomical Center"
+	ID "IDS_RESEARCH_E4X_ArtifactOrbitalSlots_NAME"
+	Value "Astronomical Center"
 StringInfo
-        ID "IDS_RESEARCH_E4X_ArtifactOrbitalSlots_DESC"
-        Value "This advanced astronomical facility contains supercomputers capable of calculating the orbits of every bit of space junk in the system. With this knowledge you can safely add additional orbital structures to your planets."
+	ID "IDS_RESEARCH_E4X_ArtifactOrbitalSlots_DESC"
+	Value "This advanced astronomical facility contains supercomputers capable of calculating the orbits of every bit of space junk in the system. With this knowledge you can safely add additional orbital structures to your planets."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ArtifactStarBase_NAME"
-        Value "Impenetrable Fortress"
+	ID "IDS_RESEARCH_E4X_ArtifactStarBase_NAME"
+	Value "Impenetrable Fortress"
 StringInfo
-        ID "IDS_RESEARCH_E4X_ArtifactStarBase_DESC"
-        Value "A massive subterranean fortress gives your engineers ideas on how to improve the quality of your Starbases, enhancing their capabilities in almost every area."
+	ID "IDS_RESEARCH_E4X_ArtifactStarBase_DESC"
+	Value "A massive subterranean fortress gives your engineers ideas on how to improve the quality of your Starbases, enhancing their capabilities in almost every area."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ArtifactImprovedLogistics_NAME"
-        Value "Standardized Supply Depot"
+	ID "IDS_RESEARCH_E4X_ArtifactImprovedLogistics_NAME"
+	Value "Standardized Supply Depot"
 StringInfo
-        ID "IDS_RESEARCH_E4X_ArtifactImprovedLogistics_DESC"
-        Value "An abandoned supply depot with devices that can convert almost any matter into vital war supplies, it reduces your Fleet Upkeep costs and allows your Capital Ships to convert scrap into extra resources."
+	ID "IDS_RESEARCH_E4X_ArtifactImprovedLogistics_DESC"
+	Value "An abandoned supply depot with devices that can convert almost any matter into vital war supplies, it reduces your Fleet Upkeep costs and allows your Capital Ships to convert scrap into extra resources."
 StringInfo
-        ID "IDS_RESEARCH_E4X_ArtifactShields_NAME"
-        Value "Dynamic Shield Array"
+	ID "IDS_RESEARCH_E4X_ArtifactShields_NAME"
+	Value "Dynamic Shield Array"
 StringInfo
-        ID "IDS_RESEARCH_E4X_ArtifactShields_DESC"
-        Value "An advanced force field synchronized to allow separate fields of electrons to cross over each other, which has been reversed engineered, allowing your Shields to regenerate faster and block more incoming fire."
+	ID "IDS_RESEARCH_E4X_ArtifactShields_DESC"
+	Value "An advanced force field synchronized to allow separate fields of electrons to cross over each other, which has been reversed engineered, allowing your Shields to regenerate faster and block more incoming fire."
 StringInfo
-        ID "IDS_PLANETBONUS_PLANTC_NAME"
-        Value "Crystal Processing Plant"
+	ID "IDS_PLANETBONUS_PLANTC_NAME"
+	Value "Crystal Processing Plant"
 StringInfo
-        ID "IDS_PLANETBONUS_PLANTC_DESC"
-        Value "A massive industrial plant, hidden under the planet surface and found by miners, that can extract otherwise unobtainable Crystal from ore, increasing mining and trade income rates."
+	ID "IDS_PLANETBONUS_PLANTC_DESC"
+	Value "A massive industrial plant, hidden under the planet surface and found by miners, that can extract otherwise unobtainable Crystal from ore, increasing mining and trade income rates."
 StringInfo
-        ID "IDS_PLANETBONUS_PLANTM_NAME"
-        Value "Metal Processing Plant"
+	ID "IDS_PLANETBONUS_PLANTM_NAME"
+	Value "Metal Processing Plant"
 StringInfo
-        ID "IDS_PLANETBONUS_PLANTM_DESC"
-        Value "A massive processing plant abandoned for some time and now rediscovered, it specializes in the production of rare Metals, increasing mining and trade income rates."
+	ID "IDS_PLANETBONUS_PLANTM_DESC"
+	Value "A massive processing plant abandoned for some time and now rediscovered, it specializes in the production of rare Metals, increasing mining and trade income rates."
 StringInfo
-        ID "IDS_PLANETBONUS_FRESHWATER_NAME"
-        Value "Fresh Water Reservoirs"
+	ID "IDS_PLANETBONUS_FRESHWATER_NAME"
+	Value "Fresh Water Reservoirs"
 StringInfo
-        ID "IDS_PLANETBONUS_FRESHWATER_DESC"
-        Value "This planet contains unusually high reservoirs of fresh water, allowing it to support a higher population than normal."
+	ID "IDS_PLANETBONUS_FRESHWATER_DESC"
+	Value "This planet contains unusually high reservoirs of fresh water, allowing it to support a higher population than normal."
 StringInfo
-        ID "IDS_PLANETBONUS_SHIELD1_NAME"
-        Value "Ancient Planetary Shield (Damaged)"
+	ID "IDS_PLANETBONUS_SHIELD1_NAME"
+	Value "Ancient Planetary Shield (Damaged)"
 StringInfo
-        ID "IDS_PLANETBONUS_SHIELD1_DESC"
-        Value "An ancient planetary shield, although partly damaged and overgrown, increases the bombardment damage this planet can take."
+	ID "IDS_PLANETBONUS_SHIELD1_DESC"
+	Value "An ancient planetary shield, although partly damaged and overgrown, increases the bombardment damage this planet can take."
 StringInfo
-        ID "IDS_PLANETBONUS_SHIELD2_NAME"
-        Value "Ancient Planetary Shield"
+	ID "IDS_PLANETBONUS_SHIELD2_NAME"
+	Value "Ancient Planetary Shield"
 StringInfo
-        ID "IDS_PLANETBONUS_SHIELD2_DESC"
-        Value "An ancient planetary shield, in full working order, greatly increases the bombardment damage this planet can take."
+	ID "IDS_PLANETBONUS_SHIELD2_DESC"
+	Value "An ancient planetary shield, in full working order, greatly increases the bombardment damage this planet can take."
 StringInfo
-        ID "IDS_PLANETBONUS_SUBT_NAME"
-        Value "Subterranean Colony"
+	ID "IDS_PLANETBONUS_SUBT_NAME"
+	Value "Subterranean Colony"
 StringInfo
-        ID "IDS_PLANETBONUS_SUBT_DESC"
-        Value "An abandoned subterranean colony has been discovered, increasing the maximum population and bombardment resistance of the planet."
+	ID "IDS_PLANETBONUS_SUBT_DESC"
+	Value "An abandoned subterranean colony has been discovered, increasing the maximum population and bombardment resistance of the planet."
 StringInfo
-        ID "IDS_PLANETBONUS_SUBM_NAME"
-        Value "Submerged Colony"
+	ID "IDS_PLANETBONUS_SUBM_NAME"
+	Value "Submerged Colony"
 StringInfo
-        ID "IDS_PLANETBONUS_SUBM_DESC"
-        Value "An abandoned colony deep underwater has been discovered, increasing the maximum population of the planet."
+	ID "IDS_PLANETBONUS_SUBM_DESC"
+	Value "An abandoned colony deep underwater has been discovered, increasing the maximum population of the planet."
 StringInfo
-        ID "IDS_PLANETBONUS_WOOD_NAME"
-        Value "Valuable Timber"
+	ID "IDS_PLANETBONUS_WOOD_NAME"
+	Value "Valuable Timber"
 StringInfo
-        ID "IDS_PLANETBONUS_WOOD_DESC"
-        Value "A valuable timber from a rare tree on this planet increases trade income."
+	ID "IDS_PLANETBONUS_WOOD_DESC"
+	Value "A valuable timber from a rare tree on this planet increases trade income."
 StringInfo
-        ID "IDS_PLANETBONUS_SMUG+_NAME"
-        Value "Smugglers Base"
+	ID "IDS_PLANETBONUS_SMUG+_NAME"
+	Value "Smugglers Base"
 StringInfo
-        ID "IDS_PLANETBONUS_SMUG+_DESC"
-        Value "Smugglers use this planet as a base of operations in the area, leading to more types of goods being available on this planet at the expense of widespread tax evasion."
+	ID "IDS_PLANETBONUS_SMUG+_DESC"
+	Value "Smugglers use this planet as a base of operations in the area, leading to more types of goods being available on this planet at the expense of widespread tax evasion."
 StringInfo
-        ID "IDS_PLANETBONUS_WOOD+_NAME"
-        Value "Extremely Valuable Timber"
+	ID "IDS_PLANETBONUS_WOOD+_NAME"
+	Value "Extremely Valuable Timber"
 StringInfo
-        ID "IDS_PLANETBONUS_WOOD+_DESC"
-        Value "A highly valuable, beautiful timber from a rare tree on this planet increases trade income substantially."
+	ID "IDS_PLANETBONUS_WOOD+_DESC"
+	Value "A highly valuable, beautiful timber from a rare tree on this planet increases trade income substantially."
 StringInfo
-        ID "IDS_PLANETBONUS_WOOD++_NAME"
-        Value "Priceless Timber"
+	ID "IDS_PLANETBONUS_WOOD++_NAME"
+	Value "Priceless Timber"
 StringInfo
-        ID "IDS_PLANETBONUS_WOOD++_DESC"
-        Value "A priceless timber, from a special tree unique to this planet, increases trade income dramatically."
+	ID "IDS_PLANETBONUS_WOOD++_DESC"
+	Value "A priceless timber, from a special tree unique to this planet, increases trade income dramatically."
 StringInfo
-        ID "IDS_PLANETBONUS_HERD_NAME"
-        Value "Herds"
+	ID "IDS_PLANETBONUS_HERD_NAME"
+	Value "Herds"
 StringInfo
-        ID "IDS_PLANETBONUS_HERD_DESC"
-        Value "A unique herding animal on this planet gives your people an additional source of nutrition and income."
+	ID "IDS_PLANETBONUS_HERD_DESC"
+	Value "A unique herding animal on this planet gives your people an additional source of nutrition and income."
 StringInfo
-        ID "IDS_PLANETBONUS_OUTPOST_NAME"
-        Value "Old Military Outpost"
+	ID "IDS_PLANETBONUS_OUTPOST_NAME"
+	Value "Old Military Outpost"
 StringInfo
-        ID "IDS_PLANETBONUS_OUTPOST_DESC"
-        Value "A long-abandoned military outpost discovered by your explorers has an unused Constructor and command systems that increase the number of Tactical slots in orbit."
+	ID "IDS_PLANETBONUS_OUTPOST_DESC"
+	Value "A long-abandoned military outpost discovered by your explorers has an unused Constructor and command systems that increase the number of Tactical slots in orbit."
 StringInfo
-        ID "IDS_PLANETBONUS_PUREC_NAME"
-        Value "Super Pure Crystals"
+	ID "IDS_PLANETBONUS_PUREC_NAME"
+	Value "Super Pure Crystals"
 StringInfo
-        ID "IDS_PLANETBONUS_PUREC_DESC"
-        Value "A deposit of super pure Crystals has been discovered, greatly increasing the Crystal extraction rate of the planet."
+	ID "IDS_PLANETBONUS_PUREC_DESC"
+	Value "A deposit of super pure Crystals has been discovered, greatly increasing the Crystal extraction rate of the planet."
 StringInfo
-        ID "IDS_PLANETBONUS_PUREM_NAME"
-        Value "Super Pure Metal"
+	ID "IDS_PLANETBONUS_PUREM_NAME"
+	Value "Super Pure Metal"
 StringInfo
-        ID "IDS_PLANETBONUS_PUREM_DESC"
-        Value "A deposit of super pure Metal has been discovered, greatly increasing the Metal extraction rate of the planet."
+	ID "IDS_PLANETBONUS_PUREM_DESC"
+	Value "A deposit of super pure Metal has been discovered, greatly increasing the Metal extraction rate of the planet."
 StringInfo
-        ID "IDS_PLANETBONUS_ROBOTS+_NAME"
-        Value "Construction Droids"
+	ID "IDS_PLANETBONUS_ROBOTS+_NAME"
+	Value "Construction Droids"
 StringInfo
-        ID "IDS_PLANETBONUS_ROBOTS+_DESC"
-        Value "These extremely helpful robots increase the build rate of planetary structures, and can also pilot extra Constructors."
+	ID "IDS_PLANETBONUS_ROBOTS+_DESC"
+	Value "These extremely helpful robots increase the build rate of planetary structures, and can also pilot extra Constructors."
 StringInfo
-        ID "IDS_PLANETBONUS_RODENT+_NAME"
-        Value "Friendly Rodents"
+	ID "IDS_PLANETBONUS_RODENT+_NAME"
+	Value "Friendly Rodents"
 StringInfo
-        ID "IDS_PLANETBONUS_RODENT+_DESC"
-        Value "These strange little creatures seem to take a liking to everyone. They are excellent pets, and racing them has become a popular sport across the system."
+	ID "IDS_PLANETBONUS_RODENT+_DESC"
+	Value "These strange little creatures seem to take a liking to everyone. They are excellent pets, and racing them has become a popular sport across the system."
 StringInfo
-        ID "IDS_PLANETBONUS_BLACK_NAME"
-        Value "Black Market"
+	ID "IDS_PLANETBONUS_BLACK_NAME"
+	Value "Black Market"
 StringInfo
-        ID "IDS_PLANETBONUS_BLACK_DESC"
-        Value "The toleration of a large black market here provides an excellent unofficial source of tax income."
+	ID "IDS_PLANETBONUS_BLACK_DESC"
+	Value "The toleration of a large black market here provides an excellent unofficial source of tax income."
 StringInfo
-        ID "IDS_PLANETBONUS_COMM_NAME"
-        Value "Huge Comm. Station Array"
+	ID "IDS_PLANETBONUS_COMM_NAME"
+	Value "Huge Comm. Station Array"
 StringInfo
-        ID "IDS_PLANETBONUS_COMM_DESC"
-        Value "The massive communications arrays present on and around this planet increases its Culture spread rate dramatically."
+	ID "IDS_PLANETBONUS_COMM_DESC"
+	Value "The massive communications arrays present on and around this planet increases its Culture spread rate dramatically."
 StringInfo
-        ID "IDS_PLANETBONUS_CONSTRUCTO_NAME"
-        Value "Orbital Construction Facilities"
+	ID "IDS_PLANETBONUS_CONSTRUCTO_NAME"
+	Value "Orbital Construction Facilities"
 StringInfo
-        ID "IDS_PLANETBONUS_CONSTRUCTO_DESC"
-        Value "Abandoned orbital construction equipment and satellite control facilities allow you to control more orbital structures and Constructors."
+	ID "IDS_PLANETBONUS_CONSTRUCTO_DESC"
+	Value "Abandoned orbital construction equipment and satellite control facilities allow you to control more orbital structures and Constructors."
 StringInfo
-        ID "IDS_PLANETBONUS_CONSTRUCTP_NAME"
-        Value "Planetary Construction Facilities"
+	ID "IDS_PLANETBONUS_CONSTRUCTP_NAME"
+	Value "Planetary Construction Facilities"
 StringInfo
-        ID "IDS_PLANETBONUS_CONSTRUCTP_DESC"
-        Value "Construction sites abandoned by a previous empire allow planetary development projects to be undertaken more quickly and cheaply, and slightly increase planet health."
+	ID "IDS_PLANETBONUS_CONSTRUCTP_DESC"
+	Value "Construction sites abandoned by a previous empire allow planetary development projects to be undertaken more quickly and cheaply, and slightly increase planet health."
 StringInfo
-        ID "IDS_PLANETBONUS_STONES_NAME"
-        Value "Precious Stones"
+	ID "IDS_PLANETBONUS_STONES_NAME"
+	Value "Precious Stones"
 StringInfo
-        ID "IDS_PLANETBONUS_STONES_DESC"
-        Value "Precious stones and gems found naturally on this planet are a boost to trade income and economic development."
+	ID "IDS_PLANETBONUS_STONES_DESC"
+	Value "Precious stones and gems found naturally on this planet are a boost to trade income and economic development."
 StringInfo
-        ID "IDS_PLANETBONUS_DESIGN1_NAME"
-        Value "Specialized Architecture"
+	ID "IDS_PLANETBONUS_DESIGN1_NAME"
+	Value "Specialized Architecture"
 StringInfo
-        ID "IDS_PLANETBONUS_DESIGN1_DESC"
-        Value "A previous owner of this planet has left building plans behind that are perfectly suited for this specific planet's environment, greatly increasing the number of inhabitants it can support."
+	ID "IDS_PLANETBONUS_DESIGN1_DESC"
+	Value "A previous owner of this planet has left building plans behind that are perfectly suited for this specific planet's environment, greatly increasing the number of inhabitants it can support."
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_AdventHomeworld_NAME"
-        Value "Advent Homeworld"
+	ID "IDS_PLANETBONUS_E4X_AdventHomeworld_NAME"
+	Value "Advent Homeworld"
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_AdventHomeworld_DESC"
-        Value "This planet is/was the homeworld of an Advent Sect, making it highly symbolic to followers of the Unity."
+	ID "IDS_PLANETBONUS_E4X_AdventHomeworld_DESC"
+	Value "This planet is/was the homeworld of an Advent Sect, making it highly symbolic to followers of the Unity."
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_TechHomeworld_NAME"
-        Value "Trader Homeworld"
+	ID "IDS_PLANETBONUS_E4X_TechHomeworld_NAME"
+	Value "Trader Homeworld"
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_TechHomeworld_DESC"
-        Value "This planet is/was the homeworld of a faction of the Trader Order, who invested in higher levels of economic development than on most other worlds."
+	ID "IDS_PLANETBONUS_E4X_TechHomeworld_DESC"
+	Value "This planet is/was the homeworld of a faction of the Trader Order, who invested in higher levels of economic development than on most other worlds."
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_VasariHomeworld_NAME"
-        Value "Vasari Homeworld"
+	ID "IDS_PLANETBONUS_E4X_VasariHomeworld_NAME"
+	Value "Vasari Homeworld"
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_VasariHomeworld_DESC"
-        Value "This planet is/was the homeworld of a Vasari regime, who installed many extra facilities to ensure firm control of the planet."
+	ID "IDS_PLANETBONUS_E4X_VasariHomeworld_DESC"
+	Value "This planet is/was the homeworld of a Vasari regime, who installed many extra facilities to ensure firm control of the planet."
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_AsteroidMiningCenter_NAME"
-        Value "Mining Complex"
+	ID "IDS_PLANETBONUS_E4X_AsteroidMiningCenter_NAME"
+	Value "Mining Complex"
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_AsteroidMiningCenter_DESC"
-        Value "An asteroid dedicated entirely to mining the rest of its asteroid field, several major corporations have taken up residence here, dramatically increasing resource income rates."
+	ID "IDS_PLANETBONUS_E4X_AsteroidMiningCenter_DESC"
+	Value "An asteroid dedicated entirely to mining the rest of its asteroid field, several major corporations have taken up residence here, dramatically increasing resource income rates."
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_DesertTreasure_NAME"
-        Value "Archaeological Remains"
+	ID "IDS_PLANETBONUS_E4X_DesertTreasure_NAME"
+	Value "Archaeological Remains"
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_DesertTreasure_DESC"
-        Value "The remains of an ancient, primitive civilization beneath the sand has attracted treasure hunters from all over the galaxy, whose activities bring in much tax revenue."
+	ID "IDS_PLANETBONUS_E4X_DesertTreasure_DESC"
+	Value "The remains of an ancient, primitive civilization beneath the sand has attracted treasure hunters from all over the galaxy, whose activities bring in much tax revenue."
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_DeadCommandCenter_NAME"
-        Value "Forgotten Command Center"
+	ID "IDS_PLANETBONUS_E4X_DeadCommandCenter_NAME"
+	Value "Forgotten Command Center"
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_DeadCommandCenter_DESC"
-        Value "A state-of-the-art command center in the heart of the asteroid has been found after it was abandoned after the campaign it was managing ended."
+	ID "IDS_PLANETBONUS_E4X_DeadCommandCenter_DESC"
+	Value "A state-of-the-art command center in the heart of the asteroid has been found after it was abandoned after the campaign it was managing ended."
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_IceCrystalCaverns_NAME"
-        Value "Crystal Caverns"
+	ID "IDS_PLANETBONUS_E4X_IceCrystalCaverns_NAME"
+	Value "Crystal Caverns"
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_IceCrystalCaverns_DESC"
-        Value "A natural wonder in their own right, these caverns of ultra pure Crystal are both abundant and extremely valuable to the intergalactic markets."
+	ID "IDS_PLANETBONUS_E4X_IceCrystalCaverns_DESC"
+	Value "A natural wonder in their own right, these caverns of ultra pure Crystal are both abundant and extremely valuable to the intergalactic markets."
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_VolcanicStablePower_NAME"
-        Value "Stable Lava Flows"
+	ID "IDS_PLANETBONUS_E4X_VolcanicStablePower_NAME"
+	Value "Stable Lava Flows"
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_VolcanicStablePower_DESC"
-        Value "While covered in lava, some sections of this planet are completely safe from eruptions and seismic activities, allowing massive power plants to be constructed, boosting economic development."
+	ID "IDS_PLANETBONUS_E4X_VolcanicStablePower_DESC"
+	Value "While covered in lava, some sections of this planet are completely safe from eruptions and seismic activities, allowing massive power plants to be constructed, boosting economic development."
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_TerranGalacticCenter_NAME"
-        Value "Space Elevator"
+	ID "IDS_PLANETBONUS_E4X_TerranGalacticCenter_NAME"
+	Value "Space Elevator"
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_TerranGalacticCenter_DESC"
-        Value "A old space elevator of a size never before seen has been modernized and put into operation, turning this planet into a galactic hub, with all the money and people that follow such development."
+	ID "IDS_PLANETBONUS_E4X_TerranGalacticCenter_DESC"
+	Value "A old space elevator of a size never before seen has been modernized and put into operation, turning this planet into a galactic hub, with all the money and people that follow such development."
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_SwampSuperAlgae_NAME"
-        Value "Super Algae"
+	ID "IDS_PLANETBONUS_E4X_SwampSuperAlgae_NAME"
+	Value "Super Algae"
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_SwampSuperAlgae_DESC"
-        Value "This versatile species of algae in the planet's swamps has DNA that can easily be manipulated into producing most common compounds, massively reducing development costs and leading to an economic boom."
+	ID "IDS_PLANETBONUS_E4X_SwampSuperAlgae_DESC"
+	Value "This versatile species of algae in the planet's swamps has DNA that can easily be manipulated into producing most common compounds, massively reducing development costs and leading to an economic boom."
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_IgneousLavaTubes_NAME"
-        Value "Crystallized Lava Tubes"
+	ID "IDS_PLANETBONUS_E4X_IgneousLavaTubes_NAME"
+	Value "Crystallized Lava Tubes"
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_IgneousLavaTubes_DESC"
-        Value "These lava tubes formed eons ago have crystallized under intense pressure, creating ideal natural storage areas and greatly increasing resistance to bombardment."
+	ID "IDS_PLANETBONUS_E4X_IgneousLavaTubes_DESC"
+	Value "These lava tubes formed eons ago have crystallized under intense pressure, creating ideal natural storage areas and greatly increasing resistance to bombardment."
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_CyroSecretLab_NAME"
-        Value "Abandoned Laboratory"
+	ID "IDS_PLANETBONUS_E4X_CyroSecretLab_NAME"
+	Value "Abandoned Laboratory"
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_CyroSecretLab_DESC"
-        Value "A biological weapons lab constructed to take advantage of the natural cold to sedate its experiments, it has been retooled to increase your planet's defenses and newly discovered compounds here increase trade income."
+	ID "IDS_PLANETBONUS_E4X_CyroSecretLab_DESC"
+	Value "A biological weapons lab constructed to take advantage of the natural cold to sedate its experiments, it has been retooled to increase your planet's defenses and newly discovered compounds here increase trade income."
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_IndustrialUnderCity_NAME"
-        Value "Under-City"
+	ID "IDS_PLANETBONUS_E4X_IndustrialUnderCity_NAME"
+	Value "Under-City"
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_IndustrialUnderCity_DESC"
-        Value "A forgotten layer beneath the current city, the newly reconstructed under-city provides extra living space and industrial facilities."
+	ID "IDS_PLANETBONUS_E4X_IndustrialUnderCity_DESC"
+	Value "A forgotten layer beneath the current city, the newly reconstructed under-city provides extra living space and industrial facilities."
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_OceanicHe3_NAME"
-        Value "Helium-3 Oceans"
+	ID "IDS_PLANETBONUS_E4X_OceanicHe3_NAME"
+	Value "Helium-3 Oceans"
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_OceanicHe3_DESC"
-        Value "Our explorers have accidentally released a massive amount of Helium-3 from under the planet's crust, causing it to be dissolved in the oceans. Trade income spikes as the excess helium is exported."
+	ID "IDS_PLANETBONUS_E4X_OceanicHe3_DESC"
+	Value "Our explorers have accidentally released a massive amount of Helium-3 from under the planet's crust, causing it to be dissolved in the oceans. Trade income spikes as the excess helium is exported."
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_GasGiantProcessingPlant_NAME"
-        Value "Gas Processing Plant"
+	ID "IDS_PLANETBONUS_E4X_GasGiantProcessingPlant_NAME"
+	Value "Gas Processing Plant"
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_GasGiantProcessingPlant_DESC"
-        Value "A mysterious floating processing plant has been found that can extract valuable compounds from the atmosphere far faster than we can, dramatically increasing the profitability of this planet."
+	ID "IDS_PLANETBONUS_E4X_GasGiantProcessingPlant_DESC"
+	Value "A mysterious floating processing plant has been found that can extract valuable compounds from the atmosphere far faster than we can, dramatically increasing the profitability of this planet."
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_DesolateSubTerranianFactory_NAME"
-        Value "Subterranean Assembly Plant"
+	ID "IDS_PLANETBONUS_E4X_DesolateSubTerranianFactory_NAME"
+	Value "Subterranean Assembly Plant"
 StringInfo
-        ID "IDS_PLANETBONUS_E4X_DesolateSubTerranianFactory_DESC"
-        Value "A giant weapons factory built far underneath this otherwise unremarkable world, its original purpose is unknown, but it greatly increases the industrial capacity of this planet."
+	ID "IDS_PLANETBONUS_E4X_DesolateSubTerranianFactory_DESC"
+	Value "A giant weapons factory built far underneath this otherwise unremarkable world, its original purpose is unknown, but it greatly increases the industrial capacity of this planet."
 StringInfo
-        ID "IDS_PLANETBONUS_REQ_Defensive_NAME"
-        Value "Bombardment Resistant"
+	ID "IDS_PLANETBONUS_REQ_Defensive_NAME"
+	Value "Bombardment Resistant"
 StringInfo
-        ID "IDS_PLANETBONUS_REQ_Defensive_DESC"
-        Value "Widely dispersed population centers and a thick atmosphere makes this planet partially resistant to bombardment."
+	ID "IDS_PLANETBONUS_REQ_Defensive_DESC"
+	Value "Widely dispersed population centers and a thick atmosphere makes this planet partially resistant to bombardment."
 StringInfo
-        ID "IDS_PLANETBONUS_REQ_EnviroSynergy_NAME"
-        Value "Environmental Synergy"
+	ID "IDS_PLANETBONUS_REQ_EnviroSynergy_NAME"
+	Value "Environmental Synergy"
 StringInfo
-        ID "IDS_PLANETBONUS_REQ_EnviroSynergy_DESC"
-        Value "The environment allows for optimal living conditions and boosts survivability on this planet."
+	ID "IDS_PLANETBONUS_REQ_EnviroSynergy_DESC"
+	Value "The environment allows for optimal living conditions and boosts survivability on this planet."
 StringInfo
-        ID "IDS_PLANETBONUS_REQ_FLOOD_NAME"
-        Value "Flood Prone"
+	ID "IDS_PLANETBONUS_REQ_FLOOD_NAME"
+	Value "Flood Prone"
 StringInfo
-        ID "IDS_PLANETBONUS_REQ_FLOOD_DESC"
-        Value "Nearly every piece of land on this planet is subject to frequent flooding, making life hard for the inhabitants."
+	ID "IDS_PLANETBONUS_REQ_FLOOD_DESC"
+	Value "Nearly every piece of land on this planet is subject to frequent flooding, making life hard for the inhabitants."
 StringInfo
-        ID "IDS_PLANETBONUS_NOLOGISTICS_NAME"
-        Value "No Logistics"
+	ID "IDS_PLANETBONUS_NOLOGISTICS_NAME"
+	Value "No Logistics"
 StringInfo
-        ID "IDS_PLANETBONUS_NOLOGISTICS_DESC"
-        Value "This planet lacks the infrastructure to support any civilian orbital structures."
+	ID "IDS_PLANETBONUS_NOLOGISTICS_DESC"
+	Value "This planet lacks the infrastructure to support any civilian orbital structures."
 StringInfo
-        ID "IDS_PLANETBONUS_REQ_O2_NAME"
-        Value "Oxygen-Rich Atmosphere"
+	ID "IDS_PLANETBONUS_REQ_O2_NAME"
+	Value "Oxygen-Rich Atmosphere"
 StringInfo
-        ID "IDS_PLANETBONUS_REQ_O2_DESC"
-        Value "Breathable oxygen levels allow colonies to be constructed without air purifiers, thus increasing the maximum population."
+	ID "IDS_PLANETBONUS_REQ_O2_DESC"
+	Value "Breathable oxygen levels allow colonies to be constructed without air purifiers, thus increasing the maximum population."
 StringInfo
-        ID "IDS_PLANETBONUS_REQ_RESORTS_NAME"
-        Value "Intergalactic Resorts"
+	ID "IDS_PLANETBONUS_REQ_RESORTS_NAME"
+	Value "Intergalactic Resorts"
 StringInfo
-        ID "IDS_PLANETBONUS_REQ_RESORTS_DESC"
-        Value "This planet is renowned for its luxury resorts throughout the galaxy, increasing the presence of your Culture."
+	ID "IDS_PLANETBONUS_REQ_RESORTS_DESC"
+	Value "This planet is renowned for its luxury resorts throughout the galaxy, increasing the presence of your Culture."
 StringInfo
-        ID "IDS_PLANETBONUS_REQ_Storm_NAME"
-        Value "Electromagnetic Storms"
+	ID "IDS_PLANETBONUS_REQ_Storm_NAME"
+	Value "Electromagnetic Storms"
 StringInfo
-        ID "IDS_PLANETBONUS_REQ_Storm_DESC"
-        Value "The highly magnetically charged core of this planet reacts strongly with the negative upper atmosphere, generating massive storms that discourage migrations but yield higher quality Crystal formations."
+	ID "IDS_PLANETBONUS_REQ_Storm_DESC"
+	Value "The highly magnetically charged core of this planet reacts strongly with the negative upper atmosphere, generating massive storms that discourage migrations but yield higher quality Crystal formations."
 StringInfo
-        ID "IDS_PLANETBONUS_REQ_THICKATMOS_NAME"
-        Value "Thick Atmosphere"
+	ID "IDS_PLANETBONUS_REQ_THICKATMOS_NAME"
+	Value "Thick Atmosphere"
 StringInfo
-        ID "IDS_PLANETBONUS_REQ_THICKATMOS_DESC"
-        Value "The atmosphere of this planet is extremely thick, granting a natural resistance to orbital bombardments."
+	ID "IDS_PLANETBONUS_REQ_THICKATMOS_DESC"
+	Value "The atmosphere of this planet is extremely thick, granting a natural resistance to orbital bombardments."
 StringInfo
-        ID "IDS_PLANETBONUS_REQ_ValueableAtmo_NAME"
-        Value "Valuable Atmosphere"
+	ID "IDS_PLANETBONUS_REQ_ValueableAtmo_NAME"
+	Value "Valuable Atmosphere"
 StringInfo
-        ID "IDS_PLANETBONUS_REQ_ValueableAtmo_DESC"
-        Value "This gas giant has rare and valuable compounds in its atmosphere, generating plenty of Credits and making colonization worthwhile."
+	ID "IDS_PLANETBONUS_REQ_ValueableAtmo_DESC"
+	Value "This gas giant has rare and valuable compounds in its atmosphere, generating plenty of Credits and making colonization worthwhile."
 StringInfo
-        ID "IDS_ABILITY_REQ_INDUSTRIAL"
-        Value "Advanced Manufacturing"
+	ID "IDS_ABILITY_REQ_INDUSTRIAL"
+	Value "Advanced Manufacturing"
 StringInfo
-        ID "IDS_ABILITY_REQ_INDUSTRIAL_DESC"
-        Value "The large manufacturing base on this planet allows most components to be produced locally, reducing the cost and build times for all ship production."
+	ID "IDS_ABILITY_REQ_INDUSTRIAL_DESC"
+	Value "The large manufacturing base on this planet allows most components to be produced locally, reducing the cost and build times for all ship production."
 StringInfo
-        ID "IDSGalaxyScenarioTypeExplicitIceVolcanic"
-        Value "Random - Only Ice or Volcanic"
+	ID "IDSGalaxyScenarioTypeExplicitIceVolcanic"
+	Value "Random - Only Ice or Volcanic"
 StringInfo
-        ID "IDSGalaxyScenarioTypeRandomCrystal"
-        Value "Random - Crystal Resource Planet"
+	ID "IDSGalaxyScenarioTypeRandomCrystal"
+	Value "Random - Crystal Resource Planet"
 StringInfo
-        ID "IDSGalaxyScenarioTypeRandomExtra"
-        Value "Random - E4X Planet"
+	ID "IDSGalaxyScenarioTypeRandomExtra"
+	Value "Random - E4X Planet"
 StringInfo
-        ID "IDSGalaxyScenarioTypeRandomExtraFair"
-        Value "Random - E4X Planet Fair"
+	ID "IDSGalaxyScenarioTypeRandomExtraFair"
+	Value "Random - E4X Planet Fair"
 StringInfo
-        ID "IDSGalaxyScenarioTypeRandomMetal"
-        Value "Random - Metal Resource Planet"
+	ID "IDSGalaxyScenarioTypeRandomMetal"
+	Value "Random - Metal Resource Planet"
 StringInfo
-        ID "IDSGalaxyScenarioTypeRandomMixed"
-        Value "Random - Mixed Resource Planet"
+	ID "IDSGalaxyScenarioTypeRandomMixed"
+	Value "Random - Mixed Resource Planet"
 StringInfo
-        ID "IDSGalaxyScenarioTypeRandomTier0"
-        Value "Random - Low Population Planet"
+	ID "IDSGalaxyScenarioTypeRandomTier0"
+	Value "Random - Low Population Planet"
 StringInfo
-        ID "IDSGalaxyScenarioTypeRandomTier1"
-        Value "Random - Mid Population Planet"
+	ID "IDSGalaxyScenarioTypeRandomTier1"
+	Value "Random - Mid Population Planet"
 StringInfo
-        ID "IDSGalaxyScenarioTypeRandomTier2"
-        Value "Random - High Population Planet"
+	ID "IDSGalaxyScenarioTypeRandomTier2"
+	Value "Random - High Population Planet"
 StringInfo
-        ID "IDSGalaxyScenarioTypeRandomTier3"
-        Value "Random - Very High Population Planet"
+	ID "IDSGalaxyScenarioTypeRandomTier3"
+	Value "Random - Very High Population Planet"
 StringInfo
 	ID "IDSGalaxyScenarioTypePlanetUrbanFair"
 	Value "Urban Fair"
@@ -1693,461 +1693,461 @@ StringInfo
 	ID "IDSGalaxyScenarioTypePlanetHydrocarbon"
 	Value "Hydrocarbon"
 StringInfo
-        ID "IDS_Ability_REQ_NeutralStructure_NAME"
-        Value "Capturable Structure"
+	ID "IDS_Ability_REQ_NeutralStructure_NAME"
+	Value "Capturable Structure"
 StringInfo
-        ID "IDS_Ability_REQ_NeutralStructure_DESC"
-        Value "This is a unique structure that can be captured by other players."
+	ID "IDS_Ability_REQ_NeutralStructure_DESC"
+	Value "This is a unique structure that can be captured by other players."
 StringInfo
-        ID "IDS_Frigate_E4X_AncientCannonStructure_NAME"
-        Value "Rudra Annihilator Cannon"
+	ID "IDS_Frigate_E4X_AncientCannonStructure_NAME"
+	Value "Rudra Annihilator Cannon"
 StringInfo
-        ID "IDS_Frigate_E4X_AncientCannonStructure_DESC"
-        Value "A powerful superweapon constructed by an ancient civilization, we may be able to make it operable if we can find some examples of their weapons technology elsewhere."
+	ID "IDS_Frigate_E4X_AncientCannonStructure_DESC"
+	Value "A powerful superweapon constructed by an ancient civilization, we may be able to make it operable if we can find some examples of their weapons technology elsewhere."
 StringInfo
-        ID "IDS_Frigate_E4X_AncientShieldGeneratorStructure_NAME"
-        Value "Aegis Shield Generator"
+	ID "IDS_Frigate_E4X_AncientShieldGeneratorStructure_NAME"
+	Value "Aegis Shield Generator"
 StringInfo
-        ID "IDS_Frigate_E4X_AncientShieldGeneratorStructure_DESC"
-        Value "An incredibly powerful shield projector for both planets and ships built by an ancient race. We may be able to restore some of its functionality by exploring planets for their technology."
+	ID "IDS_Frigate_E4X_AncientShieldGeneratorStructure_DESC"
+	Value "An incredibly powerful shield projector for both planets and ships built by an ancient race. We may be able to restore some of its functionality by exploring planets for their technology."
 StringInfo
-        ID "IDS_Frigate_E4X_AncientStarBase_NAME"
-        Value "Behemoth Fortress Constructor"
+	ID "IDS_Frigate_E4X_AncientStarBase_NAME"
+	Value "Behemoth Fortress Constructor"
 StringInfo
-        ID "IDS_Frigate_E4X_AncientStarBase_DESC"
-        Value "An ancient constructor drone capable of building massive fortifications, we may be able to use it if we can find the original design plans on one of our planets."
+	ID "IDS_Frigate_E4X_AncientStarBase_DESC"
+	Value "An ancient constructor drone capable of building massive fortifications, we may be able to use it if we can find the original design plans on one of our planets."
 StringInfo
-        ID "IDS_Frigate_E4X_BioWeaponStructure_NAME"
-        Value "Styx Desolation Engine"
+	ID "IDS_Frigate_E4X_BioWeaponStructure_NAME"
+	Value "Styx Desolation Engine"
 StringInfo
-        ID "IDS_Frigate_E4X_BioWeaponStructure_DESC"
-        Value "A unique superweapon capable of producing super toxic pathogens, we will need a more powerful super computer to break its security measures."
+	ID "IDS_Frigate_E4X_BioWeaponStructure_DESC"
+	Value "A unique superweapon capable of producing super toxic pathogens, we will need a more powerful super computer to break its security measures."
 StringInfo
-        ID "IDS_Frigate_E4X_PhaseTunnelerStructure_NAME"
-        Value "Zulfiqar Phase Tunneler"
+	ID "IDS_Frigate_E4X_PhaseTunnelerStructure_NAME"
+	Value "Zulfiqar Phase Tunneler"
 StringInfo
-        ID "IDS_Frigate_E4X_PhaseTunnelerStructure_DESC"
-        Value "A device of unknown origin and design capable of distorting the fabric of Phase-time itself, we may be able to use it with the proper Phase Drive technology."
+	ID "IDS_Frigate_E4X_PhaseTunnelerStructure_DESC"
+	Value "A device of unknown origin and design capable of distorting the fabric of Phase-time itself, we may be able to use it with the proper Phase Drive technology."
 StringInfo
-        ID "IDS_Frigate_E4X_AncientEnergyHarvesterStructure_NAME"
-        Value "Fucanglong Hyper-Reactor"
+	ID "IDS_Frigate_E4X_AncientEnergyHarvesterStructure_NAME"
+	Value "Fucanglong Hyper-Reactor"
 StringInfo
-        ID "IDS_Frigate_E4X_AncientEnergyHarvesterStructure_DESC"
-        Value "A structure built out of unknown material that has the potential to store vast amounts of energy, though we will need specialized devices to channel it."
+	ID "IDS_Frigate_E4X_AncientEnergyHarvesterStructure_DESC"
+	Value "A structure built out of unknown material that has the potential to store vast amounts of energy, though we will need specialized devices to channel it."
 StringInfo
-        ID "IDS_StarBase_E4X_Ancient_NAME"
-        Value "Behemoth Fortress"
+	ID "IDS_StarBase_E4X_Ancient_NAME"
+	Value "Behemoth Fortress"
 StringInfo
-        ID "IDS_Ability_E4X_AncientShieldGeneratorPlanet_NAME"
-        Value "Aegis Invulnerability"
+	ID "IDS_Ability_E4X_AncientShieldGeneratorPlanet_NAME"
+	Value "Aegis Invulnerability"
 StringInfo
-        ID "IDS_Ability_E4X_AncientShieldGeneratorPlanet_DESC"
-        Value "Powered by our Ion Field Artifact, an unbreakable force field now protects the planet the Aegis Shield Generator orbits."
+	ID "IDS_Ability_E4X_AncientShieldGeneratorPlanet_DESC"
+	Value "Powered by our Ion Field Artifact, an unbreakable force field now protects the planet the Aegis Shield Generator orbits."
 StringInfo
-        ID "IDS_Ability_E4X_AncientShieldGeneratorShips_NAME"
-        Value "Supercharged Shields"
+	ID "IDS_Ability_E4X_AncientShieldGeneratorShips_NAME"
+	Value "Supercharged Shields"
 StringInfo
-        ID "IDS_Ability_E4X_AncientShieldGeneratorShips_DESC"
-        Value "The excess power from the Aegis Shield Generator and the knowledge we recovered from the Dynamic Shield Array allows the generator to supercharge the Shields of all friendly ships in the gravity well."
+	ID "IDS_Ability_E4X_AncientShieldGeneratorShips_DESC"
+	Value "The excess power from the Aegis Shield Generator and the knowledge we recovered from the Dynamic Shield Array allows the generator to supercharge the Shields of all friendly ships in the gravity well."
 StringInfo
-        ID "IDS_Ability_E4X_BioWeaponStructure_NAME"
-        Value "Desolate"
+	ID "IDS_Ability_E4X_BioWeaponStructure_NAME"
+	Value "Desolate"
 StringInfo
-        ID "IDS_Ability_E4X_BioWeaponStructure_DESC"
-        Value "Our Organic AI's supercomputers have managed to crack the security systems of the Styx Desolation Engine, allowing it infect any planet with a devastating biological weapon."
+	ID "IDS_Ability_E4X_BioWeaponStructure_DESC"
+	Value "Our Organic AI's supercomputers have managed to crack the security systems of the Styx Desolation Engine, allowing it infect any planet with a devastating biological weapon."
 StringInfo
-        ID "IDS_Ability_E4X_CaptureNeutralFrigate_NAME"
-        Value "Capture Object"
+	ID "IDS_Ability_E4X_CaptureNeutralFrigate_NAME"
+	Value "Capture Object"
 StringInfo
-        ID "IDS_Ability_E4X_CaptureNeutralFrigate_DESC"
-        Value "Sends a team of marines to capture and secure the targeted object in space. It will take a little time to fully bring it under your empire's control."
+	ID "IDS_Ability_E4X_CaptureNeutralFrigate_DESC"
+	Value "Sends a team of marines to capture and secure the targeted object in space. It will take a little time to fully bring it under your empire's control."
 StringInfo
-        ID "IDS_Ability_E4X_DeployAncientStarBase_NAME"
-        Value "Deploy Fortress"
+	ID "IDS_Ability_E4X_DeployAncientStarBase_NAME"
+	Value "Deploy Fortress"
 StringInfo
-        ID "IDS_Ability_E4X_DeployAncientStarBase_DESC"
-        Value "Design plans from the subterranean fortress we discovered allows the constructor to build a starbase of unrivaled power."
+	ID "IDS_Ability_E4X_DeployAncientStarBase_DESC"
+	Value "Design plans from the subterranean fortress we discovered allows the constructor to build a starbase of unrivaled power."
 StringInfo
-        ID "IDS_Ability_E4X_PhaseTunnel_NAME"
-        Value "Create Phase Tunnel"
+	ID "IDS_Ability_E4X_PhaseTunnel_NAME"
+	Value "Create Phase Tunnel"
 StringInfo
-        ID "IDS_Ability_E4X_PhaseTunnel_DESC"
-        Value "The powerful Phase Drive we've uncovered has allowed us to complete the Zulfiqar Phase Tunneler, allowing it to create portals in Phase Space at will."
+	ID "IDS_Ability_E4X_PhaseTunnel_DESC"
+	Value "The powerful Phase Drive we've uncovered has allowed us to complete the Zulfiqar Phase Tunneler, allowing it to create portals in Phase Space at will."
 StringInfo
-        ID "IDS_Ability_E4X_RespawnAncientStarbaseConstructor_NAME"
-        Value "Respawn Constructor"
+	ID "IDS_Ability_E4X_RespawnAncientStarbaseConstructor_NAME"
+	Value "Respawn Constructor"
 StringInfo
-        ID "IDS_Ability_E4X_RespawnAncientStarbaseConstructor_DESC"
-        Value "Protected deep within the starbase is the original starbase constructor. Should the starbase be destroyed, it will emerge intact, but it will take several minutes to power up again."
+	ID "IDS_Ability_E4X_RespawnAncientStarbaseConstructor_DESC"
+	Value "Protected deep within the starbase is the original starbase constructor. Should the starbase be destroyed, it will emerge intact, but it will take several minutes to power up again."
 StringInfo
-        ID "IDS_CannonShell_E4X_BioWeapon_NAME"
-            Value "Bioweapon Canister"
+	ID "IDS_CannonShell_E4X_BioWeapon_NAME"
+	    Value "Bioweapon Canister"
 StringInfo
-        ID "IDS_CannonShell_E4X_BioWeapon_DESC"
-        Value "An insidious shell loaded with an ancient bioengineered pathogen, it inflicts a terrible plague on the planet it impacts."
+	ID "IDS_CannonShell_E4X_BioWeapon_DESC"
+	Value "An insidious shell loaded with an ancient bioengineered pathogen, it inflicts a terrible plague on the planet it impacts."
 StringInfo
-        ID "IDS_Ability_E4X_AncientEnergyHarvesterResources_NAME"
-        Value "Resource Materialization"
+	ID "IDS_Ability_E4X_AncientEnergyHarvesterResources_NAME"
+	Value "Resource Materialization"
 StringInfo
-        ID "IDS_Ability_E4X_AncientEnergyHarvesterResources_DESC"
-        Value "Our new mastery of molecular recombination has allowed us to refit the Fucanglong Hyper-Reactor to use its energy output to generate Metal and Crystal resources."
+	ID "IDS_Ability_E4X_AncientEnergyHarvesterResources_DESC"
+	Value "Our new mastery of molecular recombination has allowed us to refit the Fucanglong Hyper-Reactor to use its energy output to generate Metal and Crystal resources."
 StringInfo
-        ID "IDS_Ability_E4X_AncientEnergyHarvesterAntimatter_NAME"
-        Value "Supercharge"
+	ID "IDS_Ability_E4X_AncientEnergyHarvesterAntimatter_NAME"
+	Value "Supercharge"
 StringInfo
-        ID "IDS_Ability_E4X_AncientEnergyHarvesterAntimatter_DESC"
-        Value "Part of the energy reserves of the Fucanglong Hyper-Reactor are sent directly into the Antimatter generators of an allied ship, temporarily reducing ability cooldowns and providing it extra Antimatter to use."
+	ID "IDS_Ability_E4X_AncientEnergyHarvesterAntimatter_DESC"
+	Value "Part of the energy reserves of the Fucanglong Hyper-Reactor are sent directly into the Antimatter generators of an allied ship, temporarily reducing ability cooldowns and providing it extra Antimatter to use."
 StringInfo
-        ID "IDS_Ability_E4X_InvincibleEntity_NAME"
-        Value "Vital Structure"
+	ID "IDS_Ability_E4X_InvincibleEntity_NAME"
+	Value "Vital Structure"
 StringInfo
-        ID "IDS_Ability_E4X_InvincibleEntity_DESC"
-        Value "This structure is of vital importance for maintaining control of this sector, preventing it from being destroyed or scuttled."
+	ID "IDS_Ability_E4X_InvincibleEntity_DESC"
+	Value "This structure is of vital importance for maintaining control of this sector, preventing it from being destroyed or scuttled."
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroCommandTech_NAME"
-        Value "* Admiral Kol"
+	ID "IDS_Capitalship_E4X_HeroCommandTech_NAME"
+	Value "* Admiral Kol"
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroCommandTech_DESC"
-        Value "A war hero who led the TEC to its first victory over the Vasari a year after their invasion and namesake of the powerful battleship, Admiral Kol is an effective commander best used to support his fleet right behind the front line. He prefers his mobile and well-equipped Cielo Command Cruiser to the Capital Ships favored by other commanders."
+	ID "IDS_Capitalship_E4X_HeroCommandTech_DESC"
+	Value "A war hero who led the TEC to its first victory over the Vasari a year after their invasion and namesake of the powerful battleship, Admiral Kol is an effective commander best used to support his fleet right behind the front line. He prefers his mobile and well-equipped Cielo Command Cruiser to the Capital Ships favored by other commanders."
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroCommandTech_TACT"
-        Value "Admiral Kol is an excellent, well-rounded support unit. His Cielo Command Cruiser is faster than other heroes and his Missiles have enough range to keep him between the LRMs/Carriers in the rear and the main battle line, allowing him to buff as many targets as possible. He also always buffs the Antimatter of support units near him. Keep him out of direct combat and he should do well."
+	ID "IDS_Capitalship_E4X_HeroCommandTech_TACT"
+	Value "Admiral Kol is an excellent, well-rounded support unit. His Cielo Command Cruiser is faster than other heroes and his Missiles have enough range to keep him between the LRMs/Carriers in the rear and the main battle line, allowing him to buff as many targets as possible. He also always buffs the Antimatter of support units near him. Keep him out of direct combat and he should do well."
 StringInfo
-        ID "IDS_Ability_E4X_PhysicalDamagePlus_NAME"
-        Value "Targeting Network"
+	ID "IDS_Ability_E4X_PhysicalDamagePlus_NAME"
+	Value "Targeting Network"
 StringInfo
-        ID "IDS_Ability_E4X_PhysicalDamagePlus_DESC"
-        Value "Ships near Kol's flagship are linked to its powerful targeting computers, which guide physical projectiles to weak points on enemy ships, increasing damage."
+	ID "IDS_Ability_E4X_PhysicalDamagePlus_DESC"
+	Value "Ships near Kol's flagship are linked to its powerful targeting computers, which guide physical projectiles to weak points on enemy ships, increasing damage."
 StringInfo
-        ID "IDS_Ability_E4X_ReserveSquadrons_NAME"
-        Value "Reserve Squadrons"
+	ID "IDS_Ability_E4X_ReserveSquadrons_NAME"
+	Value "Reserve Squadrons"
 StringInfo
-        ID "IDS_Ability_E4X_ReserveSquadrons_DESC"
-        Value "Admiral Kol uses his rank and prestige to secure additional strikecraft for your war effort, allowing the strikecraft of a chosen allied carrier to quickly replenish its squadrons."
+	ID "IDS_Ability_E4X_ReserveSquadrons_DESC"
+	Value "Admiral Kol uses his rank and prestige to secure additional strikecraft for your war effort, allowing the strikecraft of a chosen allied carrier to quickly replenish its squadrons."
 StringInfo
-        ID "IDS_Ability_E4X_Resolve_NAME"
-        Value "Resolve"
+	ID "IDS_Ability_E4X_Resolve_NAME"
+	Value "Resolve"
 StringInfo
-        ID "IDS_Ability_E4X_Resolve_DESC"
-        Value "Admiral Kol inspires the selected unit to fight on whatever the odds, greatly increasing its effectiveness in combat for a limited time."
+	ID "IDS_Ability_E4X_Resolve_DESC"
+	Value "Admiral Kol inspires the selected unit to fight on whatever the odds, greatly increasing its effectiveness in combat for a limited time."
 StringInfo
-        ID "IDS_Ability_E4X_AllOutAttack_NAME"
-        Value "All Out Attack"
+	ID "IDS_Ability_E4X_AllOutAttack_NAME"
+	Value "All Out Attack"
 StringInfo
-        ID "IDS_Ability_E4X_AllOutAttack_DESC"
-        Value "Admiral Kol orders all of his units to engage a specific target that is a great threat to the Coalition, rallying his forces to do extra damage and overwhelming the target's repair systems."
+	ID "IDS_Ability_E4X_AllOutAttack_DESC"
+	Value "Admiral Kol orders all of his units to engage a specific target that is a great threat to the Coalition, rallying his forces to do extra damage and overwhelming the target's repair systems."
 StringInfo
-        ID "IDS_Ability_E4X_SpawnHeroCommandTech_NAME"
-        Value "Summon Admiral Kol"
+	ID "IDS_Ability_E4X_SpawnHeroCommandTech_NAME"
+	Value "Summon Admiral Kol"
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroCombatTech_NAME"
-        Value "* Commander Dyrenov"
+	ID "IDS_Capitalship_E4X_HeroCombatTech_NAME"
+	Value "* Commander Dyrenov"
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroCombatTech_DESC"
-        Value "As the first ever Marza captain, Commander Dyrenov was an odd pick by TEC Command, having had several disciplinary problems and an unusual eagerness for combat. But as the Advent invasion began in earnest, the Coalition need its most ferocious warrior pointed directly at the enemy. Dyrenov delivered. His counter attack reclaimed many lost systems and earned him the permanent hatred of the Unity."
+	ID "IDS_Capitalship_E4X_HeroCombatTech_DESC"
+	Value "As the first ever Marza captain, Commander Dyrenov was an odd pick by TEC Command, having had several disciplinary problems and an unusual eagerness for combat. But as the Advent invasion began in earnest, the Coalition need its most ferocious warrior pointed directly at the enemy. Dyrenov delivered. His counter attack reclaimed many lost systems and earned him the permanent hatred of the Unity."
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroCombatTech_TACT"
-        Value "Commander Dyrenov is the TEC's best answer to Advent 'battleball' tactics. His Missiles always do AoE damage, and he has two useful AoE abilities at his disposal. Use Solid Nitrovium Payloads combined with his high base damage to take out vital Capital Ships with fleet buffs, and if he becomes too damaged he can quickly repair himself by bombing enemy planets."
+	ID "IDS_Capitalship_E4X_HeroCombatTech_TACT"
+	Value "Commander Dyrenov is the TEC's best answer to Advent 'battleball' tactics. His Missiles always do AoE damage, and he has two useful AoE abilities at his disposal. Use Solid Nitrovium Payloads combined with his high base damage to take out vital Capital Ships with fleet buffs, and if he becomes too damaged he can quickly repair himself by bombing enemy planets."
 StringInfo
-        ID "IDS_Ability_E4X_Maraud_NAME"
-        Value "Maraud"
+	ID "IDS_Ability_E4X_Maraud_NAME"
+	Value "Maraud"
 StringInfo
-        ID "IDS_Ability_E4X_Maraud_DESC"
-        Value "Dyrenov's substantial experience with and unsavory enjoyment of planetary bombardment allows his ship to gain substantial bonuses when bombing enemy planets."
+	ID "IDS_Ability_E4X_Maraud_DESC"
+	Value "Dyrenov's substantial experience with and unsavory enjoyment of planetary bombardment allows his ship to gain substantial bonuses when bombing enemy planets."
 StringInfo
-        ID "IDS_Ability_E4X_ShieldPiercingProjectiles_NAME"
-        Value "Solid Nitrovium Payloads"
+	ID "IDS_Ability_E4X_ShieldPiercingProjectiles_NAME"
+	Value "Solid Nitrovium Payloads"
 StringInfo
-        ID "IDS_Ability_E4X_ShieldPiercingProjectiles_DESC"
-        Value "Commander Dyrenov pioneered many of the new technologies used to combat the Advent, modifying his Marza's Missile tubes to fire enhanced warheads capable of damaging a target through its Shields."     
+	ID "IDS_Ability_E4X_ShieldPiercingProjectiles_DESC"
+	Value "Commander Dyrenov pioneered many of the new technologies used to combat the Advent, modifying his Marza's Missile tubes to fire enhanced warheads capable of damaging a target through its Shields."     
 StringInfo
-        ID "IDS_Ability_E4X_ShrapnelBlast_NAME"
-        Value "Shrapnel Warhead"
+	ID "IDS_Ability_E4X_ShrapnelBlast_NAME"
+	Value "Shrapnel Warhead"
 StringInfo
-        ID "IDS_Ability_E4X_ShrapnelBlast_DESC"
-        Value "Dyrenov's flagship fires a special shrapnel warhead from its planet bombardment tubes, unleashing a cloud of high velocity debris that damages ships and fighters, reduces Shield regeneration, and makes strikecraft more vulnerable to damage."
+	ID "IDS_Ability_E4X_ShrapnelBlast_DESC"
+	Value "Dyrenov's flagship fires a special shrapnel warhead from its planet bombardment tubes, unleashing a cloud of high velocity debris that damages ships and fighters, reduces Shield regeneration, and makes strikecraft more vulnerable to damage."
 StringInfo
-        ID "IDS_Ability_E4X_SuperNuke_NAME"
-        Value "Final Annihilation"
+	ID "IDS_Ability_E4X_SuperNuke_NAME"
+	Value "Final Annihilation"
 StringInfo
-        ID "IDS_Ability_E4X_SuperNuke_DESC"
-        Value "Fires Dyrenov's secret weapon, a heavily-modified Novalith warhead, from the Marza's primary bombardment tube, inflicting tremendous damage around the target and briefly disabling any survivors."
+	ID "IDS_Ability_E4X_SuperNuke_DESC"
+	Value "Fires Dyrenov's secret weapon, a heavily-modified Novalith warhead, from the Marza's primary bombardment tube, inflicting tremendous damage around the target and briefly disabling any survivors."
 StringInfo
-        ID "IDS_Ability_E4X_SpawnHeroCombatTech_NAME"
-        Value "Summon Cdr. Dyrenov"
+	ID "IDS_Ability_E4X_SpawnHeroCombatTech_NAME"
+	Value "Summon Cdr. Dyrenov"
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroLeaderTech_NAME"
-        Value "* Captain Aurelion"
+	ID "IDS_Capitalship_E4X_HeroLeaderTech_NAME"
+	Value "* Captain Aurelion"
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroLeaderTech_DESC"
-        Value "A highly decorated TDN officer, Captain Aurelion is the Coalition's go-to man in a crisis. He has repeatedly refused promotions to keep his job as a task force commander, and insists on leading his forces from the bridge of his powerful Kol Battleship. He is most famous for his rapid response to the Advent invasion, where his forces where the first to arrive from the alien front and stall the new invaders."
+	ID "IDS_Capitalship_E4X_HeroLeaderTech_DESC"
+	Value "A highly decorated TDN officer, Captain Aurelion is the Coalition's go-to man in a crisis. He has repeatedly refused promotions to keep his job as a task force commander, and insists on leading his forces from the bridge of his powerful Kol Battleship. He is most famous for his rapid response to the Advent invasion, where his forces where the first to arrive from the alien front and stall the new invaders."
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroLeaderTech_TACT"
-        Value "Captain Aurelion is a powerful flagship for any fleet. His Autocannons can fire on strikecraft and damage fighters near any target they hit. As he levels up he can also passively slow them down and make them easier to hit. He can disable larger targets as well and can quickly get his fleet into position while healing them. In a crisis he can make himself invincible and boost damage at the expense of mobility."
+	ID "IDS_Capitalship_E4X_HeroLeaderTech_TACT"
+	Value "Captain Aurelion is a powerful flagship for any fleet. His Autocannons can fire on strikecraft and damage fighters near any target they hit. As he levels up he can also passively slow them down and make them easier to hit. He can disable larger targets as well and can quickly get his fleet into position while healing them. In a crisis he can make himself invincible and boost damage at the expense of mobility."
 StringInfo
-        ID "IDS_Ability_E4X_DecisiveAction_NAME"
-        Value "Decisive Action"
+	ID "IDS_Ability_E4X_DecisiveAction_NAME"
+	Value "Decisive Action"
 StringInfo
-        ID "IDS_Ability_E4X_DecisiveAction_DESC"
-        Value "Captain Aurelion rallies his fleet to action, substantially increasing their movement speed and restoring some of their fighting potential."
+	ID "IDS_Ability_E4X_DecisiveAction_DESC"
+	Value "Captain Aurelion rallies his fleet to action, substantially increasing their movement speed and restoring some of their fighting potential."
 StringInfo
-        ID "IDS_Ability_E4X_EMPRailgun_NAME"
-        Value "EMP Railgun"
+	ID "IDS_Ability_E4X_EMPRailgun_NAME"
+	Value "EMP Railgun"
 StringInfo
-        ID "IDS_Ability_E4X_EMPRailgun_DESC"
-        Value "One of Aurelion's favorite techniques for surprising his enemies, his Kol's railgun fires a special EMP shell that disables the target's abilities for a period of time, in addition to direct damage to the Hull and Shields."
+	ID "IDS_Ability_E4X_EMPRailgun_DESC"
+	Value "One of Aurelion's favorite techniques for surprising his enemies, his Kol's railgun fires a special EMP shell that disables the target's abilities for a period of time, in addition to direct damage to the Hull and Shields."
 StringInfo
-        ID "IDS_Ability_E4X_FlakZone_NAME"
-        Value "Wide-Area Flak Shells"
+	ID "IDS_Ability_E4X_FlakZone_NAME"
+	Value "Wide-Area Flak Shells"
 StringInfo
-        ID "IDS_Ability_E4X_FlakZone_DESC"
-        Value "The large kill radius of Aurelion's Autocannons greatly limit the ability of enemy strikecraft to maneuver, making them easier to hit and slowing them down."
+	ID "IDS_Ability_E4X_FlakZone_DESC"
+	Value "The large kill radius of Aurelion's Autocannons greatly limit the ability of enemy strikecraft to maneuver, making them easier to hit and slowing them down."
 StringInfo
-        ID "IDS_Ability_E4X_UnyieldingSpirit_NAME"
-        Value "Unyielding Spirit"
+	ID "IDS_Ability_E4X_UnyieldingSpirit_NAME"
+	Value "Unyielding Spirit"
 StringInfo
-        ID "IDS_Ability_E4X_UnyieldingSpirit_DESC"
-        Value "Tasked with holding the line at all costs, Captain Aurelion orders his flagship to engage the enemy at point-blank range with unmatched ferocity. His ship briefly becomes indestructible and deals massive amounts of damage at the expense of power diverted from the engines and special abilities."
+	ID "IDS_Ability_E4X_UnyieldingSpirit_DESC"
+	Value "Tasked with holding the line at all costs, Captain Aurelion orders his flagship to engage the enemy at point-blank range with unmatched ferocity. His ship briefly becomes indestructible and deals massive amounts of damage at the expense of power diverted from the engines and special abilities."
 StringInfo
-        ID "IDS_Ability_E4X_SpawnHeroLeaderTech_NAME"
-        Value "Summon Captain Aurelion"
+	ID "IDS_Ability_E4X_SpawnHeroLeaderTech_NAME"
+	Value "Summon Captain Aurelion"
 StringInfo
-        ID "IDS_Ability_E4X_SpawnHeroCommandTech_DESC"
-        Value "A war hero who led the TEC to its first victory over the Vasari a year after their invasion and namesake of the powerful battleship, Admiral Kol is an effective task force commander best used to support his fleet just out of enemy range. He prefers his mobile and well equipped Cielo Command Cruiser to the Capital Ships favored by other commanders."
+	ID "IDS_Ability_E4X_SpawnHeroCommandTech_DESC"
+	Value "A war hero who led the TEC to its first victory over the Vasari a year after their invasion and namesake of the powerful battleship, Admiral Kol is an effective task force commander best used to support his fleet just out of enemy range. He prefers his mobile and well equipped Cielo Command Cruiser to the Capital Ships favored by other commanders."
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroCombatPsi_NAME"
-        Value "* Psintegrat Ayana"
+	ID "IDS_Capitalship_E4X_HeroCombatPsi_NAME"
+	Value "* Psintegrat Ayana"
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroCombatPsi_DESC"
-        Value "An unusually young and gifted Psintegrat, Ayana quickly rose through the ranks, promoted by superiors eager to use her unrivaled telekinetic powers for their own use. So powerful has she become that her own psychic blasts are more powerful than her Domina's weapons, and her powerful set of combat abilities make her an entity to be feared on the battlefield."
+	ID "IDS_Capitalship_E4X_HeroCombatPsi_DESC"
+	Value "An unusually young and gifted Psintegrat, Ayana quickly rose through the ranks, promoted by superiors eager to use her unrivaled telekinetic powers for their own use. So powerful has she become that her own psychic blasts are more powerful than her Domina's weapons, and her powerful set of combat abilities make her an entity to be feared on the battlefield."
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroCombatPsi_TACT"
-        Value "Ayana is a powerful and strong-willed fighter despite commanding a support cruiser. She is second-to-none as a healer, able to make important allies invincible while she heals them. She can freeze strikecraft with her telekinetics, and keep enemy fleets vulnerable by depleting their Hull and Antimatter. She can also easily interfere with the crew of important vessels."
+	ID "IDS_Capitalship_E4X_HeroCombatPsi_TACT"
+	Value "Ayana is a powerful and strong-willed fighter despite commanding a support cruiser. She is second-to-none as a healer, able to make important allies invincible while she heals them. She can freeze strikecraft with her telekinetics, and keep enemy fleets vulnerable by depleting their Hull and Antimatter. She can also easily interfere with the crew of important vessels."
 StringInfo
-        ID "IDS_Ability_E4X_InvincibleHeal_NAME"
-        Value "Ameliorative Aura"
+	ID "IDS_Ability_E4X_InvincibleHeal_NAME"
+	Value "Ameliorative Aura"
 StringInfo
-        ID "IDS_Ability_E4X_InvincibleHeal_DESC"
-        Value "Ayana channels her power into forming a powerful energy aura around a friendly target, making it invulnerable and restoring its Hull for a short time."
+	ID "IDS_Ability_E4X_InvincibleHeal_DESC"
+	Value "Ayana channels her power into forming a powerful energy aura around a friendly target, making it invulnerable and restoring its Hull for a short time."
 StringInfo
-        ID "IDS_Ability_E4X_StopFighters_NAME"
-        Value "Lock Strikecraft"
+	ID "IDS_Ability_E4X_StopFighters_NAME"
+	Value "Lock Strikecraft"
 StringInfo
-        ID "IDS_Ability_E4X_StopFighters_DESC"
-        Value "Ayana uses her powerful telekinetic abilities to freeze all strikecraft in place that fly around her Domina Subjugator. This is a channeling ability."     
+	ID "IDS_Ability_E4X_StopFighters_DESC"
+	Value "Ayana uses her powerful telekinetic abilities to freeze all strikecraft in place that fly around her Domina Subjugator. This is a channeling ability."     
 StringInfo
-        ID "IDS_Ability_E4X_SpiritChainBlast_NAME"
-        Value "Soul Strike"
+	ID "IDS_Ability_E4X_SpiritChainBlast_NAME"
+	Value "Soul Strike"
 StringInfo
-        ID "IDS_Ability_E4X_SpiritChainBlast_DESC"
-        Value "Ayana's signature technique, she fires several volleys of psychic energy that pierce the very souls of the enemy crew, dealing direct Hull damage and draining Antimatter. The weakened blasts then continue on to hit multiple other targets."
+	ID "IDS_Ability_E4X_SpiritChainBlast_DESC"
+	Value "Ayana's signature technique, she fires several volleys of psychic energy that pierce the very souls of the enemy crew, dealing direct Hull damage and draining Antimatter. The weakened blasts then continue on to hit multiple other targets."
 StringInfo
-        ID "IDS_Ability_E4X_NeuronicPossession_NAME"
-        Value "Neuronic Possession"
+	ID "IDS_Ability_E4X_NeuronicPossession_NAME"
+	Value "Neuronic Possession"
 StringInfo
-        ID "IDS_Ability_E4X_NeuronicPossession_DESC"
-        Value "Ayana uses her psychic influence to disorient the targeted entity's crew, greatly reducing its combat effectiveness as they try to resist her mental intrusion."
+	ID "IDS_Ability_E4X_NeuronicPossession_DESC"
+	Value "Ayana uses her psychic influence to disorient the targeted entity's crew, greatly reducing its combat effectiveness as they try to resist her mental intrusion."
 StringInfo
-        ID "IDS_Ability_E4X_SpawnHeroCombatPsi_NAME"
-        Value "Summon Psintegrat Ayana"
+	ID "IDS_Ability_E4X_SpawnHeroCombatPsi_NAME"
+	Value "Summon Psintegrat Ayana"
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroLeaderPsi_NAME"
-        Value "* Matriarch Celestia"
+	ID "IDS_Capitalship_E4X_HeroLeaderPsi_NAME"
+	Value "* Matriarch Celestia"
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroLeaderPsi_DESC"
-        Value "Matriarchs are typically the head of Advent battle groups or dioceses, a role that is as symbolic as it is powerful. Usually ranked based on their psionic abilities, Matriarch Celestia is among the strongest, capable of forming billions of psionic connections with her followers. This telepathic strength gives her unrivaled abilities to support fleets under her command, causing TEC Command to offer a reward to the crew that kills her Rapture Battlecruiser in combat."
+	ID "IDS_Capitalship_E4X_HeroLeaderPsi_DESC"
+	Value "Matriarchs are typically the head of Advent battle groups or dioceses, a role that is as symbolic as it is powerful. Usually ranked based on their psionic abilities, Matriarch Celestia is among the strongest, capable of forming billions of psionic connections with her followers. This telepathic strength gives her unrivaled abilities to support fleets under her command, causing TEC Command to offer a reward to the crew that kills her Rapture Battlecruiser in combat."
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroLeaderPsi_TACT"
-        Value "Matriarch Celestia is the ultimate centerpiece to base your fleet around. All of her main abilities buff nearby allies, so positioning her in the center of a battleball is crucial. She can give a powerful boost to strikecraft, and can both boost the defense (especially against Phase Missiles) and offense of her fleet. Use her ultimate ability to give important ships a long boost, including other heroes. She is very vulnerable to interruptions however, so ensure she is well escorted."
+	ID "IDS_Capitalship_E4X_HeroLeaderPsi_TACT"
+	Value "Matriarch Celestia is the ultimate centerpiece to base your fleet around. All of her main abilities buff nearby allies, so positioning her in the center of a battleball is crucial. She can give a powerful boost to strikecraft, and can both boost the defense (especially against Phase Missiles) and offense of her fleet. Use her ultimate ability to give important ships a long boost, including other heroes. She is very vulnerable to interruptions however, so ensure she is well escorted."
 StringInfo
-        ID "IDS_Ability_E4X_JointPrecognition_NAME"
-        Value "Joint Precognition"
+	ID "IDS_Ability_E4X_JointPrecognition_NAME"
+	Value "Joint Precognition"
 StringInfo
-        ID "IDS_Ability_E4X_JointPrecognition_DESC"
-        Value "Celestia expands her mind link with drone Anima in her fleet, increasing their reflexes and even allowing them to get glimpses of the future, making strikecraft of all carriers in range harder to hit."
+	ID "IDS_Ability_E4X_JointPrecognition_DESC"
+	Value "Celestia expands her mind link with drone Anima in her fleet, increasing their reflexes and even allowing them to get glimpses of the future, making strikecraft of all carriers in range harder to hit."
 StringInfo
-        ID "IDS_Ability_E4X_UnitysBulwark_NAME"
-        Value "Unity's Bulwark"
+	ID "IDS_Ability_E4X_UnitysBulwark_NAME"
+	Value "Unity's Bulwark"
 StringInfo
-        ID "IDS_Ability_E4X_UnitysBulwark_DESC"
-        Value "Celestia uses her psionic powers to bring the shields of all ships in her fleet into sync with each other, increasing Shield Mitigation. This is a channeling ability."     
+	ID "IDS_Ability_E4X_UnitysBulwark_DESC"
+	Value "Celestia uses her psionic powers to bring the shields of all ships in her fleet into sync with each other, increasing Shield Mitigation. This is a channeling ability."     
 StringInfo
-        ID "IDS_Ability_E4X_SubconsciousGuidence_NAME"
-        Value "Subconscious Guidance"
+	ID "IDS_Ability_E4X_SubconsciousGuidence_NAME"
+	Value "Subconscious Guidance"
 StringInfo
-        ID "IDS_Ability_E4X_SubconsciousGuidence_DESC"
-        Value "Celestia telepathically guides the gunners on nearby ships to target critical components on hostile ships, allowing them to reduce their effectiveness. Different weapons inflict different debuffs."
+	ID "IDS_Ability_E4X_SubconsciousGuidence_DESC"
+	Value "Celestia telepathically guides the gunners on nearby ships to target critical components on hostile ships, allowing them to reduce their effectiveness. Different weapons inflict different debuffs."
 StringInfo
-        ID "IDS_Ability_E4X_Inspire_NAME"
-        Value "Inspire"
+	ID "IDS_Ability_E4X_Inspire_NAME"
+	Value "Inspire"
 StringInfo
-        ID "IDS_Ability_E4X_Inspire_DESC"
-        Value "Celestia forms an especially intimate psionic connection with the captain of the target vessel, enhancing her psionic abilities and giving a boost to endurance and ability use until the ship leaves the gravity well."
+	ID "IDS_Ability_E4X_Inspire_DESC"
+	Value "Celestia forms an especially intimate psionic connection with the captain of the target vessel, enhancing her psionic abilities and giving a boost to endurance and ability use until the ship leaves the gravity well."
 StringInfo
-        ID "IDS_Ability_E4X_SpawnHeroLeaderPsi_NAME"
-        Value "Summon Matriarch Celestia"
+	ID "IDS_Ability_E4X_SpawnHeroLeaderPsi_NAME"
+	Value "Summon Matriarch Celestia"
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroTransPsi_NAME"
-        Value "* Anima Kreia"
+	ID "IDS_Capitalship_E4X_HeroTransPsi_NAME"
+	Value "* Anima Kreia"
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroTransPsi_DESC"
-        Value "The Anima are an elite caste of Psintegrat best known for controlling the swarms of drones that escort Advent battle fleets, but Kreia has transcended beyond such minor telepathy. Through decades of experimentation, she has acquired unique PsiTech abilities that allow her to alter the physical world itself, changing elements into one another and making new never-before-seen materials. She has a special Halcyon Carrier modified to amplify her terrifying abilities."
+	ID "IDS_Capitalship_E4X_HeroTransPsi_DESC"
+	Value "The Anima are an elite caste of Psintegrat best known for controlling the swarms of drones that escort Advent battle fleets, but Kreia has transcended beyond such minor telepathy. Through decades of experimentation, she has acquired unique PsiTech abilities that allow her to alter the physical world itself, changing elements into one another and making new never-before-seen materials. She has a special Halcyon Carrier modified to amplify her terrifying abilities."
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroTransPsi_TACT"
-        Value "The TEC would call Kreia the most potent witch of the Advent, and she certainly has many curses to weaken her enemies. Her only AoE support ability both buffs allies' defenses while sending damage back at the enemy, and she is good at assassinating important targets with Armor reductions, Antimatter drains, weapon reductions and disabling abilities and passive regeneration. Lastly, her ultimate allows her to boost her many strikecraft and regenerate them instantly."
+	ID "IDS_Capitalship_E4X_HeroTransPsi_TACT"
+	Value "The TEC would call Kreia the most potent witch of the Advent, and she certainly has many curses to weaken her enemies. Her only AoE support ability both buffs allies' defenses while sending damage back at the enemy, and she is good at assassinating important targets with Armor reductions, Antimatter drains, weapon reductions and disabling abilities and passive regeneration. Lastly, her ultimate allows her to boost her many strikecraft and regenerate them instantly."
 StringInfo
-        ID "IDS_Ability_E4X_DrainingArmor_NAME"
-        Value "Draining Armor"
+	ID "IDS_Ability_E4X_DrainingArmor_NAME"
+	Value "Draining Armor"
 StringInfo
-        ID "IDS_Ability_E4X_DrainingArmor_DESC"
-        Value "Kreia telepathically alters some of the armor of the target ship into a weak, power-absorbing material, forcing the target to lose Antimatter. If the target dies before it leaves the gravity well, nearby friendly ships can collect this Antimatter."
+	ID "IDS_Ability_E4X_DrainingArmor_DESC"
+	Value "Kreia telepathically alters some of the armor of the target ship into a weak, power-absorbing material, forcing the target to lose Antimatter. If the target dies before it leaves the gravity well, nearby friendly ships can collect this Antimatter."
 StringInfo
-        ID "IDS_Ability_E4X_ReflectiveAura_NAME"
-        Value "Reflective Aura"
+	ID "IDS_Ability_E4X_ReflectiveAura_NAME"
+	Value "Reflective Aura"
 StringInfo
-        ID "IDS_Ability_E4X_ReflectiveAura_DESC"
-        Value "Kreia uses advanced PsiTech to alter the fabric of reality itself around her Halcyon Carrier, creating an aura capable of deflecting a small amount of damage and sending it back at the enemy."
+	ID "IDS_Ability_E4X_ReflectiveAura_DESC"
+	Value "Kreia uses advanced PsiTech to alter the fabric of reality itself around her Halcyon Carrier, creating an aura capable of deflecting a small amount of damage and sending it back at the enemy."
 StringInfo
-        ID "IDS_Ability_E4X_DisruptionCrystal_NAME"
-        Value "Disruption Crystal"
+	ID "IDS_Ability_E4X_DisruptionCrystal_NAME"
+	Value "Disruption Crystal"
 StringInfo
-        ID "IDS_Ability_E4X_DisruptionCrystal_DESC"
-        Value "Launches a specialty crystal shaped by Kreia, loaded with Antimatter, at the enemy. On shattering, its heavily charged fragments prevent the target from using abilities and interferes with all enemy energy weapons."
+	ID "IDS_Ability_E4X_DisruptionCrystal_DESC"
+	Value "Launches a specialty crystal shaped by Kreia, loaded with Antimatter, at the enemy. On shattering, its heavily charged fragments prevent the target from using abilities and interferes with all enemy energy weapons."
 StringInfo
-        ID "IDS_Ability_E4X_AbsorbtionBeam_NAME"
-        Value "Tractor Siphon"
+	ID "IDS_Ability_E4X_AbsorbtionBeam_NAME"
+	Value "Tractor Siphon"
 StringInfo
-        ID "IDS_Ability_E4X_AbsorbtionBeam_DESC"
-        Value "Massive PsiTech-powered siphon beams from the Halcyon leech a chunk of debris from the target ship, inflicting damage. Kreia then transforms the scrap metal into more drones, instantly producing strikecraft and increasing squadron sizes."
+	ID "IDS_Ability_E4X_AbsorbtionBeam_DESC"
+	Value "Massive PsiTech-powered siphon beams from the Halcyon leech a chunk of debris from the target ship, inflicting damage. Kreia then transforms the scrap metal into more drones, instantly producing strikecraft and increasing squadron sizes."
 StringInfo
-        ID "IDS_Ability_E4X_SpawnHeroTransPsi_NAME"
-        Value "Summon Anima Kreia"
+	ID "IDS_Ability_E4X_SpawnHeroTransPsi_NAME"
+	Value "Summon Anima Kreia"
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroScientistPhase_NAME"
-        Value "* Scientist Vasul"
+	ID "IDS_Capitalship_E4X_HeroScientistPhase_NAME"
+	Value "* Scientist Vasul"
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroScientistPhase_DESC"
-        Value "Scientists and warriors are both highly respected classes in Vasari society, but it's rare for them to mix with each other. That the scientist Vasul manages to conduct important research in the heart of battles is hardly the strangest thing about him. Never able to get enough test subjects, his breakthroughs are certain to harm your enemies as much as his sanity."
+	ID "IDS_Capitalship_E4X_HeroScientistPhase_DESC"
+	Value "Scientists and warriors are both highly respected classes in Vasari society, but it's rare for them to mix with each other. That the scientist Vasul manages to conduct important research in the heart of battles is hardly the strangest thing about him. Never able to get enough test subjects, his breakthroughs are certain to harm your enemies as much as his sanity."
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroScientistPhase_TACT"
-        Value "Scientist Vasul can be a powerful force on his own, especially early game. His Assimilation ability is extremely potent, doing massive damage to frigates while generating friendly ones. His interdiction beam weapon ensures his test subjects cannot escape, and he provides defensive fleet support and an antifighter ability. He struggles against Capital Ships though, so make sure he has some support to deal with them."
+	ID "IDS_Capitalship_E4X_HeroScientistPhase_TACT"
+	Value "Scientist Vasul can be a powerful force on his own, especially early game. His Assimilation ability is extremely potent, doing massive damage to frigates while generating friendly ones. His interdiction beam weapon ensures his test subjects cannot escape, and he provides defensive fleet support and an antifighter ability. He struggles against Capital Ships though, so make sure he has some support to deal with them."
 StringInfo
-        ID "IDS_Ability_E4X_Assimulation_NAME"
-        Value "Assimilation"
+	ID "IDS_Ability_E4X_Assimulation_NAME"
+	Value "Assimilation"
 StringInfo
-        ID "IDS_Ability_E4X_Assimulation_DESC"
-        Value "Vasul releases a canister of his prized nanites at the enemy. These nanites eat away at the target's hull for major damage and structural weakness, and if the target is destroyed they return to his ship and reform themselves as a friendly frigate."
+	ID "IDS_Ability_E4X_Assimulation_DESC"
+	Value "Vasul releases a canister of his prized nanites at the enemy. These nanites eat away at the target's hull for major damage and structural weakness, and if the target is destroyed they return to his ship and reform themselves as a friendly frigate."
 StringInfo
-        ID "IDS_Ability_E4X_NanoCloud_NAME"
-        Value "Nano Cloud"
+	ID "IDS_Ability_E4X_NanoCloud_NAME"
+	Value "Nano Cloud"
 StringInfo
-        ID "IDS_Ability_E4X_NanoCloud_DESC"
-        Value "Vasul's modified Skarovas Enforcer secretes a swarm of nanites that coat allied ships and make repairs, increasing Hull Repair rates and Armor. These nanites are highly intelligent, and if a ship is destroyed in the cloud its debris will be collect and used to further heal nearby allied ships."
+	ID "IDS_Ability_E4X_NanoCloud_DESC"
+	Value "Vasul's modified Skarovas Enforcer secretes a swarm of nanites that coat allied ships and make repairs, increasing Hull Repair rates and Armor. These nanites are highly intelligent, and if a ship is destroyed in the cloud its debris will be collect and used to further heal nearby allied ships."
 StringInfo
-        ID "IDS_Ability_E4X_SeedFighter_NAME"
-        Value "Anti-Fighter Field"
+	ID "IDS_Ability_E4X_SeedFighter_NAME"
+	Value "Anti-Fighter Field"
 StringInfo
-        ID "IDS_Ability_E4X_SeedFighter_DESC"
-        Value "Vasul's lab ship releases a field of potent nanites that bind to all nearby enemy strikecraft. These nanites sabotage the weapons of the target, reducing damage dealt and resulting in a powerful explosion on death, further damaging other strikecraft."
+	ID "IDS_Ability_E4X_SeedFighter_DESC"
+	Value "Vasul's lab ship releases a field of potent nanites that bind to all nearby enemy strikecraft. These nanites sabotage the weapons of the target, reducing damage dealt and resulting in a powerful explosion on death, further damaging other strikecraft."
 StringInfo
-        ID "IDS_Ability_E4X_SpawnHeroScientistPhase_NAME"
-        Value "Summon Scientist Vasul"
+	ID "IDS_Ability_E4X_SpawnHeroScientistPhase_NAME"
+	Value "Summon Scientist Vasul"
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroCombatPhase_NAME"
-        Value "* Warlord Lurathrak"
+	ID "IDS_Capitalship_E4X_HeroCombatPhase_NAME"
+	Value "* Warlord Lurathrak"
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroCombatPhase_DESC"
-        Value "Warlords and the clans they run are but one of the many political changes the Vasari have developed on their migration. After crushing and looting countless worlds, Warlord Lurathrak and the clan he leads are among the most notorious. Almost basking in the savagery of their conquests, he is both a cunning and resourceful leader eager to slaughter the next system over."
+	ID "IDS_Capitalship_E4X_HeroCombatPhase_DESC"
+	Value "Warlords and the clans they run are but one of the many political changes the Vasari have developed on their migration. After crushing and looting countless worlds, Warlord Lurathrak and the clan he leads are among the most notorious. Almost basking in the savagery of their conquests, he is both a cunning and resourceful leader eager to slaughter the next system over."
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroCombatPhase_TACT"
-        Value "Lurathrak is a great offensive coordinator. He is always connected to your Phase Node network, giving him great mobility and allowing reinforcements to reach him with ease. He can summon his own reinforcements as well while delaying that of the enemy's, and he has a knack for making his own fleet more ruthless while inflicting his foes with weakness."
+	ID "IDS_Capitalship_E4X_HeroCombatPhase_TACT"
+	Value "Lurathrak is a great offensive coordinator. He is always connected to your Phase Node network, giving him great mobility and allowing reinforcements to reach him with ease. He can summon his own reinforcements as well while delaying that of the enemy's, and he has a knack for making his own fleet more ruthless while inflicting his foes with weakness."
 StringInfo
-        ID "IDS_Ability_E4X_Horde_NAME"
-        Value "Horde"
+	ID "IDS_Ability_E4X_Horde_NAME"
+	Value "Horde"
 StringInfo
-        ID "IDS_Ability_E4X_Horde_DESC"
-        Value "Lurathrak's years of bring worlds into submission ahead of the main Vasari armada has made him an expert at commanding raiding parties. His leadership can boost the speed and damage output of nearby friendly ships."
+	ID "IDS_Ability_E4X_Horde_DESC"
+	Value "Lurathrak's years of bring worlds into submission ahead of the main Vasari armada has made him an expert at commanding raiding parties. His leadership can boost the speed and damage output of nearby friendly ships."
 StringInfo
-        ID "IDS_Ability_E4X_IsolatePlanet_NAME"
-        Value "Isolate Planet"
+	ID "IDS_Ability_E4X_IsolatePlanet_NAME"
+	Value "Isolate Planet"
 StringInfo
-        ID "IDS_Ability_E4X_IsolatePlanet_DESC"
-        Value "Lurathrak's growing reputation for brutality causes those at other systems to want to avoid this planet at all costs, reducing trade income, slowing reinforcements en-route to the planet, and lowering their Antimatter reserves."
+	ID "IDS_Ability_E4X_IsolatePlanet_DESC"
+	Value "Lurathrak's growing reputation for brutality causes those at other systems to want to avoid this planet at all costs, reducing trade income, slowing reinforcements en-route to the planet, and lowering their Antimatter reserves."
 StringInfo
-        ID "IDS_Ability_E4X_FleetingWill_NAME"
-        Value "Fleeting Will"
+	ID "IDS_Ability_E4X_FleetingWill_NAME"
+	Value "Fleeting Will"
 StringInfo
-        ID "IDS_Ability_E4X_FleetingWill_DESC"
-        Value "Prolonged combat with Lurathrak's warriors causes a growing sense of dread in enemy forces, decreasing the damage they deal while also inflicting extra damage each time they take weapons fire."
+	ID "IDS_Ability_E4X_FleetingWill_DESC"
+	Value "Prolonged combat with Lurathrak's warriors causes a growing sense of dread in enemy forces, decreasing the damage they deal while also inflicting extra damage each time they take weapons fire."
 StringInfo
-        ID "IDS_Ability_E4X_SummonRaiders_NAME"
-        Value "Summon Clan Mates"
+	ID "IDS_Ability_E4X_SummonRaiders_NAME"
+	Value "Summon Clan Mates"
 StringInfo
-        ID "IDS_Ability_E4X_SummonRaiders_DESC"
-        Value "Lurathrak summons an escort from his own clan to help assault the enemy; a free source of reinforcements, though they will have to leave to their normal duties after a while."
+	ID "IDS_Ability_E4X_SummonRaiders_DESC"
+	Value "Lurathrak summons an escort from his own clan to help assault the enemy; a free source of reinforcements, though they will have to leave to their normal duties after a while."
 StringInfo
-        ID "IDS_Ability_E4X_TemporaryShip_NAME"
-        Value "Clan Ship"
+	ID "IDS_Ability_E4X_TemporaryShip_NAME"
+	Value "Clan Ship"
 StringInfo
-        ID "IDS_Ability_E4X_TemporaryShip_DESC"
-        Value "This ship, while a part of  Lurathrak's clan, is not under your command, and will have to return to its duties after five minutes."
+	ID "IDS_Ability_E4X_TemporaryShip_DESC"
+	Value "This ship, while a part of  Lurathrak's clan, is not under your command, and will have to return to its duties after five minutes."
 StringInfo
-        ID "IDS_Ability_E4X_SpawnHeroCombatPhase_NAME"
-        Value "Summon Warlord Lurathrak"
+	ID "IDS_Ability_E4X_SpawnHeroCombatPhase_NAME"
+	Value "Summon Warlord Lurathrak"
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroLeaderPhase_NAME"
-        Value "* Overlord Nihovalus"
+	ID "IDS_Capitalship_E4X_HeroLeaderPhase_NAME"
+	Value "* Overlord Nihovalus"
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroLeaderPhase_DESC"
-        Value "If asked which of their leaders they feared most, most Vasari would pick their sectors' Overlord. Overlord Nihovalus has done his share to give the office its reputation. For over a century he has led one of the leading armadas, tasked with keeping the warrior clans in line and ensuring colonization and migration continues on schedule. He has become used to his orders being followed without question, and underlings who fail him do not last long."
+	ID "IDS_Capitalship_E4X_HeroLeaderPhase_DESC"
+	Value "If asked which of their leaders they feared most, most Vasari would pick their sectors' Overlord. Overlord Nihovalus has done his share to give the office its reputation. For over a century he has led one of the leading armadas, tasked with keeping the warrior clans in line and ensuring colonization and migration continues on schedule. He has become used to his orders being followed without question, and underlings who fail him do not last long."
 StringInfo
-        ID "IDS_Capitalship_E4X_HeroLeaderPhase_TACT"
-        Value "Nihovalus is an extremely dangerous tank unit and is to be used as such. He has the highest passive regeneration rates in the game and can actively heal against massive damage to himself. This staying power allows him to use his presence to deplete enemy Antimatter and shut down their abilities. If that wasn't enough, his ultimate can protect himself and his fleet from many debuffs, making this monster only defeatable in the direct combat which he excels at."
+	ID "IDS_Capitalship_E4X_HeroLeaderPhase_TACT"
+	Value "Nihovalus is an extremely dangerous tank unit and is to be used as such. He has the highest passive regeneration rates in the game and can actively heal against massive damage to himself. This staying power allows him to use his presence to deplete enemy Antimatter and shut down their abilities. If that wasn't enough, his ultimate can protect himself and his fleet from many debuffs, making this monster only defeatable in the direct combat which he excels at."
 StringInfo
-        ID "IDS_Ability_E4X_Authority_NAME"
-        Value "Authority"
+	ID "IDS_Ability_E4X_Authority_NAME"
+	Value "Authority"
 StringInfo
-        ID "IDS_Ability_E4X_Authority_DESC"
-        Value "Nihovalus' leadership as Overlord buffs your forces, making them immune to being disabled and increasing the effectiveness of their Phase Missiles."
+	ID "IDS_Ability_E4X_Authority_DESC"
+	Value "Nihovalus' leadership as Overlord buffs your forces, making them immune to being disabled and increasing the effectiveness of their Phase Missiles."
 StringInfo
-        ID "IDS_Ability_E4X_Cease_NAME"
-        Value "Cease"
+	ID "IDS_Ability_E4X_Cease_NAME"
+	Value "Cease"
 StringInfo
-        ID "IDS_Ability_E4X_Cease_DESC"
-        Value "The commands of Overlord Nihovalus are not easily resisted, disabling the abilities many enemy frigates near a target or of a single larger target."
+	ID "IDS_Ability_E4X_Cease_DESC"
+	Value "The commands of Overlord Nihovalus are not easily resisted, disabling the abilities many enemy frigates near a target or of a single larger target."
 StringInfo
-        ID "IDS_Ability_E4X_Intimidation_NAME"
-        Value "Intimidation"
+	ID "IDS_Ability_E4X_Intimidation_NAME"
+	Value "Intimidation"
 StringInfo
-        ID "IDS_Ability_E4X_Intimidation_DESC"
-        Value "The mere presence of a Vasari Overlord is enough to intimidate hostile forces, making them use more Antimatter for their abilities."
+	ID "IDS_Ability_E4X_Intimidation_DESC"
+	Value "The mere presence of a Vasari Overlord is enough to intimidate hostile forces, making them use more Antimatter for their abilities."
 StringInfo
-        ID "IDS_Ability_E4X_Preservation_NAME"
-        Value "Preservation"
+	ID "IDS_Ability_E4X_Preservation_NAME"
+	Value "Preservation"
 StringInfo
-        ID "IDS_Ability_E4X_Preservation_DESC"
-        Value "A century of command has given Nihovalus an unrivaled capacity to survive, no matter how damaged his Kortul Devastator flagship is."
+	ID "IDS_Ability_E4X_Preservation_DESC"
+	Value "A century of command has given Nihovalus an unrivaled capacity to survive, no matter how damaged his Kortul Devastator flagship is."
 StringInfo
-        ID "IDS_Ability_E4X_SpawnHeroLeaderPhase_NAME"
-        Value "Summon Overlord Nihovalus"
+	ID "IDS_Ability_E4X_SpawnHeroLeaderPhase_NAME"
+	Value "Summon Overlord Nihovalus"
 StringInfo
-        ID "IDS_PLANETMODULE_E4X_TechCommandCenter_NAME"
-        Value "Trader Defense Navy HQ"
+	ID "IDS_PLANETMODULE_E4X_TechCommandCenter_NAME"
+	Value "Trader Defense Navy HQ"
 StringInfo
-        ID "IDS_PLANETMODULE_E4X_TechCommandCenter_DESC"
-        Value "These outposts are built at the capital of every sector, providing your front a hub with which to interact with the rest of the Trader Military throughout the galaxy, giving you the ability to summon heroes."
+	ID "IDS_PLANETMODULE_E4X_TechCommandCenter_DESC"
+	Value "These outposts are built at the capital of every sector, providing your front a hub with which to interact with the rest of the Trader Military throughout the galaxy, giving you the ability to summon heroes."
 StringInfo
-        ID "IDS_PLANETMODULE_E4X_PsiCommandCenter_NAME"
-        Value "Sanctum of the Unity"
+	ID "IDS_PLANETMODULE_E4X_PsiCommandCenter_NAME"
+	Value "Sanctum of the Unity"
 StringInfo
-        ID "IDS_PLANETMODULE_E4X_PsiCommandCenter_DESC"
-        Value "A core part of the universal Unity network, the Sanctum contains powerful PsiTech to allow telepathic communication throughout the galaxy, keeping the dioceses of the Unity in constant contact and providing you the ability to request heroes."
+	ID "IDS_PLANETMODULE_E4X_PsiCommandCenter_DESC"
+	Value "A core part of the universal Unity network, the Sanctum contains powerful PsiTech to allow telepathic communication throughout the galaxy, keeping the dioceses of the Unity in constant contact and providing you the ability to request heroes."
 StringInfo
-        ID "IDS_PLANETMODULE_E4X_PhaseCommandCenter_NAME"
-        Value "Occupation Center"
+	ID "IDS_PLANETMODULE_E4X_PhaseCommandCenter_NAME"
+	Value "Occupation Center"
 StringInfo
-        ID "IDS_PLANETMODULE_E4X_PhaseCommandCenter_DESC"
-        Value "The domain of the Vice-Overlord in charge of this system, the Occupation Center serves a vital role in keeping local inhabitants in check, coordinating the movements of the Dark Fleet, and directing the migration. Its connections allow you to summon heroes."
+	ID "IDS_PLANETMODULE_E4X_PhaseCommandCenter_DESC"
+	Value "The domain of the Vice-Overlord in charge of this system, the Occupation Center serves a vital role in keeping local inhabitants in check, coordinating the movements of the Dark Fleet, and directing the migration. Its connections allow you to summon heroes."
 StringInfo
 	ID "Axeldude_PLANETBONUS_DepositTungsten_Name"
 	Value "DEPOSIT: Tungsten"
