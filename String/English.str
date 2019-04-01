@@ -1010,7 +1010,7 @@ StringInfo
 	Value "Vasari Central Command"
 StringInfo
 	ID "IDS_RESEARCH_E4X_FactionBonusPhaseLoyals_DESC"
-	Value "Your faction is the Vasari Central Command (VCC), lead by the Overlords of the migration fleet. Fearing their ancient pursuers, they are more desperate than ever to leave Trader space, and will do anything to acquire supplies for the journey. The VCC starts with an improved Colony Frigate and a Titan Factory, and they get discounted Crew researches, allowing them to deploy their mobile exodus fleet more easily. Their Pulse weapons are also more effective at long range, and Wave Cannons can fire faster."
+	Value "Your faction is the Vasari Central Command (VCC), led by the Overlords of the migration fleet. Fearing their ancient pursuers, they are more desperate than ever to leave Trader space, and will do anything to acquire supplies for the journey. The VCC starts with an improved Colony Frigate and a Titan Factory, and they get discounted Crew researches, allowing them to deploy their mobile exodus fleet more easily. Their Pulse weapons are also more effective at long range, and Wave Cannons can fire faster."
 StringInfo
 	ID "IDS_RESEARCH_E4X_FactionBonusPhaseRebels_NAME"
 	Value "Vasari Ind. Republic"
@@ -1022,7 +1022,7 @@ StringInfo
 	Value "Orthodox Advent"
 StringInfo
 	ID "IDS_RESEARCH_E4X_FactionBonusPsiLoyals_DESC"
-	Value "Your faction is the Orthodox Advent, lead by the main hierarchy of the Advent that has existed for millennia. They seek to convert all nonbelievers to follow the Unity and inflict justice on the Traders for their expulsion. Their Culture is more effective, and Temples of Communion can be built without research. Culture spreads from their homeworld at a greatly increased rate, and their worlds grow faster and are more resistant to bombardment than others."
+	Value "Your faction is the Orthodox Advent, led by the main hierarchy of the Advent that has existed for millennia. They seek to convert all nonbelievers to follow the Unity and inflict justice on the Traders for their expulsion. Their Culture is more effective, and Temples of Communion can be built without research. Culture spreads from their homeworld at a greatly increased rate, and their worlds grow faster and are more resistant to bombardment than others."
 StringInfo
 	ID "IDS_RESEARCH_E4X_FactionBonusPsiRebels_NAME"
 	Value "Ascended Advent"
@@ -1847,7 +1847,7 @@ StringInfo
 	Value "As the first ever Marza captain, Commander Dyrenov was an odd pick by TEC Command, having had several disciplinary problems and an unusual eagerness for combat. But as the Advent invasion began in earnest, the Coalition need its most ferocious warrior pointed directly at the enemy. Dyrenov delivered. His counter attack reclaimed many lost systems and earned him the permanent hatred of the Unity."
 StringInfo
 	ID "IDS_Capitalship_E4X_HeroCombatTech_TACT"
-	Value "Commander Dyrenov is the TEC's best answer to Advent 'battleball' tactics. His Missiles always do AoE damage, and he has two useful AoE abilities at his disposal. Use Solid Nitrovium Payloads combined with his high base damage to take out vital Capital Ships with fleet buffs, and if he becomes too damaged he can quickly repair himself by bombing enemy planets."
+	Value "Commander Dyrenov is the TEC's best answer to Advent 'battleball' tactics. His Missiles always do AoE damage, and he has two useful AoE abilities at his disposal. Use Solid Nitrovium Payloads combined with his high base damage to take out vital Capital Ships with fleet buffs, and if he becomes too damaged, he can quickly repair himself by bombing enemy planets."
 StringInfo
 	ID "IDS_Ability_E4X_Maraud_NAME"
 	Value "Maraud"
@@ -2090,7 +2090,7 @@ StringInfo
 	Value "Clan Ship"
 StringInfo
 	ID "IDS_Ability_E4X_TemporaryShip_DESC"
-	Value "This ship, while a part of  Lurathrak's clan, is not under your command, and will have to return to its duties after five minutes."
+	Value "This ship, while a part of Lurathrak's clan, is not under your command, and will have to return to its duties after five minutes."
 StringInfo
 	ID "IDS_Ability_E4X_SpawnHeroCombatPhase_NAME"
 	Value "Summon Warlord Lurathrak"
