@@ -2036,7 +2036,7 @@ StringInfo
 	Value "Assimilation"
 StringInfo
 	ID "IDS_Ability_E4X_Assimulation_DESC"
-	Value "Vasul releases a canister of his prized nanites at the enemy. These nanites eat away at the target's hull for major damage and structural weakness, and if the target is destroyed they return to his ship and reform themselves as a friendly frigate."
+	Value "Vasul releases a canister of his prized nanites at the enemy. These nanites eat away at the target's hull for major damage and structural weakness, and if the target is destroyed, they return to his ship and reform themselves as a friendly frigate."
 StringInfo
 	ID "IDS_Ability_E4X_NanoCloud_NAME"
 	Value "Nano Cloud"
@@ -11288,7 +11288,7 @@ StringInfo
 	Value "Warhead Splintering"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_WARHEAD_SPLINTERING_DESCRIPTION"
-	Value "Adds multiple sub-warheads to missiles, each containing its own explosive payload which spreads damage across the enemy's hull and further increasing the damage of all Missile weapons.."
+	Value "Adds multiple sub-warheads to missiles, each containing its own explosive payload which spreads damage across the enemy's hull and further increasing the damage of all Missile weapons."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_WAR_MEASURES_ACT_NAME"
 	Value "War Measures Act"
@@ -13217,7 +13217,7 @@ StringInfo
 	Value "Psionic Scream"
 StringInfo
 	ID "IDS_ABILITY_PSIONICSCREAM_DESCRIPTION"
-	Value "Enemy frigates and Capital Ships near by target are afflicted by a powerful psionic wave dealing moderate damage and preventing them from using abilities for some time. Enemies afflicted by Fracture take bonus damage."
+	Value "Enemy frigates and Capital Ships near the target are afflicted by a powerful psionic wave dealing moderate damage and preventing them from using abilities for some time. Enemies afflicted by Fracture take bonus damage."
 StringInfo
 	ID "IDS_ABILITY_PSISPACEMINEDETONATE_NAME"
 	Value "Detonate"
@@ -14678,7 +14678,7 @@ StringInfo
 	Value "Our empire now holds the key to the galaxy."
 StringInfo
 	ID "IDSGameOverDialogHasLostPhraseTechOccupation"
-	Value "Failing to capture the Artifact World has lead to this."
+	Value "Failing to capture the Artifact World has led to this."
 StringInfo
 	ID "IDSGameOverDialogHasWonPhrasePsiMilitary"
 	Value "The Unity's vow of vengeance is now fulfilled."
@@ -23549,7 +23549,7 @@ StringInfo
 	Value "Reject Mission"
 StringInfo
 	ID "IDSPlayerScreenInfoCardRejectMissionDesc"
-	Value "Rejecting a mission will stop that mission and refund any reward offered back to the offering player but will also apply a portion of the relationship penalty to the receiving player up to a negative maximum equaling the current missions bonus."
+	Value "Rejecting a mission will stop that mission and refund any reward offered back to the offering player but will also apply a portion of the relationship penalty to the receiving player up to a negative maximum equaling the current mission's bonus."
 StringInfo
 	ID "IDSPlayerScreenInfoCardRelationshipWindowRelationshipFactorStatus"
 	Value "*VALUE0* *VALUE1*"
