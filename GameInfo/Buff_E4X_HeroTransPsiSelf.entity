@@ -7,7 +7,7 @@ allowFirstSpawnerToStack FALSE
 buffExclusivityForAIType "ExclusiveForAllPlayers"
 isInterruptable FALSE
 isChannelling FALSE
-numInstantActions 1
+numInstantActions 2
 instantAction
 	buffInstantActionType "ApplyBuffToLocalOrbitBody"
 	instantActionTriggerType "OnDelay"
@@ -23,6 +23,18 @@ instantAction
 		numSpaces 1
 		space "Normal"
 		numConstraints 0	
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	buffType "Buff_E4X_IsHero"
 	effectInfo
 		effectAttachInfo
 			attachType "Invalid"

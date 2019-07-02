@@ -7,7 +7,7 @@ allowFirstSpawnerToStack FALSE
 buffExclusivityForAIType "ExclusiveForAllPlayers"
 isInterruptable FALSE
 isChannelling FALSE
-numInstantActions 2
+numInstantActions 3
 instantAction
 	buffInstantActionType "ApplyBuffToLocalOrbitBody"
 	instantActionTriggerType "OnDelay"
@@ -35,6 +35,18 @@ instantAction
 	instantActionTriggerType "OnDelay"
 	delayTime 0.000000
 	buffType "Buff_E4X_HeroLeaderTechFlakSplashSelf"
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	buffType "Buff_E4X_IsHero"
 	effectInfo
 		effectAttachInfo
 			attachType "Invalid"
