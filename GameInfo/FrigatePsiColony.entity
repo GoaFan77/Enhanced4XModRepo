@@ -141,7 +141,7 @@ ability:0 "AbilityPsiFrigateColonize"
 ability:1 "Ability_E4X_CaptureNeutralFrigate"
 ability:2 ""
 ability:3 ""
-ability:4 ""
+ability:4 "Ability_E4X_PsiColonyFrigate"
 MaxAntiMatter 225.000000
 AntiMatterRestoreRate 0.500000
 cargoType "Invalid"

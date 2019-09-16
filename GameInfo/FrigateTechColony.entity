@@ -142,7 +142,7 @@ ability:0 "AbilityTechFrigateColonize"
 ability:1 "Ability_E4X_CaptureNeutralFrigate"
 ability:2 "Ability_E4X_TaRAssimulateMilitia"
 ability:3 "Ability_E4X_DeployPlanetaryDefenses"
-ability:4 ""
+ability:4 "Ability_E4X_TechColonyFrigate"
 MaxAntiMatter 225.000000
 AntiMatterRestoreRate 0.500000
 cargoType "Invalid"

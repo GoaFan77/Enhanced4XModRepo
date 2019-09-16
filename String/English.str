@@ -1,5 +1,23 @@
 TXT
-NumStrings 8665
+NumStrings 8671
+StringInfo
+	ID "IDS_ABILITY_ING_TechColonyFrigate_NAME"
+	Value "Resistance"
+StringInfo
+	ID "IDS_ABILITY_ING_TechColonyFrigate_DESC"
+	Value "Trader colonists would rather sacrifice themselves than suffer capture by alien forces." 
+StringInfo
+	ID "IDS_ABILITY_ING_PsiColonyFrigate_NAME"
+	Value "Vigilance"
+StringInfo
+	ID "IDS_ABILITY_ING_PsiColonyFrigate_DESC"
+	Value "Advent colonists are chosen from the best the Unity have to offer. They will not permit capture by the enemy." 
+StringInfo
+	ID "IDS_ABILITY_ING_PhaseColonyFrigate_NAME"
+	Value "Desperation"
+StringInfo
+	ID "IDS_ABILITY_ING_PhaseColonyFrigate_DESC"
+	Value "Vasari colonists, still fresh from their desperate exodus, would never let their vessel be captured by enemy forces." 
 StringInfo
 	ID "IDS_Ability_E4X_MinorFactionTradeCreditsForCrystalBetterRate_NAME"
 	Value "Sell Bulk Crystal"

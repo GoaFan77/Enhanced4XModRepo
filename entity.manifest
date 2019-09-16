@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2733
+entityNameCount 2737
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2732,3 +2732,7 @@ entityName "TITAN_PSIREBEL2.entity"
 entityName "TITAN_TECHLOYALIST2.entity"
 entityName "TITAN_TECHREBEL2.entity"
 entityName "Buff_E4X_IsHero.entity"
+entityName "Ability_E4X_PhaseColonyFrigate.entity"
+entityName "Ability_E4X_PsiColonyFrigate.entity"
+entityName "Ability_E4X_TechColonyFrigate.entity"
+entityName "Buff_E4X_NotCaptureable.entity"
