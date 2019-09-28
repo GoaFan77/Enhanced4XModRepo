@@ -40,8 +40,8 @@ researchModifier
 	perLevelValue 0.400000
 researchModifier
 	modifierType "PlanetUpgradeCostAdjustment"
-	baseValue 0.250000
-	perLevelValue 0.000000
+	baseValue 0.000000
+	perLevelValue 0.250000
 	linkedPlanetUpgradeType "Industry"
 artifactPicture "Artifact_E4X_PictureShipBuildTimeReduction"
 uniqueOverlayBrush ""
