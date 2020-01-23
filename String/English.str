@@ -2132,7 +2132,7 @@ StringInfo
 	Value "Cease"
 StringInfo
 	ID "IDS_Ability_E4X_Cease_DESC"
-	Value "The commands of Overlord Nihovalus are not easily resisted, disabling the abilities many enemy frigates near a target or of a single larger target."
+	Value "The commands of Overlord Nihovalus are not easily resisted, disabling the abilities of many enemy frigates near a target or of a single larger target."
 StringInfo
 	ID "IDS_Ability_E4X_Intimidation_NAME"
 	Value "Intimidation"
