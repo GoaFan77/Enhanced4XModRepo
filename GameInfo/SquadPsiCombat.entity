@@ -10,7 +10,7 @@ infoCardIcon "INFOCARDICON_SQUADPSICOMBAT"
 fighterEntityDef "FighterPsiCombat"
 fighterIllusionEntityDef "FighterPsiCombat"
 scuttleTime 8.000000
-fighterConstructionTime 17.600000
+fighterConstructionTime 15.500000
 decayWithoutOwnerRate 0.010000
 baseMaxNumFighters 6
 role "Combat"
