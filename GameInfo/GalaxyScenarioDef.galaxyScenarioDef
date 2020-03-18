@@ -4465,7 +4465,7 @@ planetItemsTemplate
 				param "TechDefensive"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 35
+			items 36
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4486,6 +4486,7 @@ planetItemsTemplate
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
+				item "Tech:Module:TradePort"
 				item "Tech:StarBase"
 				item "Tech:Module:Mine"
 				item "Tech:Module:Mine"
@@ -4701,7 +4702,7 @@ planetItemsTemplate
 				param "PhaseTransporters"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 29
+			items 30
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
 				item "Phase:Module:TradePort"
@@ -4718,7 +4719,8 @@ planetItemsTemplate
 				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
-				item "Phase:Module:MetalExtractor"				
+				item "Phase:Module:MetalExtractor"
+				item "Phase:Module:NonCombatLab"			
 				item "Phase:Module:PhaseGate"
 				item "Phase:CapitalShip:Scout"
 				item "Phase:Frigate:Light"
