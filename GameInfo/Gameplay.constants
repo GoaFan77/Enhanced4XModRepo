@@ -202,13 +202,13 @@ GameplayConstants
 			INTERCEPTOR 0.650000
 			BOMBER 0.750000
 		DamagePercentBonus:ANTIVERYLIGHT:CapitalShip 0.5
-		DamagePercentBonus:ANTIVERYLIGHT:VeryLight 1.5
-		DamagePercentBonus:ANTIVERYLIGHT:Light 0.65
+		DamagePercentBonus:ANTIVERYLIGHT:VeryLight 2.0
+		DamagePercentBonus:ANTIVERYLIGHT:Light 1.0
 		DamagePercentBonus:ANTIVERYLIGHT:Medium 0.5
 		DamagePercentBonus:ANTIVERYLIGHT:Heavy 0.5
 		DamagePercentBonus:ANTIVERYLIGHT:VeryHeavy 0.4
 		DamagePercentBonus:ANTIVERYLIGHT:Module 0.35
-		DamagePercentBonus:ANTIVERYLIGHT:Pirate 1.2
+		DamagePercentBonus:ANTIVERYLIGHT:Pirate 1.5
 		DamagePercentBonus:ANTIVERYLIGHT:Titan 0.45	
 		DamagePercentBonus:ANTILIGHT:CapitalShip 0.5
 		DamagePercentBonus:ANTILIGHT:VeryLight 1.0 
@@ -226,7 +226,7 @@ GameplayConstants
 		DamagePercentBonus:ANTIMEDIUM:Heavy 0.75
 		DamagePercentBonus:ANTIMEDIUM:VeryHeavy 0.75
 		DamagePercentBonus:ANTIMEDIUM:Module 0.50	
-		DamagePercentBonus:ANTIMEDIUM:Pirate 0.85	
+		DamagePercentBonus:ANTIMEDIUM:Pirate 0.25
 		DamagePercentBonus:ANTIMEDIUM:Titan 0.70	
 		DamagePercentBonus:ANTIHEAVY:CapitalShip 0.5
 		DamagePercentBonus:ANTIHEAVY:VeryLight 1.0
@@ -235,7 +235,7 @@ GameplayConstants
 		DamagePercentBonus:ANTIHEAVY:Heavy 1.5
 		DamagePercentBonus:ANTIHEAVY:VeryHeavy 0.5
 		DamagePercentBonus:ANTIHEAVY:Module 0.5
-		DamagePercentBonus:ANTIHEAVY:Pirate 0.60
+		DamagePercentBonus:ANTIHEAVY:Pirate 0.80
 		DamagePercentBonus:ANTIHEAVY:Titan 0.45	
 		DamagePercentBonus:ANTIVERYHEAVY:CapitalShip 0.6
 		DamagePercentBonus:ANTIVERYHEAVY:VeryLight 0.5
@@ -244,7 +244,7 @@ GameplayConstants
 		DamagePercentBonus:ANTIVERYHEAVY:Heavy 0.5
 		DamagePercentBonus:ANTIVERYHEAVY:VeryHeavy 1.0
 		DamagePercentBonus:ANTIVERYHEAVY:Module 0.50
-		DamagePercentBonus:ANTIVERYHEAVY:Pirate 0.50
+		DamagePercentBonus:ANTIVERYHEAVY:Pirate 0.40
 		DamagePercentBonus:ANTIVERYHEAVY:Titan 0.55	
 		DamagePercentBonus:ANTIMODULE:CapitalShip 0.4
 		DamagePercentBonus:ANTIMODULE:VeryLight 0.01
@@ -253,8 +253,8 @@ GameplayConstants
 		DamagePercentBonus:ANTIMODULE:Heavy 0.15
 		DamagePercentBonus:ANTIMODULE:VeryHeavy 0.20
 		DamagePercentBonus:ANTIMODULE:Module 2.0
-		DamagePercentBonus:ANTIMODULE:Pirate 0.20
-		DamagePercentBonus:ANTIMODULE:Titan 1.00000	
+		DamagePercentBonus:ANTIMODULE:Pirate 0.02
+		DamagePercentBonus:ANTIMODULE:Titan 1.0
 		DamagePercentBonus:COMPOSITE:CapitalShip 0.75
 		DamagePercentBonus:COMPOSITE:VeryLight 1.0
 		DamagePercentBonus:COMPOSITE:Light 1.5
@@ -262,7 +262,7 @@ GameplayConstants
 		DamagePercentBonus:COMPOSITE:Heavy 1.0
 		DamagePercentBonus:COMPOSITE:VeryHeavy 1.0
 		DamagePercentBonus:COMPOSITE:Module 0.75
-		DamagePercentBonus:COMPOSITE:Pirate 0.4
+		DamagePercentBonus:COMPOSITE:Pirate 0.75
 		DamagePercentBonus:COMPOSITE:Titan 0.70
 		DamagePercentBonus:CAPITALSHIP:CapitalShip 1.0
 		DamagePercentBonus:CAPITALSHIP:VeryLight 0.25
@@ -271,7 +271,7 @@ GameplayConstants
 		DamagePercentBonus:CAPITALSHIP:Heavy 1.0
 		DamagePercentBonus:CAPITALSHIP:VeryHeavy 1.0
 		DamagePercentBonus:CAPITALSHIP:Module 0.75
-		DamagePercentBonus:CAPITALSHIP:Pirate 1.0	
+		DamagePercentBonus:CAPITALSHIP:Pirate 0.80	
 		DamagePercentBonus:CAPITALSHIP:Titan 0.95		
 		DamagePercentBonus:CAPITALABILITY:CapitalShip 0.75
 		DamagePercentBonus:CAPITALABILITY:VeryLight 1.0
@@ -280,7 +280,7 @@ GameplayConstants
 		DamagePercentBonus:CAPITALABILITY:Heavy 1.0
 		DamagePercentBonus:CAPITALABILITY:VeryHeavy 1.0
 		DamagePercentBonus:CAPITALABILITY:Module 1.0
-		DamagePercentBonus:CAPITALABILITY:Pirate 0.75
+		DamagePercentBonus:CAPITALABILITY:Pirate 1.0
 		DamagePercentBonus:CAPITALABILITY:Titan 0.75
 		DamagePercentBonus:TITAN:CapitalShip 1.0
 		DamagePercentBonus:TITAN:VeryLight 0.25
@@ -289,7 +289,7 @@ GameplayConstants
 		DamagePercentBonus:TITAN:Heavy 1.0
 		DamagePercentBonus:TITAN:VeryHeavy 1.0
 		DamagePercentBonus:TITAN:Module 0.75
-		DamagePercentBonus:TITAN:Pirate 0.40
+		DamagePercentBonus:TITAN:Pirate 0.20
 		DamagePercentBonus:TITAN:Titan 1.0
 		DamagePercentBonus:CORVETTE:CapitalShip 0.50
 		DamagePercentBonus:CORVETTE:VeryLight 0.50
