@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2737
+entityNameCount 2738
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2736,3 +2736,4 @@ entityName "Ability_E4X_PhaseColonyFrigate.entity"
 entityName "Ability_E4X_PsiColonyFrigate.entity"
 entityName "Ability_E4X_TechColonyFrigate.entity"
 entityName "Buff_E4X_NotCaptureable.entity"
+entityName "Ability_E4X_Embassy.entity"

@@ -1,5 +1,11 @@
 TXT
-NumStrings 8671
+NumStrings 8673
+StringInfo
+	ID "IDS_ABILITY_E4X_Embassy_NAME"
+	Value "Diplomatic Protection"
+StringInfo
+	ID "IDS_ABILITY_E4X_Embassy_DESC"
+	Value "Diplomatic tradition prohibits the occupation of embassies or the imprisonment of diplomatic personell. Upon capture of the Embassy, diplomats will be remitted to their home empires and the Embassy will be destroyed by security forces."  
 StringInfo
 	ID "IDS_ABILITY_ING_TechColonyFrigate_NAME"
 	Value "Resistance"
