@@ -1,5 +1,5 @@
 TXT
-NumStrings 8673
+NumStrings 8580
 StringInfo
 	ID "IDS_ABILITY_E4X_Embassy_NAME"
 	Value "Diplomatic Protection"
@@ -2371,60 +2371,6 @@ StringInfo
 	ID "Axeldude_PLANETBONUS_WeakMagneticField_Desc"
 	Value "Initial scans of this planet reveal a weak magnetic field, causing solar winds to sweep across the surface hindering planet development and decreasing desirability."
 StringInfo
-	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_MINELAYERPHASE_DESCRIPTION"
-	Value "Grants access to Sivuskras Ruiner cruisers - support ships able to deploy different types of stationary mines."
-StringInfo
-	ID "IDS_FRIGATE_PHASEMINELAYER_DESCRIPTION"
-	Value "A supporting cruiser able to lay specialized mines for crippling the enemy."
-StringInfo
-	ID "IDS_COUNTERDESC_FRIGATE_ANTIMODULE"
-	Value "Strong vs. structures."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_STARBASEUPGRADEACCESS_CULTURE_DESCRIPTION"
-	Value "Grants Transcencia class starbases access to Evangelization Nodes upgrades, allowing them to spread your empire's culture and repel hostile culture."
-StringInfo
-	ID "IDS_STARBASEUPGRADEPSICULTURE_DESC"
-	Value "PsiTech telepathy equipment is installed into the starbase, allowing it to broadcast your empire's culture and repel enemy culture."
-StringInfo
-	ID "IDS_STARBASEUPGRADEPHASEBLOCKCOLONIZE_DESC"
-	Value "This starbase has an imposing influence on the nearby planet's population, causing them to remain committed to you empire despite bombardment and to reject colonization by hostile empires until the starbase is destroyed."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPHASE_NAME"
-	Value "Greenhouse Occupation"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPHASE_DESCRIPTION"
-	Value "Allows colonization of Greenhouse planets."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPSI_NAME"
-	Value "Greenhouse Evangelism"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPSI_DESCRIPTION"
-	Value "Allows colonization of Greenhouse planets."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSETECH_NAME"
-	Value "Greenhouse Exploitation"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSETECH_DESCRIPTION"
-	Value "Allows colonization of Greenhouse planets."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_ICETECH_NAME"
-	Value "Arctic Exploitation"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_ICETECH_DESCRIPTION"
-	Value "Allows colonization of Ice Planets."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_ICEPSI_NAME"
-	Value "Arctic Evangelism"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_ICEPSI_DESCRIPTION"
-	Value "Allows colonization of Ice Planets."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_ICEPHASE_NAME"
-	Value "Arctic Occupation"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_ICEPHASE_DESCRIPTION"
-	Value "Allows colonization of Ice Planets."
-StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONPHASE_NAME"
 	Value "Ferrous Occupation"
 StringInfo
@@ -2443,35 +2389,11 @@ StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONTECH_DESCRIPTION"
 	Value "Allows colonization of Ferrous planets."
 StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPHASE_NAME"
-	Value "Oceanic Occupation"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPHASE_DESCRIPTION"
-	Value "Allows colonization of Oceanic planets."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPSI_NAME"
-	Value "Oceanic Evangelism"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICPSI_DESCRIPTION"
-	Value "Allows colonization of Oceanic planets."
-StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICTECH_NAME"
 	Value "Oceanic Exploitation"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_OCEANICTECH_DESCRIPTION"
 	Value "Allows colonization of Oceanic planets."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_VOLCANICTECH_NAME"
-	Value "Volcanic Exploitation"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_VOLCANICTECH_DESCRIPTION"
-	Value "Allows colonization of Volcanic Planets."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_VOLCANICPSI_NAME"
-	Value "Volcanic Evangelism"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_VOLCANICPSI_DESCRIPTION"
-	Value "Allows colonization of Volcanic Planets."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_VOLCANICPHASE_NAME"
 	Value "Volcanic Occupation"
@@ -2482,176 +2404,53 @@ StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPBARRENPSI0_NAME"
 	Value "Shielded Architecture"
 StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPBARRENPSI0_DESCRIPTION"
-	Value "Specialized atmospheric shields are added to colony structures, allowing for larger populations on Barren planets under your empire's control."
-StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPBARRENPSI1_NAME"
 	Value "Subsurface Environments"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPBARRENPSI1_DESCRIPTION"
-	Value "By expanding cities under the surface, even larger populations on Barren planets under your empire's control can be sustained."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPDESERTTECH0_NAME"
 	Value "Improved Arid Colonies"
 StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPDESERTTECH0_DESCRIPTION"
-	Value "Adapting construction best practices to the dry and sandy climate increases the population cap on Desert planets under your empire's control."
-StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPDESERTPSI0_NAME"
 	Value "Homeworld Prophecy"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPDESERTPSI0_DESCRIPTION"
-	Value "Knowledge of your people's desert origins is rediscovered, inspiring many to flock to these types of planets."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPDESERTPSI1_NAME"
-	Value "Thriving Desert Cities"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPDESERTPSI1_DESCRIPTION"
-	Value "Shared belief in the prophecy fosters communally built dwellings, increasing the population cap on Desert planets under your empire's control."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPICETECH0_NAME"
 	Value "Advanced Arctic Colonies"
 StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPICETECH0_DESCRIPTION"
-	Value "Improvements in the economies of scale of insulating construction materials leads to increases in the population cap on Ice planets under your empire's control."
-StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPICEPHASE0_NAME"
 	Value "Subzero Biology"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPICEPHASE0_DESCRIPTION"
-	Value "Genetic mutation to promote subdermal fat and other insulating traits is imposed on all inhabitants of Ice planets, increasing the population those planets can support."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPIRONPHASE0_NAME"
 	Value "Metabolic Reclamation"
 StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPIRONPHASE0_DESCRIPTION"
-	Value "Inhabitants are genetically modified to slow their metabolisms to survive more easily in non-organic environements, increasing the population that Ferrous planets can support."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPIRONPHASE1_NAME"
-	Value "Ferric Transformation"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPIRONPHASE1_DESCRIPTION"
-	Value "Organic life is introduced in an effort to terraform the planet, making the environment less hostile and increasing the population that Ferrous planets can support."
-StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANTECH0_NAME"
 	Value "High Density Zoning"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANTECH0_DESCRIPTION"
-	Value "Shifts in urban planning philosophies favor dense urban metropolises, increasing the population cap on Terran planets under your empire's control."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANTECH1_NAME"
 	Value "Advanced Civic Design"
 StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANTECH1_DESCRIPTION"
-	Value "Breakthroughs in sustainable housing allow for increases of the population cap on Terran planets under your empire's control."
-StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANPSI0_NAME"
 	Value "Inspired Architecture"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANPSI0_DESCRIPTION"
-	Value "The grace of the Unity sparks new breakthroughs in civic design, increasing the population cap on Terran planets under your empire's control."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANPHASE0_NAME"
-	Value "Full Terran Lockdown"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANPHASE0_DESCRIPTION"
-	Value "Imported labor to support the garrisoned occupation forces increases the population on Terran planets under your empire's control."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPOCEANICTECH0_NAME"
 	Value "High Pressure Domes"
 StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPOCEANICTECH0_DESCRIPTION"
-	Value "New engineering techniques allow for the deployment of domes in the deep oceans of Oceanic planets under your empire's control."
-StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPOCEANICTECH1_NAME"
 	Value "Underwater Cities"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPOCEANICTECH1_DESCRIPTION"
-	Value "By reinforcing the domes used in the deep oceans city sized areas can now be established, increasing the populations of Oceanic planets under your empire's control."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPVOLCANICPHASE0_NAME"
 	Value "Extreme Heat Metabolism"
 StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPVOLCANICPHASE0_DESCRIPTION"
-	Value "Basic metabolic processes of all inhabitants are re-engineered to catalyze at the extreme temperatures on Volcanic planets, increasing the population those planets can support."
-StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPVOLCANICPHASE1_NAME"
 	Value "Sulfurous Respiration"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPVOLCANICPHASE1_DESCRIPTION"
-	Value "Genetic alteration granting the ability to breathe normally toxic atmospheric gases is imposed on all inhabitants of Volcanic planets, thus raising the population cap."
 StringInfo
 	ID "IDS_ABILITY_DETECTMINESTECH_NAME"
 	Value "Reveal Mines"
 StringInfo
-	ID "IDS_ABILITY_DETECTMINESTECH_DESCRIPTION"
-	Value "Countermeasure systems disrupt the simple phase space cloaking field of enemy mines within a small radius of the frigate."
-StringInfo
 	ID "IDS_ABILITY_DETECTMINESPSI_NAME"
 	Value "Sense Mines"
 StringInfo
-	ID "IDS_ABILITY_DETECTMINESPSI_DESCRIPTION"
-	Value "Psionic Adepts aboard the Seeker manipulate the phase space cloaking field of enemy mines to reveal themselves within a small radius of the frigate."
-StringInfo
 	ID "IDS_ABILITY_DETECTMINESPHASE_NAME"
 	Value "Decloak Mines"
-StringInfo
-	ID "IDS_ABILITY_DETECTMINESPHASE_DESCRIPTION"
-	Value "Phase space inversion systems about the Navigator pull enemy mines back into real space within a small radius of the frigate."
-StringInfo
-	ID "IDS_RACESELECTDIALOG_TECHLOYALIST_DESCRIPTION"
-	Value "Weary from the long decades of war, the TEC Loyalists seek isolation from the other factions. By focusing on defensive measures and technologies, the Loyalists are able to deploy cheaper starbases, construct two starbases around their planets, more heavily armor their defensive structures, and deploy cheaper Novalith cannons. Loyalists may build the powerful Ankylon Titan - a huge warship which is capable of defending friendly fleets from aggressors."
-StringInfo
-	ID "IDS_RACESELECTDIALOG_TECHREBEL_DESCRIPTION"
-	Value "Immersed in the militant philosophy of the TEC, the Rebels choose to use the arsenals they've created to crush their enemies. Hateful of all xenos species from the cruelty of decades of war, the TEC Rebels show little mercy. The Rebel faction gains economic benefits from attacking other empires, and can ally with neutral and Pirate factions for aid. Rebels may construct the awesome Ragnarov Titan - a massive, long-range, warship that houses a powerful rail gun."
-StringInfo
-	ID "IDS_RACESELECTDIALOG_PSILOYALIST_DESCRIPTION"
-	Value "Eager to continue their revenge against the TEC, the Advent Loyalists seek to assimilate any who survive into the society of the Unity. Loyalists use their unique culture to mind control enemy ships, empower friendly vessels within their cultural borders, and to take vengeance on foes. Advent Loyalists may build the Coronata Titan, a unique warship capable of inflicting enormous damage and even of instantly acquiring hostile planets."
-StringInfo
-	ID "IDS_RACESELECTDIALOG_PSIREBEL_DESCRIPTION"
-	Value "Suspecting that a corruptive influence within the Unity has influenced their race, the Advent Rebels seek to purge this unseen enemy to restore the Unity to its proper path. The Rebels are able to use the purified Unity to revive destroyed ships, sacrifice worlds to inflict terrible damage to adjacent planets, and rapidly spread their culture to assist their fleets. Rebels can also construct the Eradica Titan - a powerful offensive ship that is supremely difficult to defeat."
-StringInfo
-	ID "IDS_RACESELECTDIALOG_PHASELOYALIST_DESCRIPTION"
-	Value "Feeling that they've lingered too long in this region of space, the Vasari Loyalists abandon cooperation and strike out to take the resources they need to escape. Loyalists gain the ability to develop without the need for planets, may call upon the Dark Fleet for aid, and are able to consume planets for their resources. The Vasari Loyalists may build the Vorastra Titan - a deadly warship capable of instantaneous movement, splash damage, and devouring enemy ships."
-StringInfo
-	ID "IDS_RACESELECTDIALOG_PHASEREBEL_DESCRIPTION"
-	Value "Unlike their Loyalist breathren, the Vasari Rebels feel their best chance for survival is to cooperate with other races and bring them along on their flight. Rebels are capable of quick hit and run attacks, sharing phase networks, and of moving their starbases to new systems. Vasari Rebels' superior expertise in nano-technology allows them to construct the Kultorask Titan - an imposing vessel that can leech power from enemies and stream it back to the titan."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PIRATE_MERCENARIES_DESCRIPTION"
-	Value "The Pirates throw their lot in with the rebellion, allowing you to purchase military aid through the Broadcast Center."
-StringInfo
-	ID "IDS_ABILITY_PHASEEXPLOSIVEMINEDETONATE_DESCRIPTION"
-	Value "Causes the mine to explode when enemy targets are nearby, dealing physical damage to all of them."
-StringInfo
-	ID "IDS_ABILITY_PHASEGRAVITYMINEDETONATE_DESCRIPTION"
-	Value "Causes the mine to explode when enemy targets are nearby, slowing their subspace movement and making phase jumping impossible."
-StringInfo
-	ID "IDS_ABILITY_PSISPACEMINEDETONATE_DESCRIPTION"
-	Value "Causes the mine to explode against the nearest target."
-StringInfo
-	ID "IDS_ABILITY_TECHSPACEMINEDETONATE_DESCRIPTION"
-	Value "Causes the mine to explode when enemy targets are nearby, dealing physical damage to all of them."
-StringInfo
-	ID "IDS_SPACEMINE_TECH_DESC"
-	Value "A payload of explosives connected to a basic sensor system. Explodes when enemy ships get too close, dealing damage to all within its radius."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETMODULEACCESS_SPACEMINESTECH_DESCRIPTION"
-	Value "Grants access to Proximity Mine Fields, which fill the gravity well with many stationary mines. These will explode when enemy ships approach too closely."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_ABILITYACCESS_DEPLOYSPACEMINEPHASEGRAVITY_DESCRIPTION"
-	Value "Allows Sivuskras Ruiners to deploy Gravity Mines, which slow enemy ships and prevent them from hyperspacing when detonated."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_TRUCE_AMONGST_ROGUES_DESCRIPTION"
-	Value "A deal is struck to end petty squabbling between your empire and the Pirates resulting in a Peace Treaty."
-StringInfo
-	ID "IDS_ABILITY_MICROPHASEJUMP_DESCRIPTION"
-	Value "Instantly transports the titan to the targeted position."
-StringInfo
-	ID "IDS_ABILITY_PSIORBITALCANNON_DESC"
-	Value "The Unity's will is channeled toward a distant planet, telepathically coercing its populace into promoting your empire's culture for a brief time. Friendly ships in orbit of this planet also deal additional damage."
-StringInfo
-	ID "IDS_ABILITY_UNYIELDINGWILL_DESCRIPTION"
-	Value "When the titan's hull is depleted, it will become invulnerable for a short period of time before being destroyed. Ability cooldowns are greatly reduced and antimatter regeneration is massively increased."
 StringInfo
 	ID "IDSPlayerAINameTech0"
 	Value "Nitheim Rebels"
@@ -7327,9 +7126,6 @@ StringInfo
 	ID "IDS_GAMEMESSAGE_QUESTFAILED"
 	Value "You have failed the %s mission from %s."
 StringInfo
-	ID "IDS_GAMEMESSAGE_QUESTCOMPLETED"
-	Value "You have successfully finished the %s mission from %s."
-StringInfo
 	ID "IDS_GAMEMESSAGE_QUESTENDED"
 	Value "Your mission from %s has ended because %s has been defeated."
 StringInfo
@@ -10399,24 +10195,6 @@ StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_ICEPHASE_NAME"
 	Value "Arctic Occupation"
 StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONPHASE_NAME"
-	Value "Ferrous Occupation"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONPHASE_DESCRIPTION"
-	Value "Allows colonization of Ferrous planets."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONPSI_NAME"
-	Value "Ferrous Evangelism"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONPSI_DESCRIPTION"
-	Value "Allows colonization of Ferrous planets."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONTECH_NAME"
-	Value "Ferrous Exploitation"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_IRONTECH_DESCRIPTION"
-	Value "Allows colonization of Ferrous planets."
-StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETBONUSCOSTDECREASE_NAME"
 	Value "Divination"
 StringInfo
@@ -10647,48 +10425,6 @@ StringInfo
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETUPGRADERATE_DESCRIPTION"
 	Value "Revised project management practices increase construction parallelism, increasing the build rate for all types of planet development. Additionally, Logistics capacity costs are reduced."
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPBARRENPSI0_NAME"
-	Value "Shielded Architecture"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPBARRENPSI1_NAME"
-	Value "Subsurface Environments"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPDESERTTECH0_NAME"
-	Value "Improved Arid Colonies"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPDESERTPSI0_NAME"
-	Value "Homeworld Prophecy"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPICETECH0_NAME"
-	Value "Advanced Arctic Colonies"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPICEPHASE0_NAME"
-	Value "Subzero Biology"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPIRONPHASE0_NAME"
-	Value "Metabolic Reclamation"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANTECH0_NAME"
-	Value "High Density Zoning"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANTECH1_NAME"
-	Value "Advanced Civic Design"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPTERRANPSI0_NAME"
-	Value "Inspired Architecture"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPOCEANICTECH0_NAME"
-	Value "High Pressure Domes"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPOCEANICTECH1_NAME"
-	Value "Underwater Cities"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPVOLCANICPHASE0_NAME"
-	Value "Extreme Heat Metabolism"
-StringInfo
-	ID "IDS_RESEARCHSUBJECT_POPULATIONCAPVOLCANICPHASE1_NAME"
-	Value "Sulfurous Respiration"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_POPULATIONGROWTHRATE_NAME"
 	Value "Artificial Longevity"
@@ -12396,15 +12132,6 @@ StringInfo
 StringInfo
 	ID "IDS_ABILITY_DESTABILIZEHYPERSPACE_DESCRIPTION"
 	Value "The starbase disrupts the outbound Phase Lanes of its gravity well, causing hostile ships that are jumping away to take damage and lose Antimatter."
-StringInfo
-	ID "IDS_ABILITY_DETECTMINESTECH_NAME"
-	Value "Reveal Mines"
-StringInfo
-	ID "IDS_ABILITY_DETECTMINESPSI_NAME"
-	Value "Sense Mines"
-StringInfo
-	ID "IDS_ABILITY_DETECTMINESPHASE_NAME"
-	Value "Decloak Mines"
 StringInfo
 	ID "IDS_ABILITY_DETECTPHASEJUMP_NAME"
 	Value "Mobile Phase Detection"
@@ -14197,9 +13924,6 @@ StringInfo
 	ID "IDS_PLANETTYPE_MOON"
 	Value "Dwarf Planet"
 StringInfo
-	ID "IDS_PLANETTYPE_OCEANIC"
-	Value "Oceanic Planet"
-StringInfo
 	ID "IDS_PLANETTYPE_FERRUS"
 	Value "Ferrous Planet"
 StringInfo
@@ -15957,9 +15681,6 @@ StringInfo
 StringInfo
 	ID "IDS_UIMAPPINGNAME_PLANETCANCELUPGRADEPOPULATION"
 	Value "Cancel Upgrade Population"
-StringInfo
-	ID "IDS_UIMAPPINGNAME_PLANETCANCELUPGRADEINFRASTRUCTURE"
-	Value "Cancel Upgrade Infrastructure"
 StringInfo
 	ID "IDS_UIMAPPINGNAME_PLANETCANCELUPGRADECIVILIANMODULE"
 	Value "Cancel Upgrade Logistics Capacity"

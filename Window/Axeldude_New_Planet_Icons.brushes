@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 108
+brushCount 106
 brush
 	name "Axeldude_PLANET_Alpine"
 	content "Simple"
@@ -361,16 +361,6 @@ brush
 	content "Simple"
 	fileName "Axeldude_Extra_Planet_Icons"
 	pixelBox [ 365 , 181 , 50 , 50 ]
-brush
-	name "Axeldude_PLANET_Normal_Terran_5"
-	content "Simple"
-	fileName "Axeldude_Extra_Planet_Icons"
-	pixelBox [ 261 , 121 , 50 , 50 ]
-brush
-	name "Axeldude_PLANET_Normal_Terran_5_Unknown"
-	content "Simple"
-	fileName "Axeldude_Extra_Planet_Icons"
-	pixelBox [ 261 , 181 , 50 , 50 ]
 brush
 	name "Axeldude_PLANET_Normal_Terran_4"
 	content "Simple"
