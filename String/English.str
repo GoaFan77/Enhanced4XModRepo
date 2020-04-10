@@ -2090,7 +2090,7 @@ StringInfo
 	Value "Horde"
 StringInfo
 	ID "IDS_Ability_E4X_Horde_DESC"
-	Value "Lurathrak's years of bring worlds into submission ahead of the main Vasari armada has made him an expert at commanding raiding parties. His leadership can boost the speed and damage output of nearby friendly ships."
+	Value "Lurathrak's years of bringing worlds into submission ahead of the main Vasari armada has made him an expert at commanding raiding parties. His leadership can boost the speed and damage output of nearby friendly ships."
 StringInfo
 	ID "IDS_Ability_E4X_IsolatePlanet_NAME"
 	Value "Isolate Planet"
