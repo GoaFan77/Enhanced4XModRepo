@@ -35,10 +35,10 @@ def writeGalaxy(fileName): #reads the manifest.entity file of the current direct
     
     for i in map:
         if not i.isspace() and i != '\n' and i != "":#i.replace('/t', "") != "" and i.replace('/t', "") != "\n":
-            lineName = i.split()[0]
-            if lineName == 'planetArtifactDensity':
+            lineName, lineValue = i.split()[0], i.split()[1]
+            if lineName == 'planetArtifactDensity' and lineValue > 0:
                 i = "planetArtifactDensity " + str(artifactChance)
-            elif lineName == 'planetBonusDensity':
+            elif lineName == 'planetBonusDensity' and lineValue > 0:
                 i = "planetBonusDensity " + str(bonusChance)
             elif lineName == "versionNumber":
                 i = "versionNumber " + str(mapVersion)

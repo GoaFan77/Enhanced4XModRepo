@@ -6,8 +6,8 @@ browseName "IDS_CUSTOMGALAXY_NAME_HOSTILEORBITSFair"
 browseDescription "IDS_CUSTOMGALAXY_DESCRIPTION_HOSTILEORBITSFair"
 isFirstCapitalShipIsFlagship TRUE
 randomizeStartingPositions TRUE
-planetArtifactDensity 0.35
-planetBonusDensity 0.8
+planetArtifactDensity 0.0
+planetBonusDensity 0.0
 normalStartHomePlanetUpgradeLevel:Population 3
 normalStartHomePlanetUpgradeLevel:CivilianModules 1
 normalStartHomePlanetUpgradeLevel:TacticalModules 0
