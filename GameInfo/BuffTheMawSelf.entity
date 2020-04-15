@@ -1,0 +1,119 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack TRUE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 2
+instantAction
+	buffInstantActionType "PlayAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName "Ability_TheMaw_Activate2"
+		mediumEffectName "Ability_TheMaw_Activate2"
+		largeEffectName "Ability_TheMaw_Activate2"
+		soundID ""
+instantAction
+	buffInstantActionType "ApplyBuffToTargetsInDirectionalCone"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	buffType "BuffTheMawConvertTarget"
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 1
+		object "Frigate"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	weaponBank "FRONT"
+	range
+		Level:0 8000.000000
+		Level:1 9000.000000
+		Level:2 9000.000000
+		Level:3 9000.000000
+	coneAngle
+		Level:0 2.600000
+		Level:1 2.600000
+		Level:2 2.600000
+		Level:3 2.600000
+	maxTargetCount
+		Level:0 15.000000
+		Level:1 30.000000
+		Level:2 30.000000
+		Level:3 30.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+numPeriodicActions 1
+periodicAction
+	actionCountType "Finite"
+	actionCount
+		Level:0 100.000000
+		Level:1 100.000000
+		Level:2 100.000000
+		Level:3 100.000000
+	actionIntervalTime
+		Level:0 0.100000
+		Level:1 0.100000
+		Level:2 0.100000
+		Level:3 0.100000
+	buffInstantActionType "ApplyBuffToTargetsInDirectionalCone"
+	instantActionTriggerType "AlwaysPerform"
+	buffType "BuffTheMawAttractTarget"
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 1
+		object "Frigate"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	weaponBank "FRONT"
+	range
+		Level:0 8000.000000
+		Level:1 9000.000000
+		Level:2 0.000000
+		Level:3 0.000000
+	coneAngle
+		Level:0 1.570000
+		Level:1 1.570000
+		Level:2 1.570000
+		Level:3 1.570000
+	maxTargetCount
+		Level:0 -1.000000
+		Level:1 -1.000000
+		Level:2 -1.000000
+		Level:3 -1.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 3
+entityBoolModifier "DisablePhaseJump"
+entityBoolModifier "DisableLinearEngines"
+entityBoolModifier "DisableAngularEngines"
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 10.000000
+		Level:1 10.000000
+		Level:2 10.000000
+		Level:3 10.000000

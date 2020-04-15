@@ -520,4 +520,19 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Somewhat reduced chance of random encounters of NPC owned planets, to prevent crowding out areas for Minor Factions to spawn.
 		-Fixed XP from killing Corvettes.
 		-Fixed a vanilla Sins bug with the Triumvirate map's starting forces (thanks GulSurvives for always picking the worst maps!)
-		-
+
+1.86	- Fixed a bug where Industrial Planet Specialization was cheaper than intended.
+		- Corvette Balance Tweaks
+			- Improved Flak/Fighter damage to strikecraft/corvettes and LRF/Siege frigates.
+			- Reduced LRF/Heavy/Antistructure/Capitalship/Titan damage to Corvettes.
+			- Increased Light Frigate damage to Corvettes.
+			- Reduced Corvette Damage to Heavy Cruisers.
+		- Buffed the TEC Shield Generator structure to now prevent 50%/70% of planet damage.
+		- Colony Frigates can no longer be captured by other players. They will be destroyed instead.
+		- Slightly decreased the build time of Advent Strikecraft to be more in line with other faction's squadrons.
+		- Added a few extra civic structures to Minor Factions that did not have as many as the rest.
+		- Fixed the following Vanilla Sins bugs.
+			- Junsurak Sentinel's Charged Missile ability is now deactivated when captured, allowing the new owner to move it.
+			- The Vorastra Titan's Maw ability can no longer kill invincible units in its area of effect.
+			- Fixed Shattered Moon UI icon.
+		- Fixed a number of typos.
