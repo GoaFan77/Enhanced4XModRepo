@@ -531,6 +531,7 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		- Colony Frigates can no longer be captured by other players. They will be destroyed instead.
 		- Slightly decreased the build time of Advent Strikecraft to be more in line with other faction's squadrons.
 		- Added a few extra civic structures to Minor Factions that did not have as many as the rest.
+		- Reduced some of the Orthodox Advent's starting culture bonuses, as they already have a huge culture advantage in the early game.
 		- Fixed the following Vanilla Sins bugs.
 			- Junsurak Sentinel's Charged Missile ability is now deactivated when captured, allowing the new owner to move it.
 			- The Vorastra Titan's Maw ability can no longer kill invincible units in its area of effect.
