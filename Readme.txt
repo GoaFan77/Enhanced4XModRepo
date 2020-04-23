@@ -536,3 +536,4 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 			- The Vorastra Titan's Maw ability can no longer kill invincible units in its area of effect.
 			- Fixed Shattered Moon UI icon.
 		- Fixed a number of typos.
+		- Psychic Possession no longer triggers when the culture center is scuttled. 
