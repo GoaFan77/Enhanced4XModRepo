@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Titan"
 ability:0 "AbilitySubjugatingAssault"
 ability:1 "AbilitySuppressionAura"
@@ -286,6 +287,18 @@ maxDecelerationAngular 9.999996
 maxSpeedLinear 450.000000
 maxRollRate 1.650000
 maxRollAngle 1.000000
+useCustomHyperspaceEffects TRUE
+effects
+	chargeUpEffectName "Hyperspace_Advent_Titan_Chargeup"
+	chargeUpEffectNameBetweenStars "Hyperspace_Advent_Titan_Chargeup_Interstellar"
+	chargeUpEffectNameDestabilized "Hyperspace_Advent_Titan_Chargeup_Unstable"
+	chargeUpEffectSoundID "HYPERSPACE_CHARGEUP"
+	travelEffectName "Hyperspace_Advent_Titan_Travel"
+	travelEffectNameBetweenStars "Hyperspace_Advent_Titan_Travel_Interstellar"
+	travelEffectNameDestabilized "Hyperspace_Advent_Titan_Travel_Unstable"
+	travelEffectSoundID "HYPERSPACE_TRAVEL"
+	exitEffectName "Hyperspace_Advent_Titan_Exit"
+	exitEffectSoundID "HYPERSPACE_EXIT"
 squadTypeEntityDef:0 "SquadPsiCombat"
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 "SquadPsiBomber"
@@ -328,8 +341,6 @@ weaponCooldownDecreasePerc
 weaponDamageIncreasePerc
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.050000
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_TECHCAPITALSHIP"
 formationRank 0
 minShadow 0.000000

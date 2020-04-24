@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Titan"
 ability:0 "AbilityNanoLeech"
 ability:1 "AbilityNanoRemit"
@@ -340,6 +341,18 @@ maxDecelerationAngular 9.999996
 maxSpeedLinear 450.000000
 maxRollRate 1.650000
 maxRollAngle 35.000000
+useCustomHyperspaceEffects TRUE
+effects
+	chargeUpEffectName "Hyperspace_Vasari_Titan_Chargeup"
+	chargeUpEffectNameBetweenStars "Hyperspace_Vasari_Titan_Chargeup_Interstellar"
+	chargeUpEffectNameDestabilized "Hyperspace_Vasari_Titan_Chargeup_Unstable"
+	chargeUpEffectSoundID "HYPERSPACE_CHARGEUP"
+	travelEffectName "Hyperspace_Vasari_Titan_Travel"
+	travelEffectNameBetweenStars "Hyperspace_Vasari_Titan_Travel_Interstellar"
+	travelEffectNameDestabilized "Hyperspace_Vasari_Titan_Travel_Unstable"
+	travelEffectSoundID "HYPERSPACE_TRAVEL"
+	exitEffectName "Hyperspace_Vasari_Titan_Exit"
+	exitEffectSoundID "HYPERSPACE_EXIT"
 squadTypeEntityDef:0 "SquadPhaseCombat"
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 "SquadPhaseBomber"
@@ -382,8 +395,6 @@ weaponCooldownDecreasePerc
 weaponDamageIncreasePerc
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.050000
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_TECHCAPITALSHIP"
 formationRank 0
 minShadow 0.000000
