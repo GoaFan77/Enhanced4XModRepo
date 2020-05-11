@@ -1,0 +1,6 @@
+== Resetting Titan Levels ==
+
+For each titan.
+*Add respawn ability for specific titan.
+*Set all debris lines to 0.
+*Change explosion to "Explosion_ING_NoExplosion"

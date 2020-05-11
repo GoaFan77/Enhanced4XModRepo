@@ -6,9 +6,3 @@ Files to keep in txt
 	Ability_E4X_SummonPirates
 	Buff_E4X_SpawnHeroPlanet (For each hero)
 	Buff_E4X_RespawnTitanSpawn (for each titan)
-	
-Things to add before releasing E4X 1.7
-	Add to changelog:
-		-Expanded Research: Reduced levels of fortification experts to prevent Vasari from getting free upgrades.
-		-Expanded Research: Removed extra levels of TEC's Supercharge Novalith tech as it doesn't scale any higher.
-		-Expanded Research: Removed extra level of False Belief Monitoring as it doesn't do anything.
