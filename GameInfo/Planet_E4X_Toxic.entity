@@ -335,7 +335,7 @@ skyboxScalars
 	diffuseScalar 0.720000
 	ambientScalar 0.800000
 requiredPlanetBonusesCount 0
-possibleRandomPlanetBonusesCount 112
+possibleRandomPlanetBonusesCount 111
 bonus "PlanetBonus_REQ_ThickAtmos"
 bonus "PlanetBonus_REQ_ThickAtmos"
 bonus "PlanetBonus_E4X_Black"
@@ -344,7 +344,6 @@ bonus "PlanetBonus_E4X_ConstructP"
 bonus "PlanetBonus_REQ_Flood"
 bonus "PlanetBonus_E4X_Herd"
 bonus "PlanetBonus_E4X_Outpost"
-bonus "PlanetBonus_E4X_PureM"
 bonus "PlanetBonus_E4X_Rodent"
 bonus "PlanetBonus_E4X_Rodent"
 bonus "PlanetBonus_E4X_Shield1"
