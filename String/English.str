@@ -5,7 +5,7 @@ StringInfo
 	Value "Diplomatic Protection"
 StringInfo
 	ID "IDS_ABILITY_E4X_Embassy_DESC"
-	Value "Diplomatic tradition prohibits the occupation of embassies or the imprisonment of diplomatic personell. Upon capture of the Embassy, diplomats will be remitted to their home empires and the Embassy will be destroyed by security forces."  
+	Value "Diplomatic tradition prohibits the occupation of embassies or the imprisonment of diplomatic personnel. Upon capture of the Embassy, diplomats will be remitted to their home empires and the Embassy will be destroyed by security forces."  
 StringInfo
 	ID "IDS_ABILITY_ING_TechColonyFrigate_NAME"
 	Value "Resistance"
@@ -824,7 +824,7 @@ StringInfo
 	Value "Tip: Keep scouts on HTS players in E4X games. They can build more efficient Siege Frigates and Anti-Structure Cruisers without research, giving them the ability to launch crippling rushes if you don't see them coming."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip10"
-	Value "Tip: Not only does the Orthodox Advent's mastery over Culture matter more in E4X, they'll enjoy their bonuses from the start of the game thanks to their Culture-spreading homeworld. They can also build twice as many Culture Centers, which can even take over your ships when destroyed."
+	Value "Tip: Not only does the Orthodox Advent's mastery over Culture matter more in E4X, they'll enjoy their bonuses from the start of the game thanks to their Culture-spreading homeworld. Their planets are also more resistant to bombardment, and their culture centers can even take over your ships when destroyed."
 StringInfo
 	ID "IDS_E4X_LoadScreenTip11"
 	Value "Tip: The Ascended Advent enjoy even more powers over life and death in E4X. Their ships will shield friendly forces for a time after their death, and they have quicker access to better healing structures and ships."

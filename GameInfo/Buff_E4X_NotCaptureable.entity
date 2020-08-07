@@ -9,16 +9,8 @@ isInterruptable FALSE
 isChannelling FALSE
 numInstantActions 1
 instantAction
-	buffInstantActionType "ApplyBuffToSelf"
+	buffInstantActionType "MakeDead"
 	instantActionTriggerType "OnBuffFinish"
-	buffType "Buff_E4X_FlagSelfDestruct"
-	effectInfo
-		effectAttachInfo
-			attachType "Center"
-		smallEffectName ""
-		mediumEffectName ""
-		largeEffectName ""
-		soundID ""
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0
