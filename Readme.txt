@@ -539,3 +539,5 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 			- Fixed Shattered Moon UI icon.
 		- Fixed a number of typos.
 		- Psychic Possession no longer triggers when the culture center is scuttled. 
+		
+1.87	- Increases Antimodule Cruiser XP values to be more in line with other combat frigates, as they can now attack ships.
