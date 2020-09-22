@@ -541,3 +541,4 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		- Psychic Possession no longer triggers when the culture center is scuttled. 
 		
 1.87	- Increases Antimodule Cruiser XP values to be more in line with other combat frigates, as they can now attack ships.
+		- Standardized capitalship level purchase costs. They are now set to cost 5 credits for every experience point needed to reach the next level.

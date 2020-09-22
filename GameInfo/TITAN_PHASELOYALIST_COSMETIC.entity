@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Cosmetic"
 ability:0 "AbilityMicroPhaseJump"
 ability:1 "AbilitySuffusion"
@@ -290,6 +291,7 @@ maxDecelerationAngular 9.999996
 maxSpeedLinear 450.000000
 maxRollRate 1.650000
 maxRollAngle 35.000000
+useCustomHyperspaceEffects FALSE
 NumSoundsFor:ONATTACKORDERISSUED 4
 SoundID "TITAN_PHASELOYALIST_ONATTACKORDERISSUED_0"
 SoundID "TITAN_PHASELOYALIST_ONATTACKORDERISSUED_1"
@@ -324,8 +326,6 @@ weaponCooldownDecreasePerc
 weaponDamageIncreasePerc
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.050000
-HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
-HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_TECHCAPITALSHIP"
 formationRank 0
 minShadow 0.000000
