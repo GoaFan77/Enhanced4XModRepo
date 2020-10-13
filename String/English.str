@@ -1082,7 +1082,7 @@ StringInfo
 	Value "Vasari"
 StringInfo
 	ID "IDS_RESEARCH_E4X_RacialBonusPhase_DESC"
-	Value "You are playing as the Vasari, an extra galactic race of former imperialists now running from a faceless terror. They specialize in keeping power through a blend terror, resourcefulness, and desperation."
+	Value "You are playing as the Vasari, an extra galactic race of former imperialists now running from a faceless terror. They specialize in keeping power through a blend of terror, resourcefulness, and desperation."
 StringInfo
 	ID "IDS_E4X_TECRandomEncounterPlayer"
 	Value "Trader Outliers"
