@@ -1,5 +1,11 @@
 TXT
-NumStrings 8580
+NumStrings 8582
+StringInfo
+	ID "IDS_Ability_E4X_NaniteOvercharge_NAME"
+	Value "Nanite Overcharge"
+StringInfo
+	ID "IDS_Ability_E4X_NaniteOvercharge_DESC"
+	Value "A new generation of high energy nanites are released into existing nanite swarms. This greatly increases swarm effectiveness, and causes the scattered nanites to damage nearby enemies and heal nearby allies when a swarm is killed or expires."
 StringInfo
 	ID "IDS_ABILITY_E4X_Embassy_NAME"
 	Value "Diplomatic Protection"

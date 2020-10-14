@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2738
+entityNameCount 2744
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2737,3 +2737,9 @@ entityName "Ability_E4X_TechColonyFrigate.entity"
 entityName "Buff_E4X_NotCaptureable.entity"
 entityName "Ability_E4X_Embassy.entity"
 entityName "Buff_E4X_PsychicPossessionSpawner.entity"
+entityName "Ability_E4X_NaniteOvercharge.entity"
+entityName "Buff_E4X_NaniteOvercharge.entity"
+entityName "Buff_E4X_NaniteOverchargeCheck.entity"
+entityName "Buff_E4X_NaniteOverchargeDamage.entity"
+entityName "Buff_E4X_NaniteOverchargeHeal.entity"
+entityName "Buff_E4X_NaniteOverchargeSelf.entity"

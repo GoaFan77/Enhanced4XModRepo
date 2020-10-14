@@ -1,0 +1,173 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Frigate"
+defaultAutoAttackRange "GravityWell"
+defaultAutoAttackOn TRUE
+prefersToFocusFire TRUE
+usesFighterAttack FALSE
+autoJoinFleetDefault TRUE
+canBomb FALSE
+typeCount 2
+frigateRoleType "AbilityCreated"
+frigateRoleType "Light"
+statCountType "FrigateSpawnedByAbility"
+mainViewIcon "MAINVIEWICON_FRIGATE_PHASENANITE"
+picture "FRIGATEPICTURE_PHASE_NANITE_SWARM"
+NameStringID "IDS_FRIGATE_PHASECOMBATNANITESWARM_NAME"
+DescriptionStringID "IDS_FRIGATE_PHASECOMBATNANITESWARM_NAME"
+counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_LIGHT"
+basePrice
+	credits 0.000000
+	metal 0.000000
+	crystal 0.000000
+slotCount 0.000000
+BuildTime 0.000000
+hasLevels TRUE
+ExperiencePointsForDestroying
+	Level:0 28.000000
+	Level:1 32.000000
+	Level:2 36.000000
+	Level:3 42.000000
+MaxHullPoints
+	Level:0 425.000000
+	Level:1 530.000000
+	Level:2 635.000000
+	Level:3 740.000000
+MaxShieldPoints
+	Level:0 225.000000
+	Level:1 305.000000
+	Level:2 385.000000
+	Level:3 465.000000
+HullPointRestoreRate
+	Level:0 1.000000
+	Level:1 1.000000
+	Level:2 1.000000
+	Level:3 1.000000
+ShieldPointRestoreRate
+	Level:0 1.000000
+	Level:1 1.000000
+	Level:2 1.000000
+	Level:3 1.000000
+BaseArmorPoints
+	Level:0 3.000000
+	Level:1 3.000000
+	Level:2 3.000000
+	Level:3 3.000000
+maxMitigation
+	Level:0 0.600000
+	Level:1 0.600000
+	Level:2 0.600000
+	Level:3 0.600000
+relationshipChangeRate
+	Level:0 0.000000
+	Level:1 0.000000
+	Level:2 0.000000
+	Level:3 0.000000
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+numRandomDebrisLarge 0
+numRandomDebrisSmall 2
+numSpecificDebris 0
+armorType "Medium"
+hudIcon "HUDICON_ABILITY_CREATECOMBATNANITE"
+smallHudIcon "MAINVIEWICON_FRIGATE_PHASENANITE"
+infoCardIcon "INFOCARDICON_FRIGATE_PHASENANITE"
+minZoomDistanceMult 12.000000
+NumWeapons 1
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "ANTIHEAVY"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "PULSEGUN"
+	DamagePerBank:FRONT 24.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 3000.000000
+	PreBuffCooldownTime 4.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.200000
+	TravelSpeed 3600.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 3
+		burstDelay 0.350000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_NaniteCombatPulseGun_Muzzle"
+		muzzleSoundMinRespawnTime 1.000000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PHASECAPITALPULSEGUNLIGHT_MUZZLE"
+			sound "WEAPON_PHASECAPITALPULSEGUNLIGHT_MUZZLE_ALT1"
+		hitEffectName "Weapon_PhaseCapitalPulseGunLight_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYLIGHT_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICLIGHT_HITSHIELDS"
+		projectileTravelEffectName "Weapon_NaniteCombatPulseGun_Travel"
+m_weaponIndexForRange 0
+firingAlignmentType "Default"
+TargetCountPerBank:FRONT 1
+TargetCountPerBank:BACK 0
+TargetCountPerBank:LEFT 0
+TargetCountPerBank:RIGHT 0
+canOnlyTargetStructures FALSE
+hasWeaponLevels FALSE
+mass 100.000000
+ShieldMeshName ""
+renderShield FALSE
+maxAccelerationLinear 200.000000
+maxAccelerationStrafe 10.000000
+maxDecelerationLinear 500.000000
+maxAccelerationAngular 3.700000
+maxDecelerationAngular 9.999996
+maxSpeedLinear 825.000000
+maxRollRate 2.000000
+maxRollAngle 34.999996
+useCustomHyperspaceEffects FALSE
+squadTypeEntityDef:0 ""
+squadAntiMatterCost:0 0.000000
+squadTypeEntityDef:1 ""
+squadAntiMatterCost:1 0.000000
+squadTypeEntityDef:2 ""
+squadAntiMatterCost:2 0.000000
+squadTypeEntityDef:3 ""
+squadAntiMatterCost:3 0.000000
+maxNumCommandPoints 0
+NumSoundsFor:ONATTACKORDERISSUED 0
+NumSoundsFor:ONCREATION 0
+NumSoundsFor:ONGENERALORDERISSUED 0
+NumSoundsFor:ONSELECTED 0
+NumSoundsFor:ONSTARTPHASEJUMP 0
+MeshNameInfoCount 1
+MeshNameInfo
+	meshName "Frigate_PhaseCombatNaniteSwarm"
+	criteriaType "None"
+meshNameIncreasedEffectName ""
+meshNameDecreasedEffectName ""
+ExhaustParticleSystemName "ExhaustSmall"
+ExplosionName "Fighter0"
+EngineSoundID "ENGINE_PHASECAPITALSHIP"
+ability:0 "AbilityCrippleAbilities"
+ability:1 ""
+ability:2 ""
+ability:3 "AbilityCombatNanite"
+ability:4 "AbilityNaniteSwarm"
+MaxAntiMatter 0.000000
+AntiMatterRestoreRate 0.000000
+cargoType "Invalid"
+maxCargoCapacity 0.000000
+formationRank 1
+minShadow 0.000000
+maxShadow 1.000000
+allegianceDecreasePerRoundtrip 0.000000
