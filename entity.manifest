@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2744
+entityNameCount 2747
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2743,3 +2743,6 @@ entityName "Buff_E4X_NaniteOverchargeCheck.entity"
 entityName "Buff_E4X_NaniteOverchargeDamage.entity"
 entityName "Buff_E4X_NaniteOverchargeHeal.entity"
 entityName "Buff_E4X_NaniteOverchargeSelf.entity"
+entityName "Ability_E4X_MaxTitanXPFlag.entity"
+entityName "Buff_E4X_GrantMaxXP.entity"
+entityName "SpaceMine_E4X_MaxTitanXPFlag.entity"

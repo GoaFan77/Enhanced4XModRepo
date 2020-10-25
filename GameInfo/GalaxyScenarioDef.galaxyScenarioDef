@@ -1525,7 +1525,7 @@ orbitBodyType
 	typeName "CyberFortress"
 	entityDefName "Planet_E4X_CyberFortress"
 	defaultTemplateName "Template:CyberFortress"	
-planetItemTypeCount 356
+planetItemTypeCount 357
 planetItemType
 	designName "Phase:Module:MineExplosive"
 	entityDefName "SpaceMinePhaseExplosive"
@@ -2582,6 +2582,9 @@ planetItemType
 planetItemType
 	designName "Other:Flag:Grant1000XP"
 	entityDefName "SpaceMine_E4X_XP1000"
+planetItemType
+	designName "Other:Flag:MaxTitanXP"
+	entityDefName "SpaceMine_E4X_MaxTitanXPFlag"	
 planetItemType
 	designName "Other:Flag:MinorFaction"
 	entityDefName "Frigate_E4X_MinorFactionFlag"
