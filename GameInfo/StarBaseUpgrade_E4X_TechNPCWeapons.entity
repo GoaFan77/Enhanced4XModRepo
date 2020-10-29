@@ -1,0 +1,27 @@
+﻿TXT
+entityType "StarBaseUpgrade"
+stageCount 1
+stage
+	price
+		credits 0.000000
+		metal 0.000000
+		crystal 0.000000
+	upgradeTime 0.000000
+	nameStringID "IDS_STARBASEUPGRADETECHWEAPONS_NAME"
+	descStringID "IDS_STARBASEUPGRADETECHWEAPONS_DESC0"
+	researchPrerequisites
+		NumResearchPrerequisites 0
+		RequiredFactionNameID ""
+		RequiredCompletedResearchSubjects 0
+	hudIcon "HUDIconStarBaseUpgradeTechWeapons0"
+	smallHudIcon "HUDIconStarBaseUpgradeTechWeapons0"
+	infoCardIcon ""
+	upgradePropertyCount 2
+	upgradeProperty
+		propertyType "MaxAntiMatterPoints"
+		value 150.000000
+	upgradeProperty
+		propertyType "AntiMatterRestoreRate"
+		value 2.500000
+	upgradeBoolPropertyCount 0
+xpModifier 75.000000

@@ -1525,7 +1525,7 @@ orbitBodyType
 	typeName "CyberFortress"
 	entityDefName "Planet_E4X_CyberFortress"
 	defaultTemplateName "Template:CyberFortress"	
-planetItemTypeCount 357
+planetItemTypeCount 358
 planetItemType
 	designName "Phase:Module:MineExplosive"
 	entityDefName "SpaceMinePhaseExplosive"
@@ -1871,6 +1871,9 @@ planetItemType
 planetItemType
 	designName "Tech:StarBase"
 	entityDefName "StarBaseTech"
+planetItemType
+	designName "Tech:StarBase:NPC"
+	entityDefName "StarBase_E4X_TechLoyalsNPC"
 planetItemType
 	designName "Phase:CapitalShip:BattleShip"
 	entityDefName "CAPITALSHIP_PHASEBATTLESHIP"
@@ -4490,7 +4493,7 @@ planetItemsTemplate
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:TradePort"
-				item "Tech:StarBase"
+				item "Tech:StarBase:NPC"
 				item "Tech:Module:Mine"
 				item "Tech:Module:Mine"
 				item "Tech:Frigate:Light"

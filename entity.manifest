@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2747
+entityNameCount 2753
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2746,3 +2746,9 @@ entityName "Buff_E4X_NaniteOverchargeSelf.entity"
 entityName "Ability_E4X_MaxTitanXPFlag.entity"
 entityName "Buff_E4X_GrantMaxXP.entity"
 entityName "SpaceMine_E4X_MaxTitanXPFlag.entity"
+entityName "Ability_E4X_DeployStarBaseTechLoyalsNPC.entity"
+entityName "Frigate_E4X_TechStarBaseConstructorLoyalsNPC.entity"
+entityName "StarBaseUpgrade_E4X_TechNPCHangar.entity"
+entityName "StarBaseUpgrade_E4X_TechNPCToughness.entity"
+entityName "StarBaseUpgrade_E4X_TechNPCWeapons.entity"
+entityName "StarBase_E4X_TechLoyalsNPC.entity"
