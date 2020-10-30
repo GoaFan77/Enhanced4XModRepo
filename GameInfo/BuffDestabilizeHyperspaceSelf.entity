@@ -9,7 +9,7 @@ buffExclusivityForAIType "ExclusiveForAllPlayers"
 isInterruptable FALSE
 isChannelling FALSE
 numInstantActions 0
-numPeriodicActions 2
+numPeriodicActions 3
 periodicAction
 	actionCountType "Infinite"
 	actionIntervalTime
@@ -68,6 +68,37 @@ periodicAction
 		numSpaces 1
 		space "Normal"
 		numConstraints 0
+	maxTargetCount
+		Level:0 -1.000000
+		Level:1 -1.000000
+		Level:2 -1.000000
+		Level:3 -1.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""
+periodicAction
+	actionCountType "Infinite"
+	actionIntervalTime
+		Level:0 5.000000
+		Level:1 5.000000
+		Level:2 5.000000
+		Level:3 5.000000
+	buffInstantActionType "ApplyBuffToTargetsAtOrbitBody"
+	instantActionTriggerType "AlwaysPerform"
+	buffType "Buff_E4X_StarbaseProtectActiveEmbassyCheck"
+	targetFilter
+		numOwnerships 1
+		ownership "Player"
+		numObjects 1
+		object "EnvoyFrigate"		
+		numSpaces 1
+		space "Normal"
+		numConstraints 1
+		constraint "NotInvulnerable"
 	maxTargetCount
 		Level:0 -1.000000
 		Level:1 -1.000000

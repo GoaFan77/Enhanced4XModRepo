@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2753
+entityNameCount 2755
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2752,3 +2752,5 @@ entityName "StarBaseUpgrade_E4X_TechNPCHangar.entity"
 entityName "StarBaseUpgrade_E4X_TechNPCToughness.entity"
 entityName "StarBaseUpgrade_E4X_TechNPCWeapons.entity"
 entityName "StarBase_E4X_TechLoyalsNPC.entity"
+entityName "Buff_E4X_StarbaseProtectActiveEmbassy.entity"
+entityName "Buff_E4X_StarbaseProtectActiveEmbassyCheck.entity"
