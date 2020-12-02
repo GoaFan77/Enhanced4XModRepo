@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 107
+brushCount 106
 brush
 	name "Axeldude_PLANET_Alpine"
 	content "Simple"
@@ -531,8 +531,3 @@ brush
 	content "Simple"
 	fileName "Axeldude_Extra_Planet_Icons"
 	pixelBox [ 1 , 61 , 50 , 50 ]
-brush
-	name "Donos_PLANET_Normal_MandalorianBase"
-	content "Simple"
-	fileName "Donos_Mandalore_Icon"
-	pixelBox [ 1 , 1 , 50 , 50 ]
