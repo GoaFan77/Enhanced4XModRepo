@@ -40,7 +40,7 @@ researchModifier
 	perLevelValue 0.000000
 researchModifier
 	modifierType "ResourceCostAdjustment"
-	baseValue 0.150000
+	baseValue 0.075000
 	perLevelValue 0.000000
 researchModifier
 	modifierType "ChanceToRespawnFrigateAtHomeworldUponDeath"
