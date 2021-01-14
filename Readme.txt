@@ -542,3 +542,7 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		
 1.87	- Increases Antimodule Cruiser XP values to be more in line with other combat frigates, as they can now attack ships.
 		- Standardized capitalship level purchase costs. They are now set to cost 5 credits for every experience point needed to reach the next level.
+		- Reduce Ascended Advent faction resource reduction bonus from 15% to 7.5%.
+		- Kortul's Power Surge ability is now disrupted by Interrupt abilities.
+		- Reduced cooldown time of Rankulas swarm deployment abilities. 
+		- Change Combat Nanite Swarm to use capitalship damage type.
