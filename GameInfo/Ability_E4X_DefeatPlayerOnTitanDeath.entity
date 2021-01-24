@@ -1,0 +1,48 @@
+﻿TXT
+entityType "Ability"
+buffInstantActionType "ApplyBuffToTargetsAtOrbitBody"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_DefeatPlayerOnTitanDeath"
+targetFilter
+	numOwnerships 1
+	ownership "Player"
+	numObjects 1
+	object "Titan"
+	numSpaces 1
+	space "Normal"
+	numConstraints 0
+maxTargetCount
+	Level:0 -1.000000
+	Level:1 -1.000000
+	Level:2 -1.000000
+	Level:3 -1.000000	
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "Passive"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_Ability_E4X_PsiCivicLab_Name"
+descStringID "IDS_Ability_E4X_PsiCivicLab_DESC"
+hudIcon "HUDICON_RESEARCHSUBJECT_PLANETUPGRADERATE"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_PLANETUPGRADERATE"
+infoCardIcon ""
