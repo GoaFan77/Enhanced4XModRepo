@@ -1,0 +1,34 @@
+TXT
+themeCount 17
+Icon
+	textureName "RaceLogos_E4X_Special.tga"
+	startTopLeft [1100,110]
+	width 32
+	height 32
+	rowItemCount 10
+	horizontalStride 40
+	verticalStride 110
+IconOverlay
+	textureName "RaceLogos_E4X_Special.tga"
+	startTopLeft [1100 , 190]
+	width 14
+	height 14
+	rowItemCount 10
+	horizontalStride 20
+	verticalStride 110
+Picture
+	textureName "RaceLogos_E4X_Special.tga"
+	startTopLeft [0,110]
+	width 105
+	height 105
+	rowItemCount 10
+	horizontalStride 110
+	verticalStride 110
+PlanetIcon
+	textureName "RaceLogos_E4X_Special.tga"
+	startTopLeft [1100 , 150]
+	width 23
+	height 23
+	rowItemCount 10
+	horizontalStride 40
+	verticalStride 110
