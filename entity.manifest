@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2762
+entityNameCount 2765
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2761,3 +2761,6 @@ entityName "Buff_E4X_DefeatPlayerOnTitanDeath.entity"
 entityName "Buff_E4X_DestroyFaction.entity"
 entityName "SpaceMine_E4X_DefeatPlayerOnPlanetDeathFlag.entity"
 entityName "SpaceMine_E4X_DefeatPlayerOnTitanDeathFlag.entity"
+entityName "Ability_E4X_MadVasariTitan.entity"
+entityName "Buff_E4X_MadVasariTitanSelf.entity"
+entityName "TITAN_E4X_MADVASARI.entity"

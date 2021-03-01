@@ -66,6 +66,7 @@ Ue_Carbon - Intelligent Feedback and for letting us use his teamspeak.
 SZ0 - For letting his meshes be used by the community.
 5th Horsemen - Very useful feedback.
 In_dy - Detailed bug reports.
+Axxo2 - Great Sins fan artist, some of his work is included in the mod.
 
 ---Mods---
 
@@ -540,7 +541,10 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		- Fixed a number of typos.
 		- Psychic Possession no longer triggers when the culture center is scuttled. 
 		
-1.87	- Increases Antimodule Cruiser XP values to be more in line with other combat frigates, as they can now attack ships.
+1.87	- Reworked Mad Vasari Titan Random Event
+			- Without spoiling too much, the event is now more likely to happen, but at first only some scout ships spawn. The titan will spawn significantly later in the game, preventing un-fun games when it spawns way too early.
+			- The Titan now has some special tricks that should help make it far more dangerous.
+		- Increases Antimodule Cruiser XP values to be more in line with other combat frigates, as they can now attack ships.
 		- Standardized capitalship level purchase costs. They are now set to cost 5 credits for every experience point needed to reach the next level.
 		- Reduce Ascended Advent faction resource reduction bonus from 15% to 7.5%.
 		- Kortul's Power Surge ability is now disrupted by Interrupt abilities.

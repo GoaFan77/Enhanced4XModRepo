@@ -1,0 +1,101 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 4
+instantAction
+	buffInstantActionType "SpawnShipsAtPlanet"
+	instantActionTriggerType "OnHyperspaceExit"
+	spawnShipsLevelCount 1
+	spawnShips
+		minFleetPoints 120.000000
+		maxFleetPoints 135.000000
+		requiredShipCount 0
+		randomShipCount 6
+		randomShip
+			type "FrigatePhaseLight"
+			weight 4
+		randomShip
+			type "FrigatePhaseLongRange"
+			weight 5
+		randomShip
+			type "FrigatePhaseHeavy"
+			weight 6
+		randomShip
+			type "FrigatePhaseAntiFighter"
+			weight 3
+		randomShip
+			type "CorvettePhaseLoyalist"
+			weight 2
+		randomShip
+			type "FrigatePhaseSiege"
+			weight 1			
+	spawnShipsArrivalDelayTime 7.000000
+	spawnShipsHyperspaceSpawnType "FleetBeacon"
+instantAction
+	buffInstantActionType "ApplyBuffToTargetOnWeaponFired"
+	instantActionTriggerType "OnWeaponFired"
+	numWeaponClasses 2
+	weaponClassForWeaponPassive "FLASHBEAM"
+	weaponClassForWeaponPassive "POINTDEFENSELASER"
+	passiveWeaponEffectChance
+		Level:0 1.000000
+		Level:1 1.000000
+		Level:2 1.000000
+		Level:3 1.000000
+	buffType "Buff_E4X_VasariTitanIntenseBeamUpgradeEffect"
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 1
+		object "Fighter"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+instantAction
+	buffInstantActionType "ApplyBuffToTargetOnWeaponFired"
+	instantActionTriggerType "OnWeaponFired"
+	numWeaponClasses 4
+	weaponClassForWeaponPassive "FLASHBEAM"
+	weaponClassForWeaponPassive "WAVE"
+	weaponClassForWeaponPassive "PULSEGUN"
+	weaponClassForWeaponPassive "CHAOSBOLT"
+	passiveWeaponEffectChance
+		Level:0 0.333333
+		Level:1 0.333333
+		Level:2 0.333333
+		Level:3 0.333333
+	buffType "Buff_E4X_VasariLoyalistTitanStunShotsUpgradeEffect"
+	targetFilter
+		numOwnerships 1
+		ownership "Enemy"
+		numObjects 4
+		object "Frigate"
+		object "Corvette"
+		object "CapitalShip"
+		object "StarBase"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0	
+instantAction
+	buffInstantActionType "GiveExperience"
+	instantActionTriggerType "OnDelay"
+	delayTime 10.000000
+	experienceToGive 2500.000000		
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 1
+entityModifier
+	buffEntityModifierType "MaxHullPoints"
+	value
+		Level:0 2500.000000
+		Level:1 2500.000000
+		Level:2 2500.000000
+		Level:3 2500.000000
+numEntityBoolModifiers 0
+numFinishConditions 0

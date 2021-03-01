@@ -1,5 +1,8 @@
 TXT
-NumStrings 8582
+NumStrings 8583
+StringInfo
+	ID "IDS_GAMEMESSAGE_RANDOMEVENTDETECTEDPIRATETITAN"
+	Value "Sensors have detected a powerful, ancient hostile entity approaching. It will arrive in the next 60 cycles!"
 StringInfo
 	ID "IDS_Ability_E4X_NaniteOvercharge_NAME"
 	Value "Nanite Overcharge"
