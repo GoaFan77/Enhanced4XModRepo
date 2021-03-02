@@ -1,0 +1,56 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 3
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Above"
+		smallEffectName "Buff_SuppressionTarget"
+		mediumEffectName "Buff_SuppressionTarget"
+		largeEffectName "Buff_SuppressionTarget"
+		soundID ""
+instantAction
+	buffInstantActionType "DoInterrupt"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+instantAction
+	buffInstantActionType "ForceAttackersToRepickAttackTarget"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000	
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 4
+entityBoolModifier "DisableWeapons"
+entityBoolModifier "DisablePhaseJump"
+entityBoolModifier "DisableAbilities"
+entityBoolModifier "DisableConstruction"
+numFinishConditions 3
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 90.000000
+		Level:1 0.000000
+		Level:2 0.000000
+		Level:3 0.000000
+finishCondition
+	finishConditionType "OwnerChanged"
+finishCondition
+	finishConditionType "DamageTaken"
+	damageNeeded
+		Level:0 200.000000
+		Level:1 200.000000
+		Level:2 200.000000
+		Level:3 200.000000
+	typeOfDamageNeeded "AFFECTS_SHIELDS_AND_HULL"	

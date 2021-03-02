@@ -1,5 +1,8 @@
 TXT
-NumStrings 8583
+NumStrings 8584
+StringInfo
+	ID "IDS_ABILITY_SUPPRESSION_DESCRIPTION"
+	Value "Telekinetically overpowers the crew and systems of the target ship, preventing them from moving, attacking, or using abilities. This effect ends if the target takes too much damage."
 StringInfo
 	ID "IDS_GAMEMESSAGE_RANDOMEVENTDETECTEDPIRATETITAN"
 	Value "Sensors have detected a powerful, ancient hostile entity approaching. It will arrive in the next 60 cycles!"
