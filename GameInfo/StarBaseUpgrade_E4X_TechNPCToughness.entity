@@ -36,7 +36,6 @@ stage
 	upgradeProperty
 		propertyType "BaseArmorPoints"
 		value 12.000000
-	upgradeBoolPropertyCount 2
+	upgradeBoolPropertyCount 1
 		upgradeBoolProperty "CanPreventEnemyColonize"
-		upgradeBoolProperty "CanPreventPlanetLossByBombing"
 xpModifier 75.000000
