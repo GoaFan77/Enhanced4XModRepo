@@ -288,144 +288,180 @@ template
 			param "TechRebel"
 		owner "PlanetOwner"
 		colonizeChance 0.000000
-		items 4
+		items 7
 		item "Tech:Module:FrigateFactory"
 		item "Tech:Module:FrigateFactory"
 		item "Tech:Module:FrigateFactory"
 		item "Tech:Module:CapitalShipFactory"
+		item "Tech:Module:CommandCenterLoyalists"
+		item "Tech:Frigate:StarBaseConstructorLoyalistStart"
+		item "Bonus:TECHomeworld"
 	group
 		condition
 			type "PlanetOwnerIsRaceNormalStart"
 			param "TechLoyalist"
 		owner "PlanetOwner"
 		colonizeChance 0.000000
-		items 4
+		items 7
 		item "Tech:Module:CapitalShipFactory"
 		item "Tech:Module:FrigateFactory"
 		item "Tech:Module:FrigateFactory"
 		item "Tech:Module:FrigateFactory"
+		item "Tech:Module:CommandCenter"
+		item "Tech:Module:PirateEmbassy"
+		item "Bonus:TECHomeworld"
 	group
 		condition
 			type "PlanetOwnerIsRaceNormalStart"
 			param "PsiLoyalist"
 		owner "PlanetOwner"
 		colonizeChance 0.000000
-		items 4
+		items 6
 		item "Psi:Module:FrigateFactory"
 		item "Psi:Module:FrigateFactory"
 		item "Psi:Module:FrigateFactory"
 		item "Psi:Module:CapitalShipFactory"
+		item "Psi:Module:CommandCenterLoyalist"
+		item "Bonus:AdventHomeworld"
 	group
 		condition
 			type "PlanetOwnerIsRaceNormalStart"
 			param "PsiRebel"
 		owner "PlanetOwner"
 		colonizeChance 0.000000
-		items 4
+		items 7
 		item "Psi:Module:CapitalShipFactory"
 		item "Psi:Module:FrigateFactory"
 		item "Psi:Module:FrigateFactory"
 		item "Psi:Module:FrigateFactory"
+		item "Psi:Module:CommandCenter"
+		item "Psi:Module:AntiMatterRechargerRebel"
+		item "Bonus:AdventHomeworld"
 	group
 		condition
 			type "PlanetOwnerIsRaceNormalStart"
 			param "PhaseRebel"
 		owner "PlanetOwner"
 		colonizeChance 0.000000
-		items 4
+		items 7
 		item "Phase:Module:FrigateFactory"
 		item "Phase:Module:FrigateFactory"
 		item "Phase:Module:FrigateFactory"
 		item "Phase:Module:CapitalShipFactory"
+		item "Phase:Module:CommandCenter"
+		item "Phase:Module:PhaseGateRebels"
+		item "Bonus:VasariHomeworld"
 	group
 		condition
 			type "PlanetOwnerIsRaceNormalStart"
 			param "PhaseLoyalist"
 		owner "PlanetOwner"
 		colonizeChance 0.000000
-		items 4
+		items 8
 		item "Phase:Module:CapitalShipFactory"
 		item "Phase:Module:FrigateFactory"
 		item "Phase:Module:FrigateFactory"
 		item "Phase:Module:FrigateFactory"
+		item "Phase:Module:CommandCenter"
+		item "Phase:Module:TitanFactory"
+		item "Phase:Frigate:ColonyLoyalists"
+		item "Bonus:VasariHomeworld"
 	group
 		condition
 			type "PlanetOwnerIsRaceQuickStart"
 			param "TechLoyalist"
 		owner "PlanetOwner"
 		colonizeChance 0.000000
-		items 6
+		items 9
 		item "Tech:Module:FrigateFactory"
 		item "Tech:Module:FrigateFactory"
 		item "Tech:Module:FrigateFactory"
 		item "Tech:Module:CapitalShipFactory"
 		item "Tech:Frigate:Scout"
 		item "Tech:Frigate:Scout"
+		item "Tech:Module:CommandCenterLoyalists"
+		item "Tech:Frigate:StarBaseConstructorLoyalistStart"
+		item "Bonus:TECHomeworld"
 	group
 		condition
 			type "PlanetOwnerIsRaceQuickStart"
 			param "TechRebel"
 		owner "PlanetOwner"
 		colonizeChance 0.000000
-		items 6
+		items 9
 		item "Tech:Module:CapitalShipFactory"
 		item "Tech:Module:FrigateFactory"
 		item "Tech:Module:FrigateFactory"
 		item "Tech:Module:FrigateFactory"
 		item "Tech:Frigate:Scout"
 		item "Tech:Frigate:Scout"
+		item "Tech:Module:CommandCenter"
+		item "Tech:Module:PirateEmbassy"
+		item "Bonus:TECHomeworld"
 	group
 		condition
 			type "PlanetOwnerIsRaceQuickStart"
 			param "PsiLoyalist"
 		owner "PlanetOwner"
 		colonizeChance 0.000000
-		items 6
+		items 8
 		item "Psi:Module:FrigateFactory"
 		item "Psi:Module:FrigateFactory"
 		item "Psi:Module:FrigateFactory"
 		item "Psi:Module:CapitalShipFactory"
 		item "Psi:Frigate:Scout"
 		item "Psi:Frigate:Scout"
+		item "Psi:Module:CommandCenterLoyalist"
+		item "Bonus:AdventHomeworld"
 	group
 		condition
 			type "PlanetOwnerIsRaceQuickStart"
 			param "PsiRebel"
 		owner "PlanetOwner"
 		colonizeChance 0.000000
-		items 6
+		items 9
 		item "Psi:Module:CapitalShipFactory"
 		item "Psi:Module:FrigateFactory"
 		item "Psi:Module:FrigateFactory"
 		item "Psi:Module:FrigateFactory"
 		item "Psi:Frigate:Scout"
 		item "Psi:Frigate:Scout"
+		item "Psi:Module:CommandCenter"
+		item "Psi:Module:AntiMatterRechargerRebel"
+		item "Bonus:AdventHomeworld"
 	group
 		condition
 			type "PlanetOwnerIsRaceQuickStart"
 			param "PhaseRebel"
 		owner "PlanetOwner"
 		colonizeChance 0.000000
-		items 6
+		items 9
 		item "Phase:Module:FrigateFactory"
 		item "Phase:Module:FrigateFactory"
 		item "Phase:Module:FrigateFactory"
 		item "Phase:Module:CapitalShipFactory"
 		item "Phase:Frigate:Scout"
 		item "Phase:Frigate:Scout"
+		item "Phase:Module:CommandCenter"
+		item "Phase:Module:PhaseGateRebels"
+		item "Bonus:VasariHomeworld"
 	group
 		condition
 			type "PlanetOwnerIsRaceQuickStart"
 			param "PhaseLoyalist"
 		owner "PlanetOwner"
 		colonizeChance 0.000000
-		items 6
+		items 10
 		item "Phase:Module:CapitalShipFactory"
 		item "Phase:Module:FrigateFactory"
 		item "Phase:Module:FrigateFactory"
 		item "Phase:Module:FrigateFactory"
 		item "Phase:Frigate:Scout"
 		item "Phase:Frigate:Scout"
+		item "Phase:Module:CommandCenter"
+		item "Phase:Module:TitanFactory"
+		item "Phase:Frigate:ColonyLoyalists"
+		item "Bonus:VasariHomeworld"
 	group
 		condition
 			type "Always"
@@ -509,7 +545,7 @@ template
 		item "Psi:Module:NonCombatLab"
 		item "Psi:Module:NonCombatLab"
 		item "Psi:Module:NonCombatLab"
-		item "Psi:Module:CultureCenter"
+		item "Psi:Module:CultureCenterLoyalists"
 	group
 		condition
 			type "PlanetOwnerIsRaceQuickStart"
@@ -653,7 +689,7 @@ template
 		item "Psi:Module:NonCombatLab"
 		item "Psi:Module:NonCombatLab"
 		item "Psi:Module:NonCombatLab"
-		item "Psi:Module:CultureCenter"
+		item "Psi:Module:CultureCenterLoyalists"
 	group
 		condition
 			type "PlanetOwnerIsRaceNormalStart"
