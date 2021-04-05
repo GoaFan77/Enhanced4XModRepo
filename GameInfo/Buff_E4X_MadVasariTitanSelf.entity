@@ -86,7 +86,7 @@ instantAction
 	buffInstantActionType "GiveExperience"
 	instantActionTriggerType "OnDelay"
 	delayTime 10.000000
-	experienceToGive 2500.000000		
+	experienceToGive 5750.000000		
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 1
