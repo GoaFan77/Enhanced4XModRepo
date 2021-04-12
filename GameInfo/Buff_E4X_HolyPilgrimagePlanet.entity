@@ -18,10 +18,10 @@ numEntityModifiers 1
 entityModifier
 	buffEntityModifierType "PlanetTaxRate"
 	value
-		Level:0 0.150000
-		Level:1 0.150000
-		Level:2 0.150000
-		Level:3 0.150000
+		Level:0 0.100000
+		Level:1 0.100000
+		Level:2 0.100000
+		Level:3 0.100000
 numEntityBoolModifiers 0
 numFinishConditions 2
 finishCondition
