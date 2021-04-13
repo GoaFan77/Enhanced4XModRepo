@@ -232,7 +232,7 @@ GameplayConstants
 		DamagePercentBonus:ANTIHEAVY:VeryLight 1.0
 		DamagePercentBonus:ANTIHEAVY:Light 0.75
 		DamagePercentBonus:ANTIHEAVY:Medium 1.0
-		DamagePercentBonus:ANTIHEAVY:Heavy 1.5
+		DamagePercentBonus:ANTIHEAVY:Heavy 2.0
 		DamagePercentBonus:ANTIHEAVY:VeryHeavy 0.5
 		DamagePercentBonus:ANTIHEAVY:Module 0.5
 		DamagePercentBonus:ANTIHEAVY:Pirate 0.90
