@@ -10,7 +10,7 @@ infoCardIcon "INFOCARDICON_SQUADTECHBOMBER"
 fighterEntityDef "FighterTechBomber"
 fighterIllusionEntityDef ""
 scuttleTime 12.500000
-fighterConstructionTime 27.500000
+fighterConstructionTime 30.000000
 decayWithoutOwnerRate 0.010000
 baseMaxNumFighters 4
 role "Bomber"

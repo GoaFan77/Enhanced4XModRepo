@@ -10,7 +10,7 @@ infoCardIcon "INFOCARDICON_SQUADPSIBOMBER"
 fighterEntityDef "FighterPsiBomber"
 fighterIllusionEntityDef "FighterPsiBomber"
 scuttleTime 9.000000
-fighterConstructionTime 18.000000
+fighterConstructionTime 27.000000
 decayWithoutOwnerRate 0.010000
 baseMaxNumFighters 5
 role "Bomber"
