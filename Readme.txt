@@ -550,7 +550,8 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		- Reduce Ascended Advent faction resource reduction bonus from 15% to 7.5%.
 		- Reduce Advent's initial crystal extraction bonus from 15% to 10%.
 		- Reduce Orthodox Pilgrims of the Unity tax income buff from 15% to 10% per stack.
-		- Advent's Shockwave of Ascension capitalship upgrade no longer disables engines. Duration reduced from 45s to 30s.
+		- Advent's Shockwave of Ascension capitalship upgrade no longer disables engines. Duration reduced from 45s to 15s.
+		- Iconus Guardians Repulse ability no longer affects Titans.
 		- Kortul's Power Surge ability is now disrupted by Interrupt abilities.
 		- Reduced cooldown time of Rankulas swarm deployment abilities. 
 		- Change Combat Nanite Swarm to use capitalship damage type.
