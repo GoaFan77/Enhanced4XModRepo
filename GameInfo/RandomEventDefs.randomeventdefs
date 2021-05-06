@@ -269,7 +269,7 @@ randomEventDefCount 17
 		respawnCount 0
 		nextSpawnTimeMin 300.0
 		nextSpawnTimeMax 1200.0
-		spawnWeight 0.05
+		spawnWeight 0.1
 	randomEventDef
 		id "PARTISANS"
 		nameID "IDS_RANDOMEVENT_PARTISANS_NAME"
