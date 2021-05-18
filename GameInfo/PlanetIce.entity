@@ -390,9 +390,10 @@ skyboxScalars
 	diffuseScalar 0.720000
 	ambientScalar 0.800000
 requiredPlanetBonusesCount 0
-possibleRandomPlanetBonusesCount 92
+possibleRandomPlanetBonusesCount 93
 bonus "PlanetBonusCavernSystem"
 bonus "PlanetBonusCavernSystem"
+bonus "PlanetBonusCrystalMiners"
 bonus "PlanetBonusGeothermalHeatSource"
 bonus "PlanetBonusGeothermalHeatSource"
 bonus "PlanetBonusGeothermalHeatSource"
