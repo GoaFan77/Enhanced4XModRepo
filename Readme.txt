@@ -549,8 +549,10 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		- Fixed a balance oversight that saw TEC and Advent squadrons rebuild faster than intended.
 		- Reduce Ascended Advent faction resource reduction bonus from 15% to 7.5%.
 		- Reduce Advent's initial crystal extraction bonus from 15% to 10%.
-		- Reduce Orthodox Pilgrims of the Unity tax income buff from 15% to 10% per stack.
+		- Reduce Orthodox Pilgrims of the Unity tax income buff from 15% to 7.5% per stack.
 		- Advent's Shockwave of Ascension capitalship upgrade no longer disables engines. Duration reduced from 45s to 15s.
+		- Duration of the Transcencia Starbase's Mass Disorientation reduced from 45s to 30s.
+		- Advent Resource Focus starting bonus reduced from 33% to 22%.
 		- Iconus Guardians Repulse ability no longer affects Titans.
 		- Kortul's Power Surge ability is now disrupted by Interrupt abilities.
 		- Reduced cooldown time of Rankulas swarm deployment abilities. 
