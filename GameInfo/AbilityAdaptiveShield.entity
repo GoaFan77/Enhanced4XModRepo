@@ -27,7 +27,7 @@ isAutoCastAvailable FALSE
 isAutoCastOnByDefault FALSE
 pickRandomPlanetToExploreForAutoCastTarget FALSE
 ignoreNonCombatShipsForAutoCastTarget TRUE
-onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000001
 useCostType "Passive"
 researchPrerequisites
 	NumResearchPrerequisites 0
