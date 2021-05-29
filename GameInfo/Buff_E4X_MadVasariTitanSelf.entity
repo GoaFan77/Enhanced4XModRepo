@@ -7,7 +7,7 @@ allowFirstSpawnerToStack FALSE
 buffExclusivityForAIType "ExclusiveForAllPlayers"
 isInterruptable FALSE
 isChannelling FALSE
-numInstantActions 4
+numInstantActions 5
 instantAction
 	buffInstantActionType "SpawnShipsAtPlanet"
 	instantActionTriggerType "OnHyperspaceExit"
@@ -86,7 +86,19 @@ instantAction
 	buffInstantActionType "GiveExperience"
 	instantActionTriggerType "OnDelay"
 	delayTime 10.000000
-	experienceToGive 5750.000000		
+	experienceToGive 5750.000000
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnDelay"
+	delayTime 11.000000
+	buffType "Buff_E4X_FullHeal"
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""		
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 1
