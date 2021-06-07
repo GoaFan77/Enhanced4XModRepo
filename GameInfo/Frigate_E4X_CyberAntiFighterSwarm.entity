@@ -12,7 +12,7 @@ statCountType "FrigateSpawnedByAbility"
 mainViewIcon "MAINVIEWICON_FRIGATE_PHASENANITE"
 picture "FRIGATEPICTURE_PHASE_NANITE_SWARM"
 NameStringID "IDS_Frigate_E4X_CyberAntiFighterSwarm_NAME"
-DescriptionStringID "IDS_Ability_E4X_SpawnPhaseAssaultMine_DESC"
+DescriptionStringID "IDS_Frigate_E4X_CyberAntiFighterSwarm_NAME"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_ANTIMODULE"
 basePrice
 	credits 0.000000

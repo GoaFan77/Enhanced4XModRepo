@@ -546,6 +546,7 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 			- The Titan now has some special tricks that should help make it far more dangerous.
 		- Increases Antimodule Cruiser XP values to be more in line with other combat frigates, as they can now attack ships.
 		- Standardized capitalship level purchase costs. They are now set to cost 5 credits for every experience point needed to reach the next level.
+		- Removed Karnath Assault Swarm ability from Sivuskras Ruiner, as the Ruiner now serves as an antistructure cruiser directly.
 		- Fixed a balance oversight that saw TEC and Advent squadrons rebuild faster than intended.
 		- Reduce Ascended Advent faction resource reduction bonus from 15% to 7.5%.
 		- Reduce Advent's initial crystal extraction bonus from 15% to 10%.

@@ -139,9 +139,9 @@ HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_PHASECAPITALSHIP"
 ability:0 "AbilityDeploySpaceMinePhaseExplosive"
 ability:1 "AbilityDeploySpaceMinePhaseGravity"
-ability:2 "Ability_E4X_SpawnPhaseAssaultMine"
+ability:2 ""
 ability:3 ""
-ability:4 ""
+ability:4 "Ability_E4X_PhaseAntiStructureDebuff"
 MaxAntiMatter 0.000000
 AntiMatterRestoreRate 0.000000
 cargoType "Invalid"

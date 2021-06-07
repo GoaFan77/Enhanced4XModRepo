@@ -1,5 +1,5 @@
 TXT
-NumStrings 8584
+NumStrings 8579
 StringInfo
 	ID "IDS_ABILITY_SUPPRESSION_DESCRIPTION"
 	Value "Telekinetically overpowers the crew and systems of the target ship, preventing them from moving, attacking, or using abilities. This effect ends if the target takes too much damage."
@@ -773,7 +773,7 @@ StringInfo
 	Value "Disintegration Beam"
 StringInfo
 	ID "IDS_Ability_E4X_PhaseAntiStructureDebuff_DESC"
-	Value "The Disintegration Beam of the Karnath Swarm is particularly corrosive to heavy structural armor, giving it a chance to inflict extra damage over time and forcing certain structures to stop working."
+	Value "The Disintegration Beam of the Sivuskras Ruiner is particularly corrosive to heavy structural armor, giving it a chance to inflict extra damage over time and forcing certain structures to stop working."
 StringInfo
 	ID "IDS_Ability_E4X_PsiAntiStructureDebuff_NAME"
 	Value "Disruptive Plasma Bursts"
@@ -786,21 +786,6 @@ StringInfo
 StringInfo
 	ID "IDS_Ability_E4X_TechAntiStructureDebuff_DESC"
 	Value "The extreme damage of the Ogrov's neutron torpedoes can disable systems on enemy targets, reducing their weapon accuracy and auto-repair systems."
-StringInfo
-	ID "IDS_RESEARCH_E4X_ABILITYACCESS_PhaseAssaultMine_NAME"
-	Value "Karnath Assault Swarm"
-StringInfo
-	ID "IDS_RESEARCH_E4X_ABILITYACCESS_PhaseAssaultMine_DESC"
-	Value "Allows Sivuskras Ruiners to deploy Karnath Assault Swarms, nanites with Disintegrator weapons capable of doing great damage to structures. They are vulnerable to mine fields however."
-StringInfo
-	ID "IDS_Ability_E4X_SpawnPhaseAssaultMine_NAME"
-	Value "Deploy Assault Swarm"
-StringInfo
-	ID "IDS_Ability_E4X_SpawnPhaseAssaultMine_DESC"
-	Value "Launches a Karnath Assault Swarm into Phase Space, which is immune to normal weapons but will be destroyed instantly by minefields. They require the Ruiner to stay in its gravity well to relay instructions."
-StringInfo
-	ID "IDS_Frigate_E4X_PhaseAntiModuleSwarm"
-	Value "Karnath Assault Swarm"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PIRATE_MERCENARIES_DESCRIPTION"
 	Value "The HTS' genocide policies creates lots of opportunities for plunder, attracting less reputable forces to your cause, allowing free ships to be organized through the Pirate Embassy at your homeworld."
