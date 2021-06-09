@@ -1710,6 +1710,9 @@ planetItemType
 	designName "Tech:Module:PirateEmbassy"
 	entityDefName "PLANETMODULE_E4X_PirateEmbassy"
 planetItemType
+	designName "Tech:Module:NPCStarbase"
+	entityDefName "PLANETMODULE_E4X_TechLoyalsNPCStarbase"
+planetItemType
 	designName "Pirate:Module:GaussDefense"
 	entityDefName "PLANETMODULE_PIRATEORBITALGAUSSDEFENSE"
 planetItemType
@@ -1871,9 +1874,6 @@ planetItemType
 planetItemType
 	designName "Tech:StarBase"
 	entityDefName "StarBaseTech"
-planetItemType
-	designName "Tech:StarBase:NPC"
-	entityDefName "StarBase_E4X_TechLoyalsNPC"
 planetItemType
 	designName "Phase:CapitalShip:BattleShip"
 	entityDefName "CAPITALSHIP_PHASEBATTLESHIP"
@@ -4499,7 +4499,7 @@ planetItemsTemplate
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:TradePort"
-				item "Tech:StarBase:NPC"
+				item "Tech:Module:NPCStarbase"
 				item "Tech:Module:Mine"
 				item "Tech:Module:Mine"
 				item "Tech:Frigate:Light"

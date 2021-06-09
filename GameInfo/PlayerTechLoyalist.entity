@@ -65,12 +65,11 @@ entities
 			entityDefName "FrigateTechAntiModule"
 			entityDefName "FrigateTechEnvoy"
 		NotOnPage
-			count 5
+			count 4
 			entityDefName "FrigateTechModuleConstructor"
 			entityDefName "FrigateTechTradeShip"
 			entityDefName "FrigateTechRefineryShip"
 			entityDefName "Frigate_E4X_TechEnvoyAI"
-			entityDefName "Frigate_E4X_TechStarBaseConstructorLoyalsNPC"
 	researchInfo
 		count 174
 		entityDefName "RESEARCH_E4X_WeaponMastery"
@@ -248,10 +247,9 @@ entities
 		entityDefName "RESEARCHSUBJECT_MINORFACTIONABILITYLEVELTECH0"
 		entityDefName "RESEARCHSUBJECT_MINORFACTIONABILITYLEVELTECH1"
 	starBaseInfo
-		count 4
+		count 3
 		entityDefName "StarBase_E4X_TechLoyals"
 		entityDefName "StarBase_E4X_TechLoyalsStart"
-		entityDefName "StarBase_E4X_TechLoyalsNPC"
 		entityDefName "StarBase_E4X_Ancient"
 	flagship "FrigateTechFlagship"
 debrisData
