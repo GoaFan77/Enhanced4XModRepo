@@ -1,6 +1,57 @@
-# Set the default behavior, in case people don't have core.autocrlf set.
-* text=auto
+# Force all text files to CRLF to not throw off the Sins checksum. Sorry. Windows only.
+* text eol=crlf
 
-# Set the default behavior, in case people don't have core.autocrlf set.
-*.entity text eol=crlf
-*.mesh text eol=crlf
+# Always convert the following files as text.
+# Lots of GameInfo files.
+*.entity text
+*.constants text
+*.explosiondata text
+*.galaxyScenarioDef text
+*.lensflaredata text
+*.musicdata text
+*.randomeventdefs text
+*.skyboxbackdropdata text
+*.soundata text
+*.starscapedata text
+*.asteroidDef text
+
+
+*.mesh text
+*.galaxy text
+*.particle text
+*.fx text
+*.brushes text
+*.window text
+*.playerThemes text
+*.str text
+*.py text
+*.bat text
+*.txt text
+*.manifest text
+
+
+# Exclude binary files, includes these, from eol conversion.
+*.dds binary
+*.tga binary
+*.ogg binary
+*.wav binary
+*.bik binary
+
+
+# Other common binary files.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.mov binary
+*.mp4 binary
+*.mp3 binary
+*.flv binary
+*.fla binary
+*.swf binary
+*.gz binary
+*.zip binary
+*.7z binary
+*.ttf binary
+*.pyc binary
