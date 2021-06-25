@@ -5,7 +5,7 @@ ability:0 "AbilityMicroPhaseJump"
 ability:1 "AbilityDesperation"
 ability:2 "AbilitySpawnPhaseStabilizer"
 ability:3 "AbilityTheMaw"
-ability:4 "Ability_E4X_MadVasariTitan"
+ability:4 "AbilityMadVasariTitan"
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
 prefersToFocusFire TRUE
@@ -281,7 +281,7 @@ Weapon
 		DamageApplyType "OVERTIME"
 		DamageType "ENERGY"
 		WeaponClassType "CHAOSBOLT"
-	DamagePerBank:FRONT 125.000000
+	DamagePerBank:FRONT 250.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
@@ -315,7 +315,7 @@ Weapon
 		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_GENERICHEAVY_HITSHIELDS"
-		projectileTravelEffectName "Weapon_PhaseStarBaseChaosBolt_Travel"
+		projectileTravelEffectName "Weapon_PhaseStarBaseChaosBolt_Travel"		
 m_weaponIndexForRange 0
 firingAlignmentType "Default"
 TargetCountPerBank:FRONT 4
@@ -333,7 +333,7 @@ maxAccelerationAngular 0.900000
 maxDecelerationAngular 9.999996
 maxSpeedLinear 450.000000
 maxRollRate 1.650000
-maxRollAngle 35.000000
+maxRollAngle 34.999996
 useCustomHyperspaceEffects TRUE
 effects
 	chargeUpEffectName "Hyperspace_Vasari_Titan_Chargeup"

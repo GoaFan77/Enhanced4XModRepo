@@ -31,7 +31,8 @@ entities
 			entityDefName "PLANETMODULE_TECHORBITALCANNON"
 	titanInfo
 		Page:0
-			count 0
+			count 1
+			entityDefName "TITAN_MADVASARI"
 	capitalShipInfo
 		Page:0
 			count 5

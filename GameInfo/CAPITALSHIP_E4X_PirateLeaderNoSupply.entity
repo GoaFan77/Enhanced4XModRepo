@@ -83,7 +83,7 @@ Prerequisites
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 roleType "Invalid"
-statCountType "CapitalShipUtility1"
+statCountType "CapitalShipUtility0"
 numRandomDebrisLarge 5
 numRandomDebrisSmall 16
 numSpecificDebris 1
