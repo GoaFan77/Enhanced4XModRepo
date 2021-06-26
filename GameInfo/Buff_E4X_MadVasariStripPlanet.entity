@@ -1,0 +1,140 @@
+﻿TXT
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 4
+instantAction
+	buffInstantActionType "PlayPersistantBeamEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.500000
+	hasWeaponEffects TRUE
+	weaponEffectOriginType "Targetter"
+	weaponEffectAttachInfo
+		attachType "Ability"
+		abilityIndex 0
+	weaponEffectImpactOffsetType "CenterOffsetBySpatialRadius"
+	canWeaponEffectHitHull TRUE
+	canWeaponEffectHitShields FALSE
+	weaponEffectsDef
+		weaponType "Beam"
+		burstCount 1
+		burstDelay 0.000000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PhaseCapitalPlanetBombing_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 1
+			sound ""
+		hitEffectName "Weapon_PhaseCapitalPlanetBombing_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound ""
+		hitShieldsEffectSounds
+			soundCount 1
+			sound ""
+		beamEffectSounds
+			soundCount 1
+			sound "WEAPON_PHASEPLANETBOMB_LOOP"
+		beamGlowTextureName "PhaseCapitalBombingBeam_Glow"
+		beamCoreTextureName "PhaseCapitalBombingBeam_Core"
+		beamWidth 150.000000
+		beamGlowColor ffffffff
+		beamCoreColor ffffffff
+		beamTilingRate 3.000000
+instantAction
+	buffInstantActionType "RuinPlanet"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	targetFilter
+		numOwnerships 1
+			ownership "NoOwner"
+		numObjects 1
+			object "Planet"
+		numSpaces 1
+			space "Normal"
+		numConstraints 2
+			constraint "NotInvulnerable"
+			constraint "IsRuinable"
+	range
+		Level:0 10000.000000
+		Level:1 10000.000000
+		Level:2 10000.000000
+		Level:3 10000.000000
+	afterRuinBuffType "BuffStrippedToTheCoreSelf"
+instantAction
+	buffInstantActionType "SpawnShipsAtPlanet"
+	instantActionTriggerType "OnDelay"
+	delayTime 2.000000
+	spawnShipsLevelCount 1
+	spawnShips
+		minFleetPoints 150.000000
+		maxFleetPoints 299.000000
+		requiredShipCount 0
+		randomShipCount 6
+		randomShip
+			type "CAPITALSHIP_PHASEBATTLESHIP"
+			weight 1
+		randomShip
+			type "CAPITALSHIP_PHASEBATTLESHIP2"
+			weight 1
+		randomShip
+			type "CAPITALSHIP_PHASECARRIER"
+			weight 1
+		randomShip
+			type "CAPITALSHIP_PHASECOLONY"
+			weight 1
+		randomShip
+			type "CAPITALSHIP_PHASESCOUT"
+			weight 1
+		randomShip
+			type "CAPITALSHIP_PHASESIEGE"
+			weight 1
+	spawnShipsArrivalDelayTime 7.000000
+	spawnShipsHyperspaceSpawnType "FleetBeacon"
+instantAction
+	buffInstantActionType "ApplyBuffToTargetsAtOrbitBody"
+	instantActionTriggerType "OnDelay"
+	delayTime 3.000000
+	buffType "Buff_E4X_FullHeal"
+	targetFilter
+		numOwnerships 1
+		ownership "Player"
+		numObjects 4
+		object "CapitalShip"
+		object "Frigate"
+		object "Titan"
+		object "Corvette"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0
+	maxTargetCount
+		Level:0 -1.000000
+		Level:1 -1.000000
+		Level:2 -1.000000
+		Level:3 -1.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""	
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 2
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 5.500000
+		Level:1 5.500000
+		Level:2 5.500000
+		Level:3 5.500000
+finishCondition
+	finishConditionType "OwnerChanged"

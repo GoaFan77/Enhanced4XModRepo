@@ -3,7 +3,7 @@ SinsArchiveVersion 194
 entityType "Titan"
 ability:0 "AbilityMicroPhaseJump"
 ability:1 "AbilityDesperation"
-ability:2 "AbilitySpawnPhaseStabilizer"
+ability:2 "Ability_E4X_MadVasariStripPlanet"
 ability:3 "AbilityTheMaw"
 ability:4 "AbilityMadVasariTitan"
 defaultAutoAttackRange "GravityWell"
@@ -91,10 +91,9 @@ Prerequisites
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 statCountType "Titan"
-UpgradeTypeCount 7
+UpgradeTypeCount 6
 UpgradeType "TitanUpgrade_PhaseLoyalist_AbilityA"
 UpgradeType "TitanUpgrade_PhaseLoyalist_AbilityB"
-UpgradeType "TitanUpgrade_PhaseLoyalist_AbilityC"
 UpgradeType "TitanUpgrade_PhaseLoyalist_AbilityD"
 UpgradeType "TitanUpgrade_PhaseLoyalist_Durability"
 UpgradeType "TitanUpgrade_PhaseLoyalist_Weapons"

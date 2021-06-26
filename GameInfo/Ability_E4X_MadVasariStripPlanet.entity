@@ -1,0 +1,57 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "Ability"
+buffInstantActionType "ApplyTargettedBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_MadVasariStripPlanet"
+targetFilter
+	numOwnerships 1
+		ownership "NoOwner"
+	numObjects 1
+		object "Planet"
+	numSpaces 1
+		space "Normal"
+	numConstraints 2
+		constraint "NotInvulnerable"
+		constraint "IsRuinable"
+range
+	Level:0 5500.000000
+	Level:1 5500.000000
+	Level:2 5500.000000
+	Level:3 5500.000000
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget TRUE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility TRUE
+maxNumLevels 1
+levelSourceType "FixedLevel0"
+aiUseTime "Anytime"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault TRUE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget FALSE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "None"
+cooldownTime
+	Level:0 120.000000
+	Level:1 120.000000
+	Level:2 120.000000
+	Level:3 120.000000
+orderAcknowledgementType "ONATTACKORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_RESEARCHSUBJECT_STRIPPED_TO_THE_CORE_NAME"
+descStringID "IDS_RESEARCHSUBJECT_STRIPPED_TO_THE_CORE_DESCRIPTION"
+hudIcon "HUDICON_RESEARCHSUBJECT_STRIPPEDTOTHECORE"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_STRIPPEDTOTHECORE"
+infoCardIcon ""
