@@ -6,8 +6,20 @@ stackingLimit 1
 allowFirstSpawnerToStack FALSE
 buffExclusivityForAIType "ExclusiveForAllPlayers"
 isInterruptable FALSE
-isChannelling FALSE
-numInstantActions 4
+isChannelling TRUE
+numInstantActions 5
+instantAction
+	buffInstantActionType "PlayPersistantAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Ability"
+			abilityIndex 0
+		smallEffectName "CapitalAbility_ResourceDrainActivate"
+		mediumEffectName "CapitalAbility_ResourceDrainActivate"
+		largeEffectName "CapitalAbility_ResourceDrainActivate"
+		soundID "EFFECT_RESOURCEDRAIN_LOOP"
 instantAction
 	buffInstantActionType "PlayPersistantBeamEffect"
 	instantActionTriggerType "OnDelay"
@@ -45,11 +57,11 @@ instantAction
 		beamWidth 150.000000
 		beamGlowColor ffffffff
 		beamCoreColor ffffffff
-		beamTilingRate 3.000000
+		beamTilingRate 3.000000		
 instantAction
 	buffInstantActionType "RuinPlanet"
 	instantActionTriggerType "OnDelay"
-	delayTime 0.000000
+	delayTime 2.000000
 	targetFilter
 		numOwnerships 1
 			ownership "NoOwner"
@@ -69,7 +81,7 @@ instantAction
 instantAction
 	buffInstantActionType "SpawnShipsAtPlanet"
 	instantActionTriggerType "OnDelay"
-	delayTime 2.000000
+	delayTime 10.000000
 	spawnShipsLevelCount 1
 	spawnShips
 		minFleetPoints 150.000000
@@ -98,8 +110,7 @@ instantAction
 	spawnShipsHyperspaceSpawnType "FleetBeacon"
 instantAction
 	buffInstantActionType "ApplyBuffToTargetsAtOrbitBody"
-	instantActionTriggerType "OnDelay"
-	delayTime 3.000000
+	instantActionTriggerType "OnBuffFinish"
 	buffType "Buff_E4X_FullHeal"
 	targetFilter
 		numOwnerships 1
@@ -132,9 +143,9 @@ numFinishConditions 2
 finishCondition
 	finishConditionType "TimeElapsed"
 	time
-		Level:0 5.500000
-		Level:1 5.500000
-		Level:2 5.500000
-		Level:3 5.500000
+		Level:0 11.000000
+		Level:1 11.000000
+		Level:2 11.000000
+		Level:3 11.000000
 finishCondition
 	finishConditionType "OwnerChanged"

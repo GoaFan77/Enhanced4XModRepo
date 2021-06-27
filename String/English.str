@@ -19961,13 +19961,13 @@ StringInfo
 	Value "Capital Ship - Carrier"
 StringInfo
 	ID "IDS_GameStat_CapitalShipUtility0Built"
-	Value "Capital Ship - Utility A"
+	Value "Capital Ship - Utility"
 StringInfo
 	ID "IDS_GameStat_CapitalShipUtility1Built"
-	Value "Capital Ship - Utility B"
+	Value "Capital Ship - Siege"
 StringInfo
 	ID "IDS_GameStat_CapitalShipUtility2Built"
-	Value "Capital Ship - Utility C"
+	Value "Capital Ship - Colony"
 StringInfo
 	ID "IDS_GameStat_ModuleCannonBuilt"
 	Value "Structure - Superweapon"
