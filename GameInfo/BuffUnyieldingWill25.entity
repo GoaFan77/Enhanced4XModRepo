@@ -7,7 +7,7 @@ allowFirstSpawnerToStack FALSE
 buffExclusivityForAIType "ExclusiveForAllPlayers"
 isInterruptable FALSE
 isChannelling FALSE
-numInstantActions 1
+numInstantActions 2
 instantAction
 	buffInstantActionType "ApplyBuffToSelf"
 	instantActionTriggerType "OnCondition"
@@ -20,6 +20,20 @@ instantAction
 		mediumEffectName ""
 		largeEffectName ""
 		soundID ""
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnCondition"
+	instantActionConditionType "IfOwnerHasBuff"
+	conditionBuffType "BuffUnyieldingWillDie"
+	conditionBuffShortName ""
+	buffType "BuffUnyieldingWillRecourse"
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""		
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0

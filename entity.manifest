@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2762
+entityNameCount 2763
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2762,3 +2762,4 @@ entityName "TITAN_TECHLOYALIST2.entity"
 entityName "TITAN_TECHREBEL2.entity"
 entityName "Ability_E4X_MadVasariStripPlanet.entity"
 entityName "Buff_E4X_MadVasariStripPlanet.entity"
+entityName "BuffUnyieldingWillDie.entity"
