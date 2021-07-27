@@ -2438,7 +2438,7 @@ brush
 	content "States"
 	Disabled
 		fileName "E4X_New_Artifacts"
-		pixelBox [ 300 , 628 , 149 , 75 ]
+		pixelBox [ 300 , 618 , 149 , 75 ]
 	Pressed
 		fileName "E4X_New_Artifacts"
 		pixelBox [ 300 , 541 , 149 , 75 ]
@@ -2456,7 +2456,7 @@ brush
 	content "States"
 	Disabled
 		fileName "E4X_New_Artifacts"
-		pixelBox [ 150 , 628 , 149 , 75 ]
+		pixelBox [ 150 , 618 , 149 , 75 ]
 	Pressed
 		fileName "E4X_New_Artifacts"
 		pixelBox [ 150 , 541 , 149 , 75 ]
@@ -2474,7 +2474,7 @@ brush
 	content "States"
 	Disabled
 		fileName "E4X_New_Artifacts"
-		pixelBox [ 0 , 628 , 149 , 75 ]
+		pixelBox [ 0 , 618 , 149 , 75 ]
 	Pressed
 		fileName "E4X_New_Artifacts"
 		pixelBox [ 0 , 541 , 149 , 75 ]
@@ -2600,7 +2600,7 @@ brush
 	content "States"
 	Disabled
 		fileName "E4X_New_Artifacts"
-		pixelBox [ 450 , 628 , 149 , 75 ]
+		pixelBox [ 450 , 618 , 149 , 75 ]
 	Pressed
 		fileName "E4X_New_Artifacts"
 		pixelBox [ 450 , 541 , 149 , 75 ]
@@ -2618,7 +2618,7 @@ brush
 	content "States"
 	Disabled
 		fileName "E4X_New_Artifacts"
-		pixelBox [ 600 , 628 , 149 , 75 ]
+		pixelBox [ 600 , 618 , 149 , 75 ]
 	Pressed
 		fileName "E4X_New_Artifacts"
 		pixelBox [ 600 , 541 , 149 , 75 ]
