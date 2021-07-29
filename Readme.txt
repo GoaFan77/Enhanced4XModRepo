@@ -553,8 +553,8 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		- Advent's Shockwave of Ascension capitalship upgrade no longer disables engines. Duration reduced from 45s to 15s.
 		- Duration of the Transcencia Starbase's Mass Disorientation reduced from 45s to 30s.
 		- Advent Resource Focus starting bonus reduced from 33% to 22%.
-		- Iconus Guardians Repulse ability no longer affects Titans.
 		- Kortul's Power Surge ability is now disrupted by Interrupt abilities.
+		- Range of Orkulus Starbase' Disruptor weapons increased to 8000 meters to match the pulse guns.
 		- Reduced cooldown time of Rankulas swarm deployment abilities. 
 		- Change Combat Nanite Swarm to use capitalship damage type.
 		- Ice planets can now get the Crystal Miners planet bonus.
