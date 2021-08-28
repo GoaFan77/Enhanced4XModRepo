@@ -1525,7 +1525,7 @@ orbitBodyType
 	typeName "CyberFortress"
 	entityDefName "Planet_E4X_CyberFortress"
 	defaultTemplateName "Template:CyberFortress"	
-planetItemTypeCount 360
+planetItemTypeCount 361
 planetItemType
 	designName "Phase:Module:MineExplosive"
 	entityDefName "SpaceMinePhaseExplosive"
@@ -1973,6 +1973,9 @@ planetItemType
 planetItemType
 	designName "Tech:Titan:Rebel"
 	entityDefName "TITAN_TECHREBEL"
+planetItemType
+	designName "Other:Titan:MadVasari"
+	entityDefName "TITAN_MADVASARI"	
 planetItemType
 	designName "Pirate:Frigate:Medium"
 	entityDefName "FrigatePirateMedium"
