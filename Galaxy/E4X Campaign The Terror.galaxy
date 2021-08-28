@@ -1,8 +1,7 @@
-﻿TXT2
-SinsArchiveVersion 194
+TXT
 versionNumber 193
 isBrowsable TRUE
-browsePictureName ""
+browsePictureName "ScenarioPicture-TheTerror"
 browseName "Campaign: The Terror"
 browseDescription "An ancient Vasari warship is on a mad rampage through this system. Can you stop it from consuming your Empire?"
 isFirstCapitalShipIsFlagship TRUE
@@ -141,7 +140,7 @@ star
 	planet
 		designName "Planet7"
 		inGameName ""
-		type "ToxicFair"
+		type "Toxic"
 		pos [ 110 , 233 ]
 		owner ""
 		isHomePlanet FALSE
@@ -621,7 +620,7 @@ star
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"
 		spawnProbability 1.000000
-		useDefaultTemplate TRUE
+		useDefaultTemplate FALSE
 		entityCount 0
 		asteroidCount 0
 	planet
@@ -677,7 +676,7 @@ star
 				item "Phase:Frigate:Constructor"
 				item "Phase:Frigate:Constructor"
 		spawnProbability 1.000000
-		useDefaultTemplate TRUE
+		useDefaultTemplate FALSE
 		entityCount 0
 		asteroidCount 0
 	planet
@@ -738,7 +737,7 @@ star
 				item "Tech:Frigate:Constructor"
 				item "Tech:Frigate:Constructor"
 		spawnProbability 1.000000
-		useDefaultTemplate TRUE
+		useDefaultTemplate FALSE
 		entityCount 0
 		asteroidCount 0
 	planet
