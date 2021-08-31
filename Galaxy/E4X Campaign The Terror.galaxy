@@ -2,7 +2,7 @@ TXT
 versionNumber 193
 isBrowsable TRUE
 browsePictureName "ScenarioPicture-TheTerror"
-browseName "Campaign: The Terror"
+browseName "Campaign - The Terror"
 browseDescription "An ancient Vasari warship is on a mad rampage through this system. Can you stop it from consuming your Empire?"
 isFirstCapitalShipIsFlagship TRUE
 randomizeStartingPositions FALSE
