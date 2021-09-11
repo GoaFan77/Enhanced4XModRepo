@@ -558,4 +558,5 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		- Reduced cooldown time of Rankulas swarm deployment abilities. 
 		- Change Combat Nanite Swarm to use capitalship damage type.
 		- Ice planets can now get the Crystal Miners planet bonus.
+		- Fix a vanilla bug where Strikecraft can trigger Gas Giant AoE damage on Death.
 		- Fair versions of Alpine, Greenhouse, Moon, and Oceanic planets no longer can have planet bonuses.
