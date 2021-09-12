@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2763
+entityNameCount 2768
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2763,3 +2763,8 @@ entityName "TITAN_TECHREBEL2.entity"
 entityName "Ability_E4X_MadVasariStripPlanet.entity"
 entityName "Buff_E4X_MadVasariStripPlanet.entity"
 entityName "BuffUnyieldingWillDie.entity"
+entityName "Ability_E4X_VictoryOnPlanetTaken.entity"
+entityName "Buff_E4X_VictoryOnPlanetTaken.entity"
+entityName "Buff_E4X_WinGame.entity"
+entityName "Buff_E4X_WinGamePlanet.entity"
+entityName "SpaceMine_E4X_VictoryOnPlanetTakenFlag.entity"

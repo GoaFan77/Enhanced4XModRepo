@@ -1525,7 +1525,7 @@ orbitBodyType
 	typeName "CyberFortress"
 	entityDefName "Planet_E4X_CyberFortress"
 	defaultTemplateName "Template:CyberFortress"	
-planetItemTypeCount 361
+planetItemTypeCount 362
 planetItemType
 	designName "Phase:Module:MineExplosive"
 	entityDefName "SpaceMinePhaseExplosive"
@@ -2596,7 +2596,10 @@ planetItemType
 	entityDefName "SpaceMine_E4X_DefeatPlayerOnPlanetDeathFlag"
 planetItemType
 	designName "Other:Flag:DefeatPlayerOnTitanDeath"
-	entityDefName "SpaceMine_E4X_DefeatPlayerOnTitanDeathFlag"	
+	entityDefName "SpaceMine_E4X_DefeatPlayerOnTitanDeathFlag"
+planetItemType
+	designName "Other:Flag:VictoryOnPlanetTaken"
+	entityDefName "SpaceMine_E4X_VictoryOnPlanetTakenFlag"	
 planetItemType
 	designName "Other:Flag:TECPlanetaryDefenses"
 	entityDefName "SpaceMine_E4X_TECPlanetDefensesFlag"
