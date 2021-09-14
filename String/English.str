@@ -1,5 +1,8 @@
 TXT
-NumStrings 8579
+NumStrings 8580
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_ARTIFACT_ORGANICAI_DESCRIPTION"
+	Value "A sentient cybernetic artificial intelligence manages all aspects of population development on your empire's planets, yielding higher population growth, tax rates, and lower Population upgrade cost and build time."
 StringInfo
 	ID "IDS_ABILITY_SUPPRESSION_DESCRIPTION"
 	Value "Telekinetically overpowers the crew and systems of the target ship, preventing them from moving, attacking, or using abilities. This effect ends if the target takes too much damage."
@@ -317,13 +320,13 @@ StringInfo
 	Value "Evacuates your personnel from the captured structure, reverting it to neutral control."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_TRADEINCOME_DESCRIPTION"
-	Value "An atomic scale scanning and reordering system, it allows all manner of products to be spatially compressed in order to make for more efficient transport through your empire's trade network. Also reduces the cost of logistics upgrades."
+	Value "An atomic scale scanning and reordering system, it allows all manner of products to be spatially compressed in order to make for more efficient transport through your empire's trade network. Also reduces the cost and build time of logistics upgrades."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_SHIPBUILDTIMEREDUCTION_DESCRIPTION"
-	Value "Uncovered factory designs allow ships and modules to be constructed in a relativistically accelerated frame of reference, making them build at a quicker rate. These advanced factories also reduce the costs of Industry specialization on your planets."
+	Value "Uncovered factory designs allow ships and modules to be constructed in a relativistically accelerated frame of reference, making them build at a quicker rate. These advanced factories also reduce the cost and build time of Industry specialization on your planets."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_PLANETBOMBINGSHIELD_DESCRIPTION"
-	Value "A large planetary energy system that emits charged particles into the upper atmosphere, creating a partial barrier to orbital bombardment. Also reduces the cost of planetary infrastructure upgrades."
+	Value "A large planetary energy system that emits charged particles into the upper atmosphere, creating a partial barrier to orbital bombardment. Also reduces the cost and build time of planetary infrastructure upgrades."
 StringInfo
 	ID "IDS_GAMEMESSAGE_RESEARCHNEEDPREREQUISITEONEPOINT"
 	Value "%d point of the research or artifact %s must be acquired first."

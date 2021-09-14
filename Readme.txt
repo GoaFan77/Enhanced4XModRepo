@@ -553,6 +553,10 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		- Advent's Shockwave of Ascension capitalship upgrade no longer disables engines. Duration reduced from 45s to 15s.
 		- Duration of the Transcencia Starbase's Mass Disorientation reduced from 45s to 30s.
 		- Advent Resource Focus starting bonus reduced from 33% to 22%.
+		- Fixed a bug where Logistic and Planet Health upgrades were cheaper than intended.
+		- Removed the 25% max population buff from Planetary Organic AI. Now gives 25% cheaper, 50% faster Population upgrades instead.
+		- Added a 50% Planet Upgrade Rate buff to any artifact that lowered their cost previously.
+		- Fixed a bug where the Dynamic Shield Array Artifact was giving an extra 10% shield regeneration bonus, instead of a 10% shield point increase.
 		- Kortul's Power Surge ability is now disrupted by Interrupt abilities.
 		- Range of Orkulus Starbase' Disruptor weapons increased to 8000 meters to match the pulse guns.
 		- Reduced cooldown time of Rankulas swarm deployment abilities. 

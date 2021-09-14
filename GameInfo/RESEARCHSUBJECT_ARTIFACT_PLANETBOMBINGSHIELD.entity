@@ -29,7 +29,7 @@ onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
-researchFloatModifiers 3
+researchFloatModifiers 4
 researchModifier
 	modifierType "BombingDamageAsDamageTargetAdjustment"
 	baseValue 0.000000
@@ -40,9 +40,14 @@ researchModifier
 	perLevelValue 0.250000
 researchModifier
 	modifierType "PlanetUpgradeCostAdjustment"
-	baseValue 0.250000
-	perLevelValue 0.000000
+	baseValue 0.000000
+	perLevelValue 0.250000
 	linkedPlanetUpgradeType "Infrastructure"
+researchModifier
+	modifierType "PlanetUpgradeCostAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.500000
+	linkedPlanetUpgradeType "Infrastructure"	
 artifactPicture "Artifact_E4X_PicturePlanetBombingShield"
 uniqueOverlayBrush ""
 dlcId 204880

@@ -35,7 +35,7 @@ researchModifier
 	baseValue 0.000000
 	perLevelValue 0.333333
 researchModifier
-	modifierType "ShieldPointsRegenAdjustment"
+	modifierType "ShieldPointsMaxAdjustment"
 	baseValue 0.000000
 	perLevelValue 0.100000
 researchModifier
