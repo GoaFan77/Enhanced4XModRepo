@@ -46,15 +46,15 @@ GameplayConstants
 		baseTaxRatePerPopulation 0.025
 		planetBaseAllegianceAtDistanceCount 11
 		allegiance 1.00
-		allegiance 0.95
 		allegiance 0.90
-		allegiance 0.85
 		allegiance 0.80
-		allegiance 0.75
 		allegiance 0.70
-		allegiance 0.65
 		allegiance 0.60
-		allegiance 0.55
+		allegiance 0.50
+		allegiance 0.50
+		allegiance 0.50
+		allegiance 0.50
+		allegiance 0.50
 		allegiance 0.50
 		planetCultureTakeOverPercWarning 0.25
 		experienceGainedForDestroying 400.0

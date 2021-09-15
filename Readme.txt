@@ -543,6 +543,7 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		
 1.87	- Added additional abilities to the Mad Vasari Vorastra Titan. A word of advice - Don't let it bomb out your planets. :)
 		- Increased the Spawn Chance fo the Mad Vasari Titan event. It can still only happen once per game.
+		- Increased the Allegiance reduction for planets the farther they are from your Capital planet. Increased back to 10% per jump, but still with a minimum of 50.
 		- Increases Antimodule Cruiser XP values to be more in line with other combat frigates, as they can now attack ships.
 		- Standardized capitalship level purchase costs. They are now set to cost 5 credits for every experience point needed to reach the next level.
 		- Removed Karnath Assault Swarm ability from Sivuskras Ruiner, as the Ruiner now serves as an antistructure cruiser directly.
