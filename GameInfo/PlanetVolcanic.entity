@@ -362,8 +362,8 @@ planetUpgradeDef
 			price
 				credits 850.000000
 				metal 250.000000
-				crystal 250.000000
-			upgradeTime 275.000000
+				crystal 275.000000
+			upgradeTime 105.000000
 			maxPopulation -35.000000
 			tradeIncomeModifier 0.600000
 			shipBuildRateModifier 0.677090

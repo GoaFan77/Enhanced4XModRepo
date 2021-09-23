@@ -94,7 +94,7 @@ planetUpgradeDef
 				credits 450.000000
 				metal 150.000000
 				crystal 75.000000
-			upgradeTime 65.000000
+			upgradeTime 45.000000
 			maxModuleSlotCount:Civilian 16.000000
 			maxModuleConstructorCount 1
 		stage
@@ -102,7 +102,7 @@ planetUpgradeDef
 				credits 550.000000
 				metal 175.000000
 				crystal 125.000000
-			upgradeTime 100.000000
+			upgradeTime 60.000000
 			maxModuleSlotCount:Civilian 24.000000
 			maxModuleConstructorCount 1
 	path:TacticalModules
@@ -120,7 +120,7 @@ planetUpgradeDef
 				credits 450.000000
 				metal 150.000000
 				crystal 75.000000
-			upgradeTime 65.000000
+			upgradeTime 45.000000
 			maxModuleSlotCount:Tactical 15.000000
 			maxModuleConstructorCount 2
 		stage
@@ -128,7 +128,7 @@ planetUpgradeDef
 				credits 550.000000
 				metal 175.000000
 				crystal 125.000000
-			upgradeTime 100.000000
+			upgradeTime 60.000000
 			maxModuleSlotCount:Tactical 25.000000
 			maxModuleConstructorCount 3
 	path:Home

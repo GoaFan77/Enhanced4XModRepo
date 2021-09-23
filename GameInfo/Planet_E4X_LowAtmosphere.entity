@@ -87,10 +87,10 @@ planetUpgradeDef
 			developmentTaxPenalty -0.500000
 		stage
 			price
-				credits 660.000000
-				metal 250.000000
-				crystal 150.000000
-			upgradeTime 100.000000
+				credits 550.000000
+				metal 175.000000
+				crystal 125.000000
+			upgradeTime 60.000000
 			maxPopulation 50.000000
 			populationGrowthRate 0.050000
 			developmentTaxPenalty 0.000000
