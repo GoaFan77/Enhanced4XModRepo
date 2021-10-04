@@ -9,16 +9,17 @@ isInterruptable FALSE
 isChannelling FALSE
 numInstantActions 2
 instantAction
-	buffInstantActionType "ApplyBuffToSelf"
+	buffInstantActionType "ApplyBuffToSelfWithFilter"
 	instantActionTriggerType "OnBuffFinish"
 	buffType "Buff_E4X_PlanetaryDefensesNuke"
-	effectInfo
-		effectAttachInfo
-			attachType "Invalid"
-		smallEffectName ""
-		mediumEffectName ""
-		largeEffectName ""
-		soundID ""
+	targetFilter
+		numOwnerships 1
+		ownership "Player"
+		numObjects 1
+		object "Planet"
+		numSpaces 1
+		space "Normal"
+		numConstraints 0		
 instantAction
 	buffInstantActionType "RemoveBuffOfType"
 	instantActionTriggerType "OnDelay"
