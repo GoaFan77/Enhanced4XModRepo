@@ -1525,7 +1525,7 @@ orbitBodyType
 	typeName "CyberFortress"
 	entityDefName "Planet_E4X_CyberFortress"
 	defaultTemplateName "Template:CyberFortress"	
-planetItemTypeCount 362
+planetItemTypeCount 363
 planetItemType
 	designName "Phase:Module:MineExplosive"
 	entityDefName "SpaceMinePhaseExplosive"
@@ -2263,7 +2263,10 @@ planetItemType
 	entityDefName "PlanetBonus_E4X_Design"	
 planetItemType
 	designName "Bonus:DesolateSubterranianFactory"
-	entityDefName "PlanetBonus_E4X_DesolateSubterranianFactory"	
+	entityDefName "PlanetBonus_E4X_DesolateSubterranianFactory"
+planetItemType
+	designName "Bonus:FreshWater"
+	entityDefName "PlanetBonus_E4X_FreshWater"		
 planetItemType
 	designName "Bonus:GasProcessingPlant"
 	entityDefName "PlanetBonus_E4X_GasGiantProcessingPlant"	
