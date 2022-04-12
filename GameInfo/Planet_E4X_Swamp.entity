@@ -64,7 +64,7 @@ meshInfo
 minZoomDistanceMult 2.000000
 glowColor 8f459751
 ringColor ffffffff
-cloudLayerTextureName "Axeldude_Cloudmap_Fair"
+cloudLayerTextureName "Axeldude_Cloudmap_Dense"
 planetResourceSetupInfo
 	asteroidSpawnAngleVariance 3.141593
 	totalMaxResourceAsteroids 3
