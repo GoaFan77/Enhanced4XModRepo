@@ -200,7 +200,7 @@ Weapon
 	SynchronizedTargeting TRUE
 	PointStaggerDelay 0.250000
 	TravelSpeed 0.000000
-	Duration 4.000000
+	Duration 2.000000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Beam"
@@ -222,12 +222,12 @@ Weapon
 		beamEffectSounds
 			soundCount 1
 			sound "WEAPON_TECHSTARBASEBEAMHEAVY_TRAVEL"
-		beamGlowTextureName "TechStarBaseBeam_Glow"
-		beamCoreTextureName "TechStarBaseBeam_Core"
-		beamWidth 80.000000
+		beamGlowTextureName "NewBeams_Glow"
+		beamCoreTextureName "TechKolBeam_Core"
+		beamWidth 250.000000
 		beamGlowColor ffffffff
 		beamCoreColor ffffffff
-		beamTilingRate 8.000000
+		beamTilingRate 0.500000
 Weapon
 	WeaponType "Missile"
 	damageEnums
