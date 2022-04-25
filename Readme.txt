@@ -559,6 +559,7 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		- Added a 50% Planet Upgrade Rate buff to any artifact that lowered their cost previously.
 		- Fixed a bug where the Dynamic Shield Array Artifact was giving an extra 10% shield regeneration bonus, instead of a 10% shield point increase.
 		- Kortul's Power Surge ability is now disrupted by Interrupt abilities.
+		- Kortul's Jam Weapons ability can now disable Corvettes, as well as strikecraft.
 		- Range of Orkulus Starbase' Disruptor weapons increased to 8000 meters to match the pulse guns.
 		- Reduced cooldown time of Rankulas swarm deployment abilities. 
 		- Change Combat Nanite Swarm to use capitalship damage type.
