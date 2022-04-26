@@ -224,7 +224,7 @@ Weapon
 			sound "WEAPON_TECHSTARBASEBEAMHEAVY_TRAVEL"
 		beamGlowTextureName "NewBeams_Glow"
 		beamCoreTextureName "TechKolBeam_Core"
-		beamWidth 250.000000
+		beamWidth 500.000000
 		beamGlowColor ffffffff
 		beamCoreColor ffffffff
 		beamTilingRate 0.500000
