@@ -880,7 +880,7 @@ brush
 	name "HUDICON_PLANETBONUS_REQ_RESORTS"
 	content "Simple"
 	fileName "PlanetBonuses"
-	pixelBox [ 153 , 196 , 22 , 22 ]
+	pixelBox [ 52 , 220 , 22 , 22 ]
 brush
 	name "HUDICON_PLANETBONUS_REQ_Seismic"
 	content "Simple"
