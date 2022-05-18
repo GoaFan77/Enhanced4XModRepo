@@ -197,7 +197,7 @@ Weapon
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "OVERTIME"
 		DamageType "ENERGY"
-		WeaponClassType "POINTDEFENSELASER"
+		WeaponClassType "FLASHBEAM"
 	DamagePerBank:FRONT 35.000000
 	DamagePerBank:BACK 35.000000
 	DamagePerBank:LEFT 35.000000
