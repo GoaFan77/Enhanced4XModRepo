@@ -39,7 +39,7 @@ stage
 	upgradePropertyCount 4
 	upgradeProperty
 		propertyType "CultureSpreadRate"
-		value 1.750000
+		value 1.250000
 	upgradeProperty
 		propertyType "EnemyCultureRepelRate"
 		value 0.500000
@@ -68,7 +68,7 @@ stage
 	upgradePropertyCount 4
 	upgradeProperty
 		propertyType "CultureSpreadRate"
-		value 3.500000
+		value 2.500000
 	upgradeProperty
 		propertyType "EnemyCultureRepelRate"
 		value 1.000000
@@ -97,7 +97,7 @@ stage
 	upgradePropertyCount 4
 	upgradeProperty
 		propertyType "CultureSpreadRate"
-		value 5.250000
+		value 3.750000
 	upgradeProperty
 		propertyType "EnemyCultureRepelRate"
 		value 1.500000
