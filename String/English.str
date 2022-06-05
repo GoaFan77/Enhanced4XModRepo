@@ -1,5 +1,20 @@
 TXT
-NumStrings 8580
+NumStrings 8585
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_CULTURERATEPSI0_DESCRIPTION"
+	Value "Ceremonies extolling the virtue of the Unity are made more compelling, increasing the rate at which your empire spreads Culture and improving Psionic weapon damage."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_CULTURERATEPSI1_DESCRIPTION"
+	Value "The Unity's support for its newly initiated members is strengthened, causing their devotion to your cause to increase. Also increases Psionic weapon damage."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_CULTURERATEPSI2_DESCRIPTION"
+	Value "The Unity's influence becomes strong enough to overwhelm the free will of the majority of your planets' populace, greatly increasing the spread of your empire's Culture. Also increases Psionic weapon damage."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_WEAPONRANGE_GAUSS_DESCRIPTION"
+	Value "Improvements in materials science reduces the conduction resistance of gauss cannon rails, allowing Gauss and Railgun weapons to engage more distant targets."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_WEAPONCOOLDOWN_GAUSS_DESCRIPTION"
+	Value "Decreases the cooldown of all Gauss and Railgun weapons."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_ORGANICAI_DESCRIPTION"
 	Value "A sentient cybernetic artificial intelligence manages all aspects of population development on your empire's planets, yielding higher population growth, tax rates, and lower Population upgrade cost and build time."
@@ -18320,7 +18335,7 @@ StringInfo
 	Value "We have lost a capital ship. It must be replaced."
 StringInfo
 	ID "IDS_TAUNT_PHASE_AllyCapitalShipLost"
-	Value "I have just recieved reports of a capital ship loss. It must be avenged."
+	Value "I have just received reports of a capital ship loss. It must be avenged."
 StringInfo
 	ID "IDS_TAUNT_PHASE_AllyCapitalShipLost"
 	Value "Capital ship lost!"

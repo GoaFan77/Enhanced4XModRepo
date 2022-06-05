@@ -555,9 +555,16 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		- Advent's Shockwave of Ascension capitalship upgrade no longer disables engines. Duration reduced from 45s to 15s.
 		- Duration of the Transcencia Starbase's Mass Disorientation reduced from 45s to 30s.
 		- Advent Resource Focus starting bonus reduced from 33% to 15%. Resource Focus upgrade bonus reduced from 11.11% per level to 10% per level, for a total max of 35%.
+		- Advent Deliverance Engine superweapon now cannot reapply the 10% allegiance debuff to an enemy planet unless all prior effects of the ability have expired.
+		- Advent Evangelization Nodes Starbase Upgrade culture spread rate reduced by ~30%.
 		- Fixed a bug where Logistic and Planet Health upgrades were cheaper than intended.
 		- Removed the 25% max population buff from Planetary Organic AI. Now gives 25% cheaper, 50% faster Population upgrades instead.
 		- Added a 50% Planet Upgrade Rate buff to any artifact that lowered their cost previously.
+		- TEC Gauss research upgrades now also improve the Ragnarov's "Railgun" weapon type.
+		- Doubled the increased damage from each TEC Beam Weapon research from 5% to 10% (max now 40%).
+		- Advent culture research upgrades now also improve "Psionic Surge" weapons (max 30%).
+		- Advent Titan "Point Defense" weapons change to Laser so that they will benefit from research upgrades.
+		- Kultorask Titan "Point Defense" weapon changed to Flash Beam so that it will benefit from research upgrades.
 		- Fixed a bug where the Dynamic Shield Array Artifact was giving an extra 10% shield regeneration bonus, instead of a 10% shield point increase.
 		- Kortul's Power Surge ability is now disrupted by Interrupt abilities.
 		- Kortul's Jam Weapons ability can now disable Corvettes, as well as strikecraft.

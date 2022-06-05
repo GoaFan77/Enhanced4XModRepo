@@ -237,7 +237,7 @@ Weapon
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
 		DamageType "ENERGY"
-		WeaponClassType "POINTDEFENSELASER"
+		WeaponClassType "LASERPSI"
 	DamagePerBank:FRONT 24.000000
 	DamagePerBank:BACK 24.000000
 	DamagePerBank:LEFT 24.000000
