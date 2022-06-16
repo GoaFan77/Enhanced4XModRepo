@@ -571,6 +571,7 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		- Range of Orkulus Starbase' Disruptor weapons increased to 8000 meters to match the pulse guns.
 		- Reduced cooldown time of Rankulas swarm deployment abilities. 
 		- Change Combat Nanite Swarm to use capitalship damage type.
+		- Increased the Planet Bombing range of all Titans to 5000.
 		- Ice planets can now get the Crystal Miners planet bonus.
 		- Fix a vanilla bug where Strikecraft can trigger Gas Giant AoE damage on Death.
 		- Fair versions of Alpine, Greenhouse, Moon, and Oceanic planets no longer can have planet bonuses.
