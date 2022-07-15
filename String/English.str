@@ -1,5 +1,5 @@
 TXT
-NumStrings 8585
+NumStrings 8588
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_CULTURERATEPSI0_DESCRIPTION"
 	Value "Ceremonies extolling the virtue of the Unity are made more compelling, increasing the rate at which your empire spreads Culture and improving Psionic weapon damage."
@@ -25755,3 +25755,12 @@ StringInfo
 StringInfo
 	ID "IDS_RANDOMEVENT_RESOURCEBOOM_NAME"
 	Value "Commodity Boom"
+StringInfo
+	ID "IDSOptionsScreenUserInterfaceOptionsLanguageList"
+	Value "Language"
+StringInfo
+	ID "IDS_MESSAGEWINDOW_TITLETEXT_MULTIPLAYERNOTALLOWEDERROR"
+	Value "Multiplayer not allowed"
+StringInfo
+	ID "IDS_MULTIPLAYERNOTALLOWEDERROR_MULTIPLAYERNOTALLOWED"
+	Value "Your Xbox account is not allowed to play multiplayer."
