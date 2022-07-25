@@ -16,7 +16,7 @@ instantAction
 	Level:0 550.000000
 	Level:1 550.000000
 	Level:2 550.000000
-	Level:3 600.000000
+	Level:3 550.000000
 	damageAffectType "AFFECTS_SHIELDS_AND_HULL"
 	damageType "PHYSICAL"
 	isDamageShared FALSE
