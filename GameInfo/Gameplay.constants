@@ -42,7 +42,7 @@ GameplayConstants
 		considerBeingBombedTimeForPopulationGrowth 240
 		populationGrowthPercWhenBombed 0.50
 		moduleConstructorRespawnTime 30
-		moduleConstructorRespawnTimeWithEnemies 60
+		moduleConstructorRespawnTimeWithEnemies 300
 		baseTaxRatePerPopulation 0.025
 		planetBaseAllegianceAtDistanceCount 11
 		allegiance 1.00
