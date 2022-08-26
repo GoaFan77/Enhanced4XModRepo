@@ -42,13 +42,10 @@ instantAction
 	targetFilter
 		numOwnerships 1
 		ownership "Player"
-		numObjects 6
+		numObjects 3
 		object "CapitalShip"
-		object "Frigate"
 		object "StarBase"
 		object "Titan"
-		object "Corvette"
-		object "PlanetModule"
 		numSpaces 1
 		space "Normal"
 		numConstraints 0
