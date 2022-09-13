@@ -576,3 +576,6 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		- Ice planets can now get the Crystal Miners planet bonus.
 		- Fix a vanilla bug where Strikecraft can trigger Gas Giant AoE damage on Death.
 		- Fair versions of Alpine, Greenhouse, Moon, and Oceanic planets no longer can have planet bonuses.
+		
+1.88	-Vasari Refinery is moved down a level to be unlocked at tier 2.
+		-Vasari Resource Extraction techs starting at tier 3 (all except the first 1) now give an extra 5% bonus to refinery income.
