@@ -580,3 +580,4 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 1.88	-Vasari Refinery is moved down a level to be unlocked at tier 2.
 		-Vasari Resource Extraction techs starting at tier 3 (all except the first 1) now give an extra 5% bonus to refinery income.
 		-Increased speed of Vasari Colony and Carrier capitalships from 450 to 500.
+		-Improved Ragnarov Titan durability upgrades to give bonuses equal to the Ankylon Titan.
