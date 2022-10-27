@@ -707,39 +707,36 @@ planetType
 planetType
 	designName "RandomCrystal"
 	designStringId "IDSGalaxyScenarioTypeRandomCrystal"
-	orbitBodyTypeCount 7
+	orbitBodyTypeCount 6
 	orbitBodyType "Ice"	
 	orbitBodyType "Cyro"
 	orbitBodyType "Oceanic"
 	orbitBodyType "Ice"	
 	orbitBodyType "Cyro"
 	orbitBodyType "Oceanic"	
-	orbitBodyType "Toxic"
 planetType
 	designName "RandomMetal"
 	designStringId "IDSGalaxyScenarioTypeRandomMetal"
-	orbitBodyTypeCount 11
+	orbitBodyTypeCount 8
 	orbitBodyType "Volcanic"	
-	orbitBodyType "Swamp"
+	orbitBodyType "Desolate"
 	orbitBodyType "Desert"
 	orbitBodyType "Volcanic"	
-	orbitBodyType "Swamp"
-	orbitBodyType "Desert"
-	orbitBodyType "Volcanic"	
-	orbitBodyType "Swamp"
+	orbitBodyType "Desolate"
 	orbitBodyType "Desert"
 	orbitBodyType "Ferrus"
-	orbitBodyType "Alpine"
+	orbitBodyType "Greenhouse"
 planetType
 	designName "RandomMixed"
 	designStringId "IDSGalaxyScenarioTypeRandomMixed"
-	orbitBodyTypeCount 6
+	orbitBodyTypeCount 7
 	orbitBodyType "Igneous"
-	orbitBodyType "Desolate"
+	orbitBodyType "Swamp"
 	orbitBodyType "Terran"
 	orbitBodyType "LowAtmosphere"
 	orbitBodyType "Hydrocarbon"
-	orbitBodyType "Greenhouse"
+	orbitBodyType "Alpine"
+	orbitBodyType "Toxic"
 planetType
 	designName "RandomExtra"
 	designStringId "IDSGalaxyScenarioTypeRandomExtra"
@@ -777,17 +774,14 @@ planetType
 planetType
 	designName "RandomTier0"
 	designStringId "IDSGalaxyScenarioTypeRandomTier0"
-	orbitBodyTypeCount 6
+	orbitBodyTypeCount 3
 	orbitBodyType "Asteroid"
 	orbitBodyType "DeadAsteroid"	
-	orbitBodyType "LowAtmosphere"
-	orbitBodyType "ColonizeableGasGiant"
-	orbitBodyType "Toxic"
-	orbitBodyType "Alpine"	
+	orbitBodyType "Moon"
 planetType
 	designName "RandomTier1"
 	designStringId "IDSGalaxyScenarioTypeRandomTier1"
-	orbitBodyTypeCount 9
+	orbitBodyTypeCount 12
 	orbitBodyType "Volcanic"	
 	orbitBodyType "Cyro"
 	orbitBodyType "Igneous"
@@ -797,6 +791,9 @@ planetType
 	orbitBodyType "Igneous"
 	orbitBodyType "Greenhouse"
 	orbitBodyType "Ferrus"
+	orbitBodyType "Alpine"
+	orbitBodyType "Toxic"
+	orbitBodyType "ColonizeableGasGiant"	
 planetType
 	designName "RandomTier2"
 	designStringId "IDSGalaxyScenarioTypeRandomTier2"

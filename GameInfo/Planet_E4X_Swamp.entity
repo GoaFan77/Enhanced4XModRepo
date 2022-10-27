@@ -67,19 +67,19 @@ ringColor ffffffff
 cloudLayerTextureName "Axeldude_Cloudmap_Dense"
 planetResourceSetupInfo
 	asteroidSpawnAngleVariance 3.141593
-	totalMaxResourceAsteroids 3
+	totalMaxResourceAsteroids 4
 	metalResourceAsteroidSetup
-		minCount 3
-		maxCount 3
+		minCount 2
+		maxCount 2
 		extractionRate 0.400000
 		refineryRate 0.060000
 		maxRefineryCount 3
 	crystalResourceAsteroidSetup
-		minCount 0
-		maxCount 0
+		minCount 2
+		maxCount 2
 		extractionRate 0.400000
 		refineryRate 0.060000
-		maxRefineryCount 0
+		maxRefineryCount 3
 	neutralMetalResourceAsteroidSetup
 		minCount 0
 		maxCount 0
@@ -412,7 +412,7 @@ skyboxScalars
 	diffuseScalar 0.720000
 	ambientScalar 0.800000
 requiredPlanetBonusesCount 0
-possibleRandomPlanetBonusesCount 114
+possibleRandomPlanetBonusesCount 116
 bonus "PlanetBonus_REQ_ThickAtmos"
 bonus "PlanetBonus_REQ_ThickAtmos"
 bonus "PlanetBonus_E4X_Black"
@@ -428,6 +428,7 @@ bonus "PlanetBonus_E4X_OceanColony"
 bonus "PlanetBonus_REQ_O2"
 bonus "PlanetBonus_E4X_Outpost"
 bonus "PlanetBonus_E4X_PureM"
+bonus "PlanetBonus_E4X_PureC"
 bonus "PlanetBonus_E4X_Rodent"
 bonus "PlanetBonus_E4X_Shield1"
 bonus "PlanetBonus_E4X_Shield2"
@@ -477,6 +478,7 @@ bonus "PlanetBonusMedicinalPlants"
 bonus "PlanetBonusMedicinalPlants"
 bonus "PlanetBonusMegaFauna"
 bonus "PlanetBonusMetalMiners"
+bonus "PlanetBonusCrystalMiners"
 bonus "PlanetBonusModernSociety"
 bonus "PlanetBonusOrderedSociety"
 bonus "PlanetBonusPacifistSociety"

@@ -69,7 +69,7 @@ planetResourceSetupInfo
 	asteroidSpawnAngleVariance 3.141593
 	totalMaxResourceAsteroids 7
 	metalResourceAsteroidSetup
-		minCount 3
+		minCount 6
 		maxCount 7
 		extractionRate 0.440000
 		refineryRate 0.066000

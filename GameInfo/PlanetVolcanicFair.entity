@@ -67,10 +67,10 @@ ringColor ffffffff
 cloudLayerTextureName "Axeldude_Cloudmap_Dense"
 planetResourceSetupInfo
 	asteroidSpawnAngleVariance 3.141593
-	totalMaxResourceAsteroids 4
+	totalMaxResourceAsteroids 6
 	metalResourceAsteroidSetup
-		minCount 4
-		maxCount 4
+		minCount 6
+		maxCount 6
 		extractionRate 0.400000
 		refineryRate 0.060000
 		maxRefineryCount 3
