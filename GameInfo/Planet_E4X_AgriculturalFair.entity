@@ -258,10 +258,10 @@ planetUpgradeDef
 				metal 150.000000
 				crystal 75.000000
 			upgradeTime 45.000000
-			maxPopulation 20.000000
+			maxPopulation 10.000000
 			populationGrowthRate 0.125000
 			tradeIncomeModifier -0.000000
-			shipBuildRateModifier -0.120000
+			shipBuildRateModifier -0.1500000
 			cultureSpreadRateModifier 0.000000
 		stage
 			price
@@ -269,22 +269,22 @@ planetUpgradeDef
 				metal 175.000000
 				crystal 125.000000
 			upgradeTime 60.000000
-			maxPopulation 40.000000
+			maxPopulation 30.000000
 			populationGrowthRate 0.138000
 			tradeIncomeModifier -0.000000
-			shipBuildRateModifier -0.240000
-			cultureSpreadRateModifier 0.00000
+			shipBuildRateModifier -0.300000
+			cultureSpreadRateModifier 0.000000
 		stage
 			price
 				credits 650.000000
 				metal 200.000000
 				crystal 175.000000
 			upgradeTime 75.000000
-			maxPopulation 80.000000
+			maxPopulation 70.000000
 			populationGrowthRate 0.151000
 			tradeIncomeModifier -0.000000
-			shipBuildRateModifier -0.480000
-			cultureSpreadRateModifier 0.00000
+			shipBuildRateModifier -0.450000
+			cultureSpreadRateModifier 0.000000
 		stage
 			price
 				credits 750.000000
@@ -294,7 +294,7 @@ planetUpgradeDef
 			maxPopulation 160.000000
 			populationGrowthRate 0.169000
 			tradeIncomeModifier -0.000000
-			shipBuildRateModifier -0.666668
+			shipBuildRateModifier -0.600000
 			cultureSpreadRateModifier 0.000000
 	path:Industry
 		stageCount 4

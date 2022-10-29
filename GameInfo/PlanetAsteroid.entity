@@ -245,7 +245,7 @@ planetUpgradeDef
 			upgradeTime 45.000000
 			maxHealth 2500.000000
 	path:Social
-		stageCount 3
+		stageCount 2
 		stage
 			price
 				credits 0.000000
@@ -265,20 +265,9 @@ planetUpgradeDef
 			upgradeTime 45.000000
 			maxPopulation 10.000000
 			populationGrowthRate 0.125000
-			tradeIncomeModifier -0.150000
-			shipBuildRateModifier -0.083334
-			cultureSpreadRateModifier 0.083334
-		stage
-			price
-				credits 550.000000
-				metal 175.000000
-				crystal 125.000000
-			upgradeTime 60.000000
-			maxPopulation 20.000000
-			populationGrowthRate 0.138000
-			tradeIncomeModifier -0.250000
-			shipBuildRateModifier -0.166668
-			cultureSpreadRateModifier 0.166668
+			tradeIncomeModifier -0.100000
+			shipBuildRateModifier -0.1500000
+			cultureSpreadRateModifier 0.166667
 	path:Industry
 		stageCount 3
 		stage
