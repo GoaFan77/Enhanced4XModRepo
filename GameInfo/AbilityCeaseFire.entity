@@ -1,0 +1,52 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToSelf"
+instantActionTriggerType "AlwaysPerform"
+buffType "BuffCeaseFireSpawner"
+effectInfo
+	effectAttachInfo
+		attachType "Aura"
+	smallEffectName "Buff_CeaseFireSpawner"
+	mediumEffectName "Buff_CeaseFireSpawner"
+	largeEffectName "Buff_CeaseFireSpawner"
+	soundID "EFFECT_TELEKINETICPUSH"
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility TRUE
+maxNumLevels 2
+levelSourceType "Intrinsic"
+minExperienceLevelRequired
+	Level:0 5.000000
+	Level:1 7.000000
+	Level:2 0.000000
+	Level:3 0.000000
+aiUseTime "OnlyWhenEnemyFleetWillPrevail"
+aiUseTargetCondition "Any"
+isAutoCastAvailable TRUE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "AntiMatter"
+antiMatterCost
+	Level:0 240.000000
+	Level:1 240.000000
+	Level:2 0.000000
+	Level:3 0.000000
+cooldownTime
+	Level:0 180.000000
+	Level:1 180.000000
+	Level:2 0.000000
+	Level:3 0.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_CEASEFIRE_NAME"
+descStringID "IDS_ABILITY_CEASEFIRE_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_CEASEFIRE"
+smallHudIcon "HUDICON_ABILITY_CEASEFIRE"
+infoCardIcon ""
