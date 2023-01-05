@@ -31,7 +31,7 @@ numEntityBoolModifiers 4
 entityBoolModifier "CannotBeDamaged"
 entityBoolModifier "DisableWeaponsUltimate"
 entityBoolModifier "DisableAbilitiesUltimate"
-entityBoolModifier "DisablePhaseJump"
+entityBoolModifier "DisableRegeneration"
 numFinishConditions 2
 finishCondition
 	finishConditionType "FirstSpawnerNoLongerHasBuff"
