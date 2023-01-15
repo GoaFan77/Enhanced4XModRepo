@@ -585,4 +585,5 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Vasari Resource Extraction techs starting at tier 3 (all except the first 1) now give an extra 5% bonus to refinery income.
 		-Increased speed of Vasari Colony and Carrier capitalships from 450 to 500.
 		-Kultorask Titan Nano Leech ability is now interruptable.
+		-Increased Admiral Dyrenov's Final Annihilation ability damage from 2200 to 5000.
 		-Improved Ragnarov Titan durability upgrades to give bonuses equal to the Ankylon Titan.
