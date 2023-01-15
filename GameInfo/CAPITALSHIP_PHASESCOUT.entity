@@ -1,10 +1,10 @@
 ﻿TXT2
 SinsArchiveVersion 194
 entityType "CapitalShip"
-ability:0 "AbilityCreateCombatNanites"
-ability:1 "AbilityCreateSupportNanites"
-ability:2 "AbilityCreateAssaultNanites"
-ability:3 "Ability_E4X_NaniteOvercharge"
+ability:0 "AbilityPhaseOutHull"
+ability:1 "AbilitySpeedBoost"
+ability:2 "AbilitySubversion"
+ability:3 "AbilityPhaseGateCapital"
 ability:4 ""
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -13,8 +13,8 @@ usesFighterAttack FALSE
 autoJoinFleetDefault TRUE
 canBomb TRUE
 hasBombingLevels FALSE
-baseDamage 45.000000
-basePopulationKilled 1.750000
+baseDamage 40.000000
+basePopulationKilled 1.550000
 bombingFreqTime 10.000000
 baseRange 3000.000000
 bombTransitTime 4.000000
@@ -46,7 +46,7 @@ bombEffectsDef
 	beamGlowColor ffffffff
 	beamCoreColor ffffffff
 	beamTilingRate 3.000000
-mainViewIcon "MAINVIEWICON_CAPITALSHIP_PHASEBATTLESHIP2"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_PHASESCOUT"
 basePrice
 	credits 3000.000000
 	metal 400.000000
@@ -54,89 +54,97 @@ basePrice
 slotCount 50.000000
 BuildTime 75.000000
 MaxHullPoints
-	StartValue 2755.265625
-	ValueIncreasePerLevel 121.162498
+	StartValue 2702.500000
+	ValueIncreasePerLevel 172.500000
 MaxShieldPoints
-	StartValue 1477.743774
-	ValueIncreasePerLevel 157.612503
+	StartValue 1408.750000
+	ValueIncreasePerLevel 143.750000
 HullPointRestoreRate
-	StartValue 1.518800
-	ValueIncreasePerLevel 0.101250
+	StartValue 1.725000
+	ValueIncreasePerLevel 0.115000
 ShieldPointRestoreRate
-	StartValue 3.037500
-	ValueIncreasePerLevel 0.202500
+	StartValue 3.450000
+	ValueIncreasePerLevel 0.230000
 ArmorPointsFromExperience
-	StartValue 4.612500
-	ValueIncreasePerLevel 0.351000
+	StartValue 4.000000
+	ValueIncreasePerLevel 0.325000
 maxMitigation
 	StartValue 0.650000
 	ValueIncreasePerLevel 0.011110
 MaxAntiMatter
-	StartValue 270.000000
-	ValueIncreasePerLevel 35.000000
+	StartValue 322.000000
+	ValueIncreasePerLevel 51.750000
 AntiMatterRestoreRate
-	StartValue 0.697500
-	ValueIncreasePerLevel 0.076500
+	StartValue 1.150000
+	ValueIncreasePerLevel 0.172500
 CultureProtectRate
 	StartValue 0.300000
 	ValueIncreasePerLevel 0.050000
-NameStringID "IDS_CAPITALSHIP_PHASEBATTLESHIP2_NAME"
-DescriptionStringID "IDS_CAPITALSHIP_PHASEBATTLESHIP2_DESCRIPTION"
-picture "CAPITALSHIPPICTURE_PHASEBATTLESHIP2"
+NameStringID "IDS_CAPITALSHIP_PHASESCOUT_NAME"
+DescriptionStringID "IDS_CAPITALSHIP_PHASESCOUT_DESCRIPTION"
+picture "CAPITALSHIPPICTURE_PHASESCOUT"
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 roleType "Invalid"
-statCountType "CapitalShipBattleship"
-numRandomDebrisLarge 4
+statCountType "CapitalShipUtility0"
+numRandomDebrisLarge 3
 numRandomDebrisSmall 17
 numSpecificDebris 0
 armorType "CapitalShip"
-hudIcon "HUDICON_CAPITALSHIP_PHASEBATTLESHIP2"
-smallHudIcon "MAINVIEWICON_CAPITALSHIP_PHASEBATTLESHIP2"
-infoCardIcon "INFOCARDICON_CAPITALSHIP_PHASEBATTLESHIP2"
-minZoomDistanceMult 1.550000
-NumWeapons 2
+hudIcon "HUDICON_CAPITALSHIP_PHASESCOUT"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_PHASESCOUT"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_PHASESCOUT"
+minZoomDistanceMult 2.250000
+NumWeapons 3
 Weapon
-	WeaponType "Projectile"
+	WeaponType "Beam"
 	damageEnums
 		AttackType "CAPITALSHIP"
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
-		DamageApplyType "BACKLOADED"
+		DamageApplyType "OVERTIME"
 		DamageType "ENERGY"
-		WeaponClassType "PULSEGUN"
-	DamagePerBank:FRONT 99.000000
+		WeaponClassType "FLASHBEAM"
+	DamagePerBank:FRONT 81.900002
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
 	Range 5000.000000
-	PreBuffCooldownTime 4.500000
+	PreBuffCooldownTime 6.500000
 	CanFireAtFighter FALSE
-	SynchronizedTargeting TRUE
+	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.250000
-	TravelSpeed 3000.000000
-	Duration 0.000000
+	TravelSpeed 0.000000
+	Duration 0.120000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
-		weaponType "Projectile"
+		weaponType "Beam"
 		burstCount 3
-		burstDelay 0.350000
+		burstDelay 0.250000
 		fireDelay 0.000000
-		muzzleEffectName "Weapon_PhaseCapitalPulseGunHeavy_Muzzle"
-		muzzleSoundMinRespawnTime 1.000000
+		muzzleEffectName "Weapon_PhaseCapitalFlashBeamCapShip_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
-			soundCount 2
-			sound "WEAPON_PHASECAPITALPULSEGUNHEAVY_MUZZLE"
-			sound "WEAPON_PHASECAPITALPULSEGUNHEAVY_MUZZLE_ALT1"
-		hitEffectName "Weapon_PhaseCapitalPulseGunHeavy_Hit"
+			soundCount 1
+			sound ""
+		hitEffectName "Weapon_PhaseCapitalFlashBeamCapShip_Hit"
 		hitHullEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_ENERGYMEDIUM_HITHULL"
+			sound ""
 		hitShieldsEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_GENERICMEDIUM_HITSHIELDS"
-		projectileTravelEffectName "Weapon_PhaseCapitalPulseGunHeavy_Travel"
+			sound ""
+		beamEffectSounds
+			soundCount 2
+			sound "WEAPON_PHASECAPITALFLASHBEAMMEDIUM_TRAVEL"
+			sound "WEAPON_PHASECAPITALFLASHBEAMMEDIUM_TRAVEL_ALT1"
+		beamGlowTextureName "PhaseCapitalBeam_Glow"
+		beamCoreTextureName "PhaseCapitalBeam_Core_Medium"
+		beamWidth 20.000000
+		beamGlowColor ffffffff
+		beamCoreColor ffffffff
+		beamTilingRate 3.000000
 Weapon
 	WeaponType "Missile"
 	damageEnums
@@ -145,11 +153,11 @@ Weapon
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
 		WeaponClassType "PHASEMISSILE"
-	DamagePerBank:FRONT 0.000000
+	DamagePerBank:FRONT 73.500000
 	DamagePerBank:BACK 0.000000
-	DamagePerBank:LEFT 42.000000
-	DamagePerBank:RIGHT 42.000000
-	Range 5000.000000
+	DamagePerBank:LEFT 0.000000
+	DamagePerBank:RIGHT 0.000000
+	Range 5500.000000
 	PreBuffCooldownTime 7.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting FALSE
@@ -160,34 +168,73 @@ Weapon
 	WeaponEffects
 		weaponType "Missile"
 		burstCount 1
-		burstDelay 0.600000
+		burstDelay 0.000000
 		fireDelay 0.000000
 		muzzleEffectName "Weapon_PhaseCapitalMissileCapShip_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 2
-			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE"
-			sound "WEAPON_PHASECAPITALMISSILEHEAVY_MUZZLE_ALT1"
+			sound "WEAPON_PHASECAPITALMISSILEMEDIUM_MUZZLE"
+			sound "WEAPON_PHASECAPITALMISSILEMEDIUM_MUZZLE_ALT1"
 		hitEffectName "Weapon_PhaseCapitalMissileCapShip_Hit"
 		hitHullEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
+			sound "WEAPONIMPACT_PHASEMISSILEMEDIUM_HITGENERIC"
 		hitShieldsEffectSounds
 			soundCount 1
-			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
+			sound "WEAPONIMPACT_PHASEMISSILEMEDIUM_HITGENERIC"
 		missileTravelEffectName "Weapon_PhaseCapitalMissileCapShip_Travel"
-		missileStartTurningDistance 250.000000
+		missileStartTurningDistance 100.000000
 		missileSlowTurnRate 2.708997
 		missileMaxSlowTurnTime 6.000000
+Weapon
+	WeaponType "Projectile"
+	damageEnums
+		AttackType "CAPITALSHIP"
+		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
+		DamageApplyType "BACKLOADED"
+		DamageType "ENERGY"
+		WeaponClassType "WAVE"
+	DamagePerBank:FRONT 0.000000
+	DamagePerBank:BACK 0.000000
+	DamagePerBank:LEFT 31.500000
+	DamagePerBank:RIGHT 31.500000
+	Range 5000.000000
+	PreBuffCooldownTime 5.000000
+	CanFireAtFighter FALSE
+	SynchronizedTargeting FALSE
+	PointStaggerDelay 0.000000
+	TravelSpeed 3600.000000
+	Duration 0.000000
+	fireConstraintType "CanAlwaysFire"
+	WeaponEffects
+		weaponType "Projectile"
+		burstCount 3
+		burstDelay 0.300000
+		fireDelay 0.000000
+		muzzleEffectName "Weapon_PhaseCapitalWaveLight_Muzzle"
+		muzzleSoundMinRespawnTime 0.100000
+		muzzleSounds
+			soundCount 2
+			sound "WEAPON_PHASECAPITALWAVEMEDIUM_MUZZLE"
+			sound "WEAPON_PHASECAPITALWAVEMEDIUM_MUZZLE_ALT1"
+		hitEffectName "Weapon_PhaseWaveCannon_CapShip_Hit"
+		hitHullEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_ENERGYMEDIUM_HITHULL"
+		hitShieldsEffectSounds
+			soundCount 1
+			sound "WEAPONIMPACT_GENERICMEDIUM_HITSHIELDS"
+		projectileTravelEffectName "Weapon_PhaseWaveCannon_CapShip_Travel"
 m_weaponIndexForRange 0
 firingAlignmentType "Default"
 TargetCountPerBank:FRONT 1
-TargetCountPerBank:BACK 1
+TargetCountPerBank:BACK 0
 TargetCountPerBank:LEFT 1
 TargetCountPerBank:RIGHT 1
 canOnlyTargetStructures FALSE
 mass 10000.000000
-ShieldMeshName "CapitalShip_PhaseBattleship2_Shield"
+ShieldMeshName "Shield_PhaseScout"
 renderShield TRUE
 maxAccelerationLinear 100.000000
 maxAccelerationStrafe 10.000000
@@ -207,39 +254,39 @@ squadAntiMatterCost:2 0.000000
 squadTypeEntityDef:3 ""
 squadAntiMatterCost:3 0.000000
 NumSoundsFor:ONATTACKORDERISSUED 3
-SoundID "CAPITALSHIP_PHASEBATTLESHIP2_ONATTACKORDERISSUED_0"
-SoundID "CAPITALSHIP_PHASEBATTLESHIP2_ONATTACKORDERISSUED_1"
-SoundID "CAPITALSHIP_PHASEBATTLESHIP2_ONATTACKORDERISSUED_2"
+SoundID "CAPITALSHIP_PHASESCOUT_ONATTACKORDERISSUED_0"
+SoundID "CAPITALSHIP_PHASESCOUT_ONATTACKORDERISSUED_1"
+SoundID "CAPITALSHIP_PHASESCOUT_ONATTACKORDERISSUED_2"
 NumSoundsFor:ONCREATION 1
-SoundID "CAPITALSHIP_PHASEBATTLESHIP2_ONCREATION_0"
+SoundID "CAPITALSHIP_PHASESCOUT_ONCREATION"
 NumSoundsFor:ONGENERALORDERISSUED 3
-SoundID "CAPITALSHIP_PHASEBATTLESHIP2_ONGENERALORDERISSUED_0"
-SoundID "CAPITALSHIP_PHASEBATTLESHIP2_ONGENERALORDERISSUED_1"
-SoundID "CAPITALSHIP_PHASEBATTLESHIP2_ONGENERALORDERISSUED_2"
+SoundID "CAPITALSHIP_PHASESCOUT_ONGENERALORDERISSUED_0"
+SoundID "CAPITALSHIP_PHASESCOUT_ONGENERALORDERISSUED_1"
+SoundID "CAPITALSHIP_PHASESCOUT_ONGENERALORDERISSUED_2"
 NumSoundsFor:ONSELECTED 3
-SoundID "CAPITALSHIP_PHASEBATTLESHIP2_ONSELECTED_0"
-SoundID "CAPITALSHIP_PHASEBATTLESHIP2_ONSELECTED_1"
-SoundID "CAPITALSHIP_PHASEBATTLESHIP2_ONSELECTED_2"
+SoundID "CAPITALSHIP_PHASESCOUT_ONSELECTED_0"
+SoundID "CAPITALSHIP_PHASESCOUT_ONSELECTED_1"
+SoundID "CAPITALSHIP_PHASESCOUT_ONSELECTED_2"
 NumSoundsFor:ONSTARTPHASEJUMP 1
-SoundID "CAPITALSHIP_PHASEBATTLESHIP2_ONSTARTPHASEJUMP_0"
+SoundID "CAPITALSHIP_PHASESCOUT_ONSTARTPHASEJUMP_0"
 MeshNameInfoCount 1
 MeshNameInfo
-	meshName "CapitalShip_PhaseBattleship2"
+	meshName "CapitalShip_PhaseScout"
 	criteriaType "None"
 meshNameIncreasedEffectName ""
 meshNameDecreasedEffectName ""
-ExhaustParticleSystemName "Exhaust_PhaseBattleship"
+ExhaustParticleSystemName "Exhaust_PhaseScout"
 ExplosionName "CapitalShip0"
 CommandPoints
-	StartValue 0.600000
+	StartValue 1.200000
 	ValueIncreasePerLevel 0.200000
 weaponCooldownDecreasePerc
 	StartValue 0.000000
-	ValueIncreasePerLevel 0.030400
+	ValueIncreasePerLevel 0.030000
 weaponDamageIncreasePerc
 	StartValue 0.000000
-	ValueIncreasePerLevel 0.050600
+	ValueIncreasePerLevel 0.050000
 EngineSoundID "ENGINE_PHASECAPITALSHIP"
-formationRank 0
+formationRank 1
 minShadow 0.000000
-maxShadow 1.000000
+maxShadow 0.800000

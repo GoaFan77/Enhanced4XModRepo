@@ -1,5 +1,32 @@
 TXT
-NumStrings 8588
+NumStrings 8597
+StringInfo
+	ID "IDS_E4X_SQUADPHASEBOMBERANTIMODULE_DESC"
+	Value "Squadron of Bombers outfitted with anti-structure ordinance for engaging starbases and titans."
+StringInfo
+	ID "IDS_E4X_SQUADPSIBOMBERANTIMODULE_DESC"
+	Value "Squadron of Bombers outfitted with anti-structure ordinance for engaging starbases and titans."
+StringInfo
+	ID "IDS_E4X_SQUADTECHBOMBERANTIMODULE_DESC"
+	Value "Squadron of Bombers outfitted with anti-structure ordinance for engaging starbases and titans."
+StringInfo
+	ID "IDS_E4X_SQUADPHASEBOMBERANTIMODULE_NAME"
+	Value "Heavy Bomber Squadron"
+StringInfo
+	ID "IDS_E4X_SQUADPSIBOMBERANTIMODULE_NAME"
+	Value "Heavy Bomber Squadron"
+StringInfo
+	ID "IDS_E4X_SQUADTECHBOMBERANTIMODULE_NAME"
+	Value "Heavy Bomber Squadron"
+StringInfo
+	ID "IDS_E4X_FIGHTERTECHBOMBERANTIMODULE_NAME"
+	Value "Heavy Bomber" 
+StringInfo
+	ID "IDS_E4X_FIGHTERPSIBOMBERANTIMODULE_NAME"
+	Value "Heavy Bomber" 
+StringInfo
+	ID "IDS_E4X_FIGHTERPHASEBOMBERANTIMODULE_NAME"
+	Value "Heavy Bomber" 	
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_CULTURERATEPSI0_DESCRIPTION"
 	Value "Ceremonies extolling the virtue of the Unity are made more compelling, increasing the rate at which your empire spreads Culture and improving Psionic weapon damage."

@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2768
+entityNameCount 2774
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2768,3 +2768,9 @@ entityName "Buff_E4X_VictoryOnPlanetTaken.entity"
 entityName "Buff_E4X_WinGame.entity"
 entityName "Buff_E4X_WinGamePlanet.entity"
 entityName "SpaceMine_E4X_VictoryOnPlanetTakenFlag.entity"
+entityName "Fighter_E4X_PhaseBomberAntimodule.entity"
+entityName "Fighter_E4X_PsiBomberAntimodule.entity"
+entityName "Fighter_E4X_TechBomberAntimodule.entity"
+entityName "Squad_E4X_PhaseBomberAntimodule.entity"
+entityName "Squad_E4X_PsiBomberAntimodule.entity"
+entityName "Squad_E4X_TechBomberAntimodule.entity"
