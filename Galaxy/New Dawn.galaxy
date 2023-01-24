@@ -438,7 +438,7 @@ star
 		useDefaultTemplate TRUE
 		entityCount 0
 		asteroidCount 0
-	connectionCount 21
+	connectionCount 22
 	connection
 		planetIndexA 0
 		planetIndexB 2
@@ -542,6 +542,11 @@ star
 	connection
 		planetIndexA 15
 		planetIndexB 11
+		spawnProbability 1.000000
+		type "PhaseLane"
+	connection
+		planetIndexA -1
+		planetIndexB 15
 		spawnProbability 1.000000
 		type "PhaseLane"
 	entityCount 0
