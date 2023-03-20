@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2774
+entityNameCount 2778
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2774,3 +2774,7 @@ entityName "Fighter_E4X_TechBomberAntimodule.entity"
 entityName "Squad_E4X_PhaseBomberAntimodule.entity"
 entityName "Squad_E4X_PsiBomberAntimodule.entity"
 entityName "Squad_E4X_TechBomberAntimodule.entity"
+entityName "Buff_E4X_MinorFactionCapitalShipMarker.entity"
+entityName "Buff_E4X_MinorFactionCapitalShipTrigger.entity"
+entityName "Buff_E4X_MinorFactionCapitalShipXP.entity"
+entityName "Buff_E4X_MinorFactionSellCapitalShipPhaseScout.entity"

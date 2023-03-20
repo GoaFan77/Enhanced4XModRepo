@@ -1,0 +1,67 @@
+﻿TXT2
+SinsArchiveVersion 193
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeNewBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 2
+instantAction
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	buffType "Buff_E4X_MinorFactionCapitalShipTrigger"
+	effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+instantAction
+	buffInstantActionType "SpawnShipsAtPlanet"
+	instantActionTriggerType "OnDelay"
+	delayTime 2.000000
+	spawnShipsLevelCount 3
+	spawnShips
+		minFleetPoints 50.000000
+		maxFleetPoints 50.000000
+		requiredShipCount 1
+		requiredShip
+			type "CAPITALSHIP_PHASESCOUT"
+			minCount 1
+			maxCount 1
+		randomShipCount 0
+	spawnShips
+		minFleetPoints 50.000000
+		maxFleetPoints 50.000000
+		requiredShipCount 1
+		requiredShip
+			type "CAPITALSHIP_PHASESCOUT"
+			minCount 1
+			maxCount 1
+		randomShipCount 0
+	spawnShips
+		minFleetPoints 50.000000
+		maxFleetPoints 50.000000
+		requiredShipCount 1
+		requiredShip
+			type "CAPITALSHIP_PHASESCOUT"
+			minCount 1
+			maxCount 1
+		randomShipCount 0
+	spawnShipsArrivalDelayTime 0.000000
+	spawnShipsHyperspaceSpawnType "FromFactories"
+	shouldAdoptFirstSpawnersMinorFactionState FALSE
+	spawnShipsMinStartingHullPerc 1.000000
+	spawnShipsMaxStartingHullPerc 1.000000
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "AllOnDelayInstantActionsDone"
