@@ -1,5 +1,35 @@
 TXT
-NumStrings 8588
+NumStrings 8598
+StringInfo
+	ID "IDS_Research_E4X_Pact_Recovery_NAME"
+	Value "Recovery Pact"
+StringInfo
+	ID "IDS_Research_E4X_Pact_Recovery_DESC"
+	Value "Creates a shared reserve of key materials and humanitarian supplies to be available to the populations and armed forces of both factions. Increases the hull restoration of all units, and planet health and population regeneration."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PACT_BEAM_NAME"
+	Value "Weapons Pact"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PACT_BEAM_DESCRIPTION"
+	Value "Shared advances in weapons technology lead to significantly deadlier weapons for both parties."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PACT_STRIKECRAFT_NAME"
+	Value "Strikecraft Pact"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PACT_STRIKECRAFT_DESCRIPTION"
+	Value "Funds joint development of strikecraft and starfighter designs and operations. Increases the amount of strikecraft in each squadron by 1."
+StringInfo
+	ID "IDS_Research_E4X_Pact_Munitions_NAME"
+	Value "Munitions Pact"
+StringInfo
+	ID "IDS_Research_E4X_Pact_Munitions_DESC"
+	Value "Establishes joint munition production efforts with the other faction. Increases the rate of fire of all weapons."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PACT_MARKET_NAME"
+	Value "Underworld Pact"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PACT_MARKET_DESCRIPTION"
+	Value "Cooperates with the other faction into controlling major criminal elements in the galaxy for mutual benefit., Gives both factions better rates when purchasing from the Black Market, gives extra bounty when placing or collecting, and reduces pirate raid intensity against both players."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_CULTURERATEPSI0_DESCRIPTION"
 	Value "Ceremonies extolling the virtue of the Unity are made more compelling, increasing the rate at which your empire spreads Culture and improving Psionic weapon damage."

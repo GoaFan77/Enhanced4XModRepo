@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2768
+entityNameCount 2777
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2768,3 +2768,12 @@ entityName "Buff_E4X_VictoryOnPlanetTaken.entity"
 entityName "Buff_E4X_WinGame.entity"
 entityName "Buff_E4X_WinGamePlanet.entity"
 entityName "SpaceMine_E4X_VictoryOnPlanetTakenFlag.entity"
+entityName "RESEARCHSUBJECT_PACTBONUS_STRIKECRAFT.entity"
+entityName "RESEARCHSUBJECT_PACTUNLOCK_MISSILE.entity"
+entityName "RESEARCHSUBJECT_PACTUNLOCK_SHIPSTRUCTUREMAX.entity"
+entityName "RESEARCHSUBJECT_PACTUNLOCK_SHIPSTRUCTUREREGEN.entity"
+entityName "RESEARCHSUBJECT_PACTUNLOCK_STRIKECRAFT.entity"
+entityName "Research_E4X_PactBonus_Munitions.entity"
+entityName "Research_E4X_PactBonus_Recovery.entity"
+entityName "Research_E4X_PactUnlock_Munitions.entity"
+entityName "Research_E4X_PactUnlock_Recovery.entity"

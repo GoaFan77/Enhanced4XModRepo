@@ -2,24 +2,24 @@
 entityType "Planet"
 meshInfoCount 1
 meshInfo
-	typeNameStringID "IDS_PLANETTYPE_TOXIC"
+	typeNameStringID "IDS_PLANETTYPE_ALPINE"
 	asteroidTemplate "Sparse"
 	dustCloudTemplate "Sparse"
-	meshName "Planet_E4X_Toxic"
-	cloudColor ffffffff
+	meshName "Planet_E4X_Alpine"
+	cloudColor ffddddff
 	nullMeshRadius 0.000000
 	nullMeshParticleEffect ""
-	hudIcon "Axeldude_PLANET_Normal_Forest_2"
-	smallHudIcon "Axeldude_PLANET_Normal_Forest_2"
-	infoCardIcon "Axeldude_PLANET_Normal_Forest_2"
-	mainViewIcon "Axeldude_PLANET_Normal_Forest_2"
-	undetectedMainViewIcon "Axeldude_PLANET_Normal_Forest_2_Unknown"
+	hudIcon "Axeldude_PLANET_Alpine"
+	smallHudIcon "Axeldude_PLANET_Alpine"
+	infoCardIcon "Axeldude_PLANET_Alpine"
+	mainViewIcon "Axeldude_PLANET_Alpine"
+	undetectedMainViewIcon "Axeldude_PLANET_Alpine_Unknown"
 	picture "PICTURE_PLANET_GENERIC"
 	shouldPrefer FALSE
 minZoomDistanceMult 2.000000
-glowColor 8f459751
+glowColor ffc1f2ff
 ringColor ffffffff
-cloudLayerTextureName "Axeldude_Cloudmap_Fair"
+cloudLayerTextureName "PlanetCloudLayer"
 planetResourceSetupInfo
 	asteroidSpawnAngleVariance 3.141593
 	totalMaxResourceAsteroids 6
@@ -186,7 +186,7 @@ planetUpgradeDef
 				crystal 90.000000
 			upgradeTime 75.000000
 	path:Infrastructure
-		stageCount 4
+		stageCount 5
 		stage
 			price
 				credits 0.000000
@@ -215,6 +215,13 @@ planetUpgradeDef
 				crystal 175.000000
 			upgradeTime 75.000000
 			maxHealth 6000.000000
+		stage
+			price
+				credits 750.000000
+				metal 225.000000
+				crystal 225.000000
+			upgradeTime 90.000000
+			maxHealth 7500.000000			
 	path:Social
 		stageCount 5
 		stage
@@ -273,7 +280,7 @@ planetUpgradeDef
 			shipBuildRateModifier -0.600000
 			cultureSpreadRateModifier 0.666666
 	path:Industry
-		stageCount 4
+		stageCount 3
 		stage
 			price
 				credits 0.000000
@@ -304,16 +311,6 @@ planetUpgradeDef
 			tradeIncomeModifier 0.300000
 			shipBuildRateModifier 0.270836
 			cultureSpreadRateModifier -0.312500
-		stage
-			price
-				credits 650.000000
-				metal 200.000000
-				crystal 175.000000
-			upgradeTime 75.000000
-			maxPopulation -21.000000
-			tradeIncomeModifier 0.400000
-			shipBuildRateModifier 0.406254
-			cultureSpreadRateModifier -0.416667
 	path:Smuggler
 		stageCount 4
 		stage
@@ -350,7 +347,7 @@ planetUpgradeDef
 			smugglingPercent 0.045			
 ringsChance 0.100000
 isColonizable TRUE
-planetTypeForResearch "Iron"
+planetTypeForResearch "Ice"
 skyboxScalarsCount 5
 skyboxScalars
 	diffuseScalar 0.910000

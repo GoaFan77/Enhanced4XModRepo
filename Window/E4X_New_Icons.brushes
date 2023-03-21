@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 192
+brushCount 193
 brush
 	name "Planet_E4X_CyberFortressNormal"
 	content "Simple"
@@ -24,8 +24,13 @@ brush
 brush
 	name "HeroResearchOverlay"
 	content "Simple"
-	fileName "HeroUnitOverlay"
+	fileName "Icons_E4X_ResearchOverlays"
 	pixelBox [ 0 , 0 , 74 , 62 ]
+brush
+	name "PactResearchOverlay"
+	content "Simple"
+	fileName "Icons_E4X_ResearchOverlays"
+	pixelBox [ 75 , 0 , 74 , 62 ]	
 brush
 	name "HUDICON_E4X_WorkersRevolt"
 	content "States"

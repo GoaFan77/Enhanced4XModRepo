@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon ""
 smallHudIcon ""
@@ -28,22 +29,13 @@ Tier 2
 onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
-researchBoolModifiers 1
+researchBoolModifiers 0
+researchFloatModifiers 1
 researchModifier
-	modifierType "PirateRaidsOneLevelLower"
-researchFloatModifiers 3
-researchModifier
-	modifierType "BlackMarketBuyPriceAdjustment"
+	modifierType "WeaponRateOfFireAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.150000
-researchModifier
-	modifierType "BountyBoughtAdjustment"
-	baseValue 0.000000
-	perLevelValue 0.200000
-researchModifier
-	modifierType "BountyCollectedAdjustment"
-	baseValue 0.000000
-	perLevelValue 0.200000
+	perLevelValue 0.100000
+	linkedWeaponClass "Invalid"
 artifactPicture ""
 uniqueOverlayBrush ""
 dlcId 204880
