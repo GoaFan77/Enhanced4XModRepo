@@ -1,0 +1,40 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit -1
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 2
+instantAction
+	buffInstantActionType "PlayAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName "Ability_RevengeFromBeyond_Hit_Frigate"
+		mediumEffectName "Ability_RevengeFromBeyond_Hit_Capship"
+		largeEffectName "Ability_RevengeFromBeyond_Hit_Capship"
+		soundID ""
+instantAction
+	buffInstantActionType "DoDamage"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	damage
+		Level:0 300.000000
+		Level:1 500.000000
+		Level:2 0.000000
+		Level:3 0.000000
+	damageAffectType "AFFECTS_ONLY_HULL"
+	damageType "ENERGY"
+	isDamageShared FALSE
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 0
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "AllOnDelayInstantActionsDone"

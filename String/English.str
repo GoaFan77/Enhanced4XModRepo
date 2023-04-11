@@ -1,5 +1,11 @@
 TXT
-NumStrings 8597
+NumStrings 8599
+StringInfo
+	ID "IDS_SUPPORTABILITY_REVENGEFROMBEYOND_DESCRIPTION"
+	Value "Nearby friendly units become marked. When destroyed, they will deal damage to a random nearby enemy ship."
+StringInfo
+	ID "IDS_ABILITY_INSTANTBUILDFIGHTERS_DESCRIPTION"
+	Value "The Sova's internal manufacturing facilities are pushed beyond their designed capacity. Produces enough extra fighters to immediately replenish the strikecraft of all owned carriers in the gravity well. Additionally, friendly structures and ships in orbit build more quickly."
 StringInfo
 	ID "IDS_E4X_SQUADPHASEBOMBERANTIMODULE_DESC"
 	Value "Squadron of Bombers outfitted with anti-structure ordinance for engaging starbases and titans."
