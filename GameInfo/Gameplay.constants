@@ -224,7 +224,7 @@ GameplayConstants
 		DamagePercentBonus:ANTIMEDIUM:Light 1.0
 		DamagePercentBonus:ANTIMEDIUM:Medium 1.33333
 		DamagePercentBonus:ANTIMEDIUM:Heavy 0.75
-		DamagePercentBonus:ANTIMEDIUM:VeryHeavy 0.75
+		DamagePercentBonus:ANTIMEDIUM:VeryHeavy 0.55
 		DamagePercentBonus:ANTIMEDIUM:Module 0.50	
 		DamagePercentBonus:ANTIMEDIUM:Pirate 0.45
 		DamagePercentBonus:ANTIMEDIUM:Titan 0.70	
