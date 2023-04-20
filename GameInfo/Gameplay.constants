@@ -30,11 +30,11 @@ GameplayConstants
 		buildCountLargePerButtonPress 5
 		minTimeBetweenResourcePickUps 90.0
 	PlanetData
-		allegiancePassiveGainRate 0.000500000
-		allegiancePassiveLossRate -0.000500000
-		allegianceFriendlyMaxGainRate 0.00140000
-		allegianceEnemyMaxLossRate -0.001400000
-		allegianceGainFromCultureMax 0.2
+		allegiancePassiveGainRate 0.000347222
+		allegiancePassiveLossRate -0.000347222
+		allegianceFriendlyMaxGainRate 0.000694444
+		allegianceEnemyMaxLossRate -0.000694444
+		allegianceGainFromCultureMax 0.1
 		startingPopulationPercOfMax 0.5
 		healthOnColonize 200.0
 		healthRegenRatePercWhenBombed .000
