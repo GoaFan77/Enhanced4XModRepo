@@ -22,7 +22,10 @@ dockIcon "HUDICONDOCK_SQUADTECHBOMBER"
 nameStringID "IDS_E4X_SQUADTECHBOMBERANTIMODULE_NAME"
 descriptionStringID "IDS_E4X_SQUADTECHBOMBERANTIMODULE_DESC"
 researchPrerequisites
-	NumResearchPrerequisites 0
+	NumResearchPrerequisites 1
+		ResearchPrerequisite
+			Subject "RESEARCHSUBJECT_WEAPONDAMAGE_MISSILETECH1"
+			Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 NumSoundsFor:ONATTACKORDERISSUED 4

@@ -125,7 +125,7 @@ StringInfo
 	Value "The wrath of the unity at this planet curses the targeted planet for a time, causing it to take more damage from bombardment." 
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_MINELAYERPHASE_DESCRIPTION"
-	Value "Grants access to Sivuskras Ruiners - versatile units that are strong against structures and can also deploy mines."
+	Value "Grants access to Heavy Bomber Squadrons and Sivuskras Ruiners - versatile units that are strong against structures and can also deploy mines."
 StringInfo
 	ID "IDS_FRIGATE_PHASEMINELAYER_DESCRIPTION"
 	Value "A supporting cruiser capable of devastating structures with a long-range disruptor beam, and is also able to lay specialized mines that can cripple the enemy."
@@ -9374,10 +9374,10 @@ StringInfo
 	Value "Grants access to Ogrov Torpedo Cruisers - heavy cruisers armed with structure-busting neutron torpedoes."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_ANTIMODULEPSI_NAME"
-	Value "Solanus Design"
+	Value "Plasma Torpedoes"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_ANTIMODULEPSI_DESCRIPTION"
-	Value "Grants access to Solanus Adjudicators - large cruisers able to bombard many enemy structures from extreme range."
+	Value "Grants access to Solanus Adjudicators and Heavy Bomber Squadrons able to bombard many enemy structures from extreme range."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_CARRIERTECH_NAME"
 	Value "Percheron Prototype"
@@ -9434,7 +9434,7 @@ StringInfo
 	Value "Grants access to Kanrak Assailants - combat frigates heavily armed with long-range Phase Missiles."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_MINELAYERPHASE_NAME"
-	Value "Sivuskras Prototype"
+	Value "Disintegrator Prototype"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_SIEGETECH_NAME"
 	Value "Krosov Prototype"
@@ -11231,16 +11231,16 @@ StringInfo
 	Value "Missiles more effectively home in on their targets, increasing their damage."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_WEAPONDAMAGE_MISSILETECH1_NAME"
-	Value "Enhanced ACM"
+	Value "Upgraded Payloads"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_WEAPONDAMAGE_MISSILETECH1_DESCRIPTION"
-	Value "Next generation anti-countermeasures allow a greater portion of missiles to strike their target, increasing the damage of all Missile weapons."
+	Value "Newly engineered explosive materials have enhanced shockwave characteristics, further increasing the damage of all Missile weapons. Nuetron-warhead missiles developed for anti-structure work allow the construction of Heavy Bombers."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_WEAPONDAMAGE_MISSILETECH2_NAME"
-	Value "Cyclotaurite Payloads"
+	Value "Enhanced ACM"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_WEAPONDAMAGE_MISSILETECH2_DESCRIPTION"
-	Value "Newly engineered explosive materials have enhanced shockwave characteristics, further increasing the damage of all Missile weapons."
+	Value "Next generation anti-countermeasures allow a greater portion of missiles to strike their target, increasing the damage of all Missile weapons."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_WEAPONDAMAGE_PHASEMISSILE0_NAME"
 	Value "NME Warheads"
