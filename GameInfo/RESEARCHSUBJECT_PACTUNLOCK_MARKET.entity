@@ -1,8 +1,8 @@
 ﻿TXT2
 SinsArchiveVersion 194
 entityType "ResearchSubject"
-hudIcon "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_MARKET"
-smallHudIcon "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_MARKET"
+hudIcon "HUDICON_E4X_UnderworldPact"
+smallHudIcon "HUDICON_E4X_UnderworldPact"
 infoCardIcon ""
 NameStringID "IDS_RESEARCHSUBJECT_PACT_MARKET_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_PACT_MARKET_DESCRIPTION"

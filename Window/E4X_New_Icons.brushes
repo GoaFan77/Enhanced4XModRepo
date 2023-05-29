@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 193
+brushCount 196
 brush
 	name "Planet_E4X_CyberFortressNormal"
 	content "Simple"
@@ -2236,6 +2236,60 @@ brush
 	Normal
 		fileName "E4X_Icons_Normal"
 		pixelBox [ 459 , 75 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_UnderworldPact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 204 , 408 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 204 , 408 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 204 , 408 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 408 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 408 , 47 , 33 ]	
+brush
+	name "HUDICON_E4X_TargetingPact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 255 , 408 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 255 , 408 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 255 , 408 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 408 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 408 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_RecoveryPact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 306 , 408 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 306 , 408 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 306 , 408 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 408 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 408 , 47 , 33 ]			
 brush
 	name "Picture_E4X_TechCommandCenter"
 	content "Simple"

@@ -1,0 +1,77 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Ability"
+buffInstantActionType "ApplyBuffToLocalOrbitBody"
+instantActionTriggerType "AlwaysPerform"
+buffType "Buff_E4X_MinorFactionSellCapitalShipPhaseScout"
+targetFilter
+	numOwnerships 2
+		ownership "Player"
+		ownership "Allied"
+	numObjects 1
+		object "Planet"
+	numSpaces 1
+		space "Normal"
+	numConstraints 0
+effectInfo
+	effectAttachInfo
+		attachType "Invalid"
+	smallEffectName ""
+	mediumEffectName ""
+	largeEffectName ""
+	soundID ""
+needsToFaceTarget FALSE
+canCollideWithTarget TRUE
+moveThruTarget FALSE
+isUltimateAbility FALSE
+maxNumLevels 3
+levelSourceType "ResearchFloatModifierValue"
+sourceResearchFloatModifierType "MinorFactionAbilityLevel"
+aiUseTime "Invalid"
+aiUseTargetCondition "Invalid"
+isAutoCastAvailable FALSE
+isAutoCastOnByDefault FALSE
+pickRandomPlanetToExploreForAutoCastTarget FALSE
+ignoreNonCombatShipsForAutoCastTarget TRUE
+onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
+useCostType "ResourcesAndMustHaveCapitalCrew"
+creditCost
+	Level:0 3000.000000
+	Level:1 3000.000000
+	Level:2 3000.000000
+	Level:3 3000.000000
+metalCost
+	Level:0 400.000000
+	Level:1 400.000000
+	Level:2 400.000000
+	Level:3 400.000000
+crystalCost
+	Level:0 250.000000
+	Level:1 250.000000
+	Level:2 250.000000
+	Level:3 250.000000
+requiredShipSlots
+	Level:0 50.000000
+	Level:1 50.000000
+	Level:2 50.000000
+	Level:3 50.000000
+requiredCapitalShipSlots
+	Level:0 1.000000
+	Level:1 1.000000
+	Level:2 1.000000
+	Level:3 1.000000
+cooldownTime
+	Level:0 900.000000
+	Level:1 750.000000
+	Level:2 600.000000
+	Level:3 600.000000
+orderAcknowledgementType "ONGENERALORDERISSUED"
+researchPrerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+nameStringID "IDS_ABILITY_MINORFACTIONSELLCAPITALSHIPPHASESCOUT_NAME"
+descStringID "IDS_ABILITY_MINORFACTIONSELLCAPITALSHIPPHASESCOUT_DESCRIPTION"
+hudIcon "HUDICON_ABILITY_MINORFACTIONSELLCAPITALSHIPPHASESCOUT"
+smallHudIcon "HUDICON_ABILITY_MINORFACTIONSELLCAPITALSHIPPHASESCOUT"
+infoCardIcon ""

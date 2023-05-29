@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2777
+entityNameCount 2787
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2777,3 +2777,13 @@ entityName "Research_E4X_PactBonus_Munitions.entity"
 entityName "Research_E4X_PactBonus_Recovery.entity"
 entityName "Research_E4X_PactUnlock_Munitions.entity"
 entityName "Research_E4X_PactUnlock_Recovery.entity"
+entityName "Fighter_E4X_PhaseBomberAntimodule.entity"
+entityName "Fighter_E4X_PsiBomberAntimodule.entity"
+entityName "Fighter_E4X_TechBomberAntimodule.entity"
+entityName "Squad_E4X_PhaseBomberAntimodule.entity"
+entityName "Squad_E4X_PsiBomberAntimodule.entity"
+entityName "Squad_E4X_TechBomberAntimodule.entity"
+entityName "Buff_E4X_MinorFactionCapitalShipMarker.entity"
+entityName "Buff_E4X_MinorFactionCapitalShipTrigger.entity"
+entityName "Buff_E4X_MinorFactionCapitalShipXP.entity"
+entityName "Buff_E4X_MinorFactionSellCapitalShipPhaseScout.entity"

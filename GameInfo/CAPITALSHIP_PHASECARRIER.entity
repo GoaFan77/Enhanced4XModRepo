@@ -201,7 +201,7 @@ squadTypeEntityDef:0 "SquadPhaseCombat"
 squadAntiMatterCost:0 0.000000
 squadTypeEntityDef:1 "SquadPhaseBomber"
 squadAntiMatterCost:1 0.000000
-squadTypeEntityDef:2 ""
+squadTypeEntityDef:2 "Squad_E4X_PhaseBomberAntimodule"
 squadAntiMatterCost:2 0.000000
 squadTypeEntityDef:3 ""
 squadAntiMatterCost:3 0.000000

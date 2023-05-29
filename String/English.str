@@ -1,5 +1,26 @@
 TXT
-NumStrings 8598
+NumStrings 8616
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PACT_ENERGY_WEAPON_COOLDOWN_NAME"
+	Value "Munitions Pact"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PACT_ENERGY_WEAPON_COOLDOWN_DESCRIPTION"
+	Value "Establishes joint munition production efforts with the other faction. Increases the rate of fire of all weapons."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PACT_MASS_REDUCTION_NAME"
+	Value "Recovery Pact"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PACT_MASS_REDUCTION_DESCRIPTION"
+	Value "Creates a shared reserve of key materials and humanitarian supplies to be available to the populations and armed forces of both factions. Increases the hull restoration of all units, and planet health and population regeneration."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PACT_THRUSTER_NAME"
+	Value "Strikecraft Pact"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PACT_THRUSTER_DESCRIPTION"
+	Value "Funds joint development of strikecraft and starfighter designs and operations. Increases the amount of strikecraft in each squadron by 1."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_PACT_WEAPONCOOLDOWN_NAME"
+	Value "Targeting Pact"
 StringInfo
 	ID "IDS_Research_E4X_Pact_Recovery_NAME"
 	Value "Recovery Pact"
@@ -29,7 +50,40 @@ StringInfo
 	Value "Underworld Pact"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PACT_MARKET_DESCRIPTION"
-	Value "Cooperates with the other faction into controlling major criminal elements in the galaxy for mutual benefit., Gives both factions better rates when purchasing from the Black Market, gives extra bounty when placing or collecting, and reduces pirate raid intensity against both players."
+	Value "Cooperates with the other faction into controlling major criminal elements in the galaxy for mutual benefit. Gives both factions better rates when purchasing from the Black Market, gives extra bounty when placing or collecting, and reduces pirate raid intensity against both players."
+StringInfo
+	ID "IDS_SUPPORTABILITY_REVENGEFROMBEYOND_DESCRIPTION"
+	Value "Nearby friendly units become marked. When destroyed, they will deal damage to a random nearby enemy ship."
+StringInfo
+	ID "IDS_ABILITY_INSTANTBUILDFIGHTERS_DESCRIPTION"
+	Value "The Sova's internal manufacturing facilities are pushed beyond their designed capacity. Produces enough extra fighters to immediately replenish the strikecraft of all owned carriers in the gravity well. Additionally, friendly structures and ships in orbit build more quickly."
+StringInfo
+	ID "IDS_E4X_SQUADPHASEBOMBERANTIMODULE_DESC"
+	Value "Squadron of Bombers outfitted with anti-structure ordinance for engaging starbases and titans."
+StringInfo
+	ID "IDS_E4X_SQUADPSIBOMBERANTIMODULE_DESC"
+	Value "Squadron of Bombers outfitted with anti-structure ordinance for engaging starbases and titans."
+StringInfo
+	ID "IDS_E4X_SQUADTECHBOMBERANTIMODULE_DESC"
+	Value "Squadron of Bombers outfitted with anti-structure ordinance for engaging starbases and titans."
+StringInfo
+	ID "IDS_E4X_SQUADPHASEBOMBERANTIMODULE_NAME"
+	Value "Heavy Bomber Squadron"
+StringInfo
+	ID "IDS_E4X_SQUADPSIBOMBERANTIMODULE_NAME"
+	Value "Heavy Bomber Squadron"
+StringInfo
+	ID "IDS_E4X_SQUADTECHBOMBERANTIMODULE_NAME"
+	Value "Heavy Bomber Squadron"
+StringInfo
+	ID "IDS_E4X_FIGHTERTECHBOMBERANTIMODULE_NAME"
+	Value "Heavy Bomber" 
+StringInfo
+	ID "IDS_E4X_FIGHTERPSIBOMBERANTIMODULE_NAME"
+	Value "Heavy Bomber" 
+StringInfo
+	ID "IDS_E4X_FIGHTERPHASEBOMBERANTIMODULE_NAME"
+	Value "Heavy Bomber" 	
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_CULTURERATEPSI0_DESCRIPTION"
 	Value "Ceremonies extolling the virtue of the Unity are made more compelling, increasing the rate at which your empire spreads Culture and improving Psionic weapon damage."
@@ -122,7 +176,7 @@ StringInfo
 	Value "The wrath of the unity at this planet curses the targeted planet for a time, causing it to take more damage from bombardment." 
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_MINELAYERPHASE_DESCRIPTION"
-	Value "Grants access to Sivuskras Ruiners - versatile units that are strong against structures and can also deploy mines."
+	Value "Grants access to Heavy Bomber Squadrons and Sivuskras Ruiners - versatile units that are strong against structures and can also deploy mines."
 StringInfo
 	ID "IDS_FRIGATE_PHASEMINELAYER_DESCRIPTION"
 	Value "A supporting cruiser capable of devastating structures with a long-range disruptor beam, and is also able to lay specialized mines that can cripple the enemy."
@@ -9371,10 +9425,10 @@ StringInfo
 	Value "Grants access to Ogrov Torpedo Cruisers - heavy cruisers armed with structure-busting neutron torpedoes."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_ANTIMODULEPSI_NAME"
-	Value "Solanus Design"
+	Value "Plasma Torpedoes"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_ANTIMODULEPSI_DESCRIPTION"
-	Value "Grants access to Solanus Adjudicators - large cruisers able to bombard many enemy structures from extreme range."
+	Value "Grants access to Solanus Adjudicators and Heavy Bomber Squadrons able to bombard many enemy structures from extreme range."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_CARRIERTECH_NAME"
 	Value "Percheron Prototype"
@@ -9431,7 +9485,7 @@ StringInfo
 	Value "Grants access to Kanrak Assailants - combat frigates heavily armed with long-range Phase Missiles."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_MINELAYERPHASE_NAME"
-	Value "Sivuskras Prototype"
+	Value "Disintegrator Prototype"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_SIEGETECH_NAME"
 	Value "Krosov Prototype"
@@ -11228,16 +11282,16 @@ StringInfo
 	Value "Missiles more effectively home in on their targets, increasing their damage."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_WEAPONDAMAGE_MISSILETECH1_NAME"
-	Value "Enhanced ACM"
+	Value "Upgraded Payloads"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_WEAPONDAMAGE_MISSILETECH1_DESCRIPTION"
-	Value "Next generation anti-countermeasures allow a greater portion of missiles to strike their target, increasing the damage of all Missile weapons."
+	Value "Newly engineered explosive materials have enhanced shockwave characteristics, further increasing the damage of all Missile weapons. Nuetron-warhead missiles developed for anti-structure work allow the construction of Heavy Bombers."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_WEAPONDAMAGE_MISSILETECH2_NAME"
-	Value "Cyclotaurite Payloads"
+	Value "Enhanced ACM"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_WEAPONDAMAGE_MISSILETECH2_DESCRIPTION"
-	Value "Newly engineered explosive materials have enhanced shockwave characteristics, further increasing the damage of all Missile weapons."
+	Value "Next generation anti-countermeasures allow a greater portion of missiles to strike their target, increasing the damage of all Missile weapons."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_WEAPONDAMAGE_PHASEMISSILE0_NAME"
 	Value "NME Warheads"

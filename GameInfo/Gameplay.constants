@@ -30,11 +30,11 @@ GameplayConstants
 		buildCountLargePerButtonPress 5
 		minTimeBetweenResourcePickUps 90.0
 	PlanetData
-		allegiancePassiveGainRate 0.000500000
-		allegiancePassiveLossRate -0.000500000
-		allegianceFriendlyMaxGainRate 0.00140000
-		allegianceEnemyMaxLossRate -0.001400000
-		allegianceGainFromCultureMax 0.2
+		allegiancePassiveGainRate 0.000347222
+		allegiancePassiveLossRate -0.000347222
+		allegianceFriendlyMaxGainRate 0.000694444
+		allegianceEnemyMaxLossRate -0.000694444
+		allegianceGainFromCultureMax 0.1
 		startingPopulationPercOfMax 0.5
 		healthOnColonize 200.0
 		healthRegenRatePercWhenBombed .000
@@ -201,16 +201,16 @@ GameplayConstants
 			CAPITALSHIP 1.000000
 			INTERCEPTOR 0.650000
 			BOMBER 0.750000
-		DamagePercentBonus:ANTIVERYLIGHT:CapitalShip 0.5
+		DamagePercentBonus:ANTIVERYLIGHT:CapitalShip 0.35
 		DamagePercentBonus:ANTIVERYLIGHT:VeryLight 2.0
 		DamagePercentBonus:ANTIVERYLIGHT:Light 1.0
-		DamagePercentBonus:ANTIVERYLIGHT:Medium 0.5
-		DamagePercentBonus:ANTIVERYLIGHT:Heavy 0.5
-		DamagePercentBonus:ANTIVERYLIGHT:VeryHeavy 0.4
+		DamagePercentBonus:ANTIVERYLIGHT:Medium 0.50
+		DamagePercentBonus:ANTIVERYLIGHT:Heavy 0.40
+		DamagePercentBonus:ANTIVERYLIGHT:VeryHeavy 0.40
 		DamagePercentBonus:ANTIVERYLIGHT:Module 0.35
 		DamagePercentBonus:ANTIVERYLIGHT:Pirate 1.5
-		DamagePercentBonus:ANTIVERYLIGHT:Titan 0.45	
-		DamagePercentBonus:ANTILIGHT:CapitalShip 0.5
+		DamagePercentBonus:ANTIVERYLIGHT:Titan 0.30
+		DamagePercentBonus:ANTILIGHT:CapitalShip 0.50
 		DamagePercentBonus:ANTILIGHT:VeryLight 1.0 
 		DamagePercentBonus:ANTILIGHT:Light 2.0
 		DamagePercentBonus:ANTILIGHT:Medium 0.5
@@ -224,7 +224,7 @@ GameplayConstants
 		DamagePercentBonus:ANTIMEDIUM:Light 1.0
 		DamagePercentBonus:ANTIMEDIUM:Medium 1.33333
 		DamagePercentBonus:ANTIMEDIUM:Heavy 0.75
-		DamagePercentBonus:ANTIMEDIUM:VeryHeavy 0.75
+		DamagePercentBonus:ANTIMEDIUM:VeryHeavy 0.55
 		DamagePercentBonus:ANTIMEDIUM:Module 0.50	
 		DamagePercentBonus:ANTIMEDIUM:Pirate 0.45
 		DamagePercentBonus:ANTIMEDIUM:Titan 0.70	
@@ -241,7 +241,7 @@ GameplayConstants
 		DamagePercentBonus:ANTIVERYHEAVY:VeryLight 0.5
 		DamagePercentBonus:ANTIVERYHEAVY:Light 0.5
 		DamagePercentBonus:ANTIVERYHEAVY:Medium 0.5
-		DamagePercentBonus:ANTIVERYHEAVY:Heavy 0.5
+		DamagePercentBonus:ANTIVERYHEAVY:Heavy 0.4
 		DamagePercentBonus:ANTIVERYHEAVY:VeryHeavy 1.0
 		DamagePercentBonus:ANTIVERYHEAVY:Module 0.50
 		DamagePercentBonus:ANTIVERYHEAVY:Pirate 0.40
@@ -250,7 +250,7 @@ GameplayConstants
 		DamagePercentBonus:ANTIMODULE:VeryLight 0.01
 		DamagePercentBonus:ANTIMODULE:Light 0.05
 		DamagePercentBonus:ANTIMODULE:Medium 0.05
-		DamagePercentBonus:ANTIMODULE:Heavy 0.15
+		DamagePercentBonus:ANTIMODULE:Heavy 0.10
 		DamagePercentBonus:ANTIMODULE:VeryHeavy 0.20
 		DamagePercentBonus:ANTIMODULE:Module 2.0
 		DamagePercentBonus:ANTIMODULE:Pirate 0.02
