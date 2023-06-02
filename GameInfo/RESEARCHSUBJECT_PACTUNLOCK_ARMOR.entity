@@ -25,7 +25,7 @@ PerLevelCostIncrease
 	credits 100.000000
 	metal 0.000000
 	crystal 25.000000
-Tier 4
+Tier 7
 onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
