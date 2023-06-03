@@ -33,7 +33,7 @@ researchBoolModifiers 1
 researchModifier
 	modifierType "UnlockPact"
 	allianceType "EnergyWeaponCooldownPact"
-	pactUnlockEntityDefName "Research_E4X_PactUnlock_Munitions"
+	pactUnlockEntityDefName "Research_E4X_PactBonus_Munitions"
 researchFloatModifiers 0
 artifactPicture ""
 uniqueOverlayBrush "PactResearchOverlay"
