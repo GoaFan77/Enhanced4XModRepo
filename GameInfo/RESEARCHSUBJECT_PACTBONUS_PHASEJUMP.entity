@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon ""
 smallHudIcon ""
@@ -29,23 +30,19 @@ onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
-researchFloatModifiers 4
+researchFloatModifiers 3
 researchModifier
-	modifierType "ExtractionRateCrystalAdjustment"
+	modifierType "HyperspaceExitDistanceAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.150000
+	perLevelValue -0.100000
 researchModifier
-	modifierType "ExtractionRateMetalAdjustment"
+	modifierType "HyperspaceChargeUpRateAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.150000
+	perLevelValue 0.250000
 researchModifier
-	modifierType "RefineryShipCapacityAdjustment"
+	modifierType "HyperspaceAntimatterCostAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.150000
-researchModifier
-	modifierType "ExtractionRateFromResourceFocus"
-	baseValue 0.000000
-	perLevelValue 0.150000
+	perLevelValue -0.200000
 artifactPicture ""
 uniqueOverlayBrush ""
 dlcId 204880

@@ -577,7 +577,24 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		- Fix a vanilla bug where Strikecraft can trigger Gas Giant AoE damage on Death.
 		- Fair versions of Alpine, Greenhouse, Moon, and Oceanic planets no longer can have planet bonuses.
 		
-1.88	-Rebalanced resource asteroid yields. Less populated planets now have more resources.
+1.88	-Pact Rework
+			-Redistributed Pacts so they are now unique per faction instead of per race. E.g. TEC and HTS no longer have the exact same pacts.
+				-TEC		Efficiency, Trade, Tactical, Munitions, Armor, Supply
+				-HTS		Trade, Underworld, Siege, Munitions, Armor, Supply
+				-Ascended	Research, Culture, Recovery, Antimatter, Weapons, Shield
+				-Orthodox	Culture, Antimatter, Siege, Weapons, Strikecraft, Shield
+				-VCC		Efficiency, Underworld, Resource, Jump, Tactical, Targeting
+				-VIR		Trade, Recovery, Resource, Jump, Munitions, Targeting			
+			-Reworked Relationship Requirements for most pacts.
+			-Replaced the following Pacts
+				-Market Pact replaced with Underworld Pact. Now gives -15% Black Market cost, +20% to Bounty Placed and Collected, -1 to Pirate Strength.
+				-Mass Pact replaced by Recovery Pact. +20% Hull Regeneration, Planet Health Regeneration, and Population Growth.
+				-Energy Pact is now Weapons Pact. Gives +10% Damage to all weapons.
+				-Pulse Pact is now Munitions Pact. Gives +10% Rate of fire to all weapons.
+				-Thruster Pact is now Strikecraft Pact. Gives +1 fighter per squad.
+			-Renamed the following Pacts to be more clear what they do.
+				-Armament Pact renamed Targeting Pact.		
+		-Rebalanced resource asteroid yields. Less populated planets now have more resources.
 			-Tier 0 planets (Asteroid and Dwarf Planets) now have 4 resource asteroids.
 			-Most Tier 1 planets (Volcanic etc) now have 6 resource asteroids.
 			-Most Tier 2 planets (Ice etc) now have 4 resource asteroids. 

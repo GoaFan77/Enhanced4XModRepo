@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "ResearchSubject"
 hudIcon ""
 smallHudIcon ""
@@ -29,23 +30,27 @@ onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
-researchFloatModifiers 4
+researchFloatModifiers 5
 researchModifier
-	modifierType "ExtractionRateCrystalAdjustment"
+	modifierType "BombingDamageAsDamageDealerAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.150000
+	perLevelValue 0.100000
 researchModifier
-	modifierType "ExtractionRateMetalAdjustment"
+	modifierType "BombingDamageAsDamageTargetAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.150000
+	perLevelValue -0.100000
 researchModifier
-	modifierType "RefineryShipCapacityAdjustment"
+	modifierType "BombingPopulationKilledAsDamageDealerAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.150000
+	perLevelValue 0.100000
 researchModifier
-	modifierType "ExtractionRateFromResourceFocus"
+	modifierType "BombingRangeAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.150000
+	perLevelValue 0.050000
+researchModifier
+	modifierType "CreditsGainedPerPointOfBombingDamageDealt"
+	baseValue 0.000000
+	perLevelValue 0.500000	
 artifactPicture ""
 uniqueOverlayBrush ""
 dlcId 204880
