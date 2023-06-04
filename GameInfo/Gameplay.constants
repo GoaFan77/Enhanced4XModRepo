@@ -731,20 +731,20 @@ GameplayConstants
 		breakRelationshipThreshold:PeaceTreaty 3.0
 		breakRelationshipThreshold:ResearchPact 6.0
 		breakRelationshipThreshold:EfficiencyPact 6.0
-		breakRelationshipThreshold:AntimatterPact 10.0 
-		breakRelationshipThreshold:ArmorPact 9.0
-		breakRelationshipThreshold:BeamWeaponPact 13.0
-		breakRelationshipThreshold:CulturePact 9.0
-		breakRelationshipThreshold:MetalCrystalPact 5.0
-		breakRelationshipThreshold:ThrusterPact 13.0
+		breakRelationshipThreshold:AntimatterPact 9.0 
+		breakRelationshipThreshold:ArmorPact 13.5
+		breakRelationshipThreshold:BeamWeaponPact 12.0
+		breakRelationshipThreshold:CulturePact 7.5
+		breakRelationshipThreshold:MetalCrystalPact 9.0
+		breakRelationshipThreshold:ThrusterPact 13.5
 		breakRelationshipThreshold:PhaseJumpPact 9.0
-		breakRelationshipThreshold:PlanetBombingPact 11.0
-		breakRelationshipThreshold:ShieldPact 11.0
-		breakRelationshipThreshold:MarketPact 5.0
-		breakRelationshipThreshold:EnergyWeaponCooldownPact 14.0
-		breakRelationshipThreshold:MassReductionPact 12.0
-		breakRelationshipThreshold:SupplyPact 14.0
-		breakRelationshipThreshold:TacticalSlotsPact 10.0
+		breakRelationshipThreshold:PlanetBombingPact 10.5
+		breakRelationshipThreshold:ShieldPact 13.5
+		breakRelationshipThreshold:MarketPact 7.5
+		breakRelationshipThreshold:EnergyWeaponCooldownPact 12.0
+		breakRelationshipThreshold:MassReductionPact 7.5
+		breakRelationshipThreshold:SupplyPact 15.0
+		breakRelationshipThreshold:TacticalSlotsPact 10.5
 		breakRelationshipThreshold:WeaponCooldownPact 15.0
 		breakRelationshipThreshold:TradeIncomePact 6.0
 		relationshipRequirement:Trade 2.0
@@ -752,24 +752,24 @@ GameplayConstants
 		relationshipRequirement:InternalVision 8.0
 		relationshipRequirement:CeaseFire 4.0
 		relationshipRequirement:PeaceTreaty 9.0
-		relationshipRequirement:ResearchPact 10.5
+		relationshipRequirement:ResearchPact 10.0
 		relationshipRequirement:EfficiencyPact 10.0
 		relationshipRequirement:AntimatterPact 13.0
-		relationshipRequirement:ArmorPact 13.0
-		relationshipRequirement:BeamWeaponPact 17.5
+		relationshipRequirement:ArmorPact 17.5
+		relationshipRequirement:BeamWeaponPact 16.0
 		relationshipRequirement:CulturePact 11.5
-		relationshipRequirement:MetalCrystalPact 11.0
-		relationshipRequirement:ThrusterPact 16.0
-		relationshipRequirement:PhaseJumpPact 14.0
+		relationshipRequirement:MetalCrystalPact 13.0
+		relationshipRequirement:ThrusterPact 17.5
+		relationshipRequirement:PhaseJumpPact 13.0
 		relationshipRequirement:PlanetBombingPact 14.5
-		relationshipRequirement:ShieldPact 18.0
-		relationshipRequirement:MarketPact 12.0
-		relationshipRequirement:EnergyWeaponCooldownPact 18.0
-		relationshipRequirement:MassReductionPact 15.0
-		relationshipRequirement:SupplyPact 18.0
-		relationshipRequirement:TacticalSlotsPact 15.0
+		relationshipRequirement:ShieldPact 17.5
+		relationshipRequirement:MarketPact 11.5
+		relationshipRequirement:EnergyWeaponCooldownPact 16.0
+		relationshipRequirement:MassReductionPact 11.5
+		relationshipRequirement:SupplyPact 19.0
+		relationshipRequirement:TacticalSlotsPact 14.5
 		relationshipRequirement:WeaponCooldownPact 19.0
-		relationshipRequirement:TradeIncomePact 10.5
+		relationshipRequirement:TradeIncomePact 10.0
 		breakRelationshipPenalty:Trade 0.0
 		breakRelationshipPenalty:ExternalVision 0.0
 		breakRelationshipPenalty:InternalVision 0.0
