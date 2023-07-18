@@ -597,7 +597,8 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Rebalanced resource asteroid yields. Less populated planets now have more resources.
 			-Tier 0 planets (Asteroid and Dwarf Planets) now have 4 resource asteroids.
 			-Most Tier 1 planets (Volcanic etc) now have 6 resource asteroids.
-			-Most Tier 2 planets (Ice etc) now have 4 resource asteroids. 
+			-Most Tier 2 planets (Ice etc) now have 4 resource asteroids.
+		-Reduced the number of Starbases that can be built at Stars to 2.
 		-Vasari Refinery is moved down a level to be unlocked at tier 2.
 		-Vasari Resource Extraction techs starting at tier 3 (all except the first 1) now give an extra 5% bonus to refinery income.
 		-Increased speed of Vasari Colony and Carrier capitalships from 450 to 500.

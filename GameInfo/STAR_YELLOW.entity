@@ -42,7 +42,7 @@ minZoomDistanceMult 2.000000
 moveAreaRadius 100000.000000
 hyperspaceExitRadius 90000.000000
 isWormhole FALSE
-maxStarBaseCountPerPlayer 4
+maxStarBaseCountPerPlayer 2
 maxSpaceMineCountPerPlayer 30
 mainViewIcon "Axeldude_MAINVIEWICON_STAR_YELLOW"
 picture ""
