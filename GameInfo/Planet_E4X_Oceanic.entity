@@ -294,7 +294,7 @@ planetUpgradeDef
 			maxPopulation 10.000000
 			populationGrowthRate 0.125000
 			tradeIncomeModifier -0.100000
-			shipBuildRateModifier -0.240000
+			shipBuildRateModifier -0.180000
 			cultureSpreadRateModifier 0.240000
 		stage
 			price
@@ -305,7 +305,7 @@ planetUpgradeDef
 			maxPopulation 30.000000
 			populationGrowthRate 0.138000
 			tradeIncomeModifier -0.200000
-			shipBuildRateModifier -0.480000
+			shipBuildRateModifier -0.360000
 			cultureSpreadRateModifier 0.480000
 		stage
 			price
@@ -316,7 +316,7 @@ planetUpgradeDef
 			maxPopulation 70.000000
 			populationGrowthRate 0.151000
 			tradeIncomeModifier -0.300000
-			shipBuildRateModifier -0.720000
+			shipBuildRateModifier -0.560000
 			cultureSpreadRateModifier 0.720000
 		stage
 			price
@@ -327,7 +327,7 @@ planetUpgradeDef
 			maxPopulation 160.000000
 			populationGrowthRate 0.169000
 			tradeIncomeModifier -0.400000
-			shipBuildRateModifier -0.960000
+			shipBuildRateModifier -0.740000
 			cultureSpreadRateModifier 0.960000
 		stage
 			price
@@ -338,7 +338,7 @@ planetUpgradeDef
 			maxPopulation 280.000000
 			populationGrowthRate 0.195000
 			tradeIncomeModifier -0.500000
-			shipBuildRateModifier -1.200000
+			shipBuildRateModifier -0.920000
 			cultureSpreadRateModifier 1.200000
 	path:Industry
 		stageCount 4
