@@ -606,6 +606,7 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Kultorask Titan Nano Leech ability is now interruptable.
 		-Increased Admiral Dyrenov's Final Annihilation ability damage from 2200 to 5000.
 		-Improved Ragnarov Titan durability upgrades to give bonuses equal to the Ankylon Titan.
+		-Antimodule Cruisers durability increased by roughly 50%, speed reduced from 450 to 400.
 		-Reduced damage of AntiMedium (Long range Frigates) to VeryHeavy (Heavy Cruisers) from 0.75 to 0.55.
 		-Reduced damage of AntiVeryLight (fighters and flak) against Heavy, VeryHeavy, Capitalship, and Titan armor types.
 		-Reduced AntiVeryHeavy damage (Bombers) against Heavy armor (Flak/Support Cruisers).

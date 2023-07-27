@@ -1,4 +1,7 @@
-# Force all text files to CRLF to not throw off the Sins checksum. Sorry. Windows only.
+# All files are checked into the repo with LF. I guess because Git doesn't want to support saving with CRLF.
+* text=auto
+
+# Force all text files to CRLF on checkout to not throw off the Sins checksum.
 * text eol=crlf
 
 # Always convert the following files as text.
