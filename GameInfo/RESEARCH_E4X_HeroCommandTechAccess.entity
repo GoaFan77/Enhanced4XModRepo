@@ -12,7 +12,7 @@ ResearchField "Diplomacy"
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
-	RequiredCompletedResearchSubjects 20
+	RequiredCompletedResearchSubjects 12
 MinimumArtifactLevel -1
 BaseUpgradeTime 0.000000
 PerLevelUpgradeTime 0.000000
