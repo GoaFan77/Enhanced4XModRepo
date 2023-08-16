@@ -611,3 +611,4 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Reduced damage of AntiVeryLight (fighters and flak) against Heavy, VeryHeavy, Capitalship, and Titan armor types.
 		-Reduced AntiVeryHeavy damage (Bombers) against Heavy armor (Flak/Support Cruisers).
 		-Reduced AntiModule damage (Antistructure Cruisers, Antistructure Bombers) against Heavy armor (Flak/Support Cruisers).
+		-XP granted from Sova Missile Turrets, Vulkoras Siege Turrets, and Rankulas Nanites removed to be more in line with warped in temporary ships.
