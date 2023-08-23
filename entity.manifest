@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2787
+entityNameCount 2788
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2787,3 +2787,4 @@ entityName "Buff_E4X_MinorFactionCapitalShipMarker.entity"
 entityName "Buff_E4X_MinorFactionCapitalShipTrigger.entity"
 entityName "Buff_E4X_MinorFactionCapitalShipXP.entity"
 entityName "Buff_E4X_MinorFactionSellCapitalShipPhaseScout.entity"
+entityName "BuffMadVasariTitanReinforcements.entity"

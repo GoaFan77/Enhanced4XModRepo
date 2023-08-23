@@ -9,34 +9,16 @@ isInterruptable FALSE
 isChannelling FALSE
 numInstantActions 5
 instantAction
-	buffInstantActionType "SpawnShipsAtPlanet"
-	instantActionTriggerType "OnHyperspaceExit"
-	spawnShipsLevelCount 1
-	spawnShips
-		minFleetPoints 120.000000
-		maxFleetPoints 135.000000
-		requiredShipCount 0
-		randomShipCount 6
-		randomShip
-			type "FrigatePhaseLight"
-			weight 4
-		randomShip
-			type "FrigatePhaseLongRange"
-			weight 5
-		randomShip
-			type "FrigatePhaseHeavy"
-			weight 6
-		randomShip
-			type "FrigatePhaseAntiFighter"
-			weight 3
-		randomShip
-			type "CorvettePhaseLoyalist"
-			weight 2
-		randomShip
-			type "FrigatePhaseSiege"
-			weight 1			
-	spawnShipsArrivalDelayTime 7.000000
-	spawnShipsHyperspaceSpawnType "FleetBeacon"
+	buffInstantActionType "ApplyBuffToSelf"
+	instantActionTriggerType "OnDamageTaken"
+	buffType "BuffMadVasariTitanReinforcements"
+	effectInfo
+		effectAttachInfo
+			attachType "Invalid"
+		smallEffectName ""
+		mediumEffectName ""
+		largeEffectName ""
+		soundID ""		
 instantAction
 	buffInstantActionType "ApplyBuffToTargetOnWeaponFired"
 	instantActionTriggerType "OnWeaponFired"
