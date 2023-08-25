@@ -9,18 +9,6 @@ isInterruptable FALSE
 isChannelling TRUE
 numInstantActions 5
 instantAction
-	buffInstantActionType "PlayPersistantAttachedEffect"
-	instantActionTriggerType "OnDelay"
-	delayTime 0.000000
-	effectInfo
-		effectAttachInfo
-			attachType "Ability"
-			abilityIndex 0
-		smallEffectName "CapitalAbility_ResourceDrainActivate"
-		mediumEffectName "CapitalAbility_ResourceDrainActivate"
-		largeEffectName "CapitalAbility_ResourceDrainActivate"
-		soundID "EFFECT_RESOURCEDRAIN_LOOP"
-instantAction
 	buffInstantActionType "PlayPersistantBeamEffect"
 	instantActionTriggerType "OnDelay"
 	delayTime 0.500000
@@ -134,7 +122,12 @@ instantAction
 		smallEffectName ""
 		mediumEffectName ""
 		largeEffectName ""
-		soundID ""	
+		soundID ""
+instantAction
+	buffInstantActionType "ApplyBuffToTargetNoFilterNoRange"
+	instantActionTriggerType "OnDelay"
+	delayTime 10.000000
+	buffType "BuffMadVasariTitanReinforcements"		
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0

@@ -22,11 +22,11 @@ instantAction
 instantAction
 	buffInstantActionType "MakeDead"
 	instantActionTriggerType "OnDelay"
-	delayTime 3.000000
+	delayTime 10.000000
 instantAction
 	buffInstantActionType "ApplyBuffToTargetsInRadiusWithTravel"
 	instantActionTriggerType "OnDelay"
-	delayTime 3.000000
+	delayTime 10.000000
 	buffType "BuffSelfDestructTarget"
 	targetFilter
 		numOwnerships 2
@@ -44,7 +44,7 @@ instantAction
 		space "Normal"
 		numConstraints 0
 	range
-		Level:0 8000.000000
+		Level:0 6000.000000
 		Level:1 11500.000000
 		Level:2 0.000000
 		Level:3 0.000000

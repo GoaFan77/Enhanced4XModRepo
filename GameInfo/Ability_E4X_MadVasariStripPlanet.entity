@@ -5,8 +5,9 @@ buffInstantActionType "ApplyTargettedBuffToSelf"
 instantActionTriggerType "AlwaysPerform"
 buffType "Buff_E4X_MadVasariStripPlanet"
 targetFilter
-	numOwnerships 1
+	numOwnerships 2
 		ownership "NoOwner"
+		ownership "Player"
 	numObjects 1
 		object "Planet"
 	numSpaces 1
