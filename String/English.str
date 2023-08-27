@@ -1418,7 +1418,7 @@ StringInfo
 	Value "Impenetrable Fortress"
 StringInfo
 	ID "IDS_RESEARCH_E4X_ArtifactStarBase_DESC"
-	Value "A massive subterranean fortress gives your engineers ideas on how to improve the quality of your Starbases, enhancing their capabilities in almost every area."
+	Value "A massive, ancient subterranean fortress gives your engineers ideas on how to improves the quality of your Starbases and Tactical Structures, enhancing their capabilities in almost every area."
 StringInfo
 	ID "IDS_RESEARCH_E4X_ArtifactImprovedLogistics_NAME"
 	Value "Standardized Supply Depot"

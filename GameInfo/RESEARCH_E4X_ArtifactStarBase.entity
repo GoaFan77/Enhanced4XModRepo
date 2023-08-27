@@ -29,27 +29,35 @@ onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
-researchFloatModifiers 5
+researchFloatModifiers 7
+researchModifier
+	modifierType "TacticalStructureArmorAdjustment"
+	baseValue 0.000000
+	perLevelValue 2.500000
+researchModifier
+	modifierType "TacticalStructureHullPointsMaxAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.250000
+researchModifier
+	modifierType "TacticalStructureWeaponDamageAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.100000	
 researchModifier
 	modifierType "StarBaseArmorAdjustment"
 	baseValue 0.000000
-	perLevelValue 5.000000
+	perLevelValue 2.500000
 researchModifier
 	modifierType "StarBaseHullPointsMaxAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.500000
+	perLevelValue 0.250000
 researchModifier
 	modifierType "StarBaseShieldPointsMaxAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.500000		
+	perLevelValue 0.250000		
 researchModifier
 	modifierType "StarBaseWeaponDamageAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.200000	
-researchModifier
-	modifierType "StarBaseBuildRateAtEnemyOrbitBodyAdjustment"
-	baseValue 0.000000
-	perLevelValue 0.200000
+	perLevelValue 0.100000	
 artifactPicture "Artifact_E4X_PictureStarBase"
 uniqueOverlayBrush ""
 dlcId 204880
