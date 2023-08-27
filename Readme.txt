@@ -599,6 +599,7 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 			-Most Tier 2 planets (Ice etc) now have 4 resource asteroids.
 		-Reduced the number of technologies required to unlock hero units.
 		-Reduced the number of Starbases that can be built at Stars to 2.
+		-Impenetrable Fortress Artifact Bonuses reduced, but now applies bonus to Tactical Structures as well. No longer gives Starbase build time bonus.
 		-Vasari Refinery is moved down a level to be unlocked at tier 2.
 		-Vasari Resource Extraction techs starting at tier 3 (all except the first 1) now give an extra 5% bonus to refinery income.
 		-Increased speed of Vasari Colony and Carrier capitalships from 450 to 500.
@@ -611,3 +612,5 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Reduced AntiVeryHeavy damage (Bombers) against Heavy armor (Flak/Support Cruisers).
 		-Reduced AntiModule damage (Antistructure Cruisers, Antistructure Bombers) against Heavy armor (Flak/Support Cruisers).
 		-XP granted from Sova Missile Turrets, Vulkoras Siege Turrets, and Rankulas Nanites removed to be more in line with warped in temporary ships.
+		-Scouts can no longer be stopped from destroying mines by taking damage.
+		-If a unit capturing a neutral object takes enough damage, the capture will now be interrupted.
