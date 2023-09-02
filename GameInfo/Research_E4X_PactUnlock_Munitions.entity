@@ -1,8 +1,8 @@
 ﻿TXT2
 SinsArchiveVersion 194
 entityType "ResearchSubject"
-hudIcon "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_WEAPONCOOLDOWN"
-smallHudIcon "HUDICON_RESEARCHSUBJECT_PACTUNLOCK_WEAPONCOOLDOWN"
+hudIcon "HUDICON_E4X_MunitionsPact"
+smallHudIcon "HUDICON_E4X_MunitionsPact"
 infoCardIcon ""
 NameStringID "IDS_Research_E4X_Pact_Munitions_NAME"
 DescriptionStringID "IDS_Research_E4X_Pact_Munitions_DESC"

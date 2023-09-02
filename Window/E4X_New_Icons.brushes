@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 196
+brushCount 229
 brush
 	name "Planet_E4X_CyberFortressNormal"
 	content "Simple"
@@ -2289,7 +2289,601 @@ brush
 		pixelBox [ 306 , 408 , 47 , 33 ]
 	Normal
 		fileName "E4X_Icons_Normal"
-		pixelBox [ 306 , 408 , 47 , 33 ]			
+		pixelBox [ 306 , 408 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_EfficiencyPact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 357 , 408 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 357 , 408 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 357 , 408 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 408 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 408 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_TradePact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 408 , 408 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 408 , 408 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 408 , 408 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 408 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 408 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_ResearchPact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 459 , 408 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 459 , 408 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 459 , 408 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 408 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 408 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_CulturePact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 204 , 445 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 204 , 445 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 204 , 445 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 445 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 445 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_AntimatterPact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 255 , 445 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 255 , 445 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 255 , 445 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 445 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 445 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_ResourcePact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 306 , 445 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 306 , 445 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 306 , 445 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 445 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 445 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_PhaseJumpPact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 357 , 445 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 357 , 445 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 357 , 445 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 445 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 445 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_SiegePact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 408 , 445 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 408 , 445 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 408 , 445 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 445 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 445 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_TacticalSlotsPact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 459 , 445 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 459 , 445 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 459 , 445 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 445 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 445 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_WeaponsPact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 204 , 480 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 204 , 480 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 204 , 480 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 480 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 204 , 480 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_MunitionsPact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 255 , 480 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 255 , 480 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 255 , 480 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 480 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 255 , 480 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_ArmorPact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 306 , 480 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 306 , 480 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 306 , 480 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 480 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 306 , 480 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_StrikecraftPact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 357 , 480 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 357 , 480 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 357 , 480 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 480 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 357 , 480 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_SupplyPact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 408 , 480 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 408 , 480 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 408 , 480 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 480 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 408 , 480 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_ShieldPact"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 459 , 480 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 459 , 480 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 459 , 480 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 480 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 459 , 480 , 47 , 33 ]
+brush
+	name "PlayerScreen_E4X_OfferRecoveryPact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 0 , 0 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 0 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 0 , 0, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 0 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 0 , 85 , 38 ]	
+brush
+	name "PlayerScreen_E4X_OfferTargetingPact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 0 , 41 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 41 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 0 , 41, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 41 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 41 , 85 , 38 ]	
+brush
+	name "PlayerScreen_E4X_OfferUnderworldPact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 0 , 82 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 82 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 0 , 82, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 82 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 82 , 85 , 38 ]
+brush
+	name "PlayerScreen_E4X_OfferEfficiencyPact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 0 , 123 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 123 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 0 , 123, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 123 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 123 , 85 , 38 ]
+brush
+	name "PlayerScreen_E4X_OfferTradePact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 0 , 164 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 164 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 0 , 164, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 164 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 164 , 85 , 38 ]
+brush
+	name "PlayerScreen_E4X_OfferResearchPact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 0 , 205 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 205 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 0 , 205, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 205 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 0 , 205 , 85 , 38 ]
+brush
+	name "PlayerScreen_E4X_OfferCulturePact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 86 , 0 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 0 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 86 , 0, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 0 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 0 , 85 , 38 ]
+brush
+	name "PlayerScreen_E4X_OfferAntimatterPact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 86 , 41 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 41 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 86 , 41, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 41 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 41 , 85 , 38 ]
+brush
+	name "PlayerScreen_E4X_OfferResourcePact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 86 , 82 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 82 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 86 , 82, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 82 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 82 , 85 , 38 ]
+brush
+	name "PlayerScreen_E4X_OfferPhaseJumpPact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 86 , 123 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 123 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 86 , 123, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 123 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 123 , 85 , 38 ]
+brush
+	name "PlayerScreen_E4X_OfferSiegePact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 86 , 164 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 164 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 86 , 164, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 164 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 164 , 85 , 38 ]
+brush
+	name "PlayerScreen_E4X_OfferTacticalSlotsPact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 86 , 205 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 205 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 86 , 205, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 205 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 86 , 205 , 85 , 38 ]
+brush
+	name "PlayerScreen_E4X_OfferWeaponsPact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 172 , 0 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 0 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 172 , 0, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 0 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 0 , 85 , 38 ]
+brush
+	name "PlayerScreen_E4X_OfferMunitionsPact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 172 , 41 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 41 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 172 , 41, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 41 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 41 , 85 , 38 ]
+brush
+	name "PlayerScreen_E4X_OfferArmorPact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 172 , 82 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 82 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 172 , 82, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 82 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 82 , 85 , 38 ]
+brush
+	name "PlayerScreen_E4X_OfferStrikecraftPact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 172 , 123 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 123 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 172 , 123, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 123 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 123 , 85 , 38 ]
+brush
+	name "PlayerScreen_E4X_OfferSupplyPact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 172 , 164 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 164 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 172 , 164, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 164 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 164 , 85 , 38 ]
+brush
+	name "PlayerScreen_E4X_OfferShieldPact"
+	content "States"
+	Disabled
+		fileName "E4X_PactIcons_Disabled"
+		pixelBox [ 172 , 205 , 85 , 38 ]
+	Pressed
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 205 , 85 , 38 ]
+	CursorOver
+		fileName "E4X_PactIcons_CursorOver"
+		pixelBox [ 172 , 205, 85 , 38 ]
+	Focused
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 205 , 85 , 38 ]
+	Normal
+		fileName "E4X_PactIcons_Normal"
+		pixelBox [ 172 , 205 , 85 , 38 ]
 brush
 	name "Picture_E4X_TechCommandCenter"
 	content "Simple"
