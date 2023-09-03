@@ -30,15 +30,23 @@ onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
-researchFloatModifiers 2
+researchFloatModifiers 4
 researchModifier
 	modifierType "ShipMaxSlots"
 	baseValue 0.000000
-	perLevelValue 250.000000
+	perLevelValue 200.000000
 researchModifier
-	modifierType "IncomePercLost"
+	modifierType "CapitalShipMaxSlots"
 	baseValue 0.000000
-	perLevelValue -0.050000
+	perLevelValue 1.000000	
+researchModifier
+	modifierType "ResourceCostAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.075000
+researchModifier
+	modifierType "CreditCostAdjustment"
+	baseValue 0.000000
+	perLevelValue 0.075000
 artifactPicture ""
 uniqueOverlayBrush ""
 dlcId 204880
