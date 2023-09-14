@@ -612,6 +612,8 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Reduced damage of AntiVeryLight (fighters and flak) against Heavy, VeryHeavy, Capitalship, and Titan armor types.
 		-Reduced AntiVeryHeavy damage (Bombers) against Heavy armor (Flak/Support Cruisers).
 		-Reduced AntiModule damage (Antistructure Cruisers, Antistructure Bombers) against Heavy armor (Flak/Support Cruisers).
+		-Reduced range of Mass Disorientation from 8500 to 7500.
+		-Matriarch Celestia Hero Unity's Bulwark duration reduced from 50 to 40 seconds, shield mitigation bonus reduced from 3.333 to 2.5 per level.
 		-XP granted from Sova Missile Turrets, Vulkoras Siege Turrets, and Rankulas Nanites removed to be more in line with warped in temporary ships.
 		-Scouts can no longer be stopped from destroying mines by taking damage.
 		-If a unit capturing a neutral object takes enough damage, the capture will now be interrupted.
