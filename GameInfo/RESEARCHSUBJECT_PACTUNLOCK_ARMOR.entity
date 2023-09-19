@@ -8,7 +8,7 @@ NameStringID "IDS_RESEARCHSUBJECT_PACT_ARMOR_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_PACT_ARMOR_DESCRIPTION"
 researchWindowLocation
 	block 0
-	pos [ 7 , 4 ]
+	pos [ 7 , 5 ]
 ResearchField "Diplomacy"
 Prerequisites
 	NumResearchPrerequisites 0
