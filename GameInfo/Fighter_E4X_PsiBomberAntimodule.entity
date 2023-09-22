@@ -17,12 +17,12 @@ counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_ANTIMODULE"
 statCountType "FighterBomber"
 formationOffsetDistance 50.000000
 mass 150.000000
-maxAccelerationLinear 200.000000
+maxAccelerationLinear 175.000000
 maxAccelerationStrafe 100.000000
 maxDecelerationLinear 1000.000000
 maxAccelerationAngular 49.999992
 maxDecelerationAngular 99.999985
-maxSpeedLinear 1500.000000
+maxSpeedLinear 1300.000000
 maxRollRate 2.000000
 maxRollAngle 35.000000
 NumWeapons 1
@@ -56,14 +56,14 @@ Weapon
 		muzzleSounds
 			soundCount 1
 			sound ""
-		hitEffectName "Ability_PlasmaBombardment-Impact"
+		hitEffectName "Weapon_E4X_SmallPlasma-Impact"
 		hitHullEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
 		hitShieldsEffectSounds
 			soundCount 1
 			sound "WEAPONIMPACT_PHASEMISSILEHEAVY_HITGENERIC"
-		missileTravelEffectName "Ability_PlasmaBombardment-Travel"
+		missileTravelEffectName "Weapon_E4X_SmallPlasma-Travel"
 		missileStartTurningDistance 50.000000
 		missileSlowTurnRate 0.508997
 		missileMaxSlowTurnTime 10.000000
@@ -74,7 +74,7 @@ TargetCountPerBank:BACK 0
 TargetCountPerBank:LEFT 0
 TargetCountPerBank:RIGHT 0
 canOnlyTargetStructures FALSE
-meshName "SupportShip_PsiBomber"
+meshName "SupportShip_Fighter_Norlamins"
 exhaustParticleSystemName "ExhaustSmall"
 ExplosionName "Fighter0"
 exhaustTrailTextureName "ExhaustTrail"
