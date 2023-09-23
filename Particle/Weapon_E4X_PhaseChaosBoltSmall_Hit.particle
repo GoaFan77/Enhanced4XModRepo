@@ -1,5 +1,5 @@
 ﻿TXT2
-SinsArchiveVersion 193
+SinsArchiveVersion 194
 ParticleSimulation
 	HasInfiniteLifeTime FALSE
 	TotalLifeTime 3.000000
@@ -15,16 +15,16 @@ ParticleSimulation
 		emitIntervalRunDuration 0.000000
 		emitIntervalWaitDuration 0.000000
 		ParticleLifeTime 6.000000
-		ParticleMinStartLinearSpeed 30.000000
-		ParticleMaxStartLinearSpeed 30.000000
+		ParticleMinStartLinearSpeed 5.000000
+		ParticleMaxStartLinearSpeed 5.000000
 		ParticleMinStartAngularSpeed 0.000000
 		ParticleMaxStartAngularSpeed 6.981317
 		ParticleMinStartRotation 0.000000
 		ParticleMaxStartRotation 6.283185
 		ParticleStartMass 1.000000
 		ParticleStartColor ffffffff
-		ParticleWidth 240.000000
-		ParticleHeight 240.000000
+		ParticleWidth 200.000000
+		ParticleHeight 200.000000
 		MeshName ""
 		Position [ 0.000000 0.000000 0.000000 ]
 		Orientation
@@ -63,16 +63,16 @@ ParticleSimulation
 		emitIntervalRunDuration 0.000000
 		emitIntervalWaitDuration 0.000000
 		ParticleLifeTime 1.000000
-		ParticleMinStartLinearSpeed 600.000000
-		ParticleMaxStartLinearSpeed 800.000000
+		ParticleMinStartLinearSpeed 100.000000
+		ParticleMaxStartLinearSpeed 133.000000
 		ParticleMinStartAngularSpeed 0.000000
 		ParticleMaxStartAngularSpeed 0.000000
 		ParticleMinStartRotation 0.000000
 		ParticleMaxStartRotation 0.000000
 		ParticleStartMass 1.000000
 		ParticleStartColor ffc54ea0
-		ParticleWidth 60.000000
-		ParticleHeight 180.000000
+		ParticleWidth 50.000000
+		ParticleHeight 150.000000
 		MeshName ""
 		Position [ 0.000000 0.000000 0.000000 ]
 		Orientation
@@ -119,8 +119,8 @@ ParticleSimulation
 		ParticleMaxStartRotation 0.000000
 		ParticleStartMass 1.000000
 		ParticleStartColor ff7b2752
-		ParticleWidth 400.000000
-		ParticleHeight 340.000000
+		ParticleWidth 333.000000
+		ParticleHeight 283.000000
 		MeshName ""
 		Position [ 0.000000 0.000000 0.000000 ]
 		Orientation
@@ -182,8 +182,8 @@ ParticleSimulation
 		AffectAttachedParticles TRUE
 		numAttachedEmitters 1
 		attachedEmitterName "ray"
-		WidthInflateRate -60.000000
-		HeightInflateRate -300.000000
+		WidthInflateRate -50.000000
+		HeightInflateRate -250.000000
 	AffectorType "LinearInflate"
 	AffectorContents
 		Name "shrink web"
@@ -199,6 +199,6 @@ ParticleSimulation
 		numAttachedEmitters 2
 		attachedEmitterName "bolt"
 		attachedEmitterName "starter"
-		WidthInflateRate -440.000000
-		HeightInflateRate -440.000000
+		WidthInflateRate -366.000000
+		HeightInflateRate -366.000000
 	length 0.000000

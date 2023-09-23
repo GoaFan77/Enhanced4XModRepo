@@ -70,7 +70,7 @@ Axxo2 - Great Sins fan artist, some of his work is included in the mod.
 
 ---Mods---
 
-Maelstrom - Awesome new planet module meshes
+Maelstrom - Awesome new planet module and strikecraft meshes.
 Infinite Space - Axel's fantastic planet mod.
 Uzi's Sins Plus - Several planet textures and bonuses have been incorporated from it.
 Project Equilibrium - For an awesome set of fun balance changes.
@@ -597,6 +597,7 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 			-Tier 0 planets (Asteroid and Dwarf Planets) now have 4 resource asteroids.
 			-Most Tier 1 planets (Volcanic etc) now have 6 resource asteroids.
 			-Most Tier 2 planets (Ice etc) now have 4 resource asteroids.
+		-Added Antistructure Bombers to TEC/Advent/Vasari. These are strikecraft with unique models that deal antimodule damage. They require antimodule cruiser research to build.
 		-Reduced the number of technologies required to unlock hero units.
 		-Reduced the number of Starbases that can be built at Stars to 2.
 		-Impenetrable Fortress Artifact Bonuses reduced, but now applies bonus to Tactical Structures as well. No longer gives Starbase build time bonus.
