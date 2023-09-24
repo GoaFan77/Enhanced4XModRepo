@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 238
+brushCount 244
 brush
 	name "Planet_E4X_CyberFortressNormal"
 	content "Simple"
@@ -3518,3 +3518,33 @@ brush
 	content "Simple"
 	fileName "E4X_Unit_Main"
 	pixelBox [ 61 , 121 , 28 , 28 ]
+brush
+	name "HUDICONLAUNCH_E4X_TechBomberAntimodule"
+	content "Simple"
+	fileName "HUD_E4X_PairedIcons"
+	pixelBox [ 0 , 0 , 46 , 32 ]
+brush
+	name "HUDICONDOCK_E4X_TechBomberAntimodule"
+	content "Simple"
+	fileName "HUD_E4X_PairedIcons"
+	pixelBox [ 0 , 32 , 46 , 32 ]
+brush
+	name "HUDICONLAUNCH_E4X_PsiBomberAntimodule"
+	content "Simple"
+	fileName "HUD_E4X_PairedIcons"
+	pixelBox [ 51 , 0 , 46 , 32 ]
+brush
+	name "HUDICONDOCK_E4X_PsiBomberAntimodule"
+	content "Simple"
+	fileName "HUD_E4X_PairedIcons"
+	pixelBox [ 51 , 32 , 46 , 32 ]
+brush
+	name "HUDICONLAUNCH_E4X_PhaseBomberAntimodule"
+	content "Simple"
+	fileName "HUD_E4X_PairedIcons"
+	pixelBox [ 102 , 0 , 46 , 32 ]
+brush
+	name "HUDICONDOCK_E4X_PhaseBomberAntimodule"
+	content "Simple"
+	fileName "HUD_E4X_PairedIcons"
+	pixelBox [ 102 , 32 , 46 , 32 ]
