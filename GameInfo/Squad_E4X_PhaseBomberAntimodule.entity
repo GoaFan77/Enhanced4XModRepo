@@ -5,9 +5,9 @@ defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
 prefersToFocusFire TRUE
 usesFighterAttack FALSE
-hudIcon "HUDICON_SQUADPHASEBOMBER"
-smallHudIcon "HUDICONSMALL_SQUADPHASEBOMBER"
-infoCardIcon "INFOCARDICON_SQUADPHASEBOMBER"
+hudIcon "HUDICON_E4X_PhaseBomberAntimodule"
+smallHudIcon "HUDICONSMALL_E4X_PhaseBomberAntimodule"
+infoCardIcon "HUDICONSMALL_E4X_PhaseBomberAntimodule"
 fighterEntityDef "Fighter_E4X_PhaseBomberAntimodule"
 fighterIllusionEntityDef ""
 scuttleTime 15.000000
@@ -16,8 +16,8 @@ decayWithoutOwnerRate 0.010000
 baseMaxNumFighters 3
 role "Bomber"
 statCountType "SquadBomber"
-mainViewIcon "MAINVIEWICON_SQUADPHASEBOMBER"
-picture "PICTURE_SQUADPHASEBOMBER"
+mainViewIcon "HUDICONSMALL_E4X_PhaseBomberAntimodule"
+picture "Picture_E4X_PhaseBomberAntimodule"
 launchIcon "HUDICONLAUNCH_SQUADPHASEBOMBER"
 dockIcon "HUDICONDOCK_SQUADPHASEBOMBER"
 nameStringID "IDS_E4X_SQUADPHASEBOMBERANTIMODULE_NAME"

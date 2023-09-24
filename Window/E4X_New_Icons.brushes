@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 229
+brushCount 238
 brush
 	name "Planet_E4X_CyberFortressNormal"
 	content "Simple"
@@ -2237,6 +2237,60 @@ brush
 		fileName "E4X_Icons_Normal"
 		pixelBox [ 459 , 75 , 47 , 33 ]
 brush
+	name "HUDICON_E4X_PsiBomberAntimodule"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 0 , 480 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 0 , 480 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 0 , 480 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 480 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 0 , 480 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_TechBomberAntimodule"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 51 , 480 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 51 , 480 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 51 , 480 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 480 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 51 , 480 , 47 , 33 ]
+brush
+	name "HUDICON_E4X_PhaseBomberAntimodule"
+	content "States"
+	Disabled
+		fileName "E4X_Icons_Disabled"
+		pixelBox [ 102 , 480 , 47 , 33 ]
+	Pressed
+		fileName "E4X_Icons_Pressed"
+		pixelBox [ 102 , 480 , 47 , 33 ]
+	CursorOver
+		fileName "E4X_Icons_CursorOver"
+		pixelBox [ 102 , 480 , 47 , 33 ]
+	Focused
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 480 , 47 , 33 ]
+	Normal
+		fileName "E4X_Icons_Normal"
+		pixelBox [ 102 , 480 , 47 , 33 ]
+brush
 	name "HUDICON_E4X_UnderworldPact"
 	content "States"
 	Disabled
@@ -2920,6 +2974,21 @@ brush
 	fileName "E4X_Unit_Picture"
 	pixelBox [ 1 , 153 , 167 , 75 ]
 brush
+	name "Picture_E4X_PsiBomberAntimodule"
+	content "Simple"
+	fileName "E4X_Unit_Picture"
+	pixelBox [ 169 , 153 , 167 , 75 ]
+brush
+	name "Picture_E4X_TechBomberAntimodule"
+	content "Simple"
+	fileName "E4X_Unit_Picture"
+	pixelBox [ 337 , 153 , 167 , 75 ]
+brush
+	name "Picture_E4X_PhaseBomberAntimodule"
+	content "Simple"
+	fileName "E4X_Unit_Picture"
+	pixelBox [ 1 , 244 , 167 , 75 ]
+brush
 	name "Artifact_E4X_PictureUnknown"
 	content "Simple"
 	fileName "E4X_New_Artifacts"
@@ -3434,3 +3503,18 @@ brush
 	content "Simple"
 	fileName "E4X_Unit_Main"
 	pixelBox [ 31 , 91 , 28 , 28 ]	
+brush
+	name "HUDICONSMALL_E4X_PsiBomberAntimodule"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 1 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_E4X_TechBomberAntimodule"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 31 , 121 , 28 , 28 ]
+brush
+	name "HUDICONSMALL_E4X_PhaseBomberAntimodule"
+	content "Simple"
+	fileName "E4X_Unit_Main"
+	pixelBox [ 61 , 121 , 28 , 28 ]

@@ -4,9 +4,9 @@ defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
 prefersToFocusFire TRUE
 usesFighterAttack FALSE
-hudIcon "HUDICON_SQUADTECHBOMBER"
-smallHudIcon "HUDICONSMALL_SQUADTECHBOMBER"
-infoCardIcon "INFOCARDICON_SQUADTECHBOMBER"
+hudIcon "HUDICON_E4X_TechBomberAntimodule"
+smallHudIcon "HUDICONSMALL_E4X_TechBomberAntimodule"
+infoCardIcon "HUDICONSMALL_E4X_TechBomberAntimodule"
 fighterEntityDef "Fighter_E4X_TechBomberAntimodule"
 fighterIllusionEntityDef ""
 scuttleTime 12.500000
@@ -15,8 +15,8 @@ decayWithoutOwnerRate 0.010000
 baseMaxNumFighters 4
 role "Bomber"
 statCountType "SquadBomber"
-mainViewIcon "MAINVIEWICON_SQUADTECHBOMBER"
-picture "PICTURE_SQUADTECHBOMBER"
+mainViewIcon "HUDICONSMALL_E4X_TechBomberAntimodule"
+picture "Picture_E4X_TechBomberAntimodule"
 launchIcon "HUDICONLAUNCH_SQUADTECHBOMBER"
 dockIcon "HUDICONDOCK_SQUADTECHBOMBER"
 nameStringID "IDS_E4X_SQUADTECHBOMBERANTIMODULE_NAME"

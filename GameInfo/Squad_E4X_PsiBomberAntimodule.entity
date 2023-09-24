@@ -4,9 +4,9 @@ defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
 prefersToFocusFire TRUE
 usesFighterAttack FALSE
-hudIcon "HUDICON_SQUADPSIBOMBER"
-smallHudIcon "HUDICONSMALL_SQUADPSIBOMBER"
-infoCardIcon "INFOCARDICON_SQUADPSIBOMBER"
+hudIcon "HUDICON_E4X_PsiBomberAntimodule"
+smallHudIcon "HUDICONSMALL_E4X_PsiBomberAntimodule"
+infoCardIcon "HUDICONSMALL_E4X_PsiBomberAntimodule"
 fighterEntityDef "Fighter_E4X_PsiBomberAntimodule"
 fighterIllusionEntityDef "Fighter_E4X_PsiBomberAntimodule"
 scuttleTime 9.000000
@@ -15,8 +15,8 @@ decayWithoutOwnerRate 0.010000
 baseMaxNumFighters 5
 role "Bomber"
 statCountType "SquadBomber"
-mainViewIcon "MAINVIEWICON_SQUADPSIBOMBER"
-picture "PICTURE_SQUADPSIBOMBER"
+mainViewIcon "HUDICONSMALL_E4X_PsiBomberAntimodule"
+picture "Picture_E4X_PsiBomberAntimodule"
 launchIcon "HUDICONLAUNCH_SQUADPSIBOMBER"
 dockIcon "HUDICONDOCK_SQUADPSIBOMBER"
 nameStringID "IDS_E4X_SQUADPSIBOMBERANTIMODULE_NAME"

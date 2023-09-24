@@ -8,9 +8,9 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 0
 numSpecificDebris 0
 armorType "VeryLight"
-hudIcon "HUDICON_SQUADTECHBOMBER"
-smallHudIcon "HUDICONSMALL_SQUADTECHBOMBER"
-infoCardIcon "INFOCARDICON_SQUADTECHBOMBER"
+hudIcon "HUDICON_E4X_TechBomberAntimodule"
+smallHudIcon "HUDICONSMALL_E4X_TechBomberAntimodule"
+infoCardIcon "HUDICONSMALL_E4X_TechBomberAntimodule"
 minZoomDistanceMult 8.000000
 nameStringID "IDS_E4X_FIGHTERTECHBOMBERANTIMODULE_NAME"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_ANTIMODULE"

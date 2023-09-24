@@ -8,9 +8,9 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 0
 numSpecificDebris 0
 armorType "VeryLight"
-hudIcon "HUDICON_SQUADPHASEBOMBER"
-smallHudIcon "HUDICONSMALL_SQUADPHASEBOMBER"
-infoCardIcon "INFOCARDICON_SQUADPHASEBOMBER"
+hudIcon "HUDICON_E4X_PhaseBomberAntimodule"
+smallHudIcon "HUDICONSMALL_E4X_PhaseBomberAntimodule"
+infoCardIcon "HUDICONSMALL_E4X_PhaseBomberAntimodule"
 minZoomDistanceMult 8.000000
 nameStringID "IDS_E4X_FIGHTERPHASEBOMBERANTIMODULE_NAME"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_ANTIMODULE"
