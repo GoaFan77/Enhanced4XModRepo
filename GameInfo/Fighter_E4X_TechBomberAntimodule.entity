@@ -17,12 +17,12 @@ counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_ANTIMODULE"
 statCountType "FighterBomber"
 formationOffsetDistance 50.000000
 mass 150.000000
-maxAccelerationLinear 205.000000
+maxAccelerationLinear 175.000000
 maxAccelerationStrafe 100.000000
 maxDecelerationLinear 1000.000000
 maxAccelerationAngular 49.999992
 maxDecelerationAngular 99.999985
-maxSpeedLinear 1550.000000
+maxSpeedLinear 1300.000000
 maxRollRate 2.000000
 maxRollAngle 35.000000
 NumWeapons 1
@@ -54,27 +54,18 @@ Weapon
 		muzzleEffectName "Weapon_Tech_MissileFighter_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
-			soundCount 2
-			sound "WEAPON_TECHSUPPORTMISSILELIGHT_MUZZLE"
-			sound "WEAPON_TECHSUPPORTMISSILELIGHT_MUZZLE_ALT1"
-		hitEffectName "Weapon_TechFrigatePlanetBombing_Hit"
+			soundCount 3
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT1"
+			sound "WEAPON_TECHCAPITALMISSILEHEAVY_MUZZLE_ALT2"
+		hitEffectName "Weapon_Tech_MissileFrigate_Hit"
 		hitHullEffectSounds
-			soundCount 6
-			sound "EXPLOSION_SUB0"
-			sound "EXPLOSION_SUB1"
-			sound "EXPLOSION_SUB2"
-			sound "EXPLOSION_SUB3"
-			sound "EXPLOSION_SUB4"
-			sound "EXPLOSION_SUB5"
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
 		hitShieldsEffectSounds
-			soundCount 6
-			sound "EXPLOSION_SUB0"
-			sound "EXPLOSION_SUB1"
-			sound "EXPLOSION_SUB2"
-			sound "EXPLOSION_SUB3"
-			sound "EXPLOSION_SUB4"
-			sound "EXPLOSION_SUB5"
-		missileTravelEffectName "Weapon_TechFrigatePlanetBombing_Travel"
+			soundCount 1
+			sound "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+		missileTravelEffectName "Weapon_Tech_MissileFrigate_Travel"
 		missileStartTurningDistance 10.000000
 		missileSlowTurnRate 3.141593
 		missileMaxSlowTurnTime 1.000000
@@ -85,7 +76,7 @@ TargetCountPerBank:BACK 0
 TargetCountPerBank:LEFT 0
 TargetCountPerBank:RIGHT 0
 canOnlyTargetStructures FALSE
-meshName "SupportShip_TechBomber"
+meshName "SupportShip_Bomber_TradeAlliance"
 exhaustParticleSystemName "ExhaustSmall"
 ExplosionName "Fighter0"
 exhaustTrailTextureName "ExhaustTrail"
