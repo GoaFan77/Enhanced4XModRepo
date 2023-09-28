@@ -832,9 +832,9 @@ star
 	planet
 		designName "Planet9"
 		inGameName ""
-		type "Asteroid"
+		type "PirateBase"
 		pos [ 116 , 43 ]
-		owner "Player5"
+		owner ""
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
 		normalStartUpgradeLevelForCivilianModules 0
