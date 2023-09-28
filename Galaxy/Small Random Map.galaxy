@@ -35,12 +35,12 @@ randomizerParams
 		startingCrystal 250	
 		homePlanetType "TerranHome"
 		homePlanetStarRadiusRange
-			minPercentage 1.0
-			maxPercentage 1.1		
+			minPercentage 0.70
+			maxPercentage 0.70		
 		areExtraPlanetsColonized FALSE	
-		extraPlanetsMaxRadius 15
+		extraPlanetsMaxRadius 10
 		extraPlanetsRadiusRange
-			minPercentage 0.9
+			minPercentage 0.75
 			maxPercentage 1.0		
 		extraPlanetGroupCount 3
 		extraPlanetGroup
@@ -57,41 +57,35 @@ randomizerParams
 			minCount 1
 			maxCount 1
 			planetTypeCount 1
-			planetType "RandomIceVolcanic"
+			planetType "RandomMetal"
 starCount 1
 	star
 		type "RandomStar"
 		radius 100
-		connectionStarRadiusRange .75
-		connectionChance .7
+		connectionStarRadiusRange 0.45
+		connectionChance 0.9
 		maxPlayerCount 2
-		ringCount 4
-		ring
-			starRadiusRange
-				minPercentage 0.3
-				maxPercentage 0.5
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "SecretRandomEncounters"
+		ringCount 3
 		ring
 			starRadiusRange
 				minPercentage 0.15
-				maxPercentage 0.25
+				maxPercentage 0.20
 			militiaColonizationPerc 0
-			planetGroupCount 1
+			planetGroupCount 2
 			planetGroup
 				minCount 1
 				maxCount 1
 				planetTypeCount 1
 				planetType "PirateBase"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "SecretRandomEncounters"						
 		ring
 			starRadiusRange
-				minPercentage 0.3
-				maxPercentage 0.7
+				minPercentage 0.25
+				maxPercentage 0.40
 			militiaColonizationPerc 0
 			planetGroupCount 1
 			planetGroup
@@ -101,8 +95,8 @@ starCount 1
 				planetType "WeightedRandom"		
 		ring
 			starRadiusRange
-				minPercentage 0.7
-				maxPercentage 1.0
+				minPercentage 0.45
+				maxPercentage 0.60
 			militiaColonizationPerc 0
 			planetGroupCount 3
 			planetGroup
@@ -119,5 +113,5 @@ starCount 1
 				minCount 3
 				maxCount 3
 				planetTypeCount 1
-				planetType "Asteroid"
+				planetType "AsteroidOrDead"
 dlcID 204880

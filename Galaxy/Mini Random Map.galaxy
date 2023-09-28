@@ -35,30 +35,25 @@ randomizerParams
 		startingCrystal 250
 		homePlanetType "TerranHome"
 		homePlanetStarRadiusRange
-			minPercentage 0.600000
-			maxPercentage 0.700000
+			minPercentage 0.400000
+			maxPercentage 0.400000
 		areExtraPlanetsColonized FALSE
-		extraPlanetsMaxRadius 10.000000
+		extraPlanetsMaxRadius 5.000000
 		extraPlanetsRadiusRange
-			minPercentage 0.800000
-			maxPercentage 0.900000
-		extraPlanetGroupCount 2
+			minPercentage 1.000000
+			maxPercentage 1.000000
+		extraPlanetGroupCount 1
 		extraPlanetGroup
 			minCount 1
 			maxCount 1
 			planetTypeCount 1
 			planetType "Asteroid"
-		extraPlanetGroup
-			minCount 1
-			maxCount 1
-			planetTypeCount 1
-			planetType "Moon"
 	starCount 1
 	star
 		type "RandomStar"
 		radius 100.000000
-		connectionStarRadiusRange 0.800000
-		connectionChance 1.000000
+		connectionStarRadiusRange 0.3500000
+		connectionChance 0.950000
 		maxPlayerCount 2
 		ringCount 3
 		ring
@@ -74,39 +69,34 @@ randomizerParams
 				planetType "PirateBase"
 		ring
 			starRadiusRange
-				minPercentage 0.300000
-				maxPercentage 0.400000
+				minPercentage 0.150000
+				maxPercentage 0.2000000
 			militiaColonizationPerc 0.000000
-			planetGroupCount 3
-			planetGroup
-				minCount 2
-				maxCount 2
-				planetTypeCount 1
-				planetType "WeightedRandom"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomUncolonizableNonMagnetic"
+			planetGroupCount 2
 			planetGroup
 				minCount 3
 				maxCount 3
 				planetTypeCount 1
+				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
 				planetType "RandomTrueNonTerran"
 		ring
-			starRadiusRange
-				minPercentage 0.400000
-				maxPercentage 0.600000
-			militiaColonizationPerc 0.000000
-			planetGroupCount 2
-			planetGroup
+		starRadiusRange
+			minPercentage 0.250000
+			maxPercentage 0.35000
+		militiaColonizationPerc 0
+		planetGroupCount 2
+		planetGroup
+				minCount 4
+				maxCount 4
+				planetTypeCount 1
+				planetType "AsteroidOrMoon"
+		planetGroup
 				minCount 1
 				maxCount 1
 				planetTypeCount 1
-				planetType "Asteroid"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "Moon"
+				planetType "WeightedRandom"
 dlcID 204880

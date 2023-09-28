@@ -35,13 +35,13 @@ randomizerParams
 		startingCrystal 250	
 		homePlanetType "TerranHome"
 		homePlanetStarRadiusRange
-			minPercentage 0.5
-			maxPercentage 0.65		
+			minPercentage 0.3
+			maxPercentage 0.3
 		areExtraPlanetsColonized FALSE	
-		extraPlanetsMaxRadius 15
+		extraPlanetsMaxRadius 5
 		extraPlanetsRadiusRange
-			minPercentage 0.9
-			maxPercentage 1.1		
+			minPercentage 1.0
+			maxPercentage 1.0		
 		extraPlanetGroupCount 1
 		extraPlanetGroup
 			minCount 1
@@ -51,36 +51,85 @@ randomizerParams
 starCount 3
 	star
 		type "RandomStar"
-		radius 65
-		connectionStarRadiusRange .6
-		connectionChance .85
-		maxPlayerCount 1
-		ringCount 2
+		radius 100
+		connectionStarRadiusRange 0.4
+		connectionChance 1.0
+		maxPlayerCount 0
+		ringCount 3
 		ring
 			starRadiusRange
-				minPercentage 0.2
-				maxPercentage 0.4
+				minPercentage 0.100000
+				maxPercentage 0.150000
 			militiaColonizationPerc 0
 			planetGroupCount 1
+			planetGroup
+				minCount 4
+				maxCount 4
+				planetTypeCount 1
+				planetType "RandomTrue"
+		ring
+			starRadiusRange
+				minPercentage 0.20000
+				maxPercentage 0.450000
+			militiaColonizationPerc 0
+			planetGroupCount 3
+			planetGroup
+				minCount 4
+				maxCount 4
+				planetTypeCount 1
+				planetType "AsteroidOrMoon"
+			planetGroup
+				minCount 3
+				maxCount 3
+				planetTypeCount 1
+				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 4
+				maxCount 4
+				planetTypeCount 1
+				planetType "Random"			
+		ring
+			starRadiusRange
+				minPercentage 0.4
+				maxPercentage 0.4
+			militiaColonizationPerc 0
+			planetGroupCount 2
 			planetGroup
 				minCount 1
 				maxCount 1
 				planetTypeCount 1
-				planetType "RandomTrue"				
+				planetType "PirateBase"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "SecretRandomEncounters"	
+	star
+		type "RandomStar"
+		radius 100
+		connectionStarRadiusRange 0.4
+		connectionChance 0.9
+		maxPlayerCount 1
+		ringCount 1				
 		ring
 			starRadiusRange
-				minPercentage 0.4
-				maxPercentage 0.8
+				minPercentage 0.100000
+				maxPercentage 0.22500000
 			militiaColonizationPerc 0
-			planetGroupCount 4
+			planetGroupCount 5
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomTrue"	
 			planetGroup
 				minCount 2
 				maxCount 2
 				planetTypeCount 1
 				planetType "Asteroid"
 			planetGroup
-				minCount 2
-				maxCount 2
+				minCount 1
+				maxCount 1
 				planetTypeCount 1
 				planetType "RandomUncolonizableNonMagnetic"
 			planetGroup
@@ -96,90 +145,29 @@ starCount 3
 	star
 		type "RandomStar"
 		radius 100
-		connectionStarRadiusRange .75
-		connectionChance .7		
-		maxPlayerCount 0
-		ringCount 3
-		ring
-			starRadiusRange
-				minPercentage 0.2
-				maxPercentage 0.3
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "PirateBase"
-		ring
-			starRadiusRange
-				minPercentage 0.3
-				maxPercentage 0.5
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "SecretRandomEncounters"				
-		ring
-			starRadiusRange
-				minPercentage 0.3
-				maxPercentage 1.0
-			militiaColonizationPerc 0
-			planetGroupCount 4
-			planetGroup
-				minCount 3
-				maxCount 4
-				planetTypeCount 1
-				planetType "RandomTrue"
-			planetGroup
-				minCount 3
-				maxCount 4
-				planetTypeCount 1
-				planetType "AsteroidOrMoon"
-			planetGroup
-				minCount 2
-				maxCount 3
-				planetTypeCount 1
-				planetType "RandomUncolonizableNonMagnetic"
-			planetGroup
-				minCount 2
-				maxCount 3
-				planetTypeCount 1
-				planetType "Random"
-	star
-		type "RandomStar"
-		radius 65
-		connectionStarRadiusRange .6
-		connectionChance .85
+		connectionStarRadiusRange 0.4
+		connectionChance 0.9
 		maxPlayerCount 1
-		ringCount 2
+		ringCount 1				
 		ring
 			starRadiusRange
-				minPercentage 0.2
-				maxPercentage 0.4
+				minPercentage 0.100000
+				maxPercentage 0.2250000
 			militiaColonizationPerc 0
-			planetGroupCount 1
+			planetGroupCount 5
 			planetGroup
 				minCount 1
 				maxCount 1
 				planetTypeCount 1
-				planetType "RandomTrue"				
-		ring
-			starRadiusRange
-				minPercentage 0.4
-				maxPercentage 0.8
-			militiaColonizationPerc 0
-			planetGroupCount 4
+				planetType "RandomTrue"	
 			planetGroup
 				minCount 2
 				maxCount 2
 				planetTypeCount 1
 				planetType "Asteroid"
 			planetGroup
-				minCount 2
-				maxCount 2
+				minCount 1
+				maxCount 1
 				planetTypeCount 1
 				planetType "RandomUncolonizableNonMagnetic"
 			planetGroup
@@ -191,5 +179,5 @@ starCount 3
 				minCount 1
 				maxCount 1
 				planetTypeCount 1
-				planetType "RandomMetal"	
+				planetType "RandomMetal"			
 dlcID 204880
