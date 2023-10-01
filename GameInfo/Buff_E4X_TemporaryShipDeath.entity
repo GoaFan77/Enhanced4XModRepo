@@ -7,10 +7,24 @@ allowFirstSpawnerToStack FALSE
 buffExclusivityForAIType "ExclusiveForAllPlayers"
 isInterruptable FALSE
 isChannelling FALSE
-numInstantActions 1
+numInstantActions 2
 instantAction
 	buffInstantActionType "MakeDead"
 	instantActionTriggerType "OnBuffFinish"
+instantAction
+	buffInstantActionType "ApplyBuffToSelfWithFilter"
+	instantActionTriggerType "OnDelay"
+	delayTime 15.000000
+	buffType "Buff_E4X_ReserveSquadrons"
+	targetFilter
+		numOwnerships 1
+		ownership "Player"
+		numObjects 1
+		object "Frigate"
+		numSpaces 1
+		space "Normal"
+		numConstraints 1
+		constraint "CanHaveFighters"	
 numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0
