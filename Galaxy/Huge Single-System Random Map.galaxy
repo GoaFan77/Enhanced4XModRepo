@@ -35,8 +35,8 @@ randomizerParams
 		startingCrystal 250	
 		homePlanetType "TerranHome"
 		homePlanetStarRadiusRange
-			minPercentage 1.0
-			maxPercentage 1.0		
+			minPercentage 0.95
+			maxPercentage 0.95		
 		areExtraPlanetsColonized FALSE	
 		extraPlanetsMaxRadius 15
 		extraPlanetsRadiusRange
@@ -66,17 +66,17 @@ randomizerParams
 starCount 1
 	star
 		type "RandomStar"
-		radius 200
-		connectionStarRadiusRange 0.40
-		connectionChance 0.9
+		radius 150
+		connectionStarRadiusRange 0.325
+		connectionChance 0.975
 		maxPlayerCount 10
 		ringCount 5
 		ring
 			starRadiusRange
-				minPercentage 0.15
-				maxPercentage 0.2
+				minPercentage 0.10
+				maxPercentage 0.15
 			militiaColonizationPerc 0
-			planetGroupCount 2
+			planetGroupCount 3
 			planetGroup
 				minCount 1
 				maxCount 1
@@ -86,11 +86,16 @@ starCount 1
 				minCount 1
 				maxCount 1
 				planetTypeCount 1
-				planetType "PirateBase"			
+				planetType "PirateBase"	
+			planetGroup
+				minCount 3
+				maxCount 3
+				planetTypeCount 1
+				planetType "WeightedRandom"						
 		ring
 			starRadiusRange
-				minPercentage 0.25
-				maxPercentage 0.45
+				minPercentage 0.20
+				maxPercentage 0.40
 			militiaColonizationPerc 0
 			planetGroupCount 1
 			planetGroup
@@ -100,24 +105,24 @@ starCount 1
 				planetType "Random"
 		ring
 			starRadiusRange
-				minPercentage 0.50
-				maxPercentage 0.70
+				minPercentage 0.45
+				maxPercentage 0.65
 			militiaColonizationPerc 0
 			planetGroupCount 1
 			planetGroup
-				minCount 20
-				maxCount 20
+				minCount 18
+				maxCount 18
 				planetTypeCount 1
 				planetType "WeightedRandom"		
 		ring
 			starRadiusRange
-				minPercentage 0.75
-				maxPercentage 0.9
+				minPercentage 0.70
+				maxPercentage 0.85
 			militiaColonizationPerc 0
 			planetGroupCount 1
 			planetGroup
-				minCount 20
-				maxCount 20
+				minCount 23
+				maxCount 23
 				planetTypeCount 1
 				planetType "WeightedRandom"						
 		ring
