@@ -116,7 +116,7 @@ starCount 7
 				planetTypeCount 1
 				planetType "SecretRandomEncounters"	
 	star
-		type "RandomStar"
+		type "RandomStandardStar"
 		radius 100
 		connectionStarRadiusRange 0.45
 		connectionChance 0.95
@@ -154,7 +154,7 @@ starCount 7
 				planetTypeCount 1
 				planetType "RandomMetal"	
 	star
-		type "RandomStar"
+		type "RandomStandardStar"
 		radius 100
 		connectionStarRadiusRange 0.45
 		connectionChance 0.95
@@ -192,7 +192,7 @@ starCount 7
 				planetTypeCount 1
 				planetType "RandomMetal"	
 	star
-		type "RandomStar"
+		type "RandomStandardStar"
 		radius 100
 		connectionStarRadiusRange 0.45
 		connectionChance 0.95
@@ -230,7 +230,7 @@ starCount 7
 				planetTypeCount 1
 				planetType "RandomMetal"	
 	star
-		type "RandomStar"
+		type "RandomStandardStar"
 		radius 100
 		connectionStarRadiusRange 0.45
 		connectionChance 0.95
@@ -268,7 +268,7 @@ starCount 7
 				planetTypeCount 1
 				planetType "RandomMetal"	
 	star
-		type "RandomStar"
+		type "RandomStandardStar"
 		radius 100
 		connectionStarRadiusRange 0.45
 		connectionChance 0.95
@@ -306,7 +306,7 @@ starCount 7
 				planetTypeCount 1
 				planetType "RandomMetal"	
 	star
-		type "RandomStar"
+		type "RandomStandardStar"
 		radius 100
 		connectionStarRadiusRange 0.45
 		connectionChance 0.95

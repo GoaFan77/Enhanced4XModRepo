@@ -55,18 +55,23 @@ star
 		connectionStarRadiusRange 0.4
 		connectionChance 1.0
 		maxPlayerCount 0
-		ringCount 4
+		ringCount 5
 		ring
 			starRadiusRange
 				minPercentage 0.100000
 				maxPercentage 0.200000
 			militiaColonizationPerc 0
-			planetGroupCount 1
+			planetGroupCount 2
 			planetGroup
-				minCount 7
-				maxCount 7
+				minCount 3
+				maxCount 3
 				planetTypeCount 1
 				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 3
+				maxCount 3
+				planetTypeCount 1
+				planetType "AsteroidOrDead"
 		ring
 			starRadiusRange
 				minPercentage 0.250000
@@ -85,20 +90,31 @@ star
 			militiaColonizationPerc 0
 			planetGroupCount 3
 			planetGroup
-				minCount 5
-				maxCount 5
+				minCount 3
+				maxCount 3
 				planetTypeCount 1
-				planetType "AsteroidOrMoon"
+				planetType "RandomTier3"
 			planetGroup
 				minCount 4
 				maxCount 4
 				planetTypeCount 1
 				planetType "RandomUncolonizableNonMagnetic"
 			planetGroup
-				minCount 12
-				maxCount 12
+				minCount 14
+				maxCount 14
 				planetTypeCount 1
-				planetType "WeightedRandom"			
+				planetType "WeightedRandom"		
+		ring
+			starRadiusRange
+				minPercentage 0.3
+				maxPercentage 0.7
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "Wormhole"
 		ring
 			starRadiusRange
 				minPercentage 0.75
@@ -116,10 +132,48 @@ star
 				planetTypeCount 1
 				planetType "SecretRandomEncounters"	
 star
-		type "RandomStar"
+		type "RandomStandardStar"
 		radius 100
 		connectionStarRadiusRange 0.45
-		connectionChance 0.95
+		connectionChance 1.0
+		maxPlayerCount 1
+		ringCount 1				
+		ring
+			starRadiusRange
+				minPercentage 0.100000
+				maxPercentage 0.22500000
+			militiaColonizationPerc 0
+			planetGroupCount 5
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomTrue"	
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "Asteroid"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomCrystal"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomMetal"
+star
+		type "RandomStandardStar"
+		radius 100
+		connectionStarRadiusRange 0.45
+		connectionChance 1.0
 		maxPlayerCount 1
 		ringCount 1				
 		ring
@@ -154,10 +208,124 @@ star
 				planetTypeCount 1
 				planetType "RandomMetal"	
 star
-		type "RandomStar"
+		type "RandomStandardStar"
 		radius 100
 		connectionStarRadiusRange 0.45
-		connectionChance 0.95
+		connectionChance 1.0
+		maxPlayerCount 1
+		ringCount 1				
+		ring
+			starRadiusRange
+				minPercentage 0.100000
+				maxPercentage 0.22500000
+			militiaColonizationPerc 0
+			planetGroupCount 5
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomTrue"	
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "Asteroid"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomCrystal"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomMetal"
+star
+		type "RandomStandardStar"
+		radius 100
+		connectionStarRadiusRange 0.45
+		connectionChance 1.0
+		maxPlayerCount 1
+		ringCount 1				
+		ring
+			starRadiusRange
+				minPercentage 0.100000
+				maxPercentage 0.22500000
+			militiaColonizationPerc 0
+			planetGroupCount 5
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomTrue"	
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "Asteroid"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomCrystal"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomMetal"
+star
+		type "RandomStandardStar"
+		radius 100
+		connectionStarRadiusRange 0.45
+		connectionChance 1.0
+		maxPlayerCount 1
+		ringCount 1				
+		ring
+			starRadiusRange
+				minPercentage 0.100000
+				maxPercentage 0.22500000
+			militiaColonizationPerc 0
+			planetGroupCount 5
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomTrue"	
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "Asteroid"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomCrystal"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomMetal"
+star
+		type "RandomStandardStar"
+		radius 100
+		connectionStarRadiusRange 0.45
+		connectionChance 1.0
 		maxPlayerCount 1
 		ringCount 1				
 		ring
@@ -192,10 +360,48 @@ star
 				planetTypeCount 1
 				planetType "RandomMetal"	
 star
-		type "RandomStar"
+		type "RandomStandardStar"
 		radius 100
 		connectionStarRadiusRange 0.45
-		connectionChance 0.95
+		connectionChance 1.0
+		maxPlayerCount 1
+		ringCount 1				
+		ring
+			starRadiusRange
+				minPercentage 0.100000
+				maxPercentage 0.22500000
+			militiaColonizationPerc 0
+			planetGroupCount 5
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomTrue"	
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "Asteroid"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomUncolonizableNonMagnetic"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomCrystal"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "RandomMetal"
+star
+		type "RandomStandardStar"
+		radius 100
+		connectionStarRadiusRange 0.45
+		connectionChance 1.0
 		maxPlayerCount 1
 		ringCount 1				
 		ring
@@ -230,10 +436,10 @@ star
 				planetTypeCount 1
 				planetType "RandomMetal"	
 star
-		type "RandomStar"
+		type "RandomStandardStar"
 		radius 100
 		connectionStarRadiusRange 0.45
-		connectionChance 0.95
+		connectionChance 1.0
 		maxPlayerCount 1
 		ringCount 1				
 		ring
@@ -266,12 +472,12 @@ star
 				minCount 1
 				maxCount 1
 				planetTypeCount 1
-				planetType "RandomMetal"	
+				planetType "RandomMetal"
 star
-		type "RandomStar"
+		type "RandomStandardStar"
 		radius 100
 		connectionStarRadiusRange 0.45
-		connectionChance 0.95
+		connectionChance 1.0
 		maxPlayerCount 1
 		ringCount 1				
 		ring
@@ -304,195 +510,5 @@ star
 				minCount 1
 				maxCount 1
 				planetTypeCount 1
-				planetType "RandomMetal"	
-star
-		type "RandomStar"
-		radius 100
-		connectionStarRadiusRange 0.45
-		connectionChance 0.95
-		maxPlayerCount 1
-		ringCount 1				
-		ring
-			starRadiusRange
-				minPercentage 0.100000
-				maxPercentage 0.22500000
-			militiaColonizationPerc 0
-			planetGroupCount 5
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomTrue"	
-			planetGroup
-				minCount 2
-				maxCount 2
-				planetTypeCount 1
-				planetType "Asteroid"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomUncolonizableNonMagnetic"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomCrystal"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomMetal"	
-star
-		type "RandomStar"
-		radius 100
-		connectionStarRadiusRange 0.45
-		connectionChance 0.95
-		maxPlayerCount 1
-		ringCount 1				
-		ring
-			starRadiusRange
-				minPercentage 0.100000
-				maxPercentage 0.22500000
-			militiaColonizationPerc 0
-			planetGroupCount 5
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomTrue"	
-			planetGroup
-				minCount 2
-				maxCount 2
-				planetTypeCount 1
-				planetType "Asteroid"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomUncolonizableNonMagnetic"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomCrystal"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomMetal"	
-star
-		type "RandomStar"
-		radius 100
-		connectionStarRadiusRange 0.45
-		connectionChance 0.95
-		maxPlayerCount 1
-		ringCount 1				
-		ring
-			starRadiusRange
-				minPercentage 0.100000
-				maxPercentage 0.22500000
-			militiaColonizationPerc 0
-			planetGroupCount 5
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomTrue"	
-			planetGroup
-				minCount 2
-				maxCount 2
-				planetTypeCount 1
-				planetType "Asteroid"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomUncolonizableNonMagnetic"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomCrystal"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomMetal"	
-star
-		type "RandomStar"
-		radius 100
-		connectionStarRadiusRange 0.45
-		connectionChance 0.95
-		maxPlayerCount 1
-		ringCount 1				
-		ring
-			starRadiusRange
-				minPercentage 0.100000
-				maxPercentage 0.22500000
-			militiaColonizationPerc 0
-			planetGroupCount 5
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomTrue"	
-			planetGroup
-				minCount 2
-				maxCount 2
-				planetTypeCount 1
-				planetType "Asteroid"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomUncolonizableNonMagnetic"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomCrystal"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomMetal"	
-star
-		type "RandomStar"
-		radius 100
-		connectionStarRadiusRange 0.45
-		connectionChance 0.95
-		maxPlayerCount 1
-		ringCount 1				
-		ring
-			starRadiusRange
-				minPercentage 0.100000
-				maxPercentage 0.22500000
-			militiaColonizationPerc 0
-			planetGroupCount 5
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomTrue"	
-			planetGroup
-				minCount 2
-				maxCount 2
-				planetTypeCount 1
-				planetType "Asteroid"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomUncolonizableNonMagnetic"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomCrystal"
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "RandomMetal"	
+				planetType "RandomMetal"
 dlcID 204880

@@ -35,12 +35,12 @@ randomizerParams
 		startingCrystal 250
 		homePlanetType "TerranHome"
 		homePlanetStarRadiusRange
-			minPercentage 0.900000
-			maxPercentage 0.950000
+			minPercentage 1.000000
+			maxPercentage 1.000000
 		areExtraPlanetsColonized FALSE
-		extraPlanetsMaxRadius 6.000000
+		extraPlanetsMaxRadius 7.500000
 		extraPlanetsRadiusRange
-			minPercentage 0.900000
+			minPercentage 0.800000
 			maxPercentage 1.000000
 		extraPlanetGroupCount 3
 		extraPlanetGroup
@@ -57,78 +57,64 @@ randomizerParams
 			minCount 1
 			maxCount 1
 			planetTypeCount 1
-			planetType "VolcanicFair"
+			planetType "RandomIceVolcanicFair"
 	starCount 1
 	star
 		type "RandomStar"
-		radius 110.000000
-		connectionStarRadiusRange 0.490000
-		connectionChance 0.850000
+		radius 130.000000
+		connectionStarRadiusRange 0.400000
+		connectionChance 1.0
 		maxPlayerCount 10
-		ringCount 3
+		ringCount 4
 		ring
 			starRadiusRange
-				minPercentage 0.4550000
-				maxPercentage 0.490000
+				minPercentage 0.400000
+				maxPercentage 0.400000
 			militiaColonizationPerc 0.000000
-			planetGroupCount 1
+			planetGroupCount 3
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "PirateBase"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "SecretRandomEncounters"		
 			planetGroup
 				minCount 2
 				maxCount 2
 				planetTypeCount 1
 				planetType "PirateBase"
 		ring
-			starRadiusRange
-				minPercentage 0.5
-				maxPercentage 0.6
-			militiaColonizationPerc 0
+		starRadiusRange
+				minPercentage 0.600000
+				maxPercentage 0.725000
+			militiaColonizationPerc 0.000000
 			planetGroupCount 1
 			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "SecretRandomEncounters"				
-		ring
-			starRadiusRange
-				minPercentage 0.500000
-				maxPercentage 0.900000
-			militiaColonizationPerc 0.000000
-			planetGroupCount 8
-			planetGroup
-				minCount 7
-				maxCount 7
-				planetTypeCount 1
-				planetType "AsteroidFair"
-			planetGroup
-				minCount 5
-				maxCount 5
-				planetTypeCount 1
-				planetType "MoonFair"
-			planetGroup
-				minCount 4
-				maxCount 4
-				planetTypeCount 1
-				planetType "AsteroidOrDeadFair"
-			planetGroup
-				minCount 9
-				maxCount 10
-				planetTypeCount 1
-				planetType "RandomTrueFair"
-			planetGroup
-				minCount 7
-				maxCount 8
-				planetTypeCount 1
-				planetType "RandomUncolonizableNonMagneticFair"
-			planetGroup
-				minCount 9
-				maxCount 10
+				minCount 26
+				maxCount 26
 				planetTypeCount 1
 				planetType "WeightedRandomFair"
+		ring
+			starRadiusRange
+				minPercentage 0.7750000
+				maxPercentage 0.900000
+			militiaColonizationPerc 0.000000
+			planetGroupCount 1
 			planetGroup
-				minCount 8
-				maxCount 8
+				minCount 32
+				maxCount 32
 				planetTypeCount 1
-				planetType "RandomFair"
+				planetType "WeightedRandomFair"
+		ring
+			starRadiusRange
+				minPercentage 0.600000
+				maxPercentage 0.900000
+			militiaColonizationPerc 0.000000
+			planetGroupCount 1
 			planetGroup
 				minCount 5
 				maxCount 5

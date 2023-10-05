@@ -36,9 +36,9 @@ randomizerParams
 		homePlanetType "TerranHome"
 		homePlanetStarRadiusRange
 			minPercentage 0.95
-			maxPercentage 0.95		
+			maxPercentage 0.95	
 		areExtraPlanetsColonized FALSE	
-		extraPlanetsMaxRadius 15
+		extraPlanetsMaxRadius 10
 		extraPlanetsRadiusRange
 			minPercentage 0.75
 			maxPercentage 1.0		
@@ -86,12 +86,12 @@ starCount 1
 				minCount 1
 				maxCount 1
 				planetTypeCount 1
-				planetType "PirateBase"	
+				planetType "PirateBase"		
 			planetGroup
 				minCount 3
 				maxCount 3
 				planetTypeCount 1
-				planetType "WeightedRandom"						
+				planetType "WeightedRandom"				
 		ring
 			starRadiusRange
 				minPercentage 0.20
@@ -128,7 +128,7 @@ starCount 1
 		ring
 			starRadiusRange
 				minPercentage 0.2
-				maxPercentage 0.9
+				maxPercentage 0.85
 			militiaColonizationPerc 0
 			planetGroupCount 1
 			planetGroup

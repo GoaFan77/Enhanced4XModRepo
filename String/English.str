@@ -1,5 +1,5 @@
 TXT
-NumStrings 8616
+NumStrings 8622
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PACT_ENERGY_WEAPON_COOLDOWN_NAME"
 	Value "Munitions Pact"
@@ -1732,6 +1732,9 @@ StringInfo
 	ID "IDSGalaxyScenarioTypeRandomCrystal"
 	Value "Random - Crystal Resource Planet"
 StringInfo
+	ID "IDSGalaxyScenarioTypeRandomCrystalFair"
+	Value "Random - Fair Crystal Resource Planet"
+StringInfo
 	ID "IDSGalaxyScenarioTypeRandomExtra"
 	Value "Random - E4X Planet"
 StringInfo
@@ -1741,17 +1744,32 @@ StringInfo
 	ID "IDSGalaxyScenarioTypeRandomMetal"
 	Value "Random - Metal Resource Planet"
 StringInfo
+	ID "IDSGalaxyScenarioTypeRandomMetalFair"
+	Value "Random - Fair Metal Resource Planet"
+StringInfo
 	ID "IDSGalaxyScenarioTypeRandomMixed"
 	Value "Random - Mixed Resource Planet"
 StringInfo
 	ID "IDSGalaxyScenarioTypeRandomTier0"
 	Value "Random - Low Population Planet"
 StringInfo
+	ID "IDSGalaxyScenarioTypeRandomTier0Fair"
+	Value "Random - Fair Low Population Planet"
+StringInfo
 	ID "IDSGalaxyScenarioTypeRandomTier1"
 	Value "Random - Mid Population Planet"
 StringInfo
+	ID "IDSGalaxyScenarioTypeRandomTier1Fair"
+	Value "Random - Fair Mid Population Planet"
+StringInfo
 	ID "IDSGalaxyScenarioTypeRandomTier2"
 	Value "Random - High Population Planet"
+StringInfo
+	ID "IDSGalaxyScenarioTypeRandomTier2Fair"
+	Value "Random - Fair High Population Planet"
+StringInfo
+	ID "IDSGalaxyScenarioTypeRandomTier3Fair"
+	Value "Random - Fair Very High Population Planet"
 StringInfo
 	ID "IDSGalaxyScenarioTypeRandomTier3"
 	Value "Random - Very High Population Planet"

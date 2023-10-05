@@ -81,7 +81,7 @@ starType
 	designStringId "IDSGalaxyScenarioTypeStarPulsar"
 	orbitBodyTypeCount 1
 	orbitBodyType "PulsarStar"
-planetTypeCount 103
+planetTypeCount 109
 planetType
 	designName "WeightedNonIce"
 	designStringId "IDSGalaxyScenarioTypePlanetWeightedNonIce"
@@ -715,6 +715,16 @@ planetType
 	orbitBodyType "Cyro"
 	orbitBodyType "Oceanic"	
 planetType
+	designName "RandomCrystalFair"
+	designStringId "IDSGalaxyScenarioTypeRandomCrystalFair"
+	orbitBodyTypeCount 6
+	orbitBodyType "IceFair"	
+	orbitBodyType "CyroFair"
+	orbitBodyType "OceanicFair"
+	orbitBodyType "IceFair"	
+	orbitBodyType "CyroFair"
+	orbitBodyType "OceanicFair"	
+planetType
 	designName "RandomMetal"
 	designStringId "IDSGalaxyScenarioTypeRandomMetal"
 	orbitBodyTypeCount 8
@@ -726,6 +736,18 @@ planetType
 	orbitBodyType "Desert"
 	orbitBodyType "Ferrus"
 	orbitBodyType "Greenhouse"
+planetType
+	designName "RandomMetalFair"
+	designStringId "IDSGalaxyScenarioTypeRandomMetalFair"
+	orbitBodyTypeCount 8
+	orbitBodyType "VolcanicFair"	
+	orbitBodyType "DesolateFair"
+	orbitBodyType "DesertFair"
+	orbitBodyType "VolcanicFair"	
+	orbitBodyType "DesolateFair"
+	orbitBodyType "DesertFair"
+	orbitBodyType "FerrusFair"
+	orbitBodyType "GreenhouseFair"
 planetType
 	designName "RandomMixed"
 	designStringId "IDSGalaxyScenarioTypeRandomMixed"
@@ -779,6 +801,13 @@ planetType
 	orbitBodyType "DeadAsteroid"	
 	orbitBodyType "Moon"
 planetType
+	designName "RandomTier0Fair"
+	designStringId "IDSGalaxyScenarioTypeRandomTier0Fair"
+	orbitBodyTypeCount 3
+	orbitBodyType "AsteroidFair"
+	orbitBodyType "DeadAsteroidFair"	
+	orbitBodyType "MoonFair"
+planetType
 	designName "RandomTier1"
 	designStringId "IDSGalaxyScenarioTypeRandomTier1"
 	orbitBodyTypeCount 12
@@ -793,7 +822,23 @@ planetType
 	orbitBodyType "Ferrus"
 	orbitBodyType "Alpine"
 	orbitBodyType "Toxic"
-	orbitBodyType "ColonizeableGasGiant"	
+	orbitBodyType "ColonizeableGasGiant"
+planetType
+	designName "RandomTier1Fair"
+	designStringId "IDSGalaxyScenarioTypeRandomTier1Fair"
+	orbitBodyTypeCount 12
+	orbitBodyType "VolcanicFair"	
+	orbitBodyType "CyroFair"
+	orbitBodyType "IgneousFair"
+	orbitBodyType "GreenhouseFair"
+	orbitBodyType "VolcanicFair"	
+	orbitBodyType "CyroFair"
+	orbitBodyType "IgneousFair"
+	orbitBodyType "GreenhouseFair"
+	orbitBodyType "FerrusFair"
+	orbitBodyType "AlpineFair"
+	orbitBodyType "ToxicFair"
+	orbitBodyType "ColonizeableGasGiantFair"	
 planetType
 	designName "RandomTier2"
 	designStringId "IDSGalaxyScenarioTypeRandomTier2"
@@ -804,6 +849,15 @@ planetType
 	orbitBodyType "Agricultural"
 	orbitBodyType "Hydrocarbon"
 planetType
+	designName "RandomTier2Fair"
+	designStringId "IDSGalaxyScenarioTypeRandomTier2Fair"
+	orbitBodyTypeCount 5
+	orbitBodyType "IceFair"	
+	orbitBodyType "SwampFair"
+	orbitBodyType "DesolateFair"
+	orbitBodyType "AgriculturalFair"
+	orbitBodyType "HydrocarbonFair"
+planetType
 	designName "RandomTier3"
 	designStringId "IDSGalaxyScenarioTypeRandomTier3"
 	orbitBodyTypeCount 5
@@ -811,7 +865,16 @@ planetType
 	orbitBodyType "Oceanic"
 	orbitBodyType "Terran"
 	orbitBodyType "Industrial"
-	orbitBodyType "Urban"		
+	orbitBodyType "Urban"	
+planetType
+	designName "RandomTier3Fair"
+	designStringId "IDSGalaxyScenarioTypeRandomTier3Fair"
+	orbitBodyTypeCount 5
+	orbitBodyType "DesertFair"	
+	orbitBodyType "OceanicFair"
+	orbitBodyType "TerranFair"
+	orbitBodyType "IndustrialFair"
+	orbitBodyType "UrbanFair"	
 planetType
 	designName "SecretRandomEncounters"
 	designStringId "IDSGalaxyScenarioTypeSecretRandomEncounters"

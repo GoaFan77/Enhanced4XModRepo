@@ -35,12 +35,12 @@ randomizerParams
 		startingCrystal 250	
 		homePlanetType "TerranHome"
 		homePlanetStarRadiusRange
-			minPercentage 1
-			maxPercentage 1.1		
+			minPercentage 0.775
+			maxPercentage 0.775
 		areExtraPlanetsColonized FALSE	
-		extraPlanetsMaxRadius 15
+		extraPlanetsMaxRadius 10
 		extraPlanetsRadiusRange
-			minPercentage 0.9
+			minPercentage 0.75
 			maxPercentage 1.0		
 		extraPlanetGroupCount 3
 		extraPlanetGroup
@@ -57,143 +57,19 @@ randomizerParams
 			minCount 1
 			maxCount 1
 			planetTypeCount 1
-			planetType "VolcanicFair"
+			planetType "RandomIceVolcanicFair"
 starCount 3
 	star
 		type "RandomStar"
 		radius 100
-		connectionStarRadiusRange .75
-		connectionChance .7	
-		maxPlayerCount 4
-		ringCount 4
-		ring
-			starRadiusRange
-				minPercentage 0.2
-				maxPercentage 0.3
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "PirateBase"				
-		ring
-			starRadiusRange
-				minPercentage 0.3
-				maxPercentage 0.7
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 6
-				maxCount 6
-				planetTypeCount 1
-				planetType "WeightedRandomFair"
-		ring
-			starRadiusRange
-				minPercentage 0.7
-				maxPercentage 1.0
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 10
-				maxCount 10
-				planetTypeCount 1
-				planetType "WeightedRandomFair"		
-		ring
-			starRadiusRange
-				minPercentage 0.3
-				maxPercentage 1.0
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "Wormhole"						
-	star
-		type "RandomStar"
-		radius 100
-		connectionStarRadiusRange .75
-		connectionChance .7		
-		maxPlayerCount 4
-		ringCount 4
-		ring
-			starRadiusRange
-				minPercentage 0.2
-				maxPercentage 0.3
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "PirateBase"				
-		ring
-			starRadiusRange
-				minPercentage 0.3
-				maxPercentage 0.7
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 6
-				maxCount 6
-				planetTypeCount 1
-				planetType "WeightedRandomFair"
-		ring
-			starRadiusRange
-				minPercentage 0.7
-				maxPercentage 1.0
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 10
-				maxCount 10
-				planetTypeCount 1
-				planetType "WeightedRandomFair"		
-		ring
-			starRadiusRange
-				minPercentage 0.3
-				maxPercentage 1.0
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "Wormhole"
-	star
-		type "RandomStar"
-		radius 100
-		connectionStarRadiusRange .75
-		connectionChance .7		
+		connectionStarRadiusRange 0.4
+		connectionChance 0.975	
 		maxPlayerCount 0
-		ringCount 4
+		ringCount 4	
 		ring
 			starRadiusRange
 				minPercentage 0.2
-				maxPercentage 0.3
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "PirateBase"
-		ring
-			starRadiusRange
-				minPercentage 0.3
-				maxPercentage 0.5
-			militiaColonizationPerc 0
-			planetGroupCount 1
-			planetGroup
-				minCount 1
-				maxCount 1
-				planetTypeCount 1
-				planetType "SecretRandomEncounters"							
-		ring
-			starRadiusRange
-				minPercentage 0.3
-				maxPercentage 0.7
+				maxPercentage 0.35
 			militiaColonizationPerc 0
 			planetGroupCount 1
 			planetGroup
@@ -203,13 +79,152 @@ starCount 3
 				planetType "WeightedRandomFair"
 		ring
 			starRadiusRange
-				minPercentage 0.7
-				maxPercentage 1.0
+				minPercentage 0.4
+				maxPercentage 0.6
 			militiaColonizationPerc 0
 			planetGroupCount 1
 			planetGroup
 				minCount 8
 				maxCount 8
 				planetTypeCount 1
-				planetType "WeightedRandomFair"				
+				planetType "WeightedRandomFair"
+		ring
+			starRadiusRange
+				minPercentage 0.3
+				maxPercentage 0.65
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "Wormhole"
+		ring
+			starRadiusRange
+				minPercentage 0.7
+				maxPercentage 0.7
+			militiaColonizationPerc 0
+			planetGroupCount 2
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "PirateBase"
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "SecretRandomEncounters"					
+	star
+		type "RandomStandardStar"
+		radius 100
+		connectionStarRadiusRange 0.4
+		connectionChance 0.975
+		maxPlayerCount 4
+		ringCount 4
+		ring
+			starRadiusRange
+				minPercentage 0.15
+				maxPercentage 0.2
+			militiaColonizationPerc 0
+			planetGroupCount 2
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "PirateBase"	
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "RandomTier3Fair"	
+		ring
+			starRadiusRange
+				minPercentage 0.3
+				maxPercentage 0.4
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 8
+				maxCount 8
+				planetTypeCount 1
+				planetType "WeightedRandomFair"
+		ring
+			starRadiusRange
+				minPercentage 0.5
+				maxPercentage 0.65
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 12
+				maxCount 12
+				planetTypeCount 1
+				planetType "WeightedRandomFair"		
+		ring
+			starRadiusRange
+				minPercentage 0.3
+				maxPercentage 0.65
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "Wormhole"						
+	star
+		type "RandomStandardStar"
+		radius 100
+		connectionStarRadiusRange 0.4
+		connectionChance 0.975
+		maxPlayerCount 4
+		ringCount 4
+		ring
+			starRadiusRange
+				minPercentage 0.15
+				maxPercentage 0.2
+			militiaColonizationPerc 0
+			planetGroupCount 2
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "PirateBase"	
+			planetGroup
+				minCount 2
+				maxCount 2
+				planetTypeCount 1
+				planetType "RandomTier3Fair"	
+		ring
+			starRadiusRange
+				minPercentage 0.3
+				maxPercentage 0.4
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 8
+				maxCount 8
+				planetTypeCount 1
+				planetType "WeightedRandomFair"
+		ring
+			starRadiusRange
+				minPercentage 0.5
+				maxPercentage 0.65
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 12
+				maxCount 12
+				planetTypeCount 1
+				planetType "WeightedRandomFair"		
+		ring
+			starRadiusRange
+				minPercentage 0.3
+				maxPercentage 0.65
+			militiaColonizationPerc 0
+			planetGroupCount 1
+			planetGroup
+				minCount 1
+				maxCount 1
+				planetTypeCount 1
+				planetType "Wormhole"		
 dlcID 204880

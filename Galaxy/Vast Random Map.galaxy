@@ -42,7 +42,7 @@ randomizerParams
 		extraPlanetsRadiusRange
 			minPercentage 0.50000
 			maxPercentage 1.00000
-		extraPlanetGroupCount 3
+		extraPlanetGroupCount 4
 		extraPlanetGroup
 			minCount 1
 			maxCount 1
@@ -54,10 +54,15 @@ randomizerParams
 			planetTypeCount 1
 			planetType "Moon"
 		extraPlanetGroup
-			minCount 2
-			maxCount 2
+			minCount 1
+			maxCount 1
 			planetTypeCount 1
-			planetType "RandomIceVolcanic"
+			planetType "RandomCrystal"
+		extraPlanetGroup
+			minCount 1
+			maxCount 1
+			planetTypeCount 1
+			planetType "RandomMetal"
 	starCount 1
 	star
 		type "RandomStar"
@@ -71,7 +76,7 @@ randomizerParams
 				minPercentage 0.100000
 				maxPercentage 0.150000
 			militiaColonizationPerc 0.000000
-			planetGroupCount 2
+			planetGroupCount 3
 			planetGroup
 				minCount 1
 				maxCount 1
@@ -81,7 +86,12 @@ randomizerParams
 				minCount 1
 				maxCount 1
 				planetTypeCount 1
-				planetType "PirateBase"				
+				planetType "PirateBase"		
+			planetGroup
+				minCount 4
+				maxCount 4
+				planetTypeCount 1
+				planetType "WeightedRandom"					
 		ring
 			starRadiusRange
 				minPercentage 0.200000
@@ -89,8 +99,8 @@ randomizerParams
 			militiaColonizationPerc 0.000000
 			planetGroupCount 1
 			planetGroup
-				minCount 15
-				maxCount 15
+				minCount 13
+				maxCount 13
 				planetTypeCount 1
 				planetType "WeightedRandom"
 		ring
