@@ -27,8 +27,8 @@ pixelsPerGalaxyUnit 1
 useRandomGenerator TRUE
 randomizerParams
 	starPosOffsetRange
-		minPercentage 25.0
-		maxPercentage 35.0
+        minPercentage 10.0
+        maxPercentage 15.0
 	playerParams
 		startingCredits 3000
 		startingMetal 800
