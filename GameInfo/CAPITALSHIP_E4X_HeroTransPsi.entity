@@ -114,19 +114,19 @@ Weapon
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 1.000000
 	TravelSpeed 0.000000
-	Duration 2.500000
+	Duration 1.250000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Beam"
 		burstCount 1
 		burstDelay 0.000000
 		fireDelay 0.000000
-		muzzleEffectName "Weapon_PsiCapitalBeamMedium_Muzzle"
+		muzzleEffectName "Weapon_Psi_BeamFrigate_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 1
 			sound ""
-		hitEffectName "Weapon_PsiCapitalBeamMedium_Hit"
+		hitEffectName "Weapon_Psi_BeamFrigate_Hit"
 		hitHullEffectSounds
 			soundCount 1
 			sound ""
@@ -136,12 +136,12 @@ Weapon
 		beamEffectSounds
 			soundCount 1
 			sound "WEAPON_PSICAPITALBEAMMEDIUM_TRAVEL"
-		beamGlowTextureName "PsiCapitalBeam_Glow"
-		beamCoreTextureName "PsiCapitalBeam_Core"
-		beamWidth 20.000000
-		beamGlowColor ffffffff
-		beamCoreColor ffffffff
-		beamTilingRate 3.000000
+		beamGlowTextureName "AdventBeam_Glow"
+		beamCoreTextureName "AdventBeam_Core"
+		beamWidth 80.000000
+        beamGlowColor ffffffff
+        beamCoreColor ffffffff
+        beamTilingRate 0.650000
 Weapon
 	WeaponType "Projectile"
 	damageEnums

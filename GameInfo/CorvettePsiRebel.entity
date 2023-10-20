@@ -62,7 +62,7 @@ Weapon
 	SynchronizedTargeting FALSE
 	PointStaggerDelay 0.000000
 	TravelSpeed 0.000000
-	Duration 1.300000
+	Duration 1.250000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Beam"
@@ -84,12 +84,12 @@ Weapon
 		beamEffectSounds
 			soundCount 1
 			sound "WEAPON_PSICAPITALBEAMMEDIUM_TRAVEL"
-		beamGlowTextureName "PsiCapitalBeam_Glow"
-		beamCoreTextureName "PsiCapitalBeam_Core"
-		beamWidth 10.000000
-		beamGlowColor ffffffff
-		beamCoreColor ffffffff
-		beamTilingRate 3.000000
+		beamGlowTextureName "AdventBeam_Glow"
+		beamCoreTextureName "AdventBeam_Core"
+		beamWidth 80.000000
+        beamGlowColor ffffffff
+        beamCoreColor ffffffff
+        beamTilingRate 0.650000
 Weapon
 	WeaponType "Projectile"
 	damageEnums
