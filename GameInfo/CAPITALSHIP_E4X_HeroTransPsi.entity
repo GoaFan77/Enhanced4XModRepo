@@ -121,12 +121,12 @@ Weapon
 		burstCount 1
 		burstDelay 0.000000
 		fireDelay 0.000000
-		muzzleEffectName "Weapon_Psi_BeamFrigate_Muzzle"
+		muzzleEffectName "Weapon_PsiCapitalBeamMedium_Muzzle"
 		muzzleSoundMinRespawnTime 0.100000
 		muzzleSounds
 			soundCount 1
 			sound ""
-		hitEffectName "Weapon_Psi_BeamFrigate_Hit"
+		hitEffectName "Weapon_PsiCapitalBeamMedium_Hit"
 		hitHullEffectSounds
 			soundCount 1
 			sound ""
