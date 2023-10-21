@@ -101,7 +101,7 @@ Weapon
 	PreBuffCooldownTime 9.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting TRUE
-	PointStaggerDelay 0.500000
+	PointStaggerDelay 0.750000
 	TravelSpeed 0.000000
 	Duration 1.250000
 	fireConstraintType "CanAlwaysFire"
