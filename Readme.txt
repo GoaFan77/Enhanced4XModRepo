@@ -618,3 +618,4 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-XP granted from Sova Missile Turrets, Vulkoras Siege Turrets, and Rankulas Nanites removed to be more in line with warped in temporary ships.
 		-Scouts can no longer be stopped from destroying mines by taking damage.
 		-If a unit capturing a neutral object takes enough damage, the capture will now be interrupted.
+		-Bidirectional Jamming duration increased from 45 to 60 seconds. Can now only be applied once every 120 seconds.
