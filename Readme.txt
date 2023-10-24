@@ -601,6 +601,7 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Reduced the number of technologies required to unlock hero units.
 		-Reduced the number of Starbases that can be built at Stars to 2.
 		-Impenetrable Fortress Artifact Bonuses reduced, but now applies bonus to Tactical Structures as well. No longer gives Starbase build time bonus.
+		-Akkan's Ceasefire ability now disables construction of strikecraft, buildings, and starbases.
 		-Vasari Refinery is moved down a level to be unlocked at tier 2.
 		-Vasari Resource Extraction techs starting at tier 3 (all except the first 1) now give an extra 5% bonus to refinery income.
 		-Increased speed of Vasari Colony and Carrier capitalships from 450 to 500.
