@@ -28,7 +28,7 @@ planetResourceSetupInfo
 		maxCount 2
 		extractionRate 0.400000
 		refineryRate 0.060000
-		maxRefineryCount 0
+		maxRefineryCount 3
 	crystalResourceAsteroidSetup
 		minCount 4
 		maxCount 4
