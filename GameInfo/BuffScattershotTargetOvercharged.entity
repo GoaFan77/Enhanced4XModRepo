@@ -1,0 +1,60 @@
+﻿TXT2
+SinsArchiveVersion 194
+entityType "Buff"
+onReapplyDuplicateType "PrioritizeOldBuffs"
+buffStackingLimitType "ForAllPlayers"
+stackingLimit 1
+allowFirstSpawnerToStack FALSE
+buffExclusivityForAIType "ExclusiveForAllPlayers"
+isInterruptable FALSE
+isChannelling FALSE
+numInstantActions 2
+instantAction
+	buffInstantActionType "DoDamage"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	damage
+		Level:0 500.000000
+		Level:1 1000.000000
+		Level:2 1500.000000
+		Level:3 2000.000000
+	damageAffectType "AFFECTS_SHIELDS_AND_HULL"
+	damageType "PHYSICAL"
+	isDamageShared TRUE
+instantAction
+	buffInstantActionType "PlayAttachedEffect"
+	instantActionTriggerType "OnDelay"
+	delayTime 0.000000
+	effectInfo
+		effectAttachInfo
+			attachType "Center"
+		smallEffectName "TitanAbility_FragmentationScattershot_OVERCHARGE_Hit"
+		mediumEffectName "TitanAbility_FragmentationScattershot_OVERCHARGE_Hit"
+		largeEffectName "TitanAbility_FragmentationScattershot_OVERCHARGE_Hit"
+		soundID "WEAPONIMPACT_MISSILEHEAVY_HITGENERIC"
+numPeriodicActions 0
+numOverTimeActions 0
+numEntityModifiers 2
+entityModifier
+	buffEntityModifierType "ArmorAsDamageTarget"
+	value
+		Level:0 -5.000000
+		Level:1 -6.000000
+		Level:2 -7.000000
+		Level:3 -8.000000
+entityModifier
+	buffEntityModifierType "DamageAsDamageDealer"
+	value
+		Level:0 -0.100000
+		Level:1 -0.200000
+		Level:2 -0.300000
+		Level:3 -0.400000			
+numEntityBoolModifiers 0
+numFinishConditions 1
+finishCondition
+	finishConditionType "TimeElapsed"
+	time
+		Level:0 45.000000
+		Level:1 45.000000
+		Level:2 45.000000
+		Level:3 45.000000
