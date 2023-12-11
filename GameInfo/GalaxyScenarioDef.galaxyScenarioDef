@@ -4233,7 +4233,7 @@ planetItemsTemplate
 				param "DefaultTech"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 28
+			items 30
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4247,7 +4247,9 @@ planetItemsTemplate
 				item "Tech:Module:CrystalExtractor"
 				item "Tech:Module:CrystalExtractor"
 				item "Tech:Module:CrystalExtractor"
-				item "Tech:Module:CrystalExtractor"				
+				item "Tech:Module:CrystalExtractor"
+				item "Tech:Module:CrystalExtractor"					
+				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
@@ -4268,7 +4270,7 @@ planetItemsTemplate
 				param "DefaultPsi"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 25
+			items 27
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
 				item "Psi:Module:TradePort"
@@ -4281,6 +4283,8 @@ planetItemsTemplate
 				item "Psi:Module:CrystalExtractor"
 				item "Psi:Module:CrystalExtractor"
 				item "Psi:Module:CrystalExtractor"
+				item "Psi:Module:CrystalExtractor"
+				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
@@ -4300,7 +4304,7 @@ planetItemsTemplate
 				param "DefaultPhase"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 34
+			items 36
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
 				item "Phase:Module:TradePort"
@@ -4315,6 +4319,8 @@ planetItemsTemplate
 				item "Phase:Module:CrystalExtractor"
 				item "Phase:Module:CrystalExtractor"
 				item "Phase:Module:CrystalExtractor"
+				item "Phase:Module:CrystalExtractor"
+				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
@@ -4341,7 +4347,7 @@ planetItemsTemplate
 				param "TechMiners"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 34
+			items 36
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4356,6 +4362,8 @@ planetItemsTemplate
 				item "Tech:Module:CrystalExtractor"
 				item "Tech:Module:CrystalExtractor"
 				item "Tech:Module:CrystalExtractor"
+				item "Tech:Module:CrystalExtractor"
+				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
@@ -4382,7 +4390,7 @@ planetItemsTemplate
 				param "TechScrappers"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 31
+			items 33
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4396,6 +4404,8 @@ planetItemsTemplate
 				item "Tech:Module:CrystalExtractor"
 				item "Tech:Module:CrystalExtractor"
 				item "Tech:Module:CrystalExtractor"
+				item "Tech:Module:CrystalExtractor"
+				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
@@ -4420,7 +4430,7 @@ planetItemsTemplate
 				param "TechSiegeRaiders"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 36
+			items 38
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4436,6 +4446,8 @@ planetItemsTemplate
 				item "Tech:Module:CrystalExtractor"
 				item "Tech:Module:CrystalExtractor"
 				item "Tech:Module:CrystalExtractor"
+				item "Tech:Module:CrystalExtractor"
+				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
@@ -4463,7 +4475,7 @@ planetItemsTemplate
 				param "TechDemolitionists"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 33
+			items 35
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4477,6 +4489,8 @@ planetItemsTemplate
 				item "Tech:Module:CrystalExtractor"
 				item "Tech:Module:CrystalExtractor"
 				item "Tech:Module:CrystalExtractor"
+				item "Tech:Module:CrystalExtractor"
+				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
@@ -4503,7 +4517,7 @@ planetItemsTemplate
 				param "TechXenophobes"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 36
+			items 38
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4518,6 +4532,8 @@ planetItemsTemplate
 				item "Tech:Module:CrystalExtractor"
 				item "Tech:Module:CrystalExtractor"
 				item "Tech:Module:CrystalExtractor"
+				item "Tech:Module:CrystalExtractor"
+				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
@@ -4546,7 +4562,7 @@ planetItemsTemplate
 				param "TechDefensive"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 36
+			items 38
 				item "Tech:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
 				item "Tech:Module:TradePort"
@@ -4562,6 +4578,8 @@ planetItemsTemplate
 				item "Tech:Module:CrystalExtractor"
 				item "Tech:Module:CrystalExtractor"
 				item "Tech:Module:CrystalExtractor"
+				item "Tech:Module:CrystalExtractor"
+				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
@@ -4589,7 +4607,7 @@ planetItemsTemplate
 				param "TechUsedFrigates"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 34
+			items 36
 				item "Psi:Module:FrigateFactory"
 				item "Phase:Module:FrigateFactory"
 				item "Tech:Module:CapitalShipFactory"
@@ -4606,10 +4624,12 @@ planetItemsTemplate
 				item "Psi:Module:CrystalExtractor"
 				item "Tech:Module:CrystalExtractor"
 				item "Psi:Module:CrystalExtractor"
+				item "Phase:Module:CrystalExtractor"
 				item "Phase:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
+				item "Psi:Module:MetalExtractor"
 				item "Tech:Module:MetalExtractor"
 				item "Tech:CapitalShip:Carrier"
 				item "Tech:Frigate:Light"
@@ -4630,7 +4650,7 @@ planetItemsTemplate
 				param "PsiPacifists"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 29
+			items 31
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
 				item "Psi:Module:TradePort"
@@ -4644,6 +4664,8 @@ planetItemsTemplate
 				item "Psi:Module:CrystalExtractor"
 				item "Psi:Module:CrystalExtractor"
 				item "Psi:Module:CrystalExtractor"
+				item "Psi:Module:CrystalExtractor"
+				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
@@ -4666,7 +4688,7 @@ planetItemsTemplate
 				param "PsiCulture"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 33
+			items 35
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
 				item "Psi:Module:TradePort"
@@ -4680,6 +4702,8 @@ planetItemsTemplate
 				item "Psi:Module:CrystalExtractor"
 				item "Psi:Module:CrystalExtractor"
 				item "Psi:Module:CrystalExtractor"
+				item "Psi:Module:CrystalExtractor"
+				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
@@ -4706,7 +4730,7 @@ planetItemsTemplate
 				param "PsiDoomCult"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 30
+			items 32
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
 				item "Psi:Module:TradePort"
@@ -4719,6 +4743,8 @@ planetItemsTemplate
 				item "Psi:Module:CrystalExtractor"
 				item "Psi:Module:CrystalExtractor"
 				item "Psi:Module:CrystalExtractor"
+				item "Psi:Module:CrystalExtractor"
+				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
@@ -4743,7 +4769,7 @@ planetItemsTemplate
 				param "PsiSiegeRaiders"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 33
+			items 35
 				item "Psi:Module:FrigateFactory"
 				item "Psi:Module:CapitalShipFactory"
 				item "Psi:Module:TradePort"
@@ -4757,6 +4783,8 @@ planetItemsTemplate
 				item "Psi:Module:CrystalExtractor"
 				item "Psi:Module:CrystalExtractor"
 				item "Psi:Module:CrystalExtractor"
+				item "Psi:Module:CrystalExtractor"
+				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
 				item "Psi:Module:MetalExtractor"
@@ -4783,7 +4811,7 @@ planetItemsTemplate
 				param "PhaseTransporters"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 30
+			items 32
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
 				item "Phase:Module:TradePort"
@@ -4795,7 +4823,9 @@ planetItemsTemplate
 				item "Phase:Module:CrystalExtractor"
 				item "Phase:Module:CrystalExtractor"
 				item "Phase:Module:CrystalExtractor"
-				item "Phase:Module:CrystalExtractor"				
+				item "Phase:Module:CrystalExtractor"
+				item "Phase:Module:CrystalExtractor"					
+				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
@@ -4820,7 +4850,7 @@ planetItemsTemplate
 				param "PhaseExpedition"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 34
+			items 36
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
 				item "Phase:Module:TradePort"
@@ -4833,12 +4863,14 @@ planetItemsTemplate
 				item "Phase:Module:CrystalExtractor"
 				item "Phase:Module:CrystalExtractor"
 				item "Phase:Module:CrystalExtractor"
+				item "Phase:Module:CrystalExtractor"
 				item "Phase:Module:CrystalExtractor"				
 				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
-				item "Phase:Module:MetalExtractor"	
+				item "Phase:Module:MetalExtractor"
+				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:NonCombatLab"			
 				item "Phase:CapitalShip:Colony"
 				item "Phase:Frigate:Light"
@@ -4861,7 +4893,7 @@ planetItemsTemplate
 				param "PhaseArmsDealers"
 			owner "PlanetOwner"
 			colonizeChance 1
-			items 31
+			items 33
 				item "Phase:Module:FrigateFactory"
 				item "Phase:Module:CapitalShipFactory"
 				item "Phase:Module:TradePort"
@@ -4875,7 +4907,9 @@ planetItemsTemplate
 				item "Phase:Module:CrystalExtractor"
 				item "Phase:Module:CrystalExtractor"
 				item "Phase:Module:CrystalExtractor"
+				item "Phase:Module:CrystalExtractor"
 				item "Phase:Module:CrystalExtractor"				
+				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
 				item "Phase:Module:MetalExtractor"
