@@ -606,6 +606,8 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Vasari Refinery is moved down a level to be unlocked at tier 2.
 		-Vasari Resource Extraction techs starting at tier 3 (all except the first 1) now give an extra 5% bonus to refinery income.
 		-Increased speed of Vasari Colony and Carrier capitalships from 450 to 500.
+		-Ragnarov Titan's Scattershot Ability now has an additional -10/20/30/40% Damage Output debuff.
+		-Ragnarov Titan's Overcharged Explosive Shot now has the same knockback as the non-overcharged version (it was less for some reason).
 		-Kultorask Titan Nano Leech ability is now interruptable.
 		-Increased Admiral Dyrenov's Final Annihilation ability damage from 2200 to 5000.
 		-Improved Ragnarov Titan durability upgrades to give bonuses equal to the Ankylon Titan.
