@@ -169,9 +169,9 @@ possibleRandomPlanetBonusesCount 0
 ambienceSoundID ""
 renderAsVolcanic FALSE
 planetRuinDef
-	ruinPlanetType "PlanetDeadAsteroid"
+	ruinPlanetType "PlanetWormholeRE"
 	attachType "Center"
-	effectName "StripToTheCore_Planet_TerranHome"
+	effectName "Particle_E4X_Null"
 	startTime 9.000000
 	soundID ""
 	creditsOnStrippedToTheCore 0.000000
