@@ -614,7 +614,7 @@ musicThemeData
 	announcementCount 1
 	musicTheme "MUSIC_VASARI_ANNOUNCEMENT"
 hudSkinData
-	loadScreenCharacterBrush "LoadScreenCharacterPhase"
+	loadScreenCharacterBrush "LoadScreenCharacterVIR"
 	fleetIconCount 10
 	fleetIcon "MainViewIconFleetPhase0"
 	fleetIcon "MainViewIconFleetPhase1"

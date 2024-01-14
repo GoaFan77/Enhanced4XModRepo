@@ -609,7 +609,7 @@ musicThemeData
 	announcementCount 1
 	musicTheme "MUSIC_TEC_ANNOUNCEMENT"
 hudSkinData
-	loadScreenCharacterBrush "LoadScreenCharacterTech"
+	loadScreenCharacterBrush "LoadScreenCharacterHTS"
 	fleetIconCount 10
 	fleetIcon "MainViewIconFleetTech0"
 	fleetIcon "MainViewIconFleetTech1"

@@ -614,7 +614,7 @@ musicThemeData
 	announcementCount 1
 	musicTheme "MUSIC_ADVENT_ANNOUNCEMENT"
 hudSkinData
-	loadScreenCharacterBrush "LoadScreenCharacterPsi"
+	loadScreenCharacterBrush "LoadScreenCharacterOrthodox"
 	fleetIconCount 10
 	fleetIcon "MainViewIconFleetPsi0"
 	fleetIcon "MainViewIconFleetPsi1"

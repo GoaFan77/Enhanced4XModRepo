@@ -1,21 +1,36 @@
 ﻿TXT
 onlyLoadOnDemand TRUE
-brushCount 31
+brushCount 34
 brush
-	name "LoadScreenCharacterTech"
+	name "LoadScreenCharacterTEC"
 	content "Simple"
-	fileName "Startup_Loadscreen0"
-	pixelBox [ 1496 , 0 , 441 , 749 ]
+	fileName "LoadScreenCharacters"
+	pixelBox [ 0 , 819 , 441 , 749 ]
 brush
-	name "LoadScreenCharacterPsi"
+	name "LoadScreenCharacterOrthodox"
 	content "Simple"
-	fileName "Startup_Loadscreen0"
-	pixelBox [ 748 , 1059 , 441 , 749 ]
+	fileName "LoadScreenCharacters"
+	pixelBox [ 415 , 822 , 441 , 749 ]
 brush
-	name "LoadScreenCharacterPhase"
+	name "LoadScreenCharacterVCC"
 	content "Simple"
-	fileName "Startup_Loadscreen0"
-	pixelBox [ 1190 , 1059 , 441 , 749 ]
+	fileName "LoadScreenCharacters"
+	pixelBox [ 871 , 840 , 441 , 749 ]
+brush
+	name "LoadScreenCharacterHTS"
+	content "Simple"
+	fileName "LoadScreenCharacters"
+	pixelBox [ 0 , 27 , 441 , 749 ]
+brush
+	name "LoadScreenCharacterAscended"
+	content "Simple"
+	fileName "LoadScreenCharacters"
+	pixelBox [ 415 , 23 , 441 , 749 ]
+brush
+	name "LoadScreenCharacterVIR"
+	content "Simple"
+	fileName "LoadScreenCharacters"
+	pixelBox [ 857 , 42 , 441 , 749 ]
 brush
 	name "LoadScreenBarBackdrop"
 	content "Margins"
