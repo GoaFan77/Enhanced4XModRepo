@@ -1,5 +1,8 @@
 TXT
-NumStrings 8622
+NumStrings 8623
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_ARTIFACT_GALAXYTRAVEL_DESCRIPTION"
+	Value "A highly advanced jump drive discovered in crash wreckage. Nearly undamaged, its technology allows travel to distant star systems at greatly accelerated rates, reduces the size of your empire's Phase Drives (decreasing ship mass), and makes your ships immune to the effects of Phase Jump Inhibitors."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PACT_ENERGY_WEAPON_COOLDOWN_NAME"
 	Value "Munitions Pact"
