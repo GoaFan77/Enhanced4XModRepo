@@ -625,3 +625,6 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Scouts can no longer be stopped from destroying mines by taking damage.
 		-If a unit capturing a neutral object takes enough damage, the capture will now be interrupted.
 		-Bidirectional Jamming duration increased from 45 to 60 seconds. Can now only be applied once every 120 seconds.
+		
+1.89	-Kultorask Titan's Nano Leech can no longer be interrupted once again.
+		-It is no longer possible for the Mad Vasari to turn wormholes into Asteroids.
