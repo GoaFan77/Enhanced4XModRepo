@@ -626,7 +626,8 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-If a unit capturing a neutral object takes enough damage, the capture will now be interrupted.
 		-Bidirectional Jamming duration increased from 45 to 60 seconds. Can now only be applied once every 120 seconds.
 		
-1.89	-Advent Culture research now gives half the shield mitigation bonus, but now receives 10% shield regeneration in culture per level (3% mitigation, 60% shield regen bonus total)
+1.89	-Advent Culture research now gives half the shield mitigation bonus, but now receives 10% shield regeneration in culture per level (3% mitigation, 60% shield regen bonus total).
+		-Reduced Vasari Central Command innate salvaging bonus from 15% to 10%.
 		-Increased the amount of relation points earned from Give Resources and Send Envoy diplomatic missions.
 		-Kultorask Titan's Nano Leech can no longer be interrupted once again.
 		-It is no longer possible for the Mad Vasari to turn wormholes into Asteroids.

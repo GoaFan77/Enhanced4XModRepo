@@ -36,7 +36,7 @@ researchModifier
 	perLevelValue 0.000000
 researchModifier
 	modifierType "SalvageWreckagePercent"
-	baseValue 0.150000
+	baseValue 0.100000
 	perLevelValue 0.000000
 researchModifier
 	modifierType "ExtractionRateMetalAdjustment"
