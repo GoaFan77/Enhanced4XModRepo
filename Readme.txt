@@ -631,3 +631,4 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Increased the amount of relation points earned from Give Resources and Send Envoy diplomatic missions.
 		-Kultorask Titan's Nano Leech can no longer be interrupted once again.
 		-It is no longer possible for the Mad Vasari to turn wormholes into Asteroids.
+		-Changed cost of TEC/Vasari Trade Port cost from 900/175/150 to 450/275/250.
