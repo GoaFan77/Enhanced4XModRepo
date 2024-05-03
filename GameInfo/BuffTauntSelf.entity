@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeOldBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -75,7 +76,9 @@ entityModifier
 		Level:2 -0.300000
 		Level:3 -0.400000
 numEntityBoolModifiers 0
-numFinishConditions 1
+numFinishConditions 2
+finishCondition
+	finishConditionType "OwnerChanged"
 finishCondition
 	finishConditionType "TimeElapsed"
 	time

@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -16,7 +17,12 @@ numPeriodicActions 0
 numOverTimeActions 0
 numEntityModifiers 0
 numEntityBoolModifiers 0
-numFinishConditions 1
+numFinishConditions 3
+finishCondition
+	finishConditionType "OwnerChanged"
+finishCondition
+	finishConditionType "LastSpawnerNoLongerHasBuff"
+	buffTypeToQuery "Buff_E4X_FrenzySelf"
 finishCondition
 	finishConditionType "TimeElapsed"
 	time
