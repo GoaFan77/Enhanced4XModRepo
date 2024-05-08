@@ -34,7 +34,7 @@ ParticleSimulation
 		RotateAboutForward 0.000000
 		RotateAboutUp 0.000000
 		RotateAboutCross 0.000000
-		StartTime 0.000000
+		StartTime 0.300000
 		HasInfiniteLifeTime FALSE
 		TotalLifeTime 4.000000
 		BillboardAnchor 0
@@ -82,7 +82,7 @@ ParticleSimulation
 		RotateAboutForward 0.000000
 		RotateAboutUp 0.000000
 		RotateAboutCross 0.000000
-		StartTime 0.000000
+		StartTime 0.300000
 		HasInfiniteLifeTime FALSE
 		TotalLifeTime 4.000000
 		BillboardAnchor 0
@@ -104,15 +104,15 @@ ParticleSimulation
 	EmitterContents
 		Name "sparks"
 		Enabled TRUE
-		EmitRate 5.000000
+		EmitRate 10.000000
 		HasInfiniteEmitCount TRUE
 		MaxEmitCount 1
 		hasEmitIntervals FALSE
 		emitIntervalRunDuration 0.000000
 		emitIntervalWaitDuration 0.000000
-		ParticleLifeTime 0.500000
+		ParticleLifeTime 1.000000
 		ParticleMinStartLinearSpeed 150.000000
-		ParticleMaxStartLinearSpeed 450.000000
+		ParticleMaxStartLinearSpeed 800.000000
 		ParticleMinStartAngularSpeed 0.000000
 		ParticleMaxStartAngularSpeed 0.000000
 		ParticleMinStartRotation 0.000000
@@ -130,9 +130,9 @@ ParticleSimulation
 		RotateAboutForward 0.000000
 		RotateAboutUp 0.000000
 		RotateAboutCross 0.000000
-		StartTime 0.000000
+		StartTime 0.300000
 		HasInfiniteLifeTime FALSE
-		TotalLifeTime 1.250000
+		TotalLifeTime 1.000000
 		BillboardAnchor 0
 		ParticleFacing 0
 		PipelineEffectID "Particle_Additive.fx"
@@ -190,9 +190,9 @@ ParticleSimulation
 		RotateAboutForward 0.000000
 		RotateAboutUp 0.000000
 		RotateAboutCross 0.000000
-		StartTime 0.000000
+		StartTime 0.300000
 		HasInfiniteLifeTime FALSE
-		TotalLifeTime 1.250000
+		TotalLifeTime 1.000000
 		BillboardAnchor 0
 		ParticleFacing 1
 		PipelineEffectID "Particle_Additive.fx"
@@ -250,9 +250,9 @@ ParticleSimulation
 		RotateAboutForward 0.000000
 		RotateAboutUp 0.000000
 		RotateAboutCross 0.000000
-		StartTime 0.000000
+		StartTime 0.300000
 		HasInfiniteLifeTime FALSE
-		TotalLifeTime 1.250000
+		TotalLifeTime 1.000000
 		BillboardAnchor 0
 		ParticleFacing 0
 		PipelineEffectID "Particle_Additive.fx"
