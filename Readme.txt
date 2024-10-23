@@ -633,3 +633,6 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-It is no longer possible for the Mad Vasari to turn wormholes into Asteroids.
 		-Changed cost of TEC/Vasari Trade Port cost from 900/175/150 to 450/275/250.
 		-Fixed some rare crash conditions suggested by Psychoak.
+		
+1.882	-Reduced Advent Embassy HP/Shield to 600/600 as it was far tankier than other embassies due to shield mitigation.
+		-Slightly increased Vasari Embassy Hull Restoration.
