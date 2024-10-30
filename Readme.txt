@@ -636,3 +636,4 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		
 1.882	-Reduced Advent Embassy HP/Shield to 600/600 as it was far tankier than other embassies due to shield mitigation.
 		-Slightly increased Vasari Embassy Hull Restoration.
+		-Increased passive extra TEC Hull per armor from 15 to 20, increased maximum from 150 to 300.

@@ -44,11 +44,11 @@ researchModifier
 	perLevelValue 0.000000
 researchModifier
 	modifierType "HullPointsMaxBonusPerArmorPoint"
-	baseValue 15.00000
+	baseValue 20.00000
 	perLevelValue 0.000000
 researchModifier
 	modifierType "HullPointsMaxBonusPerArmorPointMax"
-	baseValue 150.000000
+	baseValue 300.000000
 	perLevelValue 0.000000
 researchModifier
 	modifierType "PlanetUpgradeCostAdjustment"
