@@ -638,3 +638,5 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Slightly increased Vasari Embassy Hull Restoration.
 		-Increased passive extra TEC Hull per armor from 15 to 20, increased maximum from 150 to 300.
 		-Increased TEC Armor techs bonus from 0.75 armor to 1.0 armor, except the final level which was increased to 1.5.
+		-Corsev's Elite Crew ability now gives a Hull Restoration buff (bonus healing) instead of a Shield Regeneration buff. Slightly reduced speed buff.
+		-TEC Cluster Warheads ability on Sova Missile turrets now gains additional damage, duration, and radius after research the final TEC Missile damage technology.
