@@ -641,3 +641,4 @@ v1.2	- Many adjustments to ship abilities, most are just stat changes, but new e
 		-Corsev's Elite Crew ability now gives a Hull Restoration buff (bonus healing) instead of a Shield Regeneration buff. Slightly reduced speed buff.
 		-TEC Cluster Warheads ability on Sova Missile turrets now gains additional damage, duration, and radius after research the final TEC Missile damage technology.
 		-Increase Hoshiko's Demolition Bots cooldown from 15 to 20 seconds.
+		-Fixed a bug with vanilla map Hyperion's Gate that prevented the Terran planets next to the Stars from being militia owned worlds.

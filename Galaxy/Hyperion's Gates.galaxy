@@ -720,7 +720,7 @@ star
 		inGameName "IDS_PLANETNAME_295"
 		type "Terran"
 		pos [ 233 , 220 ]
-	owner ""
+		owner "RandomEncounterTEC"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
 		normalStartUpgradeLevelForCivilianModules 0
@@ -740,7 +740,7 @@ star
 				condition
 					type "Always"
 					param ""
-				owner "PlanetOwner"
+				owner "RandomEncounterTEC"
 				colonizeChance 0.000000
 				items 39
 				item "Tech:Module:GaussDefense"
@@ -783,7 +783,7 @@ star
 				item "Tech:Frigate:Light"
 				item "Tech:Frigate:Light"
 		spawnProbability 1.000000
-		useDefaultTemplate TRUE
+		useDefaultTemplate FALSE
 		entityCount 0
 		asteroidCount 0
 	planet
@@ -1206,7 +1206,7 @@ star
 		inGameName "IDS_PLANETNAME_296"
 		type "Terran"
 		pos [ 525 , 130 ]
-	owner ""
+		owner "RandomEncounterTEC"
 		isHomePlanet FALSE
 		normalStartUpgradeLevelForPopulation 0
 		normalStartUpgradeLevelForCivilianModules 0
@@ -1226,7 +1226,7 @@ star
 				condition
 					type "Always"
 					param ""
-				owner "PlanetOwner"
+				owner "RandomEncounterTEC"
 				colonizeChance 0.000000
 				items 39
 				item "Tech:Module:GaussDefense"
@@ -1269,7 +1269,7 @@ star
 				item "Tech:Frigate:LongRange"
 				item "Tech:CapitalShip:BattleShip"
 		spawnProbability 1.000000
-		useDefaultTemplate TRUE
+		useDefaultTemplate FALSE
 		entityCount 0
 		asteroidCount 0
 	planet
