@@ -1585,7 +1585,7 @@ orbitBodyType
 	typeName "CyberFortress"
 	entityDefName "Planet_E4X_CyberFortress"
 	defaultTemplateName "Template:CyberFortress"	
-planetItemTypeCount 363
+planetItemTypeCount 364
 planetItemType
 	designName "Phase:Module:MineExplosive"
 	entityDefName "SpaceMinePhaseExplosive"
@@ -2668,7 +2668,10 @@ planetItemType
 	entityDefName "SpaceMine_E4X_TECPlanetDefensesFlag"
 planetItemType
 	designName "Other:Flag:RevealMapFlag"
-	entityDefName "SpaceMine_E4X_RevealMapFlag"		
+	entityDefName "SpaceMine_E4X_RevealMapFlag"
+planetItemType
+	designName "Other:Flag:MaxPopFlag"
+	entityDefName "SpaceMine_E4X_MaxPopFlag"			
 planetItemType
 	designName "Other:Starbase:NeutralTradeStation"
 	entityDefName "StarBase_E4X_NeutralTradeStation"
