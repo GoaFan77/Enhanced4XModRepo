@@ -431,7 +431,7 @@ skyboxScalars
 	diffuseScalar 1.000000
 	ambientScalar 0.250000
 requiredPlanetBonusesCount 0
-possibleRandomPlanetBonusesCount 86
+possibleRandomPlanetBonusesCount 87
 bonus "PlanetBonusAcidAtmosphere"
 bonus "PlanetBonusCavernSystem"
 bonus "PlanetBonusConductiveInterior"
@@ -468,6 +468,7 @@ bonus "PlanetBonus_E4X_Shield2"
 bonus "PlanetBonus_E4X_SmugglerBase"
 bonus "PlanetBonus_E4X_VolcanicStablePower"
 bonus "PlanetBonus_E4X_VolcanicStablePower"
+bonus "PlanetBonus_E4X_MajorShipyard"
 bonus "Axeldude_PLANETBONUS_DepositBeryllium"
 bonus "Axeldude_PLANETBONUS_DepositCobalt"
 bonus "Axeldude_PLANETBONUS_DepositCopper"

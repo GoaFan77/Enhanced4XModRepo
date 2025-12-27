@@ -438,7 +438,7 @@ skyboxScalars
 	ambientScalar 0.250000
 requiredPlanetBonusesCount 1
 bonus "PlanetBonus_E4X_IndustrialPlanet"
-possibleRandomPlanetBonusesCount 72
+possibleRandomPlanetBonusesCount 73
 bonus "PlanetBonus_E4X_Black"
 bonus "PlanetBonus_E4X_Comm"
 bonus "PlanetBonus_E4X_Comm"
@@ -455,6 +455,7 @@ bonus "PlanetBonus_E4X_UnderGColony"
 bonus "PlanetBonus_E4X_IndustrialUnderCity"
 bonus "PlanetBonus_REQ_ThickAtmos"
 bonus "PlanetBonus_E4X_Rodent"
+bonus "PlanetBonus_E4X_MajorShipyard"
 bonus "PlanetBonusAbandonedNaniteFactory"
 bonus "PlanetBonusAbandonedNaniteFactory"
 bonus "PlanetBonusAcidAtmosphere"

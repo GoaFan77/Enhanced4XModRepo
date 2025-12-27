@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2794
+entityNameCount 2795
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityAdaptiveShield.entity"
 entityName "AbilityAntiMatterDetonate.entity"
@@ -2794,3 +2794,4 @@ entityName "Ability_E4X_MaxPopFlag.entity"
 entityName "Buff_E4X_MaxPopFlagPlanet.entity"
 entityName "Buff_E4X_MaxPopFlagSelf.entity"
 entityName "SpaceMine_E4X_MaxPopFlag.entity"
+entityName "PlanetBonus_E4X_MajorShipyard.entity"

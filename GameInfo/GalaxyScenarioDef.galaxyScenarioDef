@@ -1585,7 +1585,7 @@ orbitBodyType
 	typeName "CyberFortress"
 	entityDefName "Planet_E4X_CyberFortress"
 	defaultTemplateName "Template:CyberFortress"	
-planetItemTypeCount 364
+planetItemTypeCount 365
 planetItemType
 	designName "Phase:Module:MineExplosive"
 	entityDefName "SpaceMinePhaseExplosive"
@@ -2386,7 +2386,10 @@ planetItemType
 	entityDefName "PlanetBonus_E4X_Shield2"	
 planetItemType
 	designName "Bonus:SmugglerBase"
-	entityDefName "PlanetBonus_E4X_SmugglerBase"	
+	entityDefName "PlanetBonus_E4X_SmugglerBase"
+planetItemType
+	designName "Bonus:MajorShipyard"
+	entityDefName "PlanetBonus_E4X_MajorShipyard"		
 planetItemType
 	designName "Bonus:SwampSuperAlgae"
 	entityDefName "PlanetBonus_E4X_SwampSuperAlgae"	

@@ -408,7 +408,7 @@ skyboxScalars
 	ambientScalar 0.200000
 requiredPlanetBonusesCount 1
 bonus "PlanetBonus_E4X_CarbonCompounds"
-possibleRandomPlanetBonusesCount 107
+possibleRandomPlanetBonusesCount 108
 bonus "PlanetBonus_E4X_Black"
 bonus "PlanetBonus_E4X_Comm"
 bonus "PlanetBonus_E4X_ConstructO"
@@ -426,6 +426,7 @@ bonus "PlanetBonus_E4X_Shield1"
 bonus "PlanetBonus_E4X_Shield2"
 bonus "PlanetBonus_E4X_SmugglerBase"
 bonus "PlanetBonus_E4X_UnderGColony"
+bonus "PlanetBonus_E4X_MajorShipyard"
 bonus "PlanetBonusAbandonedNaniteFactory"
 bonus "PlanetBonusAblativeCrust"
 bonus "PlanetBonusAcidAtmosphere"

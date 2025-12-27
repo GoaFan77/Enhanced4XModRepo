@@ -1,5 +1,11 @@
 TXT
-NumStrings 8623
+NumStrings 8625
+StringInfo
+	ID "IDS_PlanetBonus_E4X_MajorShipyard_NAME"
+	Value "Major Shipyard"
+StringInfo
+	ID "IDS_PlanetBonus_E4X_MajorShipyard_DESC"
+	Value "This planet is one of the major shipbuilding centers of the galaxy, with infrustructure for many large ship factories. Decreases ship and build build costs and increases civilian and tactical slots."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ARTIFACT_GALAXYTRAVEL_DESCRIPTION"
 	Value "A highly advanced jump drive discovered in crash wreckage. Nearly undamaged, its technology allows travel to distant star systems at greatly accelerated rates, reduces the size of your empire's Phase Drives (decreasing ship mass), and makes your ships immune to the effects of Phase Jump Inhibitors."
