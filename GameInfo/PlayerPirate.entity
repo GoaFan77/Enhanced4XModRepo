@@ -380,7 +380,7 @@ musicThemeData
 	announcementCount 1
 	musicTheme "MUSIC_PIRATE_ANNOUNCEMENT"
 hudSkinData
-	loadScreenCharacterBrush "LoadScreenCharacterTech"
+	loadScreenCharacterBrush "LoadScreenCharacterTEC"
 	fleetIconCount 10
 	fleetIcon "MainViewIconFleetTech0"
 	fleetIcon "MainViewIconFleetTech1"
