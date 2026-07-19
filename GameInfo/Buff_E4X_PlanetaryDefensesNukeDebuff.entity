@@ -1,4 +1,5 @@
-﻿TXT
+﻿TXT2
+SinsArchiveVersion 194
 entityType "Buff"
 onReapplyDuplicateType "PrioritizeNewBuffs"
 buffStackingLimitType "ForAllPlayers"
@@ -13,10 +14,10 @@ instantAction
 	instantActionTriggerType "OnDelay"
 	delayTime 0.000000
 	damage
-	Level:0 550.000000
-	Level:1 550.000000
-	Level:2 550.000000
-	Level:3 550.000000
+		Level:0 550.000000
+		Level:1 550.000000
+		Level:2 550.000000
+		Level:3 550.000000
 	damageAffectType "AFFECTS_SHIELDS_AND_HULL"
 	damageType "PHYSICAL"
 	isDamageShared FALSE
@@ -38,7 +39,9 @@ entityModifier
 		Level:2 -0.250000
 		Level:3 -0.250000
 numEntityBoolModifiers 0
-numFinishConditions 1
+numFinishConditions 2
+finishCondition
+	finishConditionType "OwnerChanged"
 finishCondition
 	finishConditionType "TimeElapsed"
 	time
